@@ -76,7 +76,51 @@ If the user selects a service that is not yet supported, let them know it's not 
 
 #### Apple Music
 
-Use the Apple Music MCP tools to connect to the user's account. The connection requires the MCP server to be configured.
+Use the Apple Music MCP tools to connect to the user's account. The connection requires the `epheterson/mcp-applemusic` MCP server to be configured with API access.
+
+##### Prerequisites
+
+Before using this skill, the user must complete the following one-time setup:
+
+1. **Get a MusicKit key** from the [Apple Developer Portal → Keys](https://developer.apple.com/account/resources/authkeys/list):
+   - Click **+** to create a new key
+   - Name it anything, check **MusicKit**, click Continue → Register
+   - **Download the `.p8` file** (this is a one-time download — save it carefully)
+   - Note the **Key ID** (10 characters) and **Team ID** (from [Membership](https://developer.apple.com/account/#!/membership))
+
+2. **Install and configure the MCP server**:
+   ```bash
+   git clone https://github.com/epheterson/mcp-applemusic.git
+   cd mcp-applemusic
+   python3 -m venv venv && source venv/bin/activate
+   pip install -e .
+   ```
+
+3. **Place the key and create config**:
+   ```bash
+   mkdir -p ~/.config/applemusic-mcp
+   cp ~/Downloads/AuthKey_XXXXXXXXXX.p8 ~/.config/applemusic-mcp/
+   ```
+
+   Create `~/.config/applemusic-mcp/config.json`:
+   ```json
+   {
+     "team_id": "YOUR_TEAM_ID",
+     "key_id": "YOUR_KEY_ID",
+     "private_key_path": "~/.config/applemusic-mcp/AuthKey_XXXXXXXXXX.p8"
+   }
+   ```
+
+4. **Generate tokens and authorize**:
+   ```bash
+   applemusic-mcp generate-token   # Creates developer token (valid 180 days)
+   applemusic-mcp authorize        # Opens browser for Apple Music user authorization
+   applemusic-mcp status           # Verify everything is connected
+   ```
+
+If the user has not completed this setup, walk them through these steps before proceeding.
+
+##### Verify Connection
 
 **Verify the connection by listing the user's existing playlists:**
 
@@ -148,7 +192,9 @@ Let the user know their playlist is ready to enjoy. 🎶
 - Show the complete playlist after each round of changes, not just the diffs
 
 ### Error Handling
-- If the Apple Music MCP tools are not available, inform the user that the streaming service connection requires the Apple Music MCP server to be configured
+- If the Apple Music MCP tools are not available, inform the user that the streaming service connection requires the `epheterson/mcp-applemusic` MCP server to be installed and configured (see Phase 6 prerequisites)
+- If authentication fails (401 Unauthorized), instruct the user to run `applemusic-mcp authorize` to refresh their user token
+- If the developer token has expired (valid for 180 days), instruct the user to run `applemusic-mcp generate-token` to create a new one
 - If a track cannot be found in Apple Music, note the song title and artist that couldn't be matched, and continue with the rest
 - If playlist creation fails, provide the error details and suggest troubleshooting steps
 - If the connection to Apple Music cannot be established, present the finalized playlist as a text list the user can manually recreate
