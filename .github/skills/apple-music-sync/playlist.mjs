@@ -432,7 +432,23 @@ async function navigateToPlaylistPage(page, playlistName) {
 
   await playlistLink.click();
   await waitFor(page.locator('.songs-list-row').first(), { timeout: 10000 });
-  return await page.locator('.songs-list-row').count();
+
+  // Scroll to load all rows — Apple Music uses virtual scrolling and only
+  // renders ~100 rows initially. mouse.wheel triggers the virtual scroller;
+  // window.scrollTo does not. Only scroll when we hit the threshold.
+  let count = await page.locator('.songs-list-row').count();
+  if (count >= 100) {
+    let stable = 0;
+    while (stable < 3) {
+      await page.mouse.wheel(0, 5000);
+      await setTimeout(1000);
+      const newCount = await page.locator('.songs-list-row').count();
+      stable = newCount === count ? stable + 1 : 0;
+      count = newCount;
+    }
+  }
+
+  return count;
 }
 
 // Reorder tracks on a managed playlist to match the desired order.
