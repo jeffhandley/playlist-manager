@@ -16,7 +16,7 @@ import { parsePlaylistMarkdown } from "./parser.mjs";
 import {
   managedName, createPlaylist, deletePlaylist,
   addTrackToPlaylist, addTrackWithRetry, addTrackToLibrary,
-  readPlaylistTracks, reorderPlaylist,
+  readPlaylistTracks, reorderPlaylist, updatePlaylistDescription,
 } from "./playlist.mjs";
 
 async function main() {
@@ -39,7 +39,7 @@ async function main() {
     process.exit(1);
   }
 
-  const { name: rawPlaylistName, tracks } = parsePlaylistMarkdown(filePath);
+  const { name: rawPlaylistName, description, tracks } = parsePlaylistMarkdown(filePath);
 
   if (!rawPlaylistName) {
     console.error("Error: Could not find playlist name (# heading) in the markdown file.");
@@ -77,7 +77,7 @@ async function main() {
   if (libraryOnly) {
     await syncLibraryOnly(page, tracks);
   } else {
-    await syncPlaylist(page, tracks, playlistName, deleteFirst);
+    await syncPlaylist(page, tracks, playlistName, deleteFirst, description);
   }
 
   console.log("\nBrowser will close in 5 seconds...");
@@ -116,7 +116,7 @@ async function syncLibraryOnly(page, tracks) {
   }
 }
 
-async function syncPlaylist(page, tracks, playlistName, deleteFirst) {
+async function syncPlaylist(page, tracks, playlistName, deleteFirst, description) {
   if (deleteFirst) {
     await deletePlaylist(page, playlistName);
   }
@@ -124,21 +124,24 @@ async function syncPlaylist(page, tracks, playlistName, deleteFirst) {
   let playlistCreated = false;
   const onCreatePlaylist = (p) => {
     playlistCreated = true;
-    return createPlaylist(p, playlistName);
+    return createPlaylist(p, playlistName, { description });
   };
 
   // Read initial playlist state for baseline verification
   const initialTracks = await readPlaylistTracks(page, playlistName);
   let added = initialTracks ? initialTracks.length : 0;
-  const startFrom = added; // Skip tracks already synced
+  let startIndex = 0;
 
-  if (added > 0) {
-    console.log(`Playlist already has ${added} track(s). Resuming from track ${added + 1}...\n`);
+  if (added > 0 && added < tracks.length) {
+    startIndex = added;
+    console.log(`Playlist already has ${added} track(s). Resuming from track ${startIndex + 1}...\n`);
+  } else if (added > 0) {
+    console.log(`Playlist already has ${added} track(s). Resuming...\n`);
   }
 
   const failed = [];
 
-  for (let i = startFrom; i < tracks.length; i++) {
+  for (let i = startIndex; i < tracks.length; i++) {
     const track = tracks[i];
     const progress = `[${i + 1}/${tracks.length}]`;
 
@@ -176,6 +179,11 @@ async function syncPlaylist(page, tracks, playlistName, deleteFirst) {
     console.log(`\n${failed.length} track(s) could not be added:`);
     for (const t of failed) console.log(`  • ${t}`);
     console.log("\nYou may need to add these manually in Apple Music.");
+  }
+
+  // Update the playlist description if one is provided and the playlist already existed
+  if (description && !playlistCreated) {
+    await updatePlaylistDescription(page, playlistName, description);
   }
 }
 

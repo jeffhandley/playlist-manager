@@ -8,6 +8,17 @@ export function parsePlaylistMarkdown(filePath) {
   const nameMatch = content.match(/^# (.+)$/m);
   const name = nameMatch ? nameMatch[1].trim() : null;
 
+  // Extract description: first non-empty paragraph after the heading,
+  // stopping at the next heading or markdown table/section marker.
+  let description = null;
+  if (nameMatch) {
+    const afterHeading = content.slice(nameMatch.index + nameMatch[0].length);
+    const descMatch = afterHeading.match(/^\s*\n+([^\n#|].+?)(?:\n\n|\n#|\n\|)/s);
+    if (descMatch) {
+      description = descMatch[1].trim();
+    }
+  }
+
   // Parse footnote-style link references: [N]: https://...
   const linkRefs = {};
   for (const line of content.split("\n")) {
@@ -44,5 +55,5 @@ export function parsePlaylistMarkdown(filePath) {
     }
   }
 
-  return { name, tracks };
+  return { name, description, tracks };
 }
