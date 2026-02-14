@@ -70,72 +70,72 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | 32 | [Cars (Remix)][32] | Fear Factory | Obsolete | 1998 | Industrial metal with Numan guest vocals |
 | 33 | [Whiskey in the Jar][33] | Thin Lizzy | Vagabonds of the Western World | 1973 | 70s rock classic |
 | 34 | [Whiskey In the Jar][34] | Metallica | Garage Inc. | 1998 | Metal anthem |
-| 35 | [It's a Sin][35] | Pet Shop Boys | Actually: Further Listening 1987-1988 (Deluxe) [2018 Remaster] | 1987 | 80s synthpop classic |
-| 36 | [It's A Sin][36] | Ghost | It's A Sin - Single | 2026 | Theatrical heavy metal |
-| 37 | [Summer Breeze][37] | Seals & Crofts | Summer Breeze | 1972 | Breezy 70s folk rock |
-| 38 | [Summer Breeze][38] | Type O Negative | Bloody Kisses | 1993 | Gothic doom-metal transformation |
-| 39 | [Get Down, Make Love][39] | Queen | News of the World | 1977 | 70s rock deep cut |
-| 40 | [Get Down, Make Love][40] | Nine Inch Nails | Pretty Hate Machine (Remastered) | 1989 | Abrasive industrial reimagining |
-| 41 | [Blue Monday][41] | New Order | Total | 1983 | 80s synthpop landmark |
-| 42 | [Blue Monday][42] | Orgy | Candyass | 1998 | Industrial/glam metal crunch |
-| 43 | [Lay, Lady, Lay][43] | Bob Dylan | Nashville Skyline | 1969 | 70s folk classic |
-| 44 | [Lay Lady Lay][44] | Ministry | Filth Pig | 1995 | Industrial powerhouse remake |
-| 45 | [Gone Away][45] | The Offspring | Ixnay on the Hombre | 1997 | 90s punk rock ballad |
-| 46 | [Gone Away][46] | Five Finger Death Punch | And Justice for None (Deluxe) | 2017 | Heavy melancholic metal |
-| 47 | [Careless Whisper][49] | George Michael | Ladies & Gentlemen | 1984 | 80s pop sax classic |
-| 48 | [Careless Whisper][50] | Seether | Finding Beauty In Negative Spaces (Bonus Track Version) | 2007 | Post-grunge guitar rework |
-| 49 | [Turn the Page (Live In Detroit/1975)][47] | Bob Seger & The Silver Bullet Band | 'Live' Bullet | 1973 | Mellow 70s rock ballad |
-| 50 | [Turn the Page][48] | Metallica | Garage Inc. | 1998 | Dark, crunching metal version |
-| 51 | [Hurt][51] | Nine Inch Nails | The Downward Spiral | 1994 | Raw industrial original |
-| 52 | [Hurt][52] | Johnny Cash | American IV: The Man Comes Around | 2002 | Devastating stripped-down country reimagining |
-| 53 | [You Spin Me Round (Like a Record)][53] | Dead or Alive | Rip It Up | 1984 | 80s Hi-NRG dance hit |
-| 54 | [You Spin Me Round (Like a Record)][54] | 3TEETH | Guns Akimbo - Single | 2020 | Thumping industrial metal |
-| 55 | [Enjoy the Silence][55] | Depeche Mode | Violator (Deluxe) | 1990 | 80s/90s synthpop masterpiece |
-| 56 | [Enjoy the Silence][56] | Lacuna Coil | Karmacode | 2006 | Gothic metal reimagining |
-| 57 | [Wicked Game][57] | Chris Isaak | Heart Shaped World | 1989 | Sultry 80s rock ballad |
-| 58 | [Wicked Game][58] | HIM | Greatest Lovesongs Vol. 666 (Deluxe Versions) [Remastered] | 1997 | Dark love-metal transformation |
-| 59 | [Word Up!][59] | Cameo | Word Up! | 1986 | 80s funk-pop smash |
-| 60 | [Word Up!][60] | Korn | Greatest Hits, Vol. 1 | 2004 | Groovy nu-metal rework |
-| 61 | [Message In a Bottle][61] | The Police | The Very Best of Sting & The Police | 1979 | 70s new wave rock classic |
-| 62 | [Message In a Bottle][62] | Machine Head | The Burning Red | 1999 | Aggressive metal overhaul |
-| 63 | [Rasputin][63] | Boney M. | The Essential Boney M. | 1978 | 70s disco classic |
-| 64 | [Rasputin][64] | Turisas | Rasputin - Single | 2007 | High-octane folk-metal frenzy |
-| 65 | [Da Ya Think I'm Sexy?][65] | Rod Stewart | Blondes Have More Fun | 1978 | 70s disco-rock hit |
-| 66 | [Da Ya Think I'm Sexy?][66] | Revolting Cocks | Linger Ficken' Good... and Other Barnyard Oddities | 1993 | Brash industrial rework |
-| 67 | [Tainted Love][67] | Soft Cell | Tainted Love / Where Did Our Love Go - Single | 1981 | 80s synthpop smash |
-| 68 | [Tainted Love][68] | Marilyn Manson | Lest We Forget: The Best of Marilyn Manson | 2003 | Grinding industrial menace |
-| 69 | [Shock the Monkey][69] | Peter Gabriel | Peter Gabriel 4: Security (Remastered) | 1982 | 80s art-rock classic |
-| 70 | [Shock the Monkey][70] | Coal Chamber | Chamber Music | 1999 | Nu-metal chaos with Ozzy guest vocals |
-| 71 | [No Ordinary Love][71] | Sade | Love Deluxe | 1992 | Sultry 90s R&B ballad |
-| 72 | [No Ordinary Love][72] | Deftones | Covers | 2005 | Dark, heavy alt-metal reimagining |
-| 73 | [Ride Like the Wind (2019 Remaster)][73] | Christopher Cross | Christopher Cross (2019 Remaster) | 1979 | 70s/80s yacht-rock hit |
-| 74 | [Ride Like the Wind][74] | Saxon | Destiny | 1988 | NWOBHM powerhouse |
-| 75 | [The Metro][75] | Berlin | Pleasure Victim | 1981 | 80s new wave classic |
-| 76 | [The Metro][76] | System Of A Down | Not Another Teen Movie (Music from the Motion Picture) | 2001 | Aggressive alt-metal overhaul |
-| 77 | [Dead Souls][77] | Joy Division | Substance 1977-1980 | 1980 | Post-punk original |
-| 78 | [Dead Souls][78] | Nine Inch Nails | The Crow (Original Motion Picture Soundtrack) | 1994 | Raging industrial reimagining |
-| 79 | [Gimme! Gimme! Gimme! (A Man After Midnight)][79] | ABBA | ABBA Gold: Greatest Hits | 1979 | 70s disco-pop anthem |
-| 80 | [Gimme! Gimme! Gimme!][80] | Feuerschwanz | Todsünden | 2022 | Folk-metal headbanger |
-| 81 | [Holy Diver][81] | Dio | Holy Diver | 1983 | 80s metal anthem |
-| 82 | [Holy Diver][82] | Killswitch Engage | As Daylight Dies (Special Edition) | 2006 | Metalcore powerhouse |
-| 83 | [We're An American Band (Remastered 2002)][83] | Grand Funk Railroad | We're An American Band (Expanded Edition / Remastered 2002) | 1973 | 70s rock anthem |
-| 84 | [We're an American Band][84] | Rob Zombie | Venomous Rat Regeneration Vendor | 2013 | Gritty industrial metal |
-| 85 | [The Green Manalishi (With the Two Prong Crown) (Remastered)][85] | Fleetwood Mac | 50 Years - Don't Stop | 1970 | 70s blues-rock deep cut |
-| 86 | [The Green Manalishi (With the Two-Pronged Crown)][86] | Judas Priest | Hell Bent for Leather (Bonus Track Version) | 1978 | NWOBHM landmark cover |
-| 87 | [Since U Been Gone][87] | Kelly Clarkson | Breakaway | 2004 | 2000s pop powerhouse |
-| 88 | [Since U Been Gone][88] | A Day to Remember | For Those Who Have Heart (Deluxe Edition) | 2007 | Post-hardcore explosion |
-| 89 | [99 Luftballons][89] | Nena | Nena | 1983 | 80s German new wave smash |
-| 90 | [99 Red Balloons][90] | Goldfinger | The Best of Goldfinger | 2000 | High-energy ska-punk |
-| 91 | [Supernaut][91] | Black Sabbath | Black Sabbath, Vol. 4 | 1972 | 70s heavy metal classic |
-| 92 | [Supernaut][92] | 1000 Homo DJs | Supernaut - EP | 1990 | Industrial metal with Ministry's Al Jourgensen |
-| 93 | [Lovesong][93] | The Cure | Disintegration (Deluxe Edition - Remastered) | 1989 | 80s dream-pop ballad |
-| 94 | [Lovesong][94] | Snake River Conspiracy | Sonic Jihad | 2000 | Electro-industrial stomp |
-| 95 | [Cat Scratch Fever][95] | Ted Nugent | '70s Greatest Hits | 1977 | 70s hard rock classic |
-| 96 | [Cat Scratch Fever][96] | Pantera | The Best of Pantera: Far Beyond the Great Southern Cowboys' Vulgar Hits! (Remastered) | 1999 | Crushing groove-metal |
-| 97 | [In-A-Gadda-Da-Vida][97] | Iron Butterfly | In-A-Gadda-Da-Vida | 1968 | 60s/70s psychedelic rock epic |
-| 98 | [In a Gadda Da Vida][98] | Slayer | Soundtrack to the Apocalypse | 2003 | Thrash metal demolition |
-| 99 | [Personal Jesus][99] | Depeche Mode | Violator (Deluxe) | 1989 | 80s synthpop dark classic |
-| 100 | [Personal Jesus][100] | Marilyn Manson | Lest We Forget: The Best of Marilyn Manson | 2004 | Grinding industrial metal |
+| 35 | [Summer Breeze][37] | Seals & Crofts | Summer Breeze | 1972 | Breezy 70s folk rock |
+| 36 | [Summer Breeze][38] | Type O Negative | Bloody Kisses | 1993 | Gothic doom-metal transformation |
+| 37 | [Get Down, Make Love][39] | Queen | News of the World | 1977 | 70s rock deep cut |
+| 38 | [Get Down, Make Love][40] | Nine Inch Nails | Pretty Hate Machine (Remastered) | 1989 | Abrasive industrial reimagining |
+| 39 | [Blue Monday][41] | New Order | Total | 1983 | 80s synthpop landmark |
+| 40 | [Blue Monday][42] | Orgy | Candyass | 1998 | Industrial/glam metal crunch |
+| 41 | [Lay, Lady, Lay][43] | Bob Dylan | Nashville Skyline | 1969 | 70s folk classic |
+| 42 | [Lay Lady Lay][44] | Ministry | Filth Pig | 1995 | Industrial powerhouse remake |
+| 43 | [Gone Away][45] | The Offspring | Ixnay on the Hombre | 1997 | 90s punk rock ballad |
+| 44 | [Gone Away][46] | Five Finger Death Punch | And Justice for None (Deluxe) | 2017 | Heavy melancholic metal |
+| 45 | [Careless Whisper][49] | George Michael | Ladies & Gentlemen | 1984 | 80s pop sax classic |
+| 46 | [Careless Whisper][50] | Seether | Finding Beauty In Negative Spaces (Bonus Track Version) | 2007 | Post-grunge guitar rework |
+| 47 | [Turn the Page (Live In Detroit/1975)][47] | Bob Seger & The Silver Bullet Band | 'Live' Bullet | 1973 | Mellow 70s rock ballad |
+| 48 | [Turn the Page][48] | Metallica | Garage Inc. | 1998 | Dark, crunching metal version |
+| 49 | [Hurt][51] | Nine Inch Nails | The Downward Spiral | 1994 | Raw industrial original |
+| 50 | [Hurt][52] | Johnny Cash | American IV: The Man Comes Around | 2002 | Devastating stripped-down country reimagining |
+| 51 | [You Spin Me Round (Like a Record)][53] | Dead or Alive | Rip It Up | 1984 | 80s Hi-NRG dance hit |
+| 52 | [You Spin Me Round (Like a Record)][54] | 3TEETH | Guns Akimbo - Single | 2020 | Thumping industrial metal |
+| 53 | [Enjoy the Silence][55] | Depeche Mode | Violator (Deluxe) | 1990 | 80s/90s synthpop masterpiece |
+| 54 | [Enjoy the Silence][56] | Lacuna Coil | Karmacode | 2006 | Gothic metal reimagining |
+| 55 | [Wicked Game][57] | Chris Isaak | Heart Shaped World | 1989 | Sultry 80s rock ballad |
+| 56 | [Wicked Game][58] | HIM | Greatest Lovesongs Vol. 666 (Deluxe Versions) [Remastered] | 1997 | Dark love-metal transformation |
+| 57 | [Word Up!][59] | Cameo | Word Up! | 1986 | 80s funk-pop smash |
+| 58 | [Word Up!][60] | Korn | Greatest Hits, Vol. 1 | 2004 | Groovy nu-metal rework |
+| 59 | [Message In a Bottle][61] | The Police | The Very Best of Sting & The Police | 1979 | 70s new wave rock classic |
+| 60 | [Message In a Bottle][62] | Machine Head | The Burning Red | 1999 | Aggressive metal overhaul |
+| 61 | [Rasputin][63] | Boney M. | The Essential Boney M. | 1978 | 70s disco classic |
+| 62 | [Rasputin][64] | Turisas | Rasputin - Single | 2007 | High-octane folk-metal frenzy |
+| 63 | [Da Ya Think I'm Sexy?][65] | Rod Stewart | Blondes Have More Fun | 1978 | 70s disco-rock hit |
+| 64 | [Da Ya Think I'm Sexy?][66] | Revolting Cocks | Linger Ficken' Good... and Other Barnyard Oddities | 1993 | Brash industrial rework |
+| 65 | [Tainted Love][67] | Soft Cell | Tainted Love / Where Did Our Love Go - Single | 1981 | 80s synthpop smash |
+| 66 | [Tainted Love][68] | Marilyn Manson | Lest We Forget: The Best of Marilyn Manson | 2003 | Grinding industrial menace |
+| 67 | [Shock the Monkey][69] | Peter Gabriel | Peter Gabriel 4: Security (Remastered) | 1982 | 80s art-rock classic |
+| 68 | [Shock the Monkey][70] | Coal Chamber | Chamber Music | 1999 | Nu-metal chaos with Ozzy guest vocals |
+| 69 | [No Ordinary Love][71] | Sade | Love Deluxe | 1992 | Sultry 90s R&B ballad |
+| 70 | [No Ordinary Love][72] | Deftones | Covers | 2005 | Dark, heavy alt-metal reimagining |
+| 71 | [Ride Like the Wind (2019 Remaster)][73] | Christopher Cross | Christopher Cross (2019 Remaster) | 1979 | 70s/80s yacht-rock hit |
+| 72 | [Ride Like the Wind][74] | Saxon | Destiny | 1988 | NWOBHM powerhouse |
+| 73 | [The Metro][75] | Berlin | Pleasure Victim | 1981 | 80s new wave classic |
+| 74 | [The Metro][76] | System Of A Down | Not Another Teen Movie (Music from the Motion Picture) | 2001 | Aggressive alt-metal overhaul |
+| 75 | [Dead Souls][77] | Joy Division | Substance 1977-1980 | 1980 | Post-punk original |
+| 76 | [Dead Souls][78] | Nine Inch Nails | The Crow (Original Motion Picture Soundtrack) | 1994 | Raging industrial reimagining |
+| 77 | [Gimme! Gimme! Gimme! (A Man After Midnight)][79] | ABBA | ABBA Gold: Greatest Hits | 1979 | 70s disco-pop anthem |
+| 78 | [Gimme! Gimme! Gimme!][80] | Feuerschwanz | Todsünden | 2022 | Folk-metal headbanger |
+| 79 | [Holy Diver][81] | Dio | Holy Diver | 1983 | 80s metal anthem |
+| 80 | [Holy Diver][82] | Killswitch Engage | As Daylight Dies (Special Edition) | 2006 | Metalcore powerhouse |
+| 81 | [We're An American Band (Remastered 2002)][83] | Grand Funk Railroad | We're An American Band (Expanded Edition / Remastered 2002) | 1973 | 70s rock anthem |
+| 82 | [We're an American Band][84] | Rob Zombie | Venomous Rat Regeneration Vendor | 2013 | Gritty industrial metal |
+| 83 | [The Green Manalishi (With the Two Prong Crown) (Remastered)][85] | Fleetwood Mac | 50 Years - Don't Stop | 1970 | 70s blues-rock deep cut |
+| 84 | [The Green Manalishi (With the Two-Pronged Crown)][86] | Judas Priest | Hell Bent for Leather (Bonus Track Version) | 1978 | NWOBHM landmark cover |
+| 85 | [Since U Been Gone][87] | Kelly Clarkson | Breakaway | 2004 | 2000s pop powerhouse |
+| 86 | [Since U Been Gone][88] | A Day to Remember | For Those Who Have Heart (Deluxe Edition) | 2007 | Post-hardcore explosion |
+| 87 | [99 Luftballons][89] | Nena | Nena | 1983 | 80s German new wave smash |
+| 88 | [99 Red Balloons][90] | Goldfinger | The Best of Goldfinger | 2000 | High-energy ska-punk |
+| 89 | [Supernaut][91] | Black Sabbath | Black Sabbath, Vol. 4 | 1972 | 70s heavy metal classic |
+| 90 | [Supernaut][92] | 1000 Homo DJs | Supernaut - EP | 1990 | Industrial metal with Ministry's Al Jourgensen |
+| 91 | [Lovesong][93] | The Cure | Disintegration (Deluxe Edition - Remastered) | 1989 | 80s dream-pop ballad |
+| 92 | [Lovesong][94] | Snake River Conspiracy | Sonic Jihad | 2000 | Electro-industrial stomp |
+| 93 | [Cat Scratch Fever][95] | Ted Nugent | '70s Greatest Hits | 1977 | 70s hard rock classic |
+| 94 | [Cat Scratch Fever][96] | Pantera | The Best of Pantera: Far Beyond the Great Southern Cowboys' Vulgar Hits! (Remastered) | 1999 | Crushing groove-metal |
+| 95 | [In-A-Gadda-Da-Vida][97] | Iron Butterfly | In-A-Gadda-Da-Vida | 1968 | 60s/70s psychedelic rock epic |
+| 96 | [In a Gadda Da Vida][98] | Slayer | Soundtrack to the Apocalypse | 2003 | Thrash metal demolition |
+| 97 | [Personal Jesus][99] | Depeche Mode | Violator (Deluxe) | 1989 | 80s synthpop dark classic |
+| 98 | [Personal Jesus][100] | Marilyn Manson | Lest We Forget: The Best of Marilyn Manson | 2004 | Grinding industrial metal |
+| 99 | [It's a Sin][35] | Pet Shop Boys | Actually: Further Listening 1987-1988 (Deluxe) [2018 Remaster] | 1987 | 80s synthpop classic |
+| 100 | [It's A Sin][36] | Ghost | It's A Sin - Single | 2026 | Theatrical heavy metal |
 
 
 [1]: https://music.apple.com/us/song/live-and-let-die/1440952880
