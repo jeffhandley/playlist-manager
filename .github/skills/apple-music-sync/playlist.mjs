@@ -7,6 +7,10 @@ import { setTimeout } from "timers/promises";
 // with this marker so that delete/update operations never touch user-created playlists.
 const PLAYLIST_MARKER = " 🤖";
 
+// Backup marker — backups use a different emoji so they are visually distinct
+// from managed playlists and are NEVER modified or deleted by automation.
+const BACKUP_MARKER = " 📀";
+
 export function managedName(name) {
   return name.endsWith(PLAYLIST_MARKER) ? name : name + PLAYLIST_MARKER;
 }
@@ -15,9 +19,16 @@ export function isManaged(name) {
   return name.endsWith(PLAYLIST_MARKER);
 }
 
+export function isBackup(name) {
+  return name.includes(BACKUP_MARKER);
+}
+
 function assertManaged(name) {
   if (!isManaged(name)) {
     throw new Error(`Refusing to modify "${name}" — only playlists ending with "${PLAYLIST_MARKER}" are managed by this script.`);
+  }
+  if (isBackup(name)) {
+    throw new Error(`Refusing to modify backup "${name}" — backups are immutable and must never be modified or deleted by automation.`);
   }
 }
 
@@ -530,9 +541,10 @@ export async function updatePlaylistDescription(page, playlistName, description)
 }
 
 // Create a backup copy of a managed playlist for today's date.
-// The backup playlist is named "<playlistName> (yyyy-MM-dd)" — the 🤖
-// sits between the original name and the datestamp, so backups don't
-// end with 🤖 and are immune to accidental mutation by automation.
+// The backup playlist is named "<name> 📀 (yyyy-MM-dd)" — using a different
+// emoji from the managed marker so backups are visually distinct and immune
+// to accidental mutation by automation. Once created, backups are NEVER
+// modified or deleted.
 // If a backup for today already exists, this is a no-op.
 // Uses the playlist page (...) → "Add to Playlist" → "New Playlist" flow
 // to copy all tracks and description into the backup playlist.
@@ -543,11 +555,12 @@ export async function backupPlaylist(page, playlistName) {
   const yyyy = today.getFullYear();
   const mm = String(today.getMonth() + 1).padStart(2, "0");
   const dd = String(today.getDate()).padStart(2, "0");
-  const backupName = `${playlistName} (${yyyy}-${mm}-${dd})`;
+  const baseName = playlistName.replace(PLAYLIST_MARKER, "");
+  const backupName = `${baseName}${BACKUP_MARKER} (${yyyy}-${mm}-${dd})`;
 
   // Check if today's backup already exists
   await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
-  const existingBackup = page.locator(`a:has-text("${backupName}")`).first();
+  const existingBackup = page.getByRole('link', { name: backupName, exact: true }).first();
   if (await waitFor(existingBackup, { timeout: 5000 })) {
     console.log(`Backup "${backupName}" already exists. Skipping backup.\n`);
     return true;
@@ -626,7 +639,7 @@ async function navigateToPlaylistPage(page, playlistName) {
   let playlistLink;
   for (let attempt = 0; attempt < 3; attempt++) {
     await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
-    playlistLink = page.locator(`a:has-text("${playlistName}")`).first();
+    playlistLink = page.getByRole('link', { name: playlistName, exact: true }).first();
     if (await waitFor(playlistLink, { timeout: 5000 })) break;
     playlistLink = null;
   }
@@ -657,8 +670,10 @@ async function navigateToPlaylistPage(page, playlistName) {
 // in-place reorder via copy-then-delete doesn't work. Instead:
 //   1. Compare current playlist order to desired order
 //   2. Find the first track that's out of place
-//   3. Delete all tracks from that point to the end
-//   4. Re-add them in the correct order using their permalinks
+//   3. Check if removing specific tracks from the current list would
+//      align the remainder with the desired order (optimized path)
+//   4. Otherwise, delete all tracks from the mismatch point to the end
+//      and re-add them in the correct order using their permalinks
 export async function reorderPlaylist(page, playlistName, desiredOrder) {
   assertManaged(playlistName);
 
@@ -671,12 +686,12 @@ export async function reorderPlaylist(page, playlistName, desiredOrder) {
     const al = a.toLowerCase(), bl = b.toLowerCase();
     return al === bl || al.includes(bl) || bl.includes(al);
   };
+  const tracksMatch = (a, b) => key(a) === key(b) && artistMatch(a.artist, b.artist);
 
   // Find the first mismatch
   let firstMismatch = 0;
   for (let i = 0; i < desiredOrder.length && i < currentTracks.length; i++) {
-    if (key(currentTracks[i]) === key(desiredOrder[i]) &&
-        artistMatch(currentTracks[i].artist, desiredOrder[i].artist)) {
+    if (tracksMatch(currentTracks[i], desiredOrder[i])) {
       firstMismatch = i + 1;
     } else {
       break;
@@ -688,7 +703,116 @@ export async function reorderPlaylist(page, playlistName, desiredOrder) {
     return { deleted: 0, added: 0 };
   }
 
-  const tracksToReAdd = desiredOrder.slice(firstMismatch);
+  // Optimization: check if removing specific tracks from the current list
+  // would align the remainder with the desired order. This avoids mass
+  // delete+re-add when tracks are simply moved to the end.
+  //
+  // Walk through current tracks from the mismatch point; any track that
+  // matches the next expected track in the desired order is "kept". Tracks
+  // that don't match are candidates for deletion. If the kept tracks form
+  // a contiguous prefix of the desired suffix, we can just delete the
+  // extras and append the new tracks.
+  const desiredSuffix = desiredOrder.slice(firstMismatch);
+  const currentSuffix = currentTracks.slice(firstMismatch);
+  let desiredIdx = 0;
+  const deleteIndices = []; // indices within currentSuffix to delete
+
+  for (let ci = 0; ci < currentSuffix.length; ci++) {
+    if (desiredIdx < desiredSuffix.length && tracksMatch(currentSuffix[ci], desiredSuffix[desiredIdx])) {
+      desiredIdx++; // this track stays
+    } else {
+      deleteIndices.push(ci); // this track needs to be removed
+    }
+  }
+
+  const tracksToAppend = desiredSuffix.slice(desiredIdx);
+  const useOptimized = deleteIndices.length + tracksToAppend.length <
+                       currentSuffix.length + desiredSuffix.length - desiredIdx;
+
+  if (useOptimized && (deleteIndices.length > 0 || tracksToAppend.length > 0)) {
+    console.log(`Optimized reorder: deleting ${deleteIndices.length} track(s) and appending ${tracksToAppend.length} track(s).\n`);
+
+    // Delete the specific tracks (in reverse order so indices stay valid)
+    if (deleteIndices.length > 0) {
+      console.log(`Deleting ${deleteIndices.length} track(s)...`);
+      await navigateToPlaylistPage(page, playlistName);
+
+      let deletedSoFar = 0;
+      for (const relIdx of deleteIndices) {
+        // Adjust index: absolute position minus how many we've already deleted
+        const absIdx = firstMismatch + relIdx - deletedSoFar;
+
+        const rows = page.locator('.songs-list-row');
+        const rowCount = await rows.count();
+        if (absIdx >= rowCount) break;
+
+        const row = rows.nth(absIdx);
+        await row.hover();
+        const playBtn = row.locator('button[aria-label^="Play"]').first();
+        const label = await playBtn.getAttribute('aria-label').catch(() => '');
+
+        const moreBtn = row.locator('button[aria-label="more"]').first();
+        if (!await waitAndClick(moreBtn, { timeout: 5000 })) {
+          await navigateToPlaylistPage(page, playlistName);
+          const retryRow = page.locator('.songs-list-row').nth(absIdx);
+          await retryRow.hover();
+          const retryMore = retryRow.locator('button[aria-label="more"]').first();
+          if (!await waitAndClick(retryMore, { timeout: 5000 })) {
+            console.log(`  ✗ Could not click more button for row ${absIdx}`);
+            break;
+          }
+        }
+
+        const deleteOption = page.locator('button:has-text("Remove from Playlist")').first();
+        if (!await waitAndClick(deleteOption, { timeout: 5000 })) {
+          await page.keyboard.press("Escape");
+          console.log(`  ✗ "Remove from Playlist" not found`);
+          break;
+        }
+
+        await setTimeout(1000);
+        const songName = label?.replace(/^Play (.+?) by .+$/, '$1') || '?';
+        deletedSoFar++;
+        console.log(`  Deleted ${deletedSoFar}/${deleteIndices.length}: ${songName}`);
+      }
+    }
+
+    // Append new tracks
+    if (tracksToAppend.length > 0) {
+      console.log(`\nAppending ${tracksToAppend.length} track(s)...\n`);
+
+      let added = 0;
+      const failed = [];
+      for (let i = 0; i < tracksToAppend.length; i++) {
+        const track = tracksToAppend[i];
+        const progress = `[${i + 1}/${tracksToAppend.length}]`;
+
+        const result = await addTrackWithRetry(page, track, playlistName, {
+          url: track.url,
+        });
+
+        if (result.added) {
+          added++;
+          console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
+        } else {
+          failed.push(track);
+          console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
+        }
+      }
+
+      if (failed.length > 0) {
+        console.log(`\n${failed.length} track(s) could not be added:`);
+        for (const t of failed) console.log(`  • ${t.song} — ${t.artist}`);
+      }
+    }
+
+    const finalTracks = await readPlaylistTracks(page, playlistName);
+    console.log(`\nReorder complete. Playlist now has ${finalTracks?.length} tracks.`);
+    return { deleted: deleteIndices.length, added: tracksToAppend.length };
+  }
+
+  // Fallback: delete from the mismatch point to the end and re-add all
+  const tracksToReAdd = desiredSuffix;
   console.log(`First mismatch at position ${firstMismatch + 1}. Will delete ${currentTracks.length - firstMismatch} track(s) and re-add ${tracksToReAdd.length} in correct order.\n`);
 
   // Delete tracks from the mismatch point to the end.

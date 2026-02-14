@@ -47,13 +47,20 @@ node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --library-only
 The script:
 1. Parses the playlist name from the `# heading` and tracks from the markdown table
 2. **Appends the 🤖 emoji** to the playlist name — all managed playlists are suffixed with this marker
-3. Opens Chromium with the Apple Music web player
-4. Waits for the user to sign in (persistent browser profile — only needed once)
-5. Navigates to each track's permalink and adds it via the web player's context menu
-6. Verifies each add by checking the playlist track count
-7. Reports any tracks that couldn't be found or added
+3. **Creates a daily backup** before any sync or reorder operation (see Backups below)
+4. Opens Chromium with the Apple Music web player
+5. Waits for the user to sign in (persistent browser profile — only needed once)
+6. Navigates to each track's permalink and adds it via the web player's context menu
+7. Verifies each add by checking the playlist track count
+8. Reports any tracks that couldn't be found or added
 
 **Playlist safety:** The script will only ever delete or modify playlists that end with the 🤖 suffix. User-created playlists without this marker are never touched.
+
+### Backups
+
+Before every sync or reorder, the script creates a backup playlist named `<name> 📀 (yyyy-MM-dd)`. The backup uses the 📀 emoji (not 🤖) to distinguish it from managed playlists. The playlist description is copied into the backup.
+
+**⚠️ Backups are immutable.** Once created, a backup must **NEVER** be modified, renamed, or deleted by automation. The `assertManaged` guard will throw an error if any operation attempts to touch a playlist containing the 📀 marker. Only one backup per playlist per day is created; if today's backup already exists, it is skipped.
 
 **Flags:**
 - `--delete-first` — Delete the existing playlist before recreating it (full rebuild)
