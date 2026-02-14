@@ -529,6 +529,82 @@ export async function updatePlaylistDescription(page, playlistName, description)
   return true;
 }
 
+// Create a backup copy of a managed playlist for today's date.
+// The backup playlist is named "<playlistName> (yyyy-MM-dd) 🤖".
+// If a backup for today already exists, this is a no-op.
+// Uses the playlist page (...) → "Add to Playlist" → "New Playlist" flow
+// to copy all tracks into the backup playlist.
+export async function backupPlaylist(page, playlistName) {
+  assertManaged(playlistName);
+
+  const today = new Date();
+  const yyyy = today.getFullYear();
+  const mm = String(today.getMonth() + 1).padStart(2, "0");
+  const dd = String(today.getDate()).padStart(2, "0");
+  const backupName = `${playlistName.replace(PLAYLIST_MARKER, "")} (${yyyy}-${mm}-${dd})${PLAYLIST_MARKER}`;
+
+  // Check if today's backup already exists
+  await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
+  const existingBackup = page.locator(`a:has-text("${backupName}")`).first();
+  if (await waitFor(existingBackup, { timeout: 5000 })) {
+    console.log(`Backup "${backupName}" already exists. Skipping backup.\n`);
+    return true;
+  }
+
+  // Navigate to the source playlist page
+  const count = await navigateToPlaylistPage(page, playlistName);
+  if (count === null) {
+    console.log(`Playlist "${playlistName}" not found — nothing to back up.\n`);
+    return false;
+  }
+
+  // Click (...) → "Add to Playlist" → "New Playlist"
+  const moreButton = page.locator('button[aria-label="more"]').first();
+  if (!await waitAndClick(moreButton)) {
+    console.log("  Warning: could not find more button on playlist page for backup.");
+    return false;
+  }
+
+  const addToPlaylist = page.locator('button:has-text("Add to Playlist")').first();
+  if (!await waitAndClick(addToPlaylist)) {
+    await page.keyboard.press("Escape");
+    console.log("  Warning: Add to Playlist option not found for backup.");
+    return false;
+  }
+
+  const newPlaylist = page.locator('button:has-text("New Playlist")').first();
+  if (!await waitAndClick(newPlaylist)) {
+    await page.keyboard.press("Escape");
+    await page.keyboard.press("Escape");
+    console.log("  Warning: New Playlist option not found for backup.");
+    return false;
+  }
+
+  // Fill in the backup playlist name
+  const nameInput = page.locator('input.playlist-title').first();
+  if (!await waitFor(nameInput, { timeout: 10000 })) {
+    console.log("  Warning: playlist title input not found in create dialog for backup.");
+    await page.keyboard.press("Escape");
+    return false;
+  }
+
+  await nameInput.fill(backupName);
+
+  const createButton = page.locator('button:has-text("Create")').first();
+  if (!await waitAndClick(createButton, { timeout: 5000 })) {
+    console.log("  Warning: Create button not found in create dialog for backup.");
+    await page.keyboard.press("Escape");
+    return false;
+  }
+
+  // Wait for the dialog to dismiss
+  await nameInput.waitFor({ state: "hidden", timeout: 10000 }).catch(() => {});
+  await setTimeout(3000);
+
+  console.log(`Created backup "${backupName}" with ${count} track(s).\n`);
+  return true;
+}
+
 // Navigate to a managed playlist page. Returns the track row count, or null if not found.
 async function navigateToPlaylistPage(page, playlistName) {
   assertManaged(playlistName);
