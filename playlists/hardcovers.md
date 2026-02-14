@@ -86,6 +86,56 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | 48 | [Careless Whisper][50] | Seether | Finding Beauty In Negative Spaces (Bonus Track Version) | 2007 | Post-grunge guitar rework |
 | 49 | [Turn the Page (Live In Detroit/1975)][47] | Bob Seger & The Silver Bullet Band | 'Live' Bullet | 1973 | Mellow 70s rock ballad |
 | 50 | [Turn the Page][48] | Metallica | Garage Inc. | 1998 | Dark, crunching metal version |
+| 51 | [Hurt][51] | Nine Inch Nails | The Downward Spiral | 1994 | Raw industrial original |
+| 52 | [Hurt][52] | Johnny Cash | American IV: The Man Comes Around | 2002 | Devastating stripped-down country reimagining |
+| 53 | [You Spin Me Round (Like a Record)][53] | Dead or Alive | Rip It Up | 1984 | 80s Hi-NRG dance hit |
+| 54 | [You Spin Me Round (Like a Record)][54] | 3TEETH | Guns Akimbo - Single | 2020 | Thumping industrial metal |
+| 55 | [Enjoy the Silence][55] | Depeche Mode | Violator (Deluxe) | 1990 | 80s/90s synthpop masterpiece |
+| 56 | [Enjoy the Silence][56] | Lacuna Coil | Karmacode | 2006 | Gothic metal reimagining |
+| 57 | [Wicked Game][57] | Chris Isaak | Heart Shaped World | 1989 | Sultry 80s rock ballad |
+| 58 | [Wicked Game][58] | HIM | Greatest Lovesongs Vol. 666 (Deluxe Versions) [Remastered] | 1997 | Dark love-metal transformation |
+| 59 | [Word Up!][59] | Cameo | Word Up! | 1986 | 80s funk-pop smash |
+| 60 | [Word Up!][60] | Korn | Greatest Hits, Vol. 1 | 2004 | Groovy nu-metal rework |
+| 61 | [Message In a Bottle][61] | The Police | The Very Best of Sting & The Police | 1979 | 70s new wave rock classic |
+| 62 | [Message In a Bottle][62] | Machine Head | The Burning Red | 1999 | Aggressive metal overhaul |
+| 63 | [Rasputin][63] | Boney M. | The Essential Boney M. | 1978 | 70s disco classic |
+| 64 | [Rasputin][64] | Turisas | Rasputin - Single | 2007 | High-octane folk-metal frenzy |
+| 65 | [Da Ya Think I'm Sexy?][65] | Rod Stewart | Blondes Have More Fun | 1978 | 70s disco-rock hit |
+| 66 | [Da Ya Think I'm Sexy?][66] | Revolting Cocks | Linger Ficken' Good... and Other Barnyard Oddities | 1993 | Brash industrial rework |
+| 67 | [Tainted Love][67] | Soft Cell | Tainted Love / Where Did Our Love Go - Single | 1981 | 80s synthpop smash |
+| 68 | [Tainted Love][68] | Marilyn Manson | Lest We Forget: The Best of Marilyn Manson | 2003 | Grinding industrial menace |
+| 69 | [Shock the Monkey][69] | Peter Gabriel | Peter Gabriel 4: Security (Remastered) | 1982 | 80s art-rock classic |
+| 70 | [Shock the Monkey][70] | Coal Chamber | Chamber Music | 1999 | Nu-metal chaos with Ozzy guest vocals |
+| 71 | [No Ordinary Love][71] | Sade | Love Deluxe | 1992 | Sultry 90s R&B ballad |
+| 72 | [No Ordinary Love][72] | Deftones | Covers | 2005 | Dark, heavy alt-metal reimagining |
+| 73 | [Ride Like the Wind (2019 Remaster)][73] | Christopher Cross | Christopher Cross (2019 Remaster) | 1979 | 70s/80s yacht-rock hit |
+| 74 | [Ride Like the Wind][74] | Saxon | Destiny | 1988 | NWOBHM powerhouse |
+| 75 | [The Metro][75] | Berlin | Pleasure Victim | 1981 | 80s new wave classic |
+| 76 | [The Metro][76] | System Of A Down | Not Another Teen Movie (Music from the Motion Picture) | 2001 | Aggressive alt-metal overhaul |
+| 77 | [Dead Souls][77] | Joy Division | Substance 1977-1980 | 1980 | Post-punk original |
+| 78 | [Dead Souls][78] | Nine Inch Nails | The Crow (Original Motion Picture Soundtrack) | 1994 | Raging industrial reimagining |
+| 79 | [Gimme! Gimme! Gimme! (A Man After Midnight)][79] | ABBA | ABBA Gold: Greatest Hits | 1979 | 70s disco-pop anthem |
+| 80 | [Gimme! Gimme! Gimme!][80] | Feuerschwanz | Todsünden | 2022 | Folk-metal headbanger |
+| 81 | [Holy Diver][81] | Dio | Holy Diver | 1983 | 80s metal anthem |
+| 82 | [Holy Diver][82] | Killswitch Engage | As Daylight Dies (Special Edition) | 2006 | Metalcore powerhouse |
+| 83 | [We're An American Band (Remastered 2002)][83] | Grand Funk Railroad | We're An American Band (Expanded Edition / Remastered 2002) | 1973 | 70s rock anthem |
+| 84 | [We're an American Band][84] | Rob Zombie | Venomous Rat Regeneration Vendor | 2013 | Gritty industrial metal |
+| 85 | [The Green Manalishi (With the Two Prong Crown) (Remastered)][85] | Fleetwood Mac | 50 Years - Don't Stop | 1970 | 70s blues-rock deep cut |
+| 86 | [The Green Manalishi (With the Two-Pronged Crown)][86] | Judas Priest | Hell Bent for Leather (Bonus Track Version) | 1978 | NWOBHM landmark cover |
+| 87 | [Since U Been Gone][87] | Kelly Clarkson | Breakaway | 2004 | 2000s pop powerhouse |
+| 88 | [Since U Been Gone][88] | A Day to Remember | For Those Who Have Heart (Deluxe Edition) | 2007 | Post-hardcore explosion |
+| 89 | [99 Luftballons][89] | Nena | Nena | 1983 | 80s German new wave smash |
+| 90 | [99 Red Balloons][90] | Goldfinger | The Best of Goldfinger | 2000 | High-energy ska-punk |
+| 91 | [Supernaut][91] | Black Sabbath | Black Sabbath, Vol. 4 | 1972 | 70s heavy metal classic |
+| 92 | [Supernaut][92] | 1000 Homo DJs | Supernaut - EP | 1990 | Industrial metal with Ministry's Al Jourgensen |
+| 93 | [Lovesong][93] | The Cure | Disintegration (Deluxe Edition - Remastered) | 1989 | 80s dream-pop ballad |
+| 94 | [Lovesong][94] | Snake River Conspiracy | Sonic Jihad | 2000 | Electro-industrial stomp |
+| 95 | [Cat Scratch Fever][95] | Ted Nugent | '70s Greatest Hits | 1977 | 70s hard rock classic |
+| 96 | [Cat Scratch Fever][96] | Pantera | The Best of Pantera: Far Beyond the Great Southern Cowboys' Vulgar Hits! (Remastered) | 1999 | Crushing groove-metal |
+| 97 | [In-A-Gadda-Da-Vida][97] | Iron Butterfly | In-A-Gadda-Da-Vida | 1968 | 60s/70s psychedelic rock epic |
+| 98 | [In a Gadda Da Vida][98] | Slayer | Soundtrack to the Apocalypse | 2003 | Thrash metal demolition |
+| 99 | [Personal Jesus][99] | Depeche Mode | Violator (Deluxe) | 1989 | 80s synthpop dark classic |
+| 100 | [Personal Jesus][100] | Marilyn Manson | Lest We Forget: The Best of Marilyn Manson | 2004 | Grinding industrial metal |
 
 
 [1]: https://music.apple.com/us/song/live-and-let-die/1440952880
@@ -138,3 +188,53 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [48]: https://music.apple.com/us/song/turn-the-page/579370550
 [49]: https://music.apple.com/us/song/careless-whisper/429945616
 [50]: https://music.apple.com/us/song/careless-whisper/1440747693
+[51]: https://music.apple.com/us/song/hurt/1440838114
+[52]: https://music.apple.com/us/song/hurt/1440811252
+[53]: https://music.apple.com/us/song/you-spin-me-round-like-a-record/187305118
+[54]: https://music.apple.com/us/song/you-spin-me-round-like-a-record/1527220013
+[55]: https://music.apple.com/us/song/enjoy-the-silence/1174246889
+[56]: https://music.apple.com/us/song/enjoy-the-silence/1045283175
+[57]: https://music.apple.com/us/song/wicked-game/1570350115
+[58]: https://music.apple.com/us/song/wicked-game/1710182985
+[59]: https://music.apple.com/us/song/word-up/1443854526
+[60]: https://music.apple.com/us/song/word-up/1831584253
+[61]: https://music.apple.com/us/song/message-in-a-bottle/1440882889
+[62]: https://music.apple.com/us/song/message-in-a-bottle/214356293
+[63]: https://music.apple.com/us/song/rasputin/553356946
+[64]: https://music.apple.com/us/song/rasputin/1070811550
+[65]: https://music.apple.com/us/song/da-ya-think-im-sexy/295535860
+[66]: https://music.apple.com/us/song/da-ya-think-im-sexy/302160761
+[67]: https://music.apple.com/us/song/tainted-love/1440517679
+[68]: https://music.apple.com/us/song/tainted-love/1440746942
+[69]: https://music.apple.com/us/song/shock-the-monkey/986723832
+[70]: https://music.apple.com/us/song/shock-the-monkey/1349403205
+[71]: https://music.apple.com/us/song/no-ordinary-love/158796562
+[72]: https://music.apple.com/us/song/no-ordinary-love/1099841621
+[73]: https://music.apple.com/us/song/ride-like-the-wind-2019-remaster/1754701784
+[74]: https://music.apple.com/us/song/ride-like-the-wind/1437341375
+[75]: https://music.apple.com/us/song/the-metro/1440915717
+[76]: https://music.apple.com/us/song/the-metro/324595750
+[77]: https://music.apple.com/us/song/dead-souls/996111412
+[78]: https://music.apple.com/us/song/dead-souls/322025504
+[79]: https://music.apple.com/us/song/gimme-gimme-gimme-a-man-after-midnight/1422648970
+[80]: https://music.apple.com/us/song/gimme-gimme-gimme/1645165941
+[81]: https://music.apple.com/us/song/holy-diver/1048475974
+[82]: https://music.apple.com/us/song/holy-diver/262091719
+[83]: https://music.apple.com/us/song/were-an-american-band-remastered-2002/724670493
+[84]: https://music.apple.com/us/song/were-an-american-band/1443098924
+[85]: https://music.apple.com/us/song/the-green-manalishi-with-the-two-prong-crown-remastered/1441359158
+[86]: https://music.apple.com/us/song/the-green-manalishi-with-the-two-pronged-crown/193031460
+[87]: https://music.apple.com/us/song/since-u-been-gone/275765380
+[88]: https://music.apple.com/us/song/since-u-been-gone/1558597897
+[89]: https://music.apple.com/us/song/99-luftballons/1446014714
+[90]: https://music.apple.com/us/song/99-red-balloons/309670420
+[91]: https://music.apple.com/us/song/supernaut/785242022
+[92]: https://music.apple.com/us/song/supernaut/811772364
+[93]: https://music.apple.com/us/song/lovesong/371772239
+[94]: https://music.apple.com/us/song/lovesong/1244226631
+[95]: https://music.apple.com/us/song/cat-scratch-fever/260302358
+[96]: https://music.apple.com/us/song/cat-scratch-fever/262515859
+[97]: https://music.apple.com/us/song/in-a-gadda-da-vida/780234010
+[98]: https://music.apple.com/us/song/in-a-gadda-da-vida/1443269252
+[99]: https://music.apple.com/us/song/personal-jesus/1174246806
+[100]: https://music.apple.com/us/song/personal-jesus/1440746931

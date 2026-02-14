@@ -130,14 +130,18 @@ async function syncPlaylist(page, tracks, playlistName, deleteFirst) {
   // Read initial playlist state for baseline verification
   const initialTracks = await readPlaylistTracks(page, playlistName);
   let added = initialTracks ? initialTracks.length : 0;
+  let startIndex = 0;
 
-  if (added > 0) {
+  if (added > 0 && added < tracks.length) {
+    startIndex = added;
+    console.log(`Playlist already has ${added} track(s). Resuming from track ${startIndex + 1}...\n`);
+  } else if (added > 0) {
     console.log(`Playlist already has ${added} track(s). Resuming...\n`);
   }
 
   const failed = [];
 
-  for (let i = 0; i < tracks.length; i++) {
+  for (let i = startIndex; i < tracks.length; i++) {
     const track = tracks[i];
     const progress = `[${i + 1}/${tracks.length}]`;
 
