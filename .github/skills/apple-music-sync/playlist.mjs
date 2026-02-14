@@ -541,7 +541,7 @@ export async function backupPlaylist(page, playlistName) {
   const yyyy = today.getFullYear();
   const mm = String(today.getMonth() + 1).padStart(2, "0");
   const dd = String(today.getDate()).padStart(2, "0");
-  const backupName = `${playlistName.replace(PLAYLIST_MARKER, "")} (${yyyy}-${mm}-${dd})${PLAYLIST_MARKER}`;
+  const backupName = `${playlistName} (${yyyy}-${mm}-${dd})`;
 
   // Check if today's backup already exists
   await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
