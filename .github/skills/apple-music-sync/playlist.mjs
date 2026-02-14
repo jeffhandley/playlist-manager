@@ -1,6 +1,7 @@
 // Apple Music playlist operations via the web player
 
 import { BASE_URL, waitFor, waitAndClick } from "./browser.mjs";
+import { setTimeout } from "timers/promises";
 
 // Managed playlist marker — all playlists created by this script are suffixed
 // with this marker so that delete/update operations never touch user-created playlists.
@@ -28,24 +29,10 @@ function isUnwantedLive(label, targetSong) {
 
 // Navigate to a managed playlist and return an array of { song, artist } currently on it.
 export async function readPlaylistTracks(page, playlistName) {
-  assertManaged(playlistName);
-
-  // Retry navigation — the playlist may take a moment to appear after creation
-  let playlistLink;
-  for (let attempt = 0; attempt < 3; attempt++) {
-    await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
-    playlistLink = page.locator(`a:has-text("${playlistName}")`).first();
-    if (await waitFor(playlistLink, { timeout: 5000 })) break;
-    playlistLink = null;
-  }
-
-  if (!playlistLink) return null; // playlist doesn't exist
-
-  await playlistLink.click();
-  await waitFor(page.locator('.songs-list-row').first(), { timeout: 10000 });
+  const count = await navigateToPlaylistPage(page, playlistName);
+  if (count === null) return null;
 
   const rows = page.locator('.songs-list-row');
-  const count = await rows.count();
   const tracks = [];
 
   for (let i = 0; i < count; i++) {
@@ -98,6 +85,93 @@ export async function deletePlaylist(page, playlistName) {
   } else {
     console.log(`Playlist "${playlistName}" not found — nothing to delete.`);
   }
+}
+
+// Create a new managed playlist via the "New Playlist" dialog.
+// Called as a callback from addTrackToPlaylist when the playlist doesn't exist.
+export async function createPlaylist(page, playlistName) {
+  assertManaged(playlistName);
+
+  const nameInput = page.locator('input.playlist-title').first();
+  if (!await waitFor(nameInput, { timeout: 10000 })) {
+    console.log("Warning: playlist title input not found in create dialog.");
+    await page.keyboard.press("Escape");
+    return false;
+  }
+
+  await nameInput.fill(playlistName);
+
+  const createButton = page.locator('button:has-text("Create")').first();
+  if (!await waitAndClick(createButton, { timeout: 5000 })) {
+    console.log("Warning: Create button not found in create dialog.");
+    await page.keyboard.press("Escape");
+    return false;
+  }
+
+  // Wait for the dialog to dismiss and playlist to propagate
+  await nameInput.waitFor({ state: "hidden", timeout: 10000 }).catch(() => {});
+
+  // Navigate to the playlist page to force Apple Music to register it
+  console.log(`  Waiting for playlist to register...`);
+  for (let warmup = 0; warmup < 6; warmup++) {
+    await setTimeout(5000);
+    const count = await navigateToPlaylistPage(page, playlistName);
+    if (count !== null) {
+      console.log(`Created playlist "${playlistName}".`);
+      return true;
+    }
+  }
+
+  console.log(`  Warning: playlist page not accessible yet, continuing anyway...`);
+  console.log(`Created playlist "${playlistName}".`);
+  return true;
+}
+
+// Add a track to a playlist with verification and retry for transient failures.
+// Returns { added: boolean, count: number } where count is the playlist track count.
+export async function addTrackWithRetry(page, track, playlistName, opts = {}) {
+  const { song, artist, url } = track;
+  const { expectedCount, retries = 3 } = opts;
+
+  for (let attempt = 0; attempt < retries; attempt++) {
+    if (attempt > 0) {
+      console.log(`    (add retry ${attempt}/${retries - 1}: re-adding ${song})`);
+      await setTimeout(5000);
+    }
+
+    const result = await addTrackToPlaylist(page, song, artist, playlistName, opts);
+
+    if (result.status === "created") {
+      return { added: true, created: true };
+    }
+
+    if (result.status === "added") {
+      if (expectedCount == null) return { added: true };
+
+      const actual = await readPlaylistTracks(page, playlistName);
+      if (!actual) {
+        console.error(`\n✗ Verification failed: playlist "${playlistName}" not found after adding track.`);
+        process.exit(1);
+      }
+
+      const target = expectedCount + 1;
+      if (actual.length === target) {
+        return { added: true, count: actual.length };
+      } else if (actual.length === expectedCount) {
+        // Add didn't persist — retry
+        if (attempt === retries - 1) {
+          return { added: false, reason: `add did not persist after ${retries} attempts, playlist has ${actual.length} tracks` };
+        }
+      } else {
+        // Unexpected count
+        return { added: true, count: actual.length, unexpected: true };
+      }
+    } else {
+      return { added: false, reason: result.reason };
+    }
+  }
+
+  return { added: false, reason: "retries exhausted" };
 }
 
 // Navigate directly to a song permalink and return the song-level "more" button.
@@ -271,7 +345,7 @@ export async function addTrackToPlaylist(page, song, artist, playlistName, { url
     await page.keyboard.press("Escape");
     console.log(`    (retry ${attempt + 1}/${maxAttempts}: playlist not found in submenu)`);
     // Wait before retrying to allow playlist to propagate
-    await new Promise(r => globalThis.setTimeout(r, 5000));
+    await setTimeout(5000);
   }
 
   return { status: "missing", reason: `playlist "${playlistName}" not found in menu after ${maxAttempts} retries` };
@@ -299,15 +373,20 @@ export async function addTrackToLibrary(page, song, artist) {
   return { status: "skipped", reason: "already in library or not found" };
 }
 
-// Navigate to a managed playlist page (or stay if already there).
-// Returns the count of visible track rows.
+// Navigate to a managed playlist page. Returns the track row count, or null if not found.
 async function navigateToPlaylistPage(page, playlistName) {
   assertManaged(playlistName);
-  await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
-  const playlistLink = page.locator(`a:has-text("${playlistName}")`).first();
-  if (!await waitFor(playlistLink, { timeout: 5000 })) {
-    throw new Error(`Playlist "${playlistName}" not found`);
+
+  let playlistLink;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
+    playlistLink = page.locator(`a:has-text("${playlistName}")`).first();
+    if (await waitFor(playlistLink, { timeout: 5000 })) break;
+    playlistLink = null;
   }
+
+  if (!playlistLink) return null;
+
   await playlistLink.click();
   await waitFor(page.locator('.songs-list-row').first(), { timeout: 10000 });
   return await page.locator('.songs-list-row').count();
@@ -389,7 +468,7 @@ export async function reorderPlaylist(page, playlistName, desiredOrder) {
       break;
     }
 
-    await new Promise(r => globalThis.setTimeout(r, 1000));
+    await setTimeout(1000);
     const songName = label?.replace(/^Play (.+?) by .+$/, '$1') || '?';
     if ((d + 1) % 10 === 0 || d === deleteCount - 1) {
       console.log(`  Deleted ${d + 1}/${deleteCount}: ${songName}`);
@@ -401,37 +480,19 @@ export async function reorderPlaylist(page, playlistName, desiredOrder) {
   // Re-add the tracks in the desired order
   let added = firstMismatch;
   for (let i = 0; i < tracksToReAdd.length; i++) {
-    const { song, artist, url } = tracksToReAdd[i];
+    const track = tracksToReAdd[i];
     const progress = `[${firstMismatch + i + 1}/${desiredOrder.length}]`;
 
-    // Retry loop for "add did not persist"
-    const addRetries = 3;
-    for (let attempt = 0; attempt < addRetries; attempt++) {
-      if (attempt > 0) {
-        console.log(`    (add retry ${attempt}/${addRetries - 1}: re-adding ${song})`);
-      }
+    const result = await addTrackWithRetry(page, track, playlistName, {
+      url: track.url,
+      expectedCount: added,
+    });
 
-      const result = await addTrackToPlaylist(page, song, artist, playlistName, { url });
-      if (result.status === "added") {
-        added++;
-
-        const actual = await readPlaylistTracks(page, playlistName);
-        if (actual && actual.length === added) {
-          console.log(`  ${progress} ✓ ${song} — ${artist} (${actual.length} tracks)`);
-          break;
-        } else if (actual && actual.length === added - 1) {
-          added--;
-          if (attempt === addRetries - 1) {
-            console.log(`  ${progress} ✗ ${song} — ${artist} (add did not persist after ${addRetries} attempts)`);
-          }
-        } else {
-          console.log(`  ${progress} ✓ ${song} — ${artist} (${actual?.length} tracks, expected ${added})`);
-          break;
-        }
-      } else {
-        console.log(`  ${progress} ✗ ${song} — ${artist} (${result.reason})`);
-        break;
-      }
+    if (result.added) {
+      added++;
+      console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count ?? added} tracks)`);
+    } else {
+      console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
     }
   }
 
