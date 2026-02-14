@@ -34,7 +34,7 @@ export async function launchBrowser({ headless = false } = {}) {
 
   const context = await chromium.launchPersistentContext(PROFILE_DIR, {
     headless,
-    args: ["--disable-blink-features=AutomationControlled"],
+    args: ["--disable-blink-features=AutomationControlled", "--hide-crash-restore-bubble"],
     userAgent,
   });
 
