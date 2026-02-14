@@ -204,7 +204,7 @@ export async function findTrackMoreButton(page, song, artist) {
   return null;
 }
 
-export async function addTrackToPlaylist(page, song, artist, playlistName, { url, onCreatePlaylist } = {}) {
+export async function addTrackToPlaylist(page, song, artist, playlistName, { url, onCreatePlaylist, forceCreate } = {}) {
   // Use permalink URL if available, otherwise fall back to search
   const moreBtn = url
     ? await navigateToSongUrl(page, url)
@@ -235,6 +235,18 @@ export async function addTrackToPlaylist(page, song, artist, playlistName, { url
       await page.keyboard.press("Escape");
       if (attempt === maxAttempts - 1) return { status: "missing", reason: "Add to Playlist option not found" };
       continue;
+    }
+
+    // If forceCreate, skip looking for existing playlist and go straight to New Playlist
+    if (forceCreate && onCreatePlaylist) {
+      const newPlaylist = page.locator('button:has-text("New Playlist")').first();
+      if (await waitAndClick(newPlaylist)) {
+        const created = await onCreatePlaylist(page);
+        if (created === false) {
+          return { status: "missing", reason: "playlist creation failed" };
+        }
+        return { status: "created" };
+      }
     }
 
     const targetPlaylist = page.locator(`button:has-text("${playlistName}")`).first();

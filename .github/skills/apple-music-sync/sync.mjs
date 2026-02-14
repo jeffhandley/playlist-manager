@@ -20,12 +20,14 @@ async function main() {
   const filePath = args.find(a => !a.startsWith("--"));
   const deleteFirst = args.includes("--delete-first");
   const libraryOnly = args.includes("--library-only");
+  const headless = args.includes("--headless");
 
   if (!filePath || !existsSync(filePath)) {
     console.error(
-      "Usage: node sync.mjs <playlist.md> [--delete-first] [--library-only]\n" +
+      "Usage: node sync.mjs <playlist.md> [--delete-first] [--library-only] [--headless]\n" +
       "  --delete-first   Delete and recreate the playlist (for reordering)\n" +
       "  --library-only   Only add tracks to library, don't manage the playlist\n" +
+      "  --headless       Run in headless browser mode\n" +
       (filePath ? `\nError: ${filePath} not found` : "")
     );
     process.exit(1);
@@ -50,9 +52,10 @@ async function main() {
   console.log(`Tracks:   ${tracks.length}`);
   if (deleteFirst) console.log(`Mode:     Delete and recreate`);
   if (libraryOnly) console.log(`Mode:     Library only (no playlist management)`);
+  if (headless) console.log(`Mode:     Headless`);
   console.log("");
 
-  const { context, page } = await launchBrowser();
+  const { context, page } = await launchBrowser({ headless });
 
   await waitForSignIn(page);
 
@@ -134,7 +137,9 @@ async function main() {
       const progress = `[${i + 1}/${tracks.length}]`;
 
       try {
-        const opts = playlistCreated ? { url } : { url, onCreatePlaylist };
+        const opts = playlistCreated
+          ? { url }
+          : { url, onCreatePlaylist, forceCreate: deleteFirst && !playlistCreated };
         const result = await addTrackToPlaylist(page, song, artist, playlistName, opts);
         if (result.status === "added" || result.status === "created") {
           added++;

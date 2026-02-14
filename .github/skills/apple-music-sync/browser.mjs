@@ -27,13 +27,13 @@ export async function waitAndClick(locator, { timeout = 10000 } = {}) {
   return true;
 }
 
-export async function launchBrowser() {
+export async function launchBrowser({ headless = false } = {}) {
   const userAgent = process.platform === "win32"
     ? "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
     : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
   const context = await chromium.launchPersistentContext(PROFILE_DIR, {
-    headless: false,
+    headless,
     args: ["--disable-blink-features=AutomationControlled"],
     userAgent,
   });
