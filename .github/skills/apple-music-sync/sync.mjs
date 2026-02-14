@@ -13,20 +13,22 @@ import { existsSync } from "fs";
 
 import { BASE_URL, waitFor, waitAndClick, launchBrowser, waitForSignIn } from "./browser.mjs";
 import { parsePlaylistMarkdown } from "./parser.mjs";
-import { managedName, deletePlaylist, addTrackToPlaylist, addTrackToLibrary, readPlaylistTracks } from "./playlist.mjs";
+import { managedName, deletePlaylist, addTrackToPlaylist, addTrackToLibrary, readPlaylistTracks, reorderPlaylist } from "./playlist.mjs";
 
 async function main() {
   const args = process.argv.slice(2);
   const filePath = args.find(a => !a.startsWith("--"));
   const deleteFirst = args.includes("--delete-first");
   const libraryOnly = args.includes("--library-only");
+  const reorder = args.includes("--reorder");
   const headless = args.includes("--headless");
 
   if (!filePath || !existsSync(filePath)) {
     console.error(
-      "Usage: node sync.mjs <playlist.md> [--delete-first] [--library-only] [--headless]\n" +
-      "  --delete-first   Delete and recreate the playlist (for reordering)\n" +
+      "Usage: node sync.mjs <playlist.md> [--delete-first] [--library-only] [--reorder] [--headless]\n" +
+      "  --delete-first   Delete and recreate the playlist (for full rebuild)\n" +
       "  --library-only   Only add tracks to library, don't manage the playlist\n" +
+      "  --reorder        Reorder an existing playlist to match the markdown order\n" +
       "  --headless       Run in headless browser mode\n" +
       (filePath ? `\nError: ${filePath} not found` : "")
     );
@@ -52,12 +54,24 @@ async function main() {
   console.log(`Tracks:   ${tracks.length}`);
   if (deleteFirst) console.log(`Mode:     Delete and recreate`);
   if (libraryOnly) console.log(`Mode:     Library only (no playlist management)`);
+  if (reorder) console.log(`Mode:     Reorder existing playlist`);
   if (headless) console.log(`Mode:     Headless`);
   console.log("");
 
   const { context, page } = await launchBrowser({ headless });
 
   await waitForSignIn(page);
+
+  if (reorder) {
+    // Reorder mode: adjust track positions on the existing playlist
+    // to match the markdown order without deleting/recreating
+    await reorderPlaylist(page, playlistName, tracks);
+
+    console.log("\nBrowser will close in 5 seconds...");
+    await setTimeout(5000);
+    await context.close();
+    return;
+  }
 
   if (libraryOnly) {
     let added = 0;
@@ -199,6 +213,9 @@ async function main() {
               if (addAttempt === addRetries - 1) {
                 console.log(`  ${progress} ✗ ${song} — ${artist} (add did not persist after ${addRetries} attempts, playlist has ${actual.length} tracks)`);
                 failed.push(`${song} — ${artist}`);
+              } else {
+                // Wait before retrying — Apple Music needs time to stabilize
+                await new Promise(r => globalThis.setTimeout(r, 5000));
               }
             } else {
               console.error(`\n✗ Verification failed: expected ${added} track(s) but playlist has ${actual.length}.`);

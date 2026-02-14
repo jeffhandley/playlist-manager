@@ -82,10 +82,10 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | 44 | [Lay Lady Lay][44] | Ministry | Filth Pig | 1995 | Industrial powerhouse remake |
 | 45 | [Gone Away][45] | The Offspring | Ixnay on the Hombre | 1997 | 90s punk rock ballad |
 | 46 | [Gone Away][46] | Five Finger Death Punch | And Justice for None (Deluxe) | 2017 | Heavy melancholic metal |
-| 47 | [Turn the Page (Live In Detroit/1975)][47] | Bob Seger & The Silver Bullet Band | 'Live' Bullet | 1973 | Mellow 70s rock ballad |
-| 48 | [Turn the Page][48] | Metallica | Garage Inc. | 1998 | Dark, crunching metal version |
-| 49 | [Careless Whisper][49] | George Michael | Ladies & Gentlemen | 1984 | 80s pop sax classic |
-| 50 | [Careless Whisper][50] | Seether | Finding Beauty In Negative Spaces (Bonus Track Version) | 2007 | Post-grunge guitar rework |
+| 47 | [Careless Whisper][49] | George Michael | Ladies & Gentlemen | 1984 | 80s pop sax classic |
+| 48 | [Careless Whisper][50] | Seether | Finding Beauty In Negative Spaces (Bonus Track Version) | 2007 | Post-grunge guitar rework |
+| 49 | [Turn the Page (Live In Detroit/1975)][47] | Bob Seger & The Silver Bullet Band | 'Live' Bullet | 1973 | Mellow 70s rock ballad |
+| 50 | [Turn the Page][48] | Metallica | Garage Inc. | 1998 | Dark, crunching metal version |
 
 
 [1]: https://music.apple.com/us/song/live-and-let-die/1440952880

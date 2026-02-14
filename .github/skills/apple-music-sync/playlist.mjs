@@ -298,3 +298,145 @@ export async function addTrackToLibrary(page, song, artist) {
 
   return { status: "skipped", reason: "already in library or not found" };
 }
+
+// Navigate to a managed playlist page (or stay if already there).
+// Returns the count of visible track rows.
+async function navigateToPlaylistPage(page, playlistName) {
+  assertManaged(playlistName);
+  await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
+  const playlistLink = page.locator(`a:has-text("${playlistName}")`).first();
+  if (!await waitFor(playlistLink, { timeout: 5000 })) {
+    throw new Error(`Playlist "${playlistName}" not found`);
+  }
+  await playlistLink.click();
+  await waitFor(page.locator('.songs-list-row').first(), { timeout: 10000 });
+  return await page.locator('.songs-list-row').count();
+}
+
+// Reorder tracks on a managed playlist to match the desired order.
+// Since "Delete From Playlist" removes ALL copies of a song,
+// in-place reorder via copy-then-delete doesn't work. Instead:
+//   1. Compare current playlist order to desired order
+//   2. Find the first track that's out of place
+//   3. Delete all tracks from that point to the end
+//   4. Re-add them in the correct order using their permalinks
+export async function reorderPlaylist(page, playlistName, desiredOrder) {
+  assertManaged(playlistName);
+
+  // Read current state
+  let currentTracks = await readPlaylistTracks(page, playlistName);
+  if (!currentTracks) throw new Error(`Playlist "${playlistName}" not found`);
+
+  const key = (t) => t.song.toLowerCase();
+  const artistMatch = (a, b) => {
+    const al = a.toLowerCase(), bl = b.toLowerCase();
+    return al === bl || al.includes(bl) || bl.includes(al);
+  };
+
+  // Find the first mismatch
+  let firstMismatch = 0;
+  for (let i = 0; i < desiredOrder.length && i < currentTracks.length; i++) {
+    if (key(currentTracks[i]) === key(desiredOrder[i]) &&
+        artistMatch(currentTracks[i].artist, desiredOrder[i].artist)) {
+      firstMismatch = i + 1;
+    } else {
+      break;
+    }
+  }
+
+  if (firstMismatch >= desiredOrder.length) {
+    console.log("Playlist is already in the correct order.");
+    return { deleted: 0, added: 0 };
+  }
+
+  const tracksToReAdd = desiredOrder.slice(firstMismatch);
+  console.log(`First mismatch at position ${firstMismatch + 1}. Will delete ${currentTracks.length - firstMismatch} track(s) and re-add ${tracksToReAdd.length} in correct order.\n`);
+
+  // Delete tracks from the mismatch point to the end.
+  // We delete the track at position firstMismatch repeatedly (since rows shift up).
+  // Stay on the playlist page between deletes for speed — only re-navigate if needed.
+  let deleteCount = currentTracks.length - firstMismatch;
+  console.log(`Deleting ${deleteCount} track(s) from position ${firstMismatch + 1}...`);
+  await navigateToPlaylistPage(page, playlistName);
+
+  for (let d = 0; d < deleteCount; d++) {
+    const rows = page.locator('.songs-list-row');
+    const rowCount = await rows.count();
+    if (firstMismatch >= rowCount) break;
+
+    const row = rows.nth(firstMismatch);
+    await row.hover();
+    const playBtn = row.locator('button[aria-label^="Play"]').first();
+    const label = await playBtn.getAttribute('aria-label').catch(() => '');
+
+    const moreBtn = row.locator('button[aria-label="more"]').first();
+    if (!await waitAndClick(moreBtn, { timeout: 5000 })) {
+      // Re-navigate and retry once
+      await navigateToPlaylistPage(page, playlistName);
+      const retryRow = page.locator('.songs-list-row').nth(firstMismatch);
+      await retryRow.hover();
+      const retryMore = retryRow.locator('button[aria-label="more"]').first();
+      if (!await waitAndClick(retryMore, { timeout: 5000 })) {
+        console.log(`  ✗ Could not click more button for row ${firstMismatch}`);
+        break;
+      }
+    }
+
+    const deleteOption = page.locator('button:has-text("Remove from Playlist")').first();
+    if (!await waitAndClick(deleteOption, { timeout: 5000 })) {
+      await page.keyboard.press("Escape");
+      console.log(`  ✗ "Remove from Playlist" not found`);
+      break;
+    }
+
+    await new Promise(r => globalThis.setTimeout(r, 1000));
+    const songName = label?.replace(/^Play (.+?) by .+$/, '$1') || '?';
+    if ((d + 1) % 10 === 0 || d === deleteCount - 1) {
+      console.log(`  Deleted ${d + 1}/${deleteCount}: ${songName}`);
+    }
+  }
+
+  console.log(`\nRe-adding ${tracksToReAdd.length} track(s) in correct order...\n`);
+
+  // Re-add the tracks in the desired order
+  let added = firstMismatch;
+  for (let i = 0; i < tracksToReAdd.length; i++) {
+    const { song, artist, url } = tracksToReAdd[i];
+    const progress = `[${firstMismatch + i + 1}/${desiredOrder.length}]`;
+
+    // Retry loop for "add did not persist"
+    const addRetries = 3;
+    for (let attempt = 0; attempt < addRetries; attempt++) {
+      if (attempt > 0) {
+        console.log(`    (add retry ${attempt}/${addRetries - 1}: re-adding ${song})`);
+      }
+
+      const result = await addTrackToPlaylist(page, song, artist, playlistName, { url });
+      if (result.status === "added") {
+        added++;
+
+        const actual = await readPlaylistTracks(page, playlistName);
+        if (actual && actual.length === added) {
+          console.log(`  ${progress} ✓ ${song} — ${artist} (${actual.length} tracks)`);
+          break;
+        } else if (actual && actual.length === added - 1) {
+          added--;
+          if (attempt === addRetries - 1) {
+            console.log(`  ${progress} ✗ ${song} — ${artist} (add did not persist after ${addRetries} attempts)`);
+          }
+        } else {
+          console.log(`  ${progress} ✓ ${song} — ${artist} (${actual?.length} tracks, expected ${added})`);
+          break;
+        }
+      } else {
+        console.log(`  ${progress} ✗ ${song} — ${artist} (${result.reason})`);
+        break;
+      }
+    }
+  }
+
+  const finalTracks = await readPlaylistTracks(page, playlistName);
+  console.log(`\nReorder complete. Playlist now has ${finalTracks?.length} tracks.`);
+
+  return { deleted: deleteCount, added: added - firstMismatch };
+}

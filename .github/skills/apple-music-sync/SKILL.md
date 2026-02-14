@@ -29,13 +29,16 @@ A single cross-platform script that manages playlists entirely through the Apple
 
 ```bash
 # Sync a playlist (create if needed, add tracks)
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md [--headless]
 
-# Delete and recreate (for reordering)
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --delete-first
+# Delete and recreate (full rebuild)
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --delete-first [--headless]
+
+# Reorder an existing playlist to match the markdown
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --reorder [--headless]
 
 # Only add tracks to library (no playlist management)
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --library-only
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --library-only [--headless]
 ```
 
 The script:
@@ -43,15 +46,17 @@ The script:
 2. **Appends the 🤖 emoji** to the playlist name — all managed playlists are suffixed with this marker
 3. Opens Chromium with the Apple Music web player
 4. Waits for the user to sign in (persistent browser profile — only needed once)
-5. Creates the playlist if it doesn't exist (or deletes and recreates with `--delete-first`)
-6. Searches for each track and adds it to the playlist via the web player's context menu
+5. Navigates to each track's permalink and adds it via the web player's context menu
+6. Verifies each add by checking the playlist track count
 7. Reports any tracks that couldn't be found or added
 
 **Playlist safety:** The script will only ever delete or modify playlists that end with the 🤖 suffix. User-created playlists without this marker are never touched.
 
 **Flags:**
-- `--delete-first` — Delete the existing playlist before recreating it (use when reordering)
+- `--delete-first` — Delete the existing playlist before recreating it (full rebuild)
+- `--reorder` — Reorder an existing playlist to match the markdown without deleting it. Finds the first track out of place, removes tracks from that point onward, and re-adds them in the correct order.
 - `--library-only` — Only add tracks to the user's library without managing the playlist
+- `--headless` — Run in headless browser mode (no visible window)
 
 ## Workflow
 
@@ -69,9 +74,14 @@ The browser will open. The script uses a persistent browser profile, so if the u
 
 If sign-in is required (first run or expired session), the script will pause and wait. Tell the user to sign in interactively in the browser window and let you know when they've signed in. Once they confirm, create the signal file to proceed (the script prints the exact path).
 
-For reordering (delete and recreate):
+For reordering (delete from change point and re-add):
 ```bash
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --delete-first
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --reorder [--headless]
+```
+
+For full rebuild (delete and recreate):
+```bash
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --delete-first [--headless]
 ```
 
 ### Step 3: Verify
