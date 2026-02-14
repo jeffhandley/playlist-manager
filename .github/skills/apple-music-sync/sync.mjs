@@ -11,7 +11,7 @@
 import { setTimeout } from "timers/promises";
 import { existsSync } from "fs";
 
-import { waitFor, waitAndClick, launchBrowser, waitForSignIn } from "./browser.mjs";
+import { BASE_URL, waitFor, waitAndClick, launchBrowser, waitForSignIn } from "./browser.mjs";
 import { parsePlaylistMarkdown } from "./parser.mjs";
 import { managedName, deletePlaylist, addTrackToPlaylist, addTrackToLibrary, readPlaylistTracks } from "./playlist.mjs";
 
@@ -115,7 +115,26 @@ async function main() {
 
       // Wait for the dialog to dismiss and playlist to propagate
       await nameInput.waitFor({ state: "hidden", timeout: 10000 }).catch(() => {});
-      await new Promise(r => globalThis.setTimeout(r, 5000)); // allow Apple Music to register the new playlist
+
+      // Navigate to the playlist page to force Apple Music to register it,
+      // then wait for it to be fully accessible before adding more tracks.
+      console.log(`  Waiting for playlist to register...`);
+      let playlistFound = false;
+      for (let warmup = 0; warmup < 6; warmup++) {
+        await new Promise(r => globalThis.setTimeout(r, 5000));
+        await p.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
+        const link = p.locator(`a:has-text("${playlistName}")`).first();
+        if (await waitFor(link, { timeout: 5000 })) {
+          await link.click();
+          await waitFor(p.locator('.songs-list-row').first(), { timeout: 10000 }).catch(() => {});
+          playlistFound = true;
+          break;
+        }
+      }
+
+      if (!playlistFound) {
+        console.log(`  Warning: playlist page not accessible yet, continuing anyway...`);
+      }
 
       playlistCreated = true;
       console.log(`Created playlist "${playlistName}".`);
@@ -140,42 +159,60 @@ async function main() {
         const opts = playlistCreated
           ? { url }
           : { url, onCreatePlaylist, forceCreate: deleteFirst && !playlistCreated };
-        const result = await addTrackToPlaylist(page, song, artist, playlistName, opts);
-        if (result.status === "added" || result.status === "created") {
-          added++;
 
-          // Skip verification right after playlist creation — give Apple Music time to register it
-          if (result.status === "created") {
-            console.log(`  ${progress} ✓ ${song} — ${artist} (playlist created)`);
-            continue;
+        // Retry loop for "add did not persist" — the add appears to succeed
+        // but the track isn't on the playlist when we verify
+        const addRetries = 3;
+        let trackAdded = false;
+
+        for (let addAttempt = 0; addAttempt < addRetries; addAttempt++) {
+          if (addAttempt > 0) {
+            console.log(`    (add retry ${addAttempt}/${addRetries - 1}: re-adding ${song})`);
           }
 
-          // Verify the playlist state after each successful add
-          const actual = await readPlaylistTracks(page, playlistName);
+          const result = await addTrackToPlaylist(page, song, artist, playlistName, opts);
+          if (result.status === "added" || result.status === "created") {
+            added++;
 
-          if (!actual) {
-            console.error(`\n✗ Verification failed: playlist "${playlistName}" not found after adding track.`);
-            process.exit(1);
-          }
-
-          if (actual.length === added) {
-            console.log(`  ${progress} ✓ ${song} — ${artist} (${actual.length} tracks)`);
-          } else if (actual.length === added - 1) {
-            // Track add didn't persist — undo the count and mark as failed
-            added--;
-            console.log(`  ${progress} ✗ ${song} — ${artist} (add did not persist, playlist has ${actual.length} tracks)`);
-            failed.push(`${song} — ${artist}`);
-          } else {
-            console.error(`\n✗ Verification failed: expected ${added} track(s) but playlist has ${actual.length}.`);
-            console.error(`  Last added: ${song} — ${artist}`);
-            if (actual.length > added) {
-              console.error(`  Extra tracks detected — possible duplicates. Stopping.`);
+            // Skip verification right after playlist creation — give Apple Music time to register it
+            if (result.status === "created") {
+              console.log(`  ${progress} ✓ ${song} — ${artist} (playlist created)`);
+              trackAdded = true;
+              break;
             }
-            process.exit(1);
+
+            // Verify the playlist state after each successful add
+            const actual = await readPlaylistTracks(page, playlistName);
+
+            if (!actual) {
+              console.error(`\n✗ Verification failed: playlist "${playlistName}" not found after adding track.`);
+              process.exit(1);
+            }
+
+            if (actual.length === added) {
+              console.log(`  ${progress} ✓ ${song} — ${artist} (${actual.length} tracks)`);
+              trackAdded = true;
+              break;
+            } else if (actual.length === added - 1) {
+              // Track add didn't persist — undo the count and retry
+              added--;
+              if (addAttempt === addRetries - 1) {
+                console.log(`  ${progress} ✗ ${song} — ${artist} (add did not persist after ${addRetries} attempts, playlist has ${actual.length} tracks)`);
+                failed.push(`${song} — ${artist}`);
+              }
+            } else {
+              console.error(`\n✗ Verification failed: expected ${added} track(s) but playlist has ${actual.length}.`);
+              console.error(`  Last added: ${song} — ${artist}`);
+              if (actual.length > added) {
+                console.error(`  Extra tracks detected — possible duplicates. Stopping.`);
+              }
+              process.exit(1);
+            }
+          } else {
+            console.log(`  ${progress} ✗ ${song} — ${artist} (${result.reason})`);
+            failed.push(`${song} — ${artist}`);
+            break; // don't retry non-persist failures
           }
-        } else {
-          console.log(`  ${progress} ✗ ${song} — ${artist} (${result.reason})`);
-          failed.push(`${song} — ${artist}`);
         }
       } catch (err) {
         console.log(`  ${progress} ✗ ${song} — ${artist} (${err.message.split("\n")[0]})`);

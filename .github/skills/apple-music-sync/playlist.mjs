@@ -270,6 +270,8 @@ export async function addTrackToPlaylist(page, song, artist, playlistName, { url
     await page.keyboard.press("Escape");
     await page.keyboard.press("Escape");
     console.log(`    (retry ${attempt + 1}/${maxAttempts}: playlist not found in submenu)`);
+    // Wait before retrying to allow playlist to propagate
+    await new Promise(r => globalThis.setTimeout(r, 5000));
   }
 
   return { status: "missing", reason: `playlist "${playlistName}" not found in menu after ${maxAttempts} retries` };
