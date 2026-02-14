@@ -219,7 +219,7 @@ export async function addAlbumToPlaylist(page, albumUrl, playlistName, { onCreat
     }
   }
 
-  const targetPlaylist = page.locator(`button:has-text("${playlistName}")`).first();
+  const targetPlaylist = page.locator('button').getByText(playlistName, { exact: true }).first();
   if (await waitAndClick(targetPlaylist, { timeout: 10000 })) {
     return { status: "added", trackCount };
   }
@@ -356,7 +356,7 @@ export async function addTrackToPlaylist(page, song, artist, playlistName, { url
       }
     }
 
-    const targetPlaylist = page.locator(`button:has-text("${playlistName}")`).first();
+    const targetPlaylist = page.locator('button').getByText(playlistName, { exact: true }).first();
     if (await waitAndClick(targetPlaylist, { timeout: 10000 })) {
       return { status: "added" };
     }

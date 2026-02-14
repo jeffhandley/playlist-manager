@@ -141,8 +141,8 @@ async function syncPlaylist(page, tracks, playlistName, description) {
 
       try {
         const opts = playlistCreated
-          ? { url: track.url }
-          : { url: track.url, onCreatePlaylist, forceCreate: !playlistCreated };
+          ? { url: track.url, expectedCount: added, retries: 5 }
+          : { url: track.url, onCreatePlaylist, forceCreate: !playlistCreated, retries: 5 };
 
         const result = await addTrackWithRetry(page, track, playlistName, opts);
 
@@ -150,8 +150,10 @@ async function syncPlaylist(page, tracks, playlistName, description) {
           added++;
           if (result.created) {
             console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (playlist created)`);
+          } else if (result.unexpected) {
+            console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count} tracks, expected ${added})`);
           } else {
-            console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
+            console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count ?? added} tracks)`);
           }
         } else {
           console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
