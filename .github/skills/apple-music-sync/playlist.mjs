@@ -530,10 +530,12 @@ export async function updatePlaylistDescription(page, playlistName, description)
 }
 
 // Create a backup copy of a managed playlist for today's date.
-// The backup playlist is named "<playlistName> (yyyy-MM-dd) 🤖".
+// The backup playlist is named "<playlistName> (yyyy-MM-dd)" — the 🤖
+// sits between the original name and the datestamp, so backups don't
+// end with 🤖 and are immune to accidental mutation by automation.
 // If a backup for today already exists, this is a no-op.
 // Uses the playlist page (...) → "Add to Playlist" → "New Playlist" flow
-// to copy all tracks into the backup playlist.
+// to copy all tracks and description into the backup playlist.
 export async function backupPlaylist(page, playlistName) {
   assertManaged(playlistName);
 
@@ -557,6 +559,12 @@ export async function backupPlaylist(page, playlistName) {
     console.log(`Playlist "${playlistName}" not found — nothing to back up.\n`);
     return false;
   }
+
+  // Capture the description before opening the menu
+  const sourceDesc = await page.evaluate(() => {
+    const el = document.querySelector('.headings__subtitles, .headings__description, .playlist-description');
+    return el?.textContent?.trim() || '';
+  });
 
   // Click (...) → "Add to Playlist" → "New Playlist"
   const moreButton = page.locator('button[aria-label="more"]').first();
@@ -589,6 +597,12 @@ export async function backupPlaylist(page, playlistName) {
   }
 
   await nameInput.fill(backupName);
+
+  // Copy the description if present
+  const descInput = page.locator('textarea.description').first();
+  if (sourceDesc && await waitFor(descInput, { timeout: 2000 })) {
+    await descInput.fill(sourceDesc);
+  }
 
   const createButton = page.locator('button:has-text("Create")').first();
   if (!await waitAndClick(createButton, { timeout: 5000 })) {
