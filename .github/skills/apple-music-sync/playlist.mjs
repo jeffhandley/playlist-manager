@@ -56,12 +56,8 @@ export async function deletePlaylist(page, playlistName) {
 
   let deleted = 0;
   while (true) {
-    await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
-
-    const playlistLink = page.locator(`a:has-text("${playlistName}")`).first();
-    if (!await waitFor(playlistLink)) break;
-
-    await playlistLink.click();
+    const count = await navigateToPlaylistPage(page, playlistName);
+    if (count === null) break;
 
     const moreButton = page.locator('button[aria-label="more"]').first();
     if (!await waitAndClick(moreButton)) break;
@@ -72,7 +68,6 @@ export async function deletePlaylist(page, playlistName) {
       break;
     }
 
-    // Confirm deletion — dialog has "OK" and "Cancel" buttons
     const confirmButton = page.locator('article.error-modal__container button:has-text("OK")').first();
     if (await waitAndClick(confirmButton)) {
       await page.waitForURL(/\/library\//, { timeout: 10000 }).catch(() => {});
@@ -210,7 +205,6 @@ export async function findTrackMoreButton(page, song, artist) {
   }
 
   const count = await songHints.count();
-  let clicked = false;
   const songLower = song.toLowerCase();
   const artistLower = artist.toLowerCase();
 
@@ -228,30 +222,15 @@ export async function findTrackMoreButton(page, song, artist) {
     candidates.push({ hint, matchesSong, matchesArtist, text });
   }
 
-  // Pick best match: song+artist > song only > any
+  // Pick best match: song+artist > song only > first candidate > first hint
   const best = candidates.find(c => c.matchesSong && c.matchesArtist)
     || candidates.find(c => c.matchesSong)
     || candidates[0];
 
   if (best) {
     await best.hint.click();
-    clicked = true;
-  }
-
-  if (!clicked) {
-    // Fallback: click any non-Live Song hint, or first hint
-    for (let i = 0; i < count; i++) {
-      const hint = songHints.nth(i);
-      const text = await hint.innerText();
-      if (text.includes("Song") && !isUnwantedLive(text, song)) {
-        await hint.click();
-        clicked = true;
-        break;
-      }
-    }
-    if (!clicked) {
-      await songHints.first().click();
-    }
+  } else {
+    await songHints.first().click();
   }
 
   // Wait for the album page to load with track rows
