@@ -52,7 +52,7 @@ The script:
 
 ### Backups
 
-Before every sync, the script creates a backup playlist named `<name> 🔙 (yyyy-MM-dd)`. The backup uses the 🔙 emoji (not 🤖) to distinguish it from managed playlists. The playlist description is copied into the backup.
+Before every sync, the script creates a backup by **renaming** the existing 🤖 playlist to `<name> 🔙 (yyyy-MM-dd)`. This preserves all tracks and the description. The sync then creates a fresh 🤖 playlist from scratch.
 
 **⚠️ Backups are immutable.** Once created, a backup must **NEVER** be modified, renamed, or deleted by automation. The `assertManaged` guard will throw an error if any operation attempts to touch a playlist containing the 🔙 marker. Only one backup per playlist per day is created; if today's backup already exists, it is skipped.
 

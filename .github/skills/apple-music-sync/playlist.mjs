@@ -406,26 +406,29 @@ export async function addTrackToLibrary(page, song, artist) {
   return { status: "skipped", reason: "already in library or not found" };
 }
 
-// Rename an existing managed playlist.
-// Opens the playlist's Edit dialog via the "more" menu, clears the title input, and types the new name.
-export async function renamePlaylist(page, oldName, newName) {
-  assertManaged(oldName);
-  assertManaged(newName);
-
-  const count = await navigateToPlaylistPage(page, oldName);
-  if (count === null) {
-    console.log(`Playlist "${oldName}" not found — cannot rename.`);
+// Internal: rename a playlist via the Edit dialog. No safety checks — callers must validate.
+async function _renameTo(page, playlistName, newName) {
+  // Navigate to the playlist without assertManaged (backup names contain 🔙)
+  let playlistLink;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
+    playlistLink = page.getByRole('link', { name: playlistName, exact: true }).first();
+    if (await waitFor(playlistLink, { timeout: 5000 })) break;
+    playlistLink = null;
+  }
+  if (!playlistLink) {
+    console.log(`Playlist "${playlistName}" not found — cannot rename.`);
     return false;
   }
+  await playlistLink.click();
+  await waitFor(page.locator('.songs-list-row').first(), { timeout: 10000 });
 
-  // Open the "more" context menu
   const moreButton = page.locator('button[aria-label="more"]').first();
   if (!await waitAndClick(moreButton)) {
     console.log("  Note: could not find more button on playlist page.");
     return false;
   }
 
-  // Click "Edit" in the context menu
   const editBtn = page.locator('amp-contextual-menu button[title="Edit"]').first();
   if (!await waitAndClick(editBtn)) {
     await page.keyboard.press("Escape");
@@ -435,7 +438,6 @@ export async function renamePlaylist(page, oldName, newName) {
 
   await setTimeout(1000);
 
-  // Fill the title input
   const nameInput = page.locator('input.playlist-title').first();
   if (await waitFor(nameInput, { timeout: 5000 })) {
     await nameInput.fill(newName);
@@ -444,18 +446,26 @@ export async function renamePlaylist(page, oldName, newName) {
     return false;
   }
 
-  // Save by clicking "Done" or clicking away from the edit area
   const doneBtn = page.locator('button:has-text("Done")').first();
   if (await waitAndClick(doneBtn, { timeout: 3000 })) {
     // Done button found and clicked
   } else {
-    // No explicit Done button — click away from the edit area to save
     await page.locator('.songs-list').first().click().catch(() => {});
   }
 
   await setTimeout(1000);
-  console.log(`Renamed "${oldName}" to "${newName}".`);
   return true;
+}
+
+// Rename an existing managed playlist.
+// Opens the playlist's Edit dialog via the "more" menu, clears the title input, and types the new name.
+export async function renamePlaylist(page, oldName, newName) {
+  assertManaged(oldName);
+  assertManaged(newName);
+
+  const result = await _renameTo(page, oldName, newName);
+  if (result) console.log(`Renamed "${oldName}" to "${newName}".`);
+  return result;
 }
 
 // Update the description on an existing managed playlist.
@@ -509,14 +519,12 @@ export async function updatePlaylistDescription(page, playlistName, description)
   return true;
 }
 
-// Create a backup copy of a managed playlist for today's date.
-// The backup playlist is named "<name> 🔙 (yyyy-MM-dd)" — using a different
-// emoji from the managed marker so backups are visually distinct and immune
-// to accidental mutation by automation. Once created, backups are NEVER
-// modified or deleted.
+// Create a backup of a managed playlist for today's date.
+// The backup is created by RENAMING the existing 🤖 playlist to a 🔙 backup
+// name. The sync will then create a fresh 🤖 playlist. This preserves all
+// tracks (the old "Add to Playlist" approach only copied ~100 tracks).
+// Once renamed to 🔙, the backup is immutable — never modified or deleted.
 // If a backup for today already exists, this is a no-op.
-// Uses the playlist page (...) → "Add to Playlist" → "New Playlist" flow
-// to copy all tracks and description into the backup playlist.
 export async function backupPlaylist(page, playlistName) {
   assertManaged(playlistName);
 
@@ -535,69 +543,21 @@ export async function backupPlaylist(page, playlistName) {
     return true;
   }
 
-  // Navigate to the source playlist page
-  const count = await navigateToPlaylistPage(page, playlistName);
-  if (count === null) {
+  // Check if the managed playlist exists
+  const existingPlaylist = page.getByRole('link', { name: playlistName, exact: true }).first();
+  if (!await waitFor(existingPlaylist, { timeout: 3000 })) {
     console.log(`Playlist "${playlistName}" not found — nothing to back up.\n`);
     return false;
   }
 
-  // Capture the description before opening the menu
-  const sourceDesc = await page.evaluate(() => {
-    const el = document.querySelector('.headings__subtitles, .headings__description, .playlist-description');
-    return el?.textContent?.trim() || '';
-  });
-
-  // Click (...) → "Add to Playlist" → "New Playlist"
-  const moreButton = page.locator('button[aria-label="more"]').first();
-  if (!await waitAndClick(moreButton)) {
-    console.log("  Warning: could not find more button on playlist page for backup.");
+  // Rename the 🤖 playlist to the 🔙 backup name
+  const result = await _renameTo(page, playlistName, backupName);
+  if (!result) {
+    console.log(`  Warning: could not rename playlist for backup.\n`);
     return false;
   }
 
-  const addToPlaylist = page.locator('button:has-text("Add to Playlist")').first();
-  if (!await waitAndClick(addToPlaylist)) {
-    await page.keyboard.press("Escape");
-    console.log("  Warning: Add to Playlist option not found for backup.");
-    return false;
-  }
-
-  const newPlaylist = page.locator('button:has-text("New Playlist")').first();
-  if (!await waitAndClick(newPlaylist)) {
-    await page.keyboard.press("Escape");
-    await page.keyboard.press("Escape");
-    console.log("  Warning: New Playlist option not found for backup.");
-    return false;
-  }
-
-  // Fill in the backup playlist name
-  const nameInput = page.locator('input.playlist-title').first();
-  if (!await waitFor(nameInput, { timeout: 10000 })) {
-    console.log("  Warning: playlist title input not found in create dialog for backup.");
-    await page.keyboard.press("Escape");
-    return false;
-  }
-
-  await nameInput.fill(backupName);
-
-  // Copy the description if present
-  const descInput = page.locator('textarea.description').first();
-  if (sourceDesc && await waitFor(descInput, { timeout: 2000 })) {
-    await descInput.fill(sourceDesc);
-  }
-
-  const createButton = page.locator('button:has-text("Create")').first();
-  if (!await waitAndClick(createButton, { timeout: 5000 })) {
-    console.log("  Warning: Create button not found in create dialog for backup.");
-    await page.keyboard.press("Escape");
-    return false;
-  }
-
-  // Wait for the dialog to dismiss
-  await nameInput.waitFor({ state: "hidden", timeout: 10000 }).catch(() => {});
-  await setTimeout(3000);
-
-  console.log(`Created backup "${backupName}" with ${count} track(s).\n`);
+  console.log(`Created backup "${backupName}" (renamed from "${playlistName}").\n`);
   return true;
 }
 
