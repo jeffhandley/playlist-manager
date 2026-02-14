@@ -52,9 +52,9 @@ The script:
 
 ### Backups
 
-Before every sync, the script creates a backup playlist named `<name> 📀 (yyyy-MM-dd)`. The backup uses the 📀 emoji (not 🤖) to distinguish it from managed playlists. The playlist description is copied into the backup.
+Before every sync, the script creates a backup playlist named `<name> 🔙 (yyyy-MM-dd)`. The backup uses the 🔙 emoji (not 🤖) to distinguish it from managed playlists. The playlist description is copied into the backup.
 
-**⚠️ Backups are immutable.** Once created, a backup must **NEVER** be modified, renamed, or deleted by automation. The `assertManaged` guard will throw an error if any operation attempts to touch a playlist containing the 📀 marker. Only one backup per playlist per day is created; if today's backup already exists, it is skipped.
+**⚠️ Backups are immutable.** Once created, a backup must **NEVER** be modified, renamed, or deleted by automation. The `assertManaged` guard will throw an error if any operation attempts to touch a playlist containing the 🔙 marker. Only one backup per playlist per day is created; if today's backup already exists, it is skipped.
 
 **Flags:**
 - `--rename-from="Old Name"` — Rename an existing playlist. The old name is looked up in Apple Music; the new name comes from the markdown `# heading`.

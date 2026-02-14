@@ -9,7 +9,7 @@ const PLAYLIST_MARKER = " 🤖";
 
 // Backup marker — backups use a different emoji so they are visually distinct
 // from managed playlists and are NEVER modified or deleted by automation.
-const BACKUP_MARKER = " 📀";
+const BACKUP_MARKER = " 🔙";
 
 export function managedName(name) {
   return name.endsWith(PLAYLIST_MARKER) ? name : name + PLAYLIST_MARKER;
@@ -510,7 +510,7 @@ export async function updatePlaylistDescription(page, playlistName, description)
 }
 
 // Create a backup copy of a managed playlist for today's date.
-// The backup playlist is named "<name> 📀 (yyyy-MM-dd)" — using a different
+// The backup playlist is named "<name> 🔙 (yyyy-MM-dd)" — using a different
 // emoji from the managed marker so backups are visually distinct and immune
 // to accidental mutation by automation. Once created, backups are NEVER
 // modified or deleted.
