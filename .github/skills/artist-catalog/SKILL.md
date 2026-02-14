@@ -66,14 +66,14 @@ Save the playlist as a markdown file in the `playlists/` folder.
 
 **Single artist:**
 ```markdown
-# [Artist] — Studio Catalog
+# [Artist]
 
 Complete studio discography for [Artist], organized by album in chronological order.
 ```
 
 **Multiple artists:**
 ```markdown
-# [Artist A] / [Artist B] — Studio Catalog
+# [Artist A] / [Artist B]
 
 Combined studio discography for [Artist A] and [Artist B], with albums interleaved in chronological order.
 ```
@@ -117,7 +117,7 @@ Use footnote-style link references for Apple Music permalinks:
 
 Use the apple-music-sync skill to sync the playlist:
 ```bash
-node .github/skills/apple-music-sync/sync.mjs playlists/<artist-catalog>.md --headless
+node .github/skills/apple-music-sync/sync.mjs playlists/<artist>.md --headless
 ```
 
 ## Important Guidelines
@@ -128,11 +128,10 @@ node .github/skills/apple-music-sync/sync.mjs playlists/<artist-catalog>.md --he
 - Greatest hits / best-of albums are excluded (tracks already appear on their original albums)
 
 ### What to Exclude
-- Live recordings and live albums
+- Live albums (but live tracks on studio albums/EPs are included by default — ask the user if many tracks on an album appear to be live)
 - Remixes and remix albums
 - Demo versions
 - Compilation-only tracks (unless they are original studio recordings not on any album)
-- Interludes, skits, and tracks under 30 seconds
 - Soundtrack contributions (unless the user specifically requests them)
 
 ### Handling Variants
@@ -146,7 +145,7 @@ node .github/skills/apple-music-sync/sync.mjs playlists/<artist-catalog>.md --he
 - The Artist column in the table distinguishes which artist each track belongs to
 
 ### Naming Convention
-- Single artist: `playlists/<artist-slug>-catalog.md` (e.g., `playlists/nine-inch-nails-catalog.md`)
-- Multiple artists: `playlists/<artist1>-<artist2>-catalog.md` (e.g., `playlists/nin-depeche-mode-catalog.md`)
-- Single artist title: `[Artist] — Studio Catalog`
-- Multiple artist title: `[Artist A] / [Artist B] — Studio Catalog`
+- Single artist: `playlists/<artist-slug>.md` (e.g., `playlists/nine-inch-nails.md`)
+- Multiple artists: `playlists/<artist1>-<artist2>.md` (e.g., `playlists/nin-depeche-mode.md`)
+- Single artist title: `[Artist]`
+- Multiple artist title: `[Artist A] / [Artist B]`

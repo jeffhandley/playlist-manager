@@ -9,7 +9,7 @@ Complete Nine Inch Nails discography organized in chronological order. Includes 
 - The playlist is defined in this file — this is the source of truth
 - Use the **artist-catalog** skill for rebuilding or updating
 - Use the **apple-music-sync** skill for syncing to Apple Music
-- Sync with: `node .github/skills/apple-music-sync/sync.mjs playlists/nine-inch-nails-catalog.md --headless`
+- Sync with: `node .github/skills/apple-music-sync/sync.mjs playlists/nine-inch-nails.md --headless`
 
 ### Ordering
 
