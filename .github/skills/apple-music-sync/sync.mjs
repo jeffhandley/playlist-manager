@@ -134,30 +134,53 @@ async function syncPlaylist(page, tracks, playlistName, description) {
 
     const failed = [];
     let added = 0;
+    let lastRetried = false;
+    let verifyInterval = 5;   // tracks between verifications (grows: 5→10→20→30)
+    let sinceLastVerify = 0;
 
     for (let i = 0; i < tracks.length; i++) {
       const track = tracks[i];
       const progress = `[${i + 1}/${tracks.length}]`;
 
+      // Adaptive verification: always verify tracks 1-2, after a retry,
+      // or after verifyInterval tracks. Otherwise skip verification for speed.
+      const shouldVerify = added < 2 || lastRetried || sinceLastVerify >= verifyInterval;
+
       try {
         const opts = playlistCreated
-          ? { url: track.url, expectedCount: added, retries: 5 }
+          ? { url: track.url, retries: 5, ...(shouldVerify ? { expectedCount: added } : {}) }
           : { url: track.url, onCreatePlaylist, forceCreate: !playlistCreated, retries: 5 };
 
         const result = await addTrackWithRetry(page, track, playlistName, opts);
+        lastRetried = result.retried || false;
 
         if (result.added) {
           added++;
+          sinceLastVerify++;
+
           if (result.created) {
             console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (playlist created)`);
-          } else if (result.unexpected) {
-            console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count} tracks, expected ${added})`);
+            sinceLastVerify = 0;
+          } else if (result.count != null) {
+            // Verified — check if count matches and adjust interval
+            sinceLastVerify = 0;
+            if (result.count === added) {
+              console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count} tracks)`);
+              // Successful verify — expand interval (5→10→20→30 max)
+              if (!lastRetried) verifyInterval = Math.min(30, verifyInterval < 10 ? verifyInterval + 5 : verifyInterval + 10);
+            } else {
+              console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count} tracks, expected ${added})`);
+              added = result.count; // correct our count
+              verifyInterval = 5;  // reset interval after mismatch
+            }
           } else {
-            console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count ?? added} tracks)`);
+            // Unverified add
+            console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
           }
         } else {
           console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
           failed.push(`${track.song} — ${track.artist}`);
+          lastRetried = true; // verify the next one
         }
       } catch (err) {
         console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${err.message.split("\n")[0]})`);

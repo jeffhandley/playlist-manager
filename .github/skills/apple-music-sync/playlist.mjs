@@ -131,7 +131,7 @@ export async function addTrackWithRetry(page, track, playlistName, opts = {}) {
     }
 
     if (result.status === "added") {
-      if (expectedCount == null) return { added: true };
+      if (expectedCount == null) return { added: true, retried: attempt > 0 };
 
       const actual = await readPlaylistTracks(page, playlistName);
       if (!actual) {
@@ -141,7 +141,7 @@ export async function addTrackWithRetry(page, track, playlistName, opts = {}) {
 
       const target = expectedCount + 1;
       if (actual.length === target) {
-        return { added: true, count: actual.length };
+        return { added: true, count: actual.length, retried: attempt > 0 };
       } else if (actual.length === expectedCount) {
         // Add didn't persist — retry
         if (attempt === retries - 1) {
@@ -149,7 +149,7 @@ export async function addTrackWithRetry(page, track, playlistName, opts = {}) {
         }
       } else {
         // Unexpected count
-        return { added: true, count: actual.length, unexpected: true };
+        return { added: true, count: actual.length, unexpected: true, retried: attempt > 0 };
       }
     } else {
       return { added: false, reason: result.reason };
