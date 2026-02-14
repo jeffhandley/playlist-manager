@@ -84,7 +84,7 @@ export async function deletePlaylist(page, playlistName) {
 
 // Create a new managed playlist via the "New Playlist" dialog.
 // Called as a callback from addTrackToPlaylist when the playlist doesn't exist.
-export async function createPlaylist(page, playlistName) {
+export async function createPlaylist(page, playlistName, { description } = {}) {
   assertManaged(playlistName);
 
   const nameInput = page.locator('input.playlist-title').first();
@@ -95,6 +95,16 @@ export async function createPlaylist(page, playlistName) {
   }
 
   await nameInput.fill(playlistName);
+
+  // Fill in the description if provided
+  if (description) {
+    const descInput = page.locator('textarea.description').first();
+    if (await waitFor(descInput, { timeout: 3000 })) {
+      await descInput.fill(description);
+    } else {
+      console.log("  Note: description field not found in create dialog.");
+    }
+  }
 
   const createButton = page.locator('button:has-text("Create")').first();
   if (!await waitAndClick(createButton, { timeout: 5000 })) {
@@ -414,6 +424,57 @@ export async function addTrackToLibrary(page, song, artist) {
   }
 
   return { status: "skipped", reason: "already in library or not found" };
+}
+
+// Update the description on an existing managed playlist.
+// Opens the playlist's Edit dialog via the "more" menu, fills the description textarea, and saves.
+export async function updatePlaylistDescription(page, playlistName, description) {
+  assertManaged(playlistName);
+
+  const count = await navigateToPlaylistPage(page, playlistName);
+  if (count === null) {
+    console.log(`Playlist "${playlistName}" not found — cannot update description.`);
+    return false;
+  }
+
+  // Open the "more" context menu
+  const moreButton = page.locator('button[aria-label="more"]').first();
+  if (!await waitAndClick(moreButton)) {
+    console.log("  Note: could not find more button on playlist page.");
+    return false;
+  }
+
+  // Click "Edit" in the context menu
+  const editBtn = page.locator('amp-contextual-menu button[title="Edit"]').first();
+  if (!await waitAndClick(editBtn)) {
+    await page.keyboard.press("Escape");
+    console.log("  Note: could not find Edit option in menu.");
+    return false;
+  }
+
+  await setTimeout(1000);
+
+  // Fill the description textarea
+  const descInput = page.locator('textarea.description').first();
+  if (await waitFor(descInput, { timeout: 5000 })) {
+    await descInput.fill(description);
+  } else {
+    console.log("  Note: description textarea not found in edit mode.");
+    return false;
+  }
+
+  // Save by clicking "Done" or pressing Escape to dismiss edit mode
+  const doneBtn = page.locator('button:has-text("Done")').first();
+  if (await waitAndClick(doneBtn, { timeout: 3000 })) {
+    // Done button found and clicked
+  } else {
+    // No explicit Done button — click away from the edit area to save
+    await page.locator('.songs-list').first().click().catch(() => {});
+  }
+
+  await setTimeout(1000);
+  console.log(`Updated description for "${playlistName}".`);
+  return true;
 }
 
 // Navigate to a managed playlist page. Returns the track row count, or null if not found.
