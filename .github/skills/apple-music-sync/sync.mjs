@@ -17,6 +17,7 @@ import {
   managedName, createPlaylist, deletePlaylist,
   addTrackToPlaylist, addTrackWithRetry, addTrackToLibrary,
   readPlaylistTracks, reorderPlaylist, renamePlaylist, updatePlaylistDescription,
+  backupPlaylist,
 } from "./playlist.mjs";
 
 async function main() {
@@ -78,6 +79,7 @@ async function main() {
   }
 
   if (reorder) {
+    await backupPlaylist(page, playlistName);
     await reorderPlaylist(page, playlistName, tracks);
     console.log("\nBrowser will close in 5 seconds...");
     await setTimeout(5000);
@@ -128,6 +130,9 @@ async function syncLibraryOnly(page, tracks) {
 }
 
 async function syncPlaylist(page, tracks, playlistName, deleteFirst, description) {
+  // Back up the playlist before making any changes (once per day)
+  await backupPlaylist(page, playlistName);
+
   if (deleteFirst) {
     await deletePlaylist(page, playlistName);
   }
