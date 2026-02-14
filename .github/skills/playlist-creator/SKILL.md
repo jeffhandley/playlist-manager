@@ -60,23 +60,44 @@ Ask the user for feedback on the proposed playlist:
 
 Repeat this cycle until the user is satisfied. When presenting revisions, show the full updated playlist each time so the user can see the complete picture.
 
-### Phase 4: Lock In and Save
+### Phase 4: Harvest Apple Music Permalinks
 
-When the user confirms they are happy with the playlist, explicitly confirm the final track list. Present the complete, final playlist and ask: **"Are you ready to lock this in?"**
+Once the user is satisfied with the track list, look up each track on Apple Music to get its permalink. This substantially improves sync reliability by allowing the sync script to navigate directly to the correct song instead of relying on search.
+
+For each track:
+1. Search Apple Music for the song: fetch `https://music.apple.com/us/search?term={song}+{artist}`
+2. Find the matching song result and capture its permalink URL
+3. Format: `https://music.apple.com/us/song/{slug}/{songId}`
+
+If a song cannot be found on Apple Music, leave it as plain text (no link) and add a note.
+
+Present the complete playlist with permalinks to the user so they can verify the song title slugs are correct.
+
+### Phase 5: Lock In
+
+Present the complete, final playlist with permalinks and ask: **"Are you ready to lock this in?"**
 
 Do not proceed until the user confirms.
 
-Once confirmed, save the playlist as a markdown file in the `playlists/` folder. Use a table format:
+### Phase 6: Save the Playlist
+
+Save the playlist as a markdown file in the `playlists/` folder. Use a table format with footnote-style link references for Apple Music permalinks:
 
 ```markdown
 # Playlist Name
 
 Brief description of the playlist.
 
-| # | Song | Artist | Note |
-|---|------|--------|------|
-| 1 | Song Title | Artist Name | Brief note |
+| # | Song | Artist | Album | Year | Note |
+|---|------|--------|-------|------|------|
+| 1 | [Song Title][1] | Artist Name | Album Name | 2024 | Brief note |
+| 2 | [Song Title][2] | Artist Name | Album Name | 2024 | Brief note |
+
+[1]: https://music.apple.com/us/song/song-slug/123456789
+[2]: https://music.apple.com/us/song/song-slug/987654321
 ```
+
+Songs without a verified Apple Music permalink should be listed without a link reference.
 
 ## Playlist-Specific Instructions
 

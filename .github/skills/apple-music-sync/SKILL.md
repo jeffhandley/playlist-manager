@@ -67,24 +67,61 @@ Before every sync, the script creates a backup by **renaming** the existing 🤖
 
 Determine which playlist markdown file to sync from the `playlists/` folder.
 
-### Step 2: Sync to Apple Music
+### Step 2: Launch as an Independent Process
 
-```bash
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md [--headless]
+**⚠️ CRITICAL: Never run the sync script as a direct shell command or `Start-Job`.** The agent's shell sessions recycle between turns, which kills child processes and background jobs — including the browser the user is trying to sign into. Instead, **always launch the sync as a fully independent process** using `Start-Process` with a wrapper script so the process survives session recycling.
+
+```powershell
+# Ensure node is on the PATH
+$env:PATH = [System.Environment]::GetEnvironmentVariable("PATH", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("PATH", "User") + ";" + $env:PATH
+
+$nodePath = (Get-Command node).Source
+$logFile = "$env:TEMP\apple-music-sync.log"
+$workDir = (Get-Location).Path
+
+# Write a wrapper script so the process is fully independent
+$wrapper = "$env:TEMP\run-sync.ps1"
+@"
+Set-Location '$workDir'
+& '$nodePath' '.github/skills/apple-music-sync/sync.mjs' 'playlists/<name>.md' *> '$logFile'
+"@ | Set-Content $wrapper -Encoding utf8
+
+# Launch as a fully independent process (survives shell recycling)
+Start-Process pwsh -ArgumentList "-NoProfile", "-File", $wrapper -WindowStyle Hidden
+Write-Output "Launched sync process. Log: $logFile"
 ```
 
-The browser will open. The script uses a persistent browser profile, so if the user has previously signed in, it will detect this automatically and proceed without prompting.
+For renaming, add `'--rename-from=Old Name'` to the sync command in the wrapper. For headless mode, add `'--headless'`.
 
-If sign-in is required (first run or expired session), the script will pause and wait. Tell the user to sign in interactively in the browser window and let you know when they've signed in. Once they confirm, create the signal file to proceed (the script prints the exact path).
+### Step 3: Monitor Sign-In
 
-The sync will automatically compare the existing playlist (if any) to the markdown and fix any mismatches — deleting out-of-sync tracks and re-adding them in the correct order. If the playlist doesn't exist, it will be created.
+Check the log output periodically:
 
-For renaming (uses the Edit dialog on the playlist page):
-```bash
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --rename-from="Old Name" [--headless]
+```powershell
+Get-Content "$env:TEMP\apple-music-sync.log" -Tail 10
 ```
 
-### Step 3: Verify
+If the log shows the sign-in prompt, tell the user the browser is open and to take their time signing in (2FA may be needed). **Do not poll aggressively** — check every 30-60 seconds at most.
+
+When the user confirms they are signed in, create the signal file:
+
+```powershell
+New-Item "$env:TEMP\apple-music-signed-in" -ItemType File -Force
+```
+
+The script uses a persistent browser profile, so if the user has previously signed in, it will detect this automatically and proceed without prompting.
+
+### Step 4: Monitor Sync Progress
+
+Continue checking the log file until the sync completes:
+
+```powershell
+Get-Content "$env:TEMP\apple-music-sync.log" -Tail 20
+```
+
+When the log shows "Done!" or "Browser will close", the sync is complete. Read the full log to check for any failed tracks.
+
+### Step 5: Verify
 
 Ask the user to check the playlist in Apple Music. Confirm the track count and order look correct.
 
