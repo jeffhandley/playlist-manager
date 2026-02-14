@@ -39,26 +39,27 @@ Found N studio albums for [Artist]:
 
 Ask: **"Does this look right? Any albums to add or skip?"**
 
-### Phase 3: Build the Track List
+### Phase 3: Find Album Permalinks
 
-For each confirmed album, search for its full track listing:
-- Search for "[artist] [album name] track listing"
-- Include all tracks from the standard edition
-- For deluxe/bonus tracks: include only if the user requests them
-- Exclude hidden tracks, interludes under 30 seconds, and skits
+For each confirmed album, find its Apple Music album permalink:
+- Search Apple Music for "[artist] [album name]"
+- Navigate to the album page and capture the permalink URL
+- Format: `https://music.apple.com/us/album/{album-slug}/{albumId}`
 
-### Phase 4: Find Permalinks
+Present the albums with their Apple Music links for the user to verify.
 
-For each track, find its Apple Music permalink:
-- Use the apple-music-sync skill's browser automation to look up each song
-- Navigate to the song's detail page and capture the expanded permalink URL
-- Format: `https://music.apple.com/us/song/{title-slug}/{songId}`
+### Phase 4: Build the Track List
 
-If a track is not available on Apple Music, note it and continue. Report unavailable tracks to the user at the end.
+For each album permalink, visit the album page to get the exact track listing as it appears on Apple Music. This ensures:
+- Track titles match Apple Music exactly (capitalization, punctuation, subtitles)
+- Track order matches the album
+- Only available tracks are included
+
+Record each track with: song title, artist, album name, year, and the individual song permalink (derived from the album page).
 
 ### Phase 5: Save the Playlist
 
-Save the playlist as a markdown file in the `playlists/` folder:
+Save the playlist as a markdown file in the `playlists/` folder. The file uses **album permalink references** — each album is listed once in the link references section, and individual song links are derived during sync.
 
 ```markdown
 # [Artist] — Studio Catalog
@@ -72,16 +73,21 @@ Complete studio discography for [Artist], organized by album in chronological or
 - The playlist is defined in this file — this is the source of truth
 - Use the **artist-catalog** skill for rebuilding or updating
 - Use the **apple-music-sync** skill for syncing to Apple Music
+- Sync with: `node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --headless`
 
 ### Ordering
 
 - Tracks are ordered by album release date, then by track number within each album
-- Album boundaries are indicated in the Note column
 - Do not shuffle — the chronological album order is intentional
+
+### Sync Strategy
+
+- Sync adds tracks **album-at-a-time** — navigating to each album page and adding all tracks to the playlist in sequence
+- This is faster and more reliable than individual song lookups
 
 | # | Song | Artist | Album | Year | Note |
 |---|------|--------|-------|------|------|
-| 1 | [Track Title][1] | Artist | Album Name | Year | Album opener |
+| 1 | [Track Title][1] | Artist | Album Name | Year | |
 | 2 | [Track Title][2] | Artist | Album Name | Year | |
 ```
 

@@ -187,6 +187,70 @@ export async function navigateToSongUrl(page, url) {
   return null;
 }
 
+// Navigate to an album page and add all its tracks to a playlist at once.
+// Uses the album-level "more" button → "Add to Playlist" → select playlist.
+// Returns { status, trackCount } where trackCount is the number of tracks on the album.
+export async function addAlbumToPlaylist(page, albumUrl, playlistName, { onCreatePlaylist, forceCreate } = {}) {
+  assertManaged(playlistName);
+
+  await page.goto(albumUrl, { waitUntil: "load" });
+
+  // Wait for the album page to load — look for track rows
+  const firstRow = page.locator('.songs-list-row').first();
+  if (!await waitFor(firstRow, { timeout: 15000 })) {
+    return { status: "missing", reason: "album page did not load" };
+  }
+
+  const trackCount = await page.locator('.songs-list-row').count();
+
+  // The album-level "more" button is at the top of the page, near the album art.
+  // It's distinct from the per-track "more" buttons inside .songs-list-row elements.
+  // Look for the more button that is NOT inside a songs-list-row.
+  const albumMoreBtn = page.locator('button[aria-label="more"]').first();
+  if (!await waitAndClick(albumMoreBtn, { timeout: 5000 })) {
+    return { status: "missing", reason: "album more button not found" };
+  }
+
+  const addToPlaylist = page.locator('button:has-text("Add to Playlist")').first();
+  if (!await waitAndClick(addToPlaylist)) {
+    await page.keyboard.press("Escape");
+    return { status: "missing", reason: "Add to Playlist option not found" };
+  }
+
+  // If forceCreate, go straight to New Playlist
+  if (forceCreate && onCreatePlaylist) {
+    const newPlaylist = page.locator('button:has-text("New Playlist")').first();
+    if (await waitAndClick(newPlaylist)) {
+      const created = await onCreatePlaylist(page);
+      if (created === false) {
+        return { status: "missing", reason: "playlist creation failed" };
+      }
+      return { status: "created", trackCount };
+    }
+  }
+
+  const targetPlaylist = page.locator(`button:has-text("${playlistName}")`).first();
+  if (await waitAndClick(targetPlaylist, { timeout: 10000 })) {
+    return { status: "added", trackCount };
+  }
+
+  // Playlist doesn't exist yet — create it if a callback was provided
+  if (onCreatePlaylist) {
+    const newPlaylist = page.locator('button:has-text("New Playlist")').first();
+    if (await waitAndClick(newPlaylist)) {
+      const created = await onCreatePlaylist(page);
+      if (created === false) {
+        return { status: "missing", reason: "playlist creation failed" };
+      }
+      return { status: "created", trackCount };
+    }
+  }
+
+  await page.keyboard.press("Escape");
+  await page.keyboard.press("Escape");
+  return { status: "missing", reason: `playlist "${playlistName}" not found in menu` };
+}
+
 // Search for a song and return the "more" button locator for the matching track row.
 // Navigates to the album page via autocomplete, then finds the track-level more button.
 // Avoids "Live" versions unless the song title explicitly contains "Live".
