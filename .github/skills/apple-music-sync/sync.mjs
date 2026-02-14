@@ -115,16 +115,22 @@ async function syncLibraryOnly(page, tracks) {
 }
 
 async function syncPlaylist(page, tracks, playlistName, description) {
-  // Back up the playlist before making any changes (once per day)
+  // Back up the playlist before making any changes (once per day).
+  // This renames the 🤖 playlist to 🔙, so after backup the playlist won't exist.
   await backupPlaylist(page, playlistName);
 
-  // Check if the playlist exists
+  // Check if the playlist exists (it won't after a successful backup rename)
   const initialTracks = await readPlaylistTracks(page, playlistName);
 
   if (!initialTracks) {
-    // Playlist doesn't exist — create it and add all tracks
-    console.log(`Playlist not found. Creating "${playlistName}"...\n`);
-    await createPlaylist(page, playlistName, { description });
+    // Playlist doesn't exist — create it via the first track add and add all tracks
+    console.log(`Playlist not found. Will create "${playlistName}" during first track add.\n`);
+
+    let playlistCreated = false;
+    const onCreatePlaylist = (p) => {
+      playlistCreated = true;
+      return createPlaylist(p, playlistName, { description });
+    };
 
     const failed = [];
     let added = 0;
@@ -134,13 +140,19 @@ async function syncPlaylist(page, tracks, playlistName, description) {
       const progress = `[${i + 1}/${tracks.length}]`;
 
       try {
-        const result = await addTrackWithRetry(page, track, playlistName, {
-          url: track.url,
-        });
+        const opts = playlistCreated
+          ? { url: track.url }
+          : { url: track.url, onCreatePlaylist, forceCreate: !playlistCreated };
+
+        const result = await addTrackWithRetry(page, track, playlistName, opts);
 
         if (result.added) {
           added++;
-          console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
+          if (result.created) {
+            console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (playlist created)`);
+          } else {
+            console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
+          }
         } else {
           console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
           failed.push(`${track.song} — ${track.artist}`);
