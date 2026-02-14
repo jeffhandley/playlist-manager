@@ -37,6 +37,9 @@ node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --delete-first
 # Reorder an existing playlist to match the markdown
 node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --reorder [--headless]
 
+# Rename an existing playlist (old name → new name from markdown heading)
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --rename-from="Old Name" [--headless]
+
 # Only add tracks to library (no playlist management)
 node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --library-only [--headless]
 ```
@@ -55,6 +58,7 @@ The script:
 **Flags:**
 - `--delete-first` — Delete the existing playlist before recreating it (full rebuild)
 - `--reorder` — Reorder an existing playlist to match the markdown without deleting it. Finds the first track out of place, removes tracks from that point onward, and re-adds them in the correct order.
+- `--rename-from="Old Name"` — Rename an existing playlist. The old name is looked up in Apple Music; the new name comes from the markdown `# heading`.
 - `--library-only` — Only add tracks to the user's library without managing the playlist
 - `--headless` — Run in headless browser mode (no visible window)
 
@@ -77,6 +81,11 @@ If sign-in is required (first run or expired session), the script will pause and
 For reordering (delete from change point and re-add):
 ```bash
 node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --reorder [--headless]
+```
+
+For renaming (uses the Edit dialog on the playlist page):
+```bash
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --rename-from="Old Name" [--headless]
 ```
 
 For full rebuild (delete and recreate):

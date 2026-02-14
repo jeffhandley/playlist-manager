@@ -426,6 +426,58 @@ export async function addTrackToLibrary(page, song, artist) {
   return { status: "skipped", reason: "already in library or not found" };
 }
 
+// Rename an existing managed playlist.
+// Opens the playlist's Edit dialog via the "more" menu, clears the title input, and types the new name.
+export async function renamePlaylist(page, oldName, newName) {
+  assertManaged(oldName);
+  assertManaged(newName);
+
+  const count = await navigateToPlaylistPage(page, oldName);
+  if (count === null) {
+    console.log(`Playlist "${oldName}" not found — cannot rename.`);
+    return false;
+  }
+
+  // Open the "more" context menu
+  const moreButton = page.locator('button[aria-label="more"]').first();
+  if (!await waitAndClick(moreButton)) {
+    console.log("  Note: could not find more button on playlist page.");
+    return false;
+  }
+
+  // Click "Edit" in the context menu
+  const editBtn = page.locator('amp-contextual-menu button[title="Edit"]').first();
+  if (!await waitAndClick(editBtn)) {
+    await page.keyboard.press("Escape");
+    console.log("  Note: could not find Edit option in menu.");
+    return false;
+  }
+
+  await setTimeout(1000);
+
+  // Fill the title input
+  const nameInput = page.locator('input.playlist-title').first();
+  if (await waitFor(nameInput, { timeout: 5000 })) {
+    await nameInput.fill(newName);
+  } else {
+    console.log("  Note: playlist title input not found in edit mode.");
+    return false;
+  }
+
+  // Save by clicking "Done" or clicking away from the edit area
+  const doneBtn = page.locator('button:has-text("Done")').first();
+  if (await waitAndClick(doneBtn, { timeout: 3000 })) {
+    // Done button found and clicked
+  } else {
+    // No explicit Done button — click away from the edit area to save
+    await page.locator('.songs-list').first().click().catch(() => {});
+  }
+
+  await setTimeout(1000);
+  console.log(`Renamed "${oldName}" to "${newName}".`);
+  return true;
+}
+
 // Update the description on an existing managed playlist.
 // Opens the playlist's Edit dialog via the "more" menu, fills the description textarea, and saves.
 export async function updatePlaylistDescription(page, playlistName, description) {

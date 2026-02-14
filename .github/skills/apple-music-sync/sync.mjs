@@ -16,7 +16,7 @@ import { parsePlaylistMarkdown } from "./parser.mjs";
 import {
   managedName, createPlaylist, deletePlaylist,
   addTrackToPlaylist, addTrackWithRetry, addTrackToLibrary,
-  readPlaylistTracks, reorderPlaylist, updatePlaylistDescription,
+  readPlaylistTracks, reorderPlaylist, renamePlaylist, updatePlaylistDescription,
 } from "./playlist.mjs";
 
 async function main() {
@@ -26,14 +26,16 @@ async function main() {
   const libraryOnly = args.includes("--library-only");
   const reorder = args.includes("--reorder");
   const headless = args.includes("--headless");
+  const renameFrom = args.find(a => a.startsWith("--rename-from="))?.split("=").slice(1).join("=");
 
   if (!filePath || !existsSync(filePath)) {
     console.error(
-      "Usage: node sync.mjs <playlist.md> [--delete-first] [--library-only] [--reorder] [--headless]\n" +
-      "  --delete-first   Delete and recreate the playlist (for full rebuild)\n" +
-      "  --library-only   Only add tracks to library, don't manage the playlist\n" +
-      "  --reorder        Reorder an existing playlist to match the markdown order\n" +
-      "  --headless       Run in headless browser mode\n" +
+      "Usage: node sync.mjs <playlist.md> [--delete-first] [--library-only] [--reorder] [--rename-from=NAME] [--headless]\n" +
+      "  --delete-first       Delete and recreate the playlist (for full rebuild)\n" +
+      "  --library-only       Only add tracks to library, don't manage the playlist\n" +
+      "  --reorder            Reorder an existing playlist to match the markdown order\n" +
+      "  --rename-from=NAME   Rename existing playlist from NAME to the markdown heading\n" +
+      "  --headless           Run in headless browser mode\n" +
       (filePath ? `\nError: ${filePath} not found` : "")
     );
     process.exit(1);
@@ -59,12 +61,21 @@ async function main() {
   if (deleteFirst) console.log(`Mode:     Delete and recreate`);
   if (libraryOnly) console.log(`Mode:     Library only (no playlist management)`);
   if (reorder) console.log(`Mode:     Reorder existing playlist`);
+  if (renameFrom) console.log(`Mode:     Rename from "${managedName(renameFrom)}"`);
   if (headless) console.log(`Mode:     Headless`);
   console.log("");
 
   const { context, page } = await launchBrowser({ headless });
 
   await waitForSignIn(page);
+
+  if (renameFrom) {
+    await renamePlaylist(page, managedName(renameFrom), playlistName);
+    console.log("\nBrowser will close in 5 seconds...");
+    await setTimeout(5000);
+    await context.close();
+    return;
+  }
 
   if (reorder) {
     await reorderPlaylist(page, playlistName, tracks);

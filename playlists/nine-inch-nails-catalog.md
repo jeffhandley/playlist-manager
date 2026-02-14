@@ -1,4 +1,4 @@
-# Nine Inch Nails — Studio Catalog
+# Nine Inch Nails
 
 Complete studio discography for Nine Inch Nails, organized by album in chronological order. Excludes Ghosts albums (instrumental/ambient), live albums, remixes, and compilations.
 
