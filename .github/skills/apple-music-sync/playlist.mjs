@@ -637,18 +637,16 @@ async function navigateToPlaylistPage(page, playlistName) {
   await waitFor(page.locator('.songs-list-row').first(), { timeout: 10000 });
 
   // Scroll to load all rows — Apple Music uses virtual scrolling and only
-  // renders ~100 rows initially. mouse.wheel triggers the virtual scroller;
-  // window.scrollTo does not. Only scroll when we hit the threshold.
+  // renders a subset of rows initially. mouse.wheel triggers the virtual
+  // scroller; window.scrollTo does not.
   let count = await page.locator('.songs-list-row').count();
-  if (count >= 100) {
-    let stable = 0;
-    while (stable < 3) {
-      await page.mouse.wheel(0, 5000);
-      await setTimeout(1000);
-      const newCount = await page.locator('.songs-list-row').count();
-      stable = newCount === count ? stable + 1 : 0;
-      count = newCount;
-    }
+  let stable = 0;
+  while (stable < 2) {
+    await page.mouse.wheel(0, 5000);
+    await setTimeout(1000);
+    const newCount = await page.locator('.songs-list-row').count();
+    stable = newCount === count ? stable + 1 : 0;
+    count = newCount;
   }
 
   return count;
@@ -739,27 +737,35 @@ export async function reorderPlaylist(page, playlistName, desiredOrder) {
 
   console.log(`\nRe-adding ${tracksToReAdd.length} track(s) in correct order...\n`);
 
-  // Re-add the tracks in the desired order
+  // Re-add tracks without per-track verification (skip navigating back to
+  // the playlist page after each add — much faster and more reliable).
+  // A final count check is done after all tracks are re-added.
   let added = firstMismatch;
+  const failed = [];
   for (let i = 0; i < tracksToReAdd.length; i++) {
     const track = tracksToReAdd[i];
     const progress = `[${firstMismatch + i + 1}/${desiredOrder.length}]`;
 
     const result = await addTrackWithRetry(page, track, playlistName, {
       url: track.url,
-      expectedCount: added,
     });
 
     if (result.added) {
       added++;
-      console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count ?? added} tracks)`);
+      console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
     } else {
+      failed.push(track);
       console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
     }
   }
 
   const finalTracks = await readPlaylistTracks(page, playlistName);
   console.log(`\nReorder complete. Playlist now has ${finalTracks?.length} tracks.`);
+
+  if (failed.length > 0) {
+    console.log(`\n${failed.length} track(s) could not be added:`);
+    for (const t of failed) console.log(`  • ${t.song} — ${t.artist}`);
+  }
 
   return { deleted: deleteCount, added: added - firstMismatch };
 }
