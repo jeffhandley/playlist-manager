@@ -711,9 +711,16 @@ export async function reorderPlaylist(page, playlistName, desiredOrder) {
         // Adjust index: absolute position minus how many we've already deleted
         const absIdx = firstMismatch + relIdx - deletedSoFar;
 
-        const rows = page.locator('.songs-list-row');
-        const rowCount = await rows.count();
-        if (absIdx >= rowCount) break;
+        let rows = page.locator('.songs-list-row');
+        let rowCount = await rows.count();
+
+        // If the target row isn't visible, re-navigate to reload all rows
+        if (absIdx >= rowCount) {
+          await navigateToPlaylistPage(page, playlistName);
+          rows = page.locator('.songs-list-row');
+          rowCount = await rows.count();
+          if (absIdx >= rowCount) break;
+        }
 
         const row = rows.nth(absIdx);
         await row.hover();
@@ -792,9 +799,17 @@ export async function reorderPlaylist(page, playlistName, desiredOrder) {
   await navigateToPlaylistPage(page, playlistName);
 
   for (let d = 0; d < deleteCount; d++) {
-    const rows = page.locator('.songs-list-row');
-    const rowCount = await rows.count();
-    if (firstMismatch >= rowCount) break;
+    let rows = page.locator('.songs-list-row');
+    let rowCount = await rows.count();
+
+    // If the target row isn't visible, re-navigate to reload all rows
+    // (virtual scrolling may have hidden rows after bulk deletes)
+    if (firstMismatch >= rowCount) {
+      await navigateToPlaylistPage(page, playlistName);
+      rows = page.locator('.songs-list-row');
+      rowCount = await rows.count();
+      if (firstMismatch >= rowCount) break; // truly no more rows
+    }
 
     const row = rows.nth(firstMismatch);
     await row.hover();
