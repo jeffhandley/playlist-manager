@@ -62,37 +62,6 @@ export async function readPlaylistTracks(page, playlistName) {
   return tracks;
 }
 
-export async function deletePlaylist(page, playlistName) {
-  assertManaged(playlistName);
-
-  let deleted = 0;
-  while (true) {
-    const count = await navigateToPlaylistPage(page, playlistName);
-    if (count === null) break;
-
-    const moreButton = page.locator('button[aria-label="more"]').first();
-    if (!await waitAndClick(moreButton)) break;
-
-    const deleteOption = page.locator('button:has-text("Delete From Library")').first();
-    if (!await waitAndClick(deleteOption)) {
-      await page.keyboard.press("Escape");
-      break;
-    }
-
-    const confirmButton = page.locator('article.error-modal__container button:has-text("OK")').first();
-    if (await waitAndClick(confirmButton)) {
-      await page.waitForURL(/\/library\//, { timeout: 10000 }).catch(() => {});
-    }
-    deleted++;
-  }
-
-  if (deleted > 0) {
-    console.log(`Deleted ${deleted} playlist(s) named "${playlistName}".`);
-  } else {
-    console.log(`Playlist "${playlistName}" not found — nothing to delete.`);
-  }
-}
-
 // Create a new managed playlist via the "New Playlist" dialog.
 // Called as a callback from addTrackToPlaylist when the playlist doesn't exist.
 export async function createPlaylist(page, playlistName, { description } = {}) {

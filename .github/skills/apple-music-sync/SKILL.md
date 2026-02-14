@@ -28,14 +28,8 @@ Activate this skill when the user:
 A single cross-platform script that manages playlists entirely through the Apple Music web player.
 
 ```bash
-# Sync a playlist (create if needed, add tracks)
+# Sync a playlist (create if needed, or reorder existing to match markdown)
 node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md [--headless]
-
-# Delete and recreate (full rebuild)
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --delete-first [--headless]
-
-# Reorder an existing playlist to match the markdown
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --reorder [--headless]
 
 # Rename an existing playlist (old name → new name from markdown heading)
 node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --rename-from="Old Name" [--headless]
@@ -47,24 +41,22 @@ node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --library-only
 The script:
 1. Parses the playlist name from the `# heading` and tracks from the markdown table
 2. **Appends the 🤖 emoji** to the playlist name — all managed playlists are suffixed with this marker
-3. **Creates a daily backup** before any sync or reorder operation (see Backups below)
+3. **Creates a daily backup** before any sync operation (see Backups below)
 4. Opens Chromium with the Apple Music web player
 5. Waits for the user to sign in (persistent browser profile — only needed once)
-6. Navigates to each track's permalink and adds it via the web player's context menu
-7. Verifies each add by checking the playlist track count
+6. If the playlist doesn't exist, creates it and adds all tracks
+7. If the playlist exists, compares current order to the markdown and fixes any mismatches by deleting out-of-sync tracks and re-adding them in the correct order
 8. Reports any tracks that couldn't be found or added
 
-**Playlist safety:** The script will only ever delete or modify playlists that end with the 🤖 suffix. User-created playlists without this marker are never touched.
+**Playlist safety:** The script will only ever modify playlists that end with the 🤖 suffix. User-created playlists without this marker are never touched.
 
 ### Backups
 
-Before every sync or reorder, the script creates a backup playlist named `<name> 📀 (yyyy-MM-dd)`. The backup uses the 📀 emoji (not 🤖) to distinguish it from managed playlists. The playlist description is copied into the backup.
+Before every sync, the script creates a backup playlist named `<name> 📀 (yyyy-MM-dd)`. The backup uses the 📀 emoji (not 🤖) to distinguish it from managed playlists. The playlist description is copied into the backup.
 
 **⚠️ Backups are immutable.** Once created, a backup must **NEVER** be modified, renamed, or deleted by automation. The `assertManaged` guard will throw an error if any operation attempts to touch a playlist containing the 📀 marker. Only one backup per playlist per day is created; if today's backup already exists, it is skipped.
 
 **Flags:**
-- `--delete-first` — Delete the existing playlist before recreating it (full rebuild)
-- `--reorder` — Reorder an existing playlist to match the markdown without deleting it. Finds the first track out of place, removes tracks from that point onward, and re-adds them in the correct order.
 - `--rename-from="Old Name"` — Rename an existing playlist. The old name is looked up in Apple Music; the new name comes from the markdown `# heading`.
 - `--library-only` — Only add tracks to the user's library without managing the playlist
 - `--headless` — Run in headless browser mode (no visible window)
@@ -78,26 +70,18 @@ Determine which playlist markdown file to sync from the `playlists/` folder.
 ### Step 2: Sync to Apple Music
 
 ```bash
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md
+node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md [--headless]
 ```
 
 The browser will open. The script uses a persistent browser profile, so if the user has previously signed in, it will detect this automatically and proceed without prompting.
 
 If sign-in is required (first run or expired session), the script will pause and wait. Tell the user to sign in interactively in the browser window and let you know when they've signed in. Once they confirm, create the signal file to proceed (the script prints the exact path).
 
-For reordering (delete from change point and re-add):
-```bash
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --reorder [--headless]
-```
+The sync will automatically compare the existing playlist (if any) to the markdown and fix any mismatches — deleting out-of-sync tracks and re-adding them in the correct order. If the playlist doesn't exist, it will be created.
 
 For renaming (uses the Edit dialog on the playlist page):
 ```bash
 node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --rename-from="Old Name" [--headless]
-```
-
-For full rebuild (delete and recreate):
-```bash
-node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md --delete-first [--headless]
 ```
 
 ### Step 3: Verify
@@ -107,6 +91,6 @@ Ask the user to check the playlist in Apple Music. Confirm the track count and o
 ## Error Handling
 
 - If a track cannot be found in search results, the script reports it and continues with the remaining tracks
-- If the playlist already exists and `--delete-first` is not set, the script adds tracks to the existing playlist
+- If the playlist already exists, the script compares it to the markdown and fixes any mismatches
 - The user may need to manually add tracks that the script couldn't find (e.g., region restrictions, name mismatches)
 - If Playwright or Chromium is not installed, the script will fail with an import error — run `npm install playwright && npx playwright install chromium` to fix

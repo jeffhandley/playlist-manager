@@ -2,7 +2,7 @@
 
 // Sync a playlist markdown file to Apple Music via the web player
 // Usage:
-//   node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md [--delete-first] [--reorder] [--headless]
+//   node .github/skills/apple-music-sync/sync.mjs playlists/<name>.md [--headless]
 //
 // Prerequisites:
 //   npm install playwright
@@ -14,7 +14,7 @@ import { existsSync } from "fs";
 import { launchBrowser, waitForSignIn } from "./browser.mjs";
 import { parsePlaylistMarkdown } from "./parser.mjs";
 import {
-  managedName, createPlaylist, deletePlaylist,
+  managedName, createPlaylist,
   addTrackToPlaylist, addTrackWithRetry, addTrackToLibrary,
   readPlaylistTracks, reorderPlaylist, renamePlaylist, updatePlaylistDescription,
   backupPlaylist,
@@ -23,18 +23,14 @@ import {
 async function main() {
   const args = process.argv.slice(2);
   const filePath = args.find(a => !a.startsWith("--"));
-  const deleteFirst = args.includes("--delete-first");
   const libraryOnly = args.includes("--library-only");
-  const reorder = args.includes("--reorder");
   const headless = args.includes("--headless");
   const renameFrom = args.find(a => a.startsWith("--rename-from="))?.split("=").slice(1).join("=");
 
   if (!filePath || !existsSync(filePath)) {
     console.error(
-      "Usage: node sync.mjs <playlist.md> [--delete-first] [--library-only] [--reorder] [--rename-from=NAME] [--headless]\n" +
-      "  --delete-first       Delete and recreate the playlist (for full rebuild)\n" +
+      "Usage: node sync.mjs <playlist.md> [--library-only] [--rename-from=NAME] [--headless]\n" +
       "  --library-only       Only add tracks to library, don't manage the playlist\n" +
-      "  --reorder            Reorder an existing playlist to match the markdown order\n" +
       "  --rename-from=NAME   Rename existing playlist from NAME to the markdown heading\n" +
       "  --headless           Run in headless browser mode\n" +
       (filePath ? `\nError: ${filePath} not found` : "")
@@ -59,9 +55,7 @@ async function main() {
   console.log(`Playlist: ${playlistName}`);
   console.log(`Source:   ${filePath}`);
   console.log(`Tracks:   ${tracks.length}`);
-  if (deleteFirst) console.log(`Mode:     Delete and recreate`);
   if (libraryOnly) console.log(`Mode:     Library only (no playlist management)`);
-  if (reorder) console.log(`Mode:     Reorder existing playlist`);
   if (renameFrom) console.log(`Mode:     Rename from "${managedName(renameFrom)}"`);
   if (headless) console.log(`Mode:     Headless`);
   console.log("");
@@ -78,19 +72,10 @@ async function main() {
     return;
   }
 
-  if (reorder) {
-    await backupPlaylist(page, playlistName);
-    await reorderPlaylist(page, playlistName, tracks);
-    console.log("\nBrowser will close in 5 seconds...");
-    await setTimeout(5000);
-    await context.close();
-    return;
-  }
-
   if (libraryOnly) {
     await syncLibraryOnly(page, tracks);
   } else {
-    await syncPlaylist(page, tracks, playlistName, deleteFirst, description);
+    await syncPlaylist(page, tracks, playlistName, description);
   }
 
   console.log("\nBrowser will close in 5 seconds...");
@@ -129,76 +114,57 @@ async function syncLibraryOnly(page, tracks) {
   }
 }
 
-async function syncPlaylist(page, tracks, playlistName, deleteFirst, description) {
+async function syncPlaylist(page, tracks, playlistName, description) {
   // Back up the playlist before making any changes (once per day)
   await backupPlaylist(page, playlistName);
 
-  if (deleteFirst) {
-    await deletePlaylist(page, playlistName);
-  }
-
-  let playlistCreated = false;
-  const onCreatePlaylist = (p) => {
-    playlistCreated = true;
-    return createPlaylist(p, playlistName, { description });
-  };
-
-  // Read initial playlist state for baseline verification
+  // Check if the playlist exists
   const initialTracks = await readPlaylistTracks(page, playlistName);
-  let added = initialTracks ? initialTracks.length : 0;
-  let startIndex = 0;
 
-  if (added > 0 && added < tracks.length) {
-    startIndex = added;
-    console.log(`Playlist already has ${added} track(s). Resuming from track ${startIndex + 1}...\n`);
-  } else if (added > 0) {
-    console.log(`Playlist already has ${added} track(s). Resuming...\n`);
-  }
+  if (!initialTracks) {
+    // Playlist doesn't exist — create it and add all tracks
+    console.log(`Playlist not found. Creating "${playlistName}"...\n`);
+    await createPlaylist(page, playlistName, { description });
 
-  const failed = [];
+    const failed = [];
+    let added = 0;
 
-  for (let i = startIndex; i < tracks.length; i++) {
-    const track = tracks[i];
-    const progress = `[${i + 1}/${tracks.length}]`;
+    for (let i = 0; i < tracks.length; i++) {
+      const track = tracks[i];
+      const progress = `[${i + 1}/${tracks.length}]`;
 
-    try {
-      const opts = playlistCreated
-        ? { url: track.url }
-        : { url: track.url, onCreatePlaylist, forceCreate: deleteFirst && !playlistCreated };
+      try {
+        const result = await addTrackWithRetry(page, track, playlistName, {
+          url: track.url,
+        });
 
-      const result = await addTrackWithRetry(page, track, playlistName, {
-        ...opts,
-        expectedCount: added,
-      });
-
-      if (result.added) {
-        added++;
-        if (result.created) {
-          console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (playlist created)`);
-        } else if (result.unexpected) {
-          console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count} tracks, expected ${added})`);
+        if (result.added) {
+          added++;
+          console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
         } else {
-          console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count ?? added} tracks)`);
+          console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
+          failed.push(`${track.song} — ${track.artist}`);
         }
-      } else {
-        console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
+      } catch (err) {
+        console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${err.message.split("\n")[0]})`);
         failed.push(`${track.song} — ${track.artist}`);
       }
-    } catch (err) {
-      console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${err.message.split("\n")[0]})`);
-      failed.push(`${track.song} — ${track.artist}`);
     }
+
+    console.log(`\nDone! ${added} track(s) added to "${playlistName}".`);
+    if (failed.length > 0) {
+      console.log(`\n${failed.length} track(s) could not be added:`);
+      for (const t of failed) console.log(`  • ${t}`);
+      console.log("\nYou may need to add these manually in Apple Music.");
+    }
+  } else {
+    // Playlist exists — reorder to match the markdown (deletes out-of-sync
+    // tracks and re-adds them in the correct order)
+    await reorderPlaylist(page, playlistName, tracks);
   }
 
-  console.log(`\nDone! ${added} track(s) added to "${playlistName}".`);
-  if (failed.length > 0) {
-    console.log(`\n${failed.length} track(s) could not be added:`);
-    for (const t of failed) console.log(`  • ${t}`);
-    console.log("\nYou may need to add these manually in Apple Music.");
-  }
-
-  // Update the playlist description if one is provided and the playlist already existed
-  if (description && !playlistCreated) {
+  // Update the playlist description if one is provided
+  if (description) {
     await updatePlaylistDescription(page, playlistName, description);
   }
 }

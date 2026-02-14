@@ -14,7 +14,6 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 - For any modifications (adding, removing, reordering):
   1. Update this file first
   2. Sync to Apple Music: `node .github/skills/apple-music-sync/sync.mjs playlists/hardcovers.md`
-  3. For reordering, delete and recreate: `node .github/skills/apple-music-sync/sync.mjs playlists/hardcovers.md --delete-first`
 
 ### Pairing Rules
 
@@ -32,7 +31,7 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 - The **order of the groups** is randomized to give a sense of variety throughout the playlist
 - When the user asks to "reorder" the playlist, shuffle the group order randomly while preserving the original-then-covers sequence within each group
 - After reordering, renumber all rows sequentially starting from 1
-- Update this markdown file to reflect the new order, then sync to Apple Music with `--delete-first` if requested
+- Update this markdown file to reflect the new order, then sync to Apple Music
 
 | # | Song | Artist | Album | Year | Note |
 |---|------|--------|-------|------|------|
