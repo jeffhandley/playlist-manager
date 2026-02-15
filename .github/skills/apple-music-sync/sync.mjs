@@ -11,7 +11,7 @@
 import { setTimeout } from "timers/promises";
 import { existsSync } from "fs";
 
-import { launchBrowser, waitForSignIn } from "./browser.mjs";
+import { launchBrowser, waitForSignIn, BASE_URL } from "./browser.mjs";
 import { parsePlaylistMarkdown } from "./parser.mjs";
 import {
   managedName, createPlaylist,
@@ -185,6 +185,11 @@ async function syncPlaylist(page, tracks, playlistName, description) {
       } catch (err) {
         console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${err.message.split("\n")[0]})`);
         failed.push(`${track.song} — ${track.artist}`);
+        // Recover browser state after navigation errors
+        try {
+          await page.goto(`${BASE_URL}/us/browse`, { waitUntil: "load", timeout: 15000 });
+          await setTimeout(2000);
+        } catch { /* ignore recovery failure */ }
       }
     }
 
@@ -202,7 +207,11 @@ async function syncPlaylist(page, tracks, playlistName, description) {
 
   // Update the playlist description if one is provided
   if (description) {
-    await updatePlaylistDescription(page, playlistName, description);
+    try {
+      await updatePlaylistDescription(page, playlistName, description);
+    } catch (err) {
+      console.log(`Warning: could not update playlist description: ${err.message.split("\n")[0]}`);
+    }
   }
 }
 

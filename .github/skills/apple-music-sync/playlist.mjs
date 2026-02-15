@@ -250,7 +250,9 @@ export async function findTrackMoreButton(page, song, artist) {
   if (!await waitFor(searchInput)) throw new Error("Search input not found");
 
   await searchInput.click();
-  await searchInput.pressSequentially(`${song} ${artist}`, { delay: 30 });
+  // Truncate long search queries — Apple Music autocomplete struggles with very long text
+  const searchQuery = `${song} ${artist}`.slice(0, 80);
+  await searchInput.pressSequentially(searchQuery, { delay: 30 });
 
   // Wait for autocomplete song hints (lockup items with "Song · Artist")
   const songHints = page.locator('li.search-hint--lockup');

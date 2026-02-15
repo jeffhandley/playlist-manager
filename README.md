@@ -35,12 +35,6 @@ npx playwright install chromium
 
 See the [apple-music-sync skill](.github/skills/apple-music-sync/SKILL.md) for details.
 
-## Playlists
-
-| Playlist | Description |
-|----------|-------------|
-| [Hard Covers](playlists/hardcovers.md) | 70s/80s/90s chart hits paired with their hard rock, metal, and industrial covers |
-
 ## License
 
 [MIT](LICENSE)
