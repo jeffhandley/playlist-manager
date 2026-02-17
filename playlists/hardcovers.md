@@ -239,5 +239,5 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [98]: https://music.apple.com/us/song/in-a-gadda-da-vida/1443269252
 [99]: https://music.apple.com/us/song/personal-jesus/1174246806
 [100]: https://music.apple.com/us/song/personal-jesus/1440746931
-[101]: https://music.apple.com/us/song/zombie/1524339422
+[101]: https://music.apple.com/us/song/zombie/1440735264
 [102]: https://music.apple.com/us/song/zombie/1440844617

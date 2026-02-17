@@ -75,10 +75,10 @@ The biggest hits of classic soul, Motown, and R&B — built around the laid-back
 [2]: https://music.apple.com/us/song/try-a-little-tenderness/1440833130
 [3]: https://music.apple.com/us/song/these-arms-of-mine/997088827
 [4]: https://music.apple.com/us/song/ive-been-loving-you-too-long/1440797857
-[5]: https://music.apple.com/us/song/a-change-is-gonna-come/1453434208
+[5]: https://music.apple.com/us/song/a-change-is-gonna-come/1440495265
 [6]: https://music.apple.com/us/song/bring-it-on-home-to-me/1088173103
 [7]: https://music.apple.com/us/song/whats-going-on/1426017465
-[8]: https://music.apple.com/us/song/lets-get-it-on/1532869497
+[8]: https://music.apple.com/us/song/let-s-get-it-on/1701654443
 [9]: https://music.apple.com/us/song/i-heard-it-through-the-grapevine/1444106658
 [10]: https://music.apple.com/us/song/mercy-mercy-me-the-ecology/1538081615
 [11]: https://music.apple.com/us/song/aint-no-mountain-high-enough/1472134759
