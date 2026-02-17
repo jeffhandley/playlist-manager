@@ -101,7 +101,7 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 | 71 | [Loser][71] | Beck | Mellow Gold | 1994 |  |
 | 72 | [Plowed][72] | Sponge | Rotting Piñata | 1994 |  |
 | 73 | [Molly (16 Candles Down the Drain)][73] | Sponge | Rotting Piñata | 1994 |  |
-| 74 | How Soon Is Now? | Love Spit Love | How Soon Is Now? - Single | 1994 |  |
+| 74 | [How Soon Is Now?][74] | Love Spit Love | How Soon Is Now? - Single | 1994 |  |
 | 75 | [Hey Man Nice Shot][75] | Filter | Short Bus | 1995 |  |
 | 76 | [This Is a Call][76] | Foo Fighters | Foo Fighters | 1995 |  |
 | 77 | [I'll Stick Around][77] | Foo Fighters | Foo Fighters | 1995 |  |
@@ -226,14 +226,13 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 | 196 | [Push It][196] | Garbage | Version 2.0 | 1998 |  |
 | 197 | [I Think I'm Paranoid][197] | Garbage | Version 2.0 | 1998 |  |
 | 198 | [Special][198] | Garbage | Version 2.0 | 1998 |  |
-| 199 | When You Were Young | Garbage | Version 2.0 | 1998 |  |
-| 200 | [My Own Worst Enemy][200] | Lit | A Place in the Sun | 1999 |  |
-| 201 | [Steal My Sunshine][201] | Len | You Can't Stop the Bum Rush | 1999 |  |
-| 202 | [Last Kiss][202] | Pearl Jam | Last Kiss (Single) | 1999 |  |
-| 203 | [Shimmer][203] | Fuel | Sunburn | 1999 |  |
-| 204 | [Learn to Fly][204] | Foo Fighters | There Is Nothing Left to Lose | 1999 |  |
-| 205 | [Welcome to the Fold][205] | Filter | Title of Record | 1999 |  |
-| 206 | [Take a Picture][206] | Filter | Title of Record | 1999 |  |
+| 199 | [My Own Worst Enemy][199] | Lit | A Place in the Sun | 1999 |  |
+| 200 | [Steal My Sunshine][200] | Len | You Can't Stop the Bum Rush | 1999 |  |
+| 201 | [Last Kiss][201] | Pearl Jam | Last Kiss (Single) | 1999 |  |
+| 202 | [Shimmer][202] | Fuel | Sunburn | 1999 |  |
+| 203 | [Learn to Fly][203] | Foo Fighters | There Is Nothing Left to Lose | 1999 |  |
+| 204 | [Welcome to the Fold][204] | Filter | Title of Record | 1999 |  |
+| 205 | [Take a Picture][205] | Filter | Title of Record | 1999 |  |
 
 [1]: https://music.apple.com/us/song/man-in-the-box/1440806588
 [2]: https://music.apple.com/us/song/smells-like-teen-spirit/1440783625
@@ -308,6 +307,7 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 [71]: https://music.apple.com/us/song/loser/1440636710
 [72]: https://music.apple.com/us/song/plowed/1443998773
 [73]: https://music.apple.com/us/song/molly-16-candles-down-the-drain-single-mix/1675381334
+[74]: https://music.apple.com/us/song/how-soon-is-now/203941925
 [75]: https://music.apple.com/us/song/hey-man-nice-shot/1576793811
 [76]: https://music.apple.com/us/song/this-is-a-call/1440897013
 [77]: https://music.apple.com/us/song/ill-stick-around/1440897015
@@ -432,10 +432,10 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 [196]: https://music.apple.com/us/song/push-it/1440877969
 [197]: https://music.apple.com/us/song/i-think-im-paranoid/1440877971
 [198]: https://music.apple.com/us/song/special/1440877973
-[200]: https://music.apple.com/us/song/my-own-worst-enemy/258611995
-[201]: https://music.apple.com/us/song/steal-my-sunshine/459816208
-[202]: https://music.apple.com/us/song/last-kiss/1826659460
-[203]: https://music.apple.com/us/song/shimmer/158719348
-[204]: https://music.apple.com/us/song/learn-to-fly/1440896761
-[205]: https://music.apple.com/us/song/welcome-to-the-fold/1576792359
-[206]: https://music.apple.com/us/song/take-a-picture/1576792367
+[199]: https://music.apple.com/us/song/my-own-worst-enemy/258611995
+[200]: https://music.apple.com/us/song/steal-my-sunshine/459816208
+[201]: https://music.apple.com/us/song/last-kiss/1826659460
+[202]: https://music.apple.com/us/song/shimmer/158719348
+[203]: https://music.apple.com/us/song/learn-to-fly/1440896761
+[204]: https://music.apple.com/us/song/welcome-to-the-fold/1576792359
+[205]: https://music.apple.com/us/song/take-a-picture/1576792367
