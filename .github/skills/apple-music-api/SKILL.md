@@ -40,19 +40,16 @@ All credentials are passed as environment variables (compatible with GitHub secr
 
 The Music User Token requires a one-time browser-based authorization flow using MusicKit JS. It lasts approximately 6 months.
 
-1. Open any webpage that loads MusicKit JS (or use the Apple Music web player developer tools)
-2. In the browser console, configure MusicKit with your Developer Token:
-   ```javascript
-   // Generate your developer token first (JWT signed with your .p8 key)
-   const developerToken = 'your-developer-token-here';
+Run the included authorization helper:
 
-   await MusicKit.configure({ developerToken, app: { name: 'Playlist Manager', build: '1.0' } });
-   const music = MusicKit.getInstance();
-   await music.authorize();
-   console.log('Music User Token:', music.musicUserToken);
-   ```
-3. Copy the output token and store it as `APPLE_MUSIC_USER_TOKEN`
-4. The token is valid for ~6 months. When it expires, repeat this process.
+```bash
+export APPLE_MUSIC_TEAM_ID="XXXXXXXXXX"
+export APPLE_MUSIC_KEY_ID="XXXXXXXXXX"
+export APPLE_MUSIC_PRIVATE_KEY="$(cat path/to/AuthKey_XXXXXXXXXX.p8)"
+node .github/skills/apple-music-api/authorize.mjs
+```
+
+This opens a local web page where you sign in to Apple Music. The token is printed to stdout — copy it and store it as `APPLE_MUSIC_USER_TOKEN`. When it expires (~6 months), run `authorize.mjs` again.
 
 ### Setting Up Locally
 
