@@ -1,11 +1,11 @@
 ---
 name: validate-urls
-description: Validate and fix Apple Music song URLs across all playlists. Triggers a GitHub Actions workflow that checks every permalink via the Apple Music API and opens a PR to correct any stale or broken links.
+description: Validate and fix Apple Music song URLs across all playlists. Runs the validation script via the Apple Music API, corrects any stale or broken links, and creates a PR with the fixes.
 ---
 
 # Validate URLs
 
-Trigger the **Validate Playlist URLs** GitHub Actions workflow to check every Apple Music permalink across all playlists. Invalid or stale song IDs are automatically corrected, and a PR is opened with the fixes.
+Run the **validate-urls.mjs** script to check every Apple Music permalink across all playlists. Invalid or stale song IDs are automatically corrected, and a PR is created with the fixes.
 
 ## When to Use This Skill
 
@@ -17,45 +17,65 @@ Activate this skill when the user:
 
 ## How It Works
 
-The workflow at `.github/workflows/validate-urls.yml`:
+The validation script at `.github/skills/apple-music-api/validate-urls.mjs`:
 1. Parses every `playlists/*.md` file
 2. For each track with an Apple Music permalink, calls the API to verify the song ID
 3. If a song ID is invalid, searches the catalog for the correct track and rewrites the URL
 4. If a track can't be found at all, removes the broken link (leaving the song title as plain text)
-5. If any corrections are made, opens a PR with the changes
+5. Returns exit code 1 if any corrections were made, 0 if all URLs are valid
 
 ## Workflow
 
-### To trigger validation:
+### Step 1: Set Environment Variables
+
+Ensure the following Apple Music API credentials are available as environment variables:
+- `APPLE_MUSIC_TEAM_ID` — Apple Developer Team ID
+- `APPLE_MUSIC_KEY_ID` — MusicKit private key ID
+- `APPLE_MUSIC_PRIVATE_KEY` — Contents of the `.p8` private key file
+- `APPLE_MUSIC_USER_TOKEN` — Music User Token (~6 month expiry)
+
+If running in a GitHub Copilot agent context, these should be available from repository secrets.
+
+### Step 2: Run the Validation Script
 
 ```bash
-gh workflow run "Validate Playlist URLs"
+node .github/skills/apple-music-api/validate-urls.mjs
 ```
 
-### To check the run status:
+### Step 3: Create a PR if Changes Were Made
 
-```bash
-gh run list --workflow="Validate Playlist URLs" --limit=1
-```
+If the script exits with code 1, changes were made to playlist files. Create a PR with:
+- **Title**: `Fix stale Apple Music URLs`
+- **Description**: Explain that the validation script found and corrected invalid URLs
+- **Branch**: Use a branch name like `validate-urls/auto-fix-YYYY-MM-DD`
 
-### To view the run logs:
-
-```bash
-gh run view --log <run-id>
-```
+The PR should include all modified `playlists/*.md` files.
 
 ## What Happens Next
 
-- **All valid** — The workflow completes with exit code 0. Nothing to do.
-- **Corrections found** — A PR is created with the title "Fix invalid Apple Music URLs". Review and merge it to trigger an automatic sync.
+- **All valid** — The script exits with code 0. No changes needed.
+- **Corrections found** — The script exits with code 1 and files are modified. Create a PR for review.
+- After the PR is merged, the sync workflow will automatically update Apple Music playlists.
 
-## Requirements
+## Running Locally
 
-Same Apple Music API secrets as the sync workflow:
-- `APPLE_MUSIC_TEAM_ID`, `APPLE_MUSIC_KEY_ID`, `APPLE_MUSIC_PRIVATE_KEY`, `APPLE_MUSIC_USER_TOKEN`
+You can run the validation script locally for testing:
+
+```bash
+# Validate all playlists
+export APPLE_MUSIC_TEAM_ID="..."
+export APPLE_MUSIC_KEY_ID="..."
+export APPLE_MUSIC_PRIVATE_KEY="$(cat path/to/AuthKey_XXXXXXXXXX.p8)"
+export APPLE_MUSIC_USER_TOKEN="..."
+node .github/skills/apple-music-api/validate-urls.mjs
+
+# Validate specific playlists
+node .github/skills/apple-music-api/validate-urls.mjs playlists/classic-rock.md playlists/90s-alternative-rock.md
+```
 
 ## Notes
 
-- The validation script is at `.github/skills/apple-music-api/validate-urls.mjs`
-- You can also run it locally: `node .github/skills/apple-music-api/validate-urls.mjs`
-- To validate specific playlists: `node .github/skills/apple-music-api/validate-urls.mjs playlists/classic-rock.md`
+- The script modifies playlist files in place when corrections are needed
+- Invalid song IDs are replaced with corrected URLs found via catalog search
+- If a track cannot be found in the Apple Music catalog, its link reference is removed
+- The script provides detailed output showing which URLs were corrected or removed
