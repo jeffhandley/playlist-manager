@@ -26,10 +26,17 @@ The workflow at `.github/workflows/validate-urls.yml`:
 
 ## Workflow
 
-### To trigger validation:
+### To trigger validation (all playlists):
 
 ```bash
 gh workflow run "Validate Playlist URLs"
+```
+
+### To trigger validation (excluding specific playlists):
+
+```bash
+gh workflow run "Validate Playlist URLs" \
+  -f exclude_playlists="90s-alternative-rock.md,hardcovers.md"
 ```
 
 ### To check the run status:

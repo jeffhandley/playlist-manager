@@ -2,6 +2,12 @@ name: Validate Playlist URLs
 
 on:
   workflow_dispatch:
+    inputs:
+      exclude_playlists:
+        description: 'Comma-separated list of playlist filenames to exclude (e.g., "90s-alternative-rock.md,hardcovers.md")'
+        required: false
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -29,7 +35,23 @@ jobs:
           APPLE_MUSIC_PRIVATE_KEY: ${{ secrets.APPLE_MUSIC_PRIVATE_KEY }}
           APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
         run: |
-          node .github/skills/apple-music-api/validate-urls.mjs 2>&1 | tee validation.log
+          # Build list of playlists to validate
+          exclude_list="${{ inputs.exclude_playlists }}"
+          
+          if [ -z "$exclude_list" ]; then
+            # No exclusions - validate all playlists
+            node .github/skills/apple-music-api/validate-urls.mjs 2>&1 | tee validation.log
+          else
+            # Build exclusion pattern for grep
+            exclude_pattern=$(echo "$exclude_list" | sed 's/,/\\|/g')
+            
+            # Get all playlists except excluded ones
+            playlists=$(find playlists -name "*.md" -type f | grep -v "$exclude_pattern" | sort)
+            
+            # Run validation on filtered list
+            node .github/skills/apple-music-api/validate-urls.mjs $playlists 2>&1 | tee validation.log
+          fi
+          
           exit_code=${PIPESTATUS[0]}
           echo "has_changes=$( [ $exit_code -eq 1 ] && echo true || echo false )" >> "$GITHUB_OUTPUT"
           # Exit 2 = error, exit 1 = corrections made, exit 0 = all valid
@@ -60,6 +82,8 @@ jobs:
           This PR was created by the **Validate Playlist URLs** workflow.
 
           The Apple Music API was used to verify every song permalink across all playlists. Invalid or stale song IDs were corrected by searching the Apple Music catalog for the correct track.
+
+          ${{ inputs.exclude_playlists && format('**Excluded playlists:** {0}', inputs.exclude_playlists) || '' }}
 
           ### Validation Log
           \`\`\`
