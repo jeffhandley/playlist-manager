@@ -36,9 +36,9 @@ If Apple Music API credentials are available as environment variables:
 ### Method 2: Web Scraping (Fallback)
 
 If API credentials are not available:
-1. Uses web search to validate each Apple Music URL by fetching it
-2. If a URL returns 404 or redirect, searches for the correct song
-3. Updates the URL or removes it if the track can't be found
+1. Uses web_fetch to validate each Apple Music URL by fetching it directly
+2. If a URL returns 404 or is invalid, uses web_search to find the correct song
+3. Updates the URL with the correct link or removes it if the track can't be found
 
 ## Workflow
 
@@ -86,12 +86,14 @@ git diff playlists/
 
 ### Step 4: Create PR
 
-If changes were made:
-1. Create a new branch: `git checkout -b validate-urls-fixes`
-2. Commit the changes: `git commit -am "Fix invalid Apple Music URLs"`
-3. Push and create a PR with a description of what was fixed
+If changes were made, commit and push them to create a PR.
 
-Use the **report_progress** tool to commit and push changes with a clear description of:
+Use the **report_progress** tool to commit and push changes. This tool:
+- Commits all modified files
+- Pushes to the current branch
+- Updates the PR description
+
+Provide a clear commit message and PR description including:
 - How many URLs were validated
 - How many were corrected vs. removed
 - Which playlists were affected
