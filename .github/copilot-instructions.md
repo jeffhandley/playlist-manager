@@ -65,7 +65,10 @@ Secrets are stored exclusively in **GitHub repository secrets** and injected int
 Two GitHub Actions workflows are available and can be triggered on request:
 
 - **Sync Playlists** — Use the **sync-playlists** skill to sync one or all playlists to Apple Music via the API. Runs automatically on push to `main`, or trigger manually with `gh workflow run "Sync Playlists to Apple Music"`.
-- **Validate URLs** — Use the **validate-urls** skill to check all Apple Music permalinks and fix stale/broken ones. Trigger with `gh workflow run "Validate Playlist URLs"`. Creates a PR with corrections if any are found.
+
+For playlist validation:
+
+- **Validate URLs** — Use the **validate-urls** skill to check all Apple Music permalinks and fix stale/broken ones. This is an agent skill that runs the validation script and creates a PR with corrections. Uses the API if credentials are available, falls back to web scraping if not.
 
 ## Available Skills
 
@@ -74,7 +77,7 @@ Two GitHub Actions workflows are available and can be triggered on request:
 | **playlist-creator** | Create or edit playlists with web-scraped Apple Music URLs |
 | **artist-catalog** | Build complete artist discography playlists |
 | **sync-playlists** | Trigger Apple Music sync via GitHub Actions |
-| **validate-urls** | Validate and fix Apple Music permalinks via GitHub Actions |
+| **validate-urls** | Validate and fix Apple Music permalinks (agent skill) |
 | **apple-music-sync** | Local browser-based sync (Playwright) |
 | **apple-music-api** | API-based sync tools and utilities |
 
