@@ -182,22 +182,24 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
   // Add all tracks in order
   const songIds = resolvedTracks.map((t) => t.songId);
 
-  // Add in album-sized batches for progress reporting
+  // Add tracks in album-sized batches
   const albums = groupByAlbum(resolvedTracks);
   let totalAdded = 0;
 
   for (let i = 0; i < albums.length; i++) {
     const album = albums[i];
     const albumLabel = `${album.album} — ${album.artist}`;
-    const albumProgress = `[Album ${i + 1}/${albums.length}]`;
     const ids = album.tracks.map((t) => t.songId);
+    const trackStart = totalAdded + 1;
+    const trackEnd = totalAdded + ids.length;
 
     try {
       await addTracksToPlaylist(playlistId, ids);
       totalAdded += ids.length;
-      console.log(`  ${albumProgress} ✓ ${albumLabel} (${ids.length} tracks, ${totalAdded} total)`);
+      const trackRange = trackStart === trackEnd ? `${trackStart}` : `${trackStart}-${trackEnd}`;
+      console.log(`  [${trackRange}/${resolvedTracks.length}] [Album ${i + 1}/${albums.length}] ✓ ${albumLabel} (${ids.length} tracks)`);
     } catch (err) {
-      console.log(`  ${albumProgress} ✗ ${albumLabel} — ${err.message.split("\n")[0]}`);
+      console.log(`  [${trackStart}/${resolvedTracks.length}] [Album ${i + 1}/${albums.length}] ✗ ${albumLabel} — ${err.message.split("\n")[0]}`);
     }
   }
 
