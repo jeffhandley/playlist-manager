@@ -1,0 +1,57 @@
+name: Sync Playlists to Apple Music
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'playlists/*.md'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Find changed playlists
+        id: changed
+        run: |
+          files=$(git diff --name-only HEAD~1 HEAD -- 'playlists/*.md' | tr '\n' ' ')
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+          if [ -z "$files" ]; then
+            echo "No playlist files changed."
+          else
+            echo "Changed playlists: $files"
+          fi
+
+      - name: Sync changed playlists
+        if: steps.changed.outputs.files != ''
+        env:
+          APPLE_MUSIC_TEAM_ID: ${{ secrets.APPLE_MUSIC_TEAM_ID }}
+          APPLE_MUSIC_KEY_ID: ${{ secrets.APPLE_MUSIC_KEY_ID }}
+          APPLE_MUSIC_PRIVATE_KEY: ${{ secrets.APPLE_MUSIC_PRIVATE_KEY }}
+          APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
+        run: |
+          failed=0
+          for file in ${{ steps.changed.outputs.files }}; do
+            echo ""
+            echo "=========================================="
+            echo "Syncing: $file"
+            echo "=========================================="
+            if node .github/skills/apple-music-api/sync.mjs "$file"; then
+              echo "✓ $file synced successfully"
+            else
+              echo "✗ $file sync failed"
+              failed=1
+            fi
+          done
+          exit $failed
