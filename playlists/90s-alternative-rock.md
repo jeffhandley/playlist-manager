@@ -2,7 +2,7 @@
 
 A comprehensive 90s alternative rock playlist spanning ~50 artists from the grunge and post-grunge era, organized chronologically by album release date. Features timeless hits and the iconic albums they came from.
 
-**Featured artists:** Nirvana, Pearl Jam, Soundgarden, Alice in Chains, Stone Temple Pilots, Bush, Live, Candlebox, The Smashing Pumpkins, Radiohead, Foo Fighters, Metallica, Sponge, Love Spit Love, Rage Against the Machine, The Offspring, Beck, Blur, The Cranberries, Garbage, Hole, Marilyn Manson, Dishwalla, The Verve Pipe, Cake, Sneaker Pimps, Fiona Apple, Everclear, Better Than Ezra, Spacehog, Third Eye Blind, The Verve, Semisonic, Marcy Playground, Harvey Danger, Fastball, Bloodhound Gang, Matchbox Twenty, Goo Goo Dolls, Smash Mouth, Natalie Imbruglia, Eve 6, Lit, Len, Everlast, Fuel, and more.
+**Featured artists:** Nirvana, Pearl Jam, Soundgarden, Alice in Chains, Stone Temple Pilots, Bush, Live, Candlebox, The Smashing Pumpkins, Radiohead, Foo Fighters, Metallica, Sponge, Love Spit Love, Rage Against the Machine, The Offspring, Beck, Blur, The Cranberries, Garbage, Hole, Marilyn Manson, Dishwalla, The Verve Pipe, Cake, Sneaker Pimps, Fiona Apple, Everclear, Better Than Ezra, Spacehog, Third Eye Blind, The Verve, Semisonic, Marcy Playground, Harvey Danger, Fastball, Bloodhound Gang, Matchbox Twenty, Goo Goo Dolls, Natalie Imbruglia, Eve 6, Lit, Len, Everlast, Fuel, and more.
 
 ## Playlist Instructions
 
@@ -204,27 +204,25 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 | 174 | [My Hero][174] | Foo Fighters | The Colour and the Shape | 1997 |  |
 | 175 | [Monkey Wrench][175] | Foo Fighters | The Colour and the Shape | 1997 |  |
 | 176 | [Everlong][176] | Foo Fighters | The Colour and the Shape | 1997 |  |
-| 177 | [Walkin' on the Sun][177] | Smash Mouth | Fush Yu Mang | 1997 |  |
-| 178 | [The Way][178] | Fastball | All the Pain Money Can Buy | 1998 |  |
-| 179 | [Fire Water Burn][179] | Bloodhound Gang | One Fierce Beer Coaster | 1998 |  |
-| 180 | [Push][180] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
-| 181 | [3 AM][181] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
-| 182 | [Iris][182] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
-| 183 | [Slide][183] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
-| 184 | [Torn][184] | Natalie Imbruglia | Left of the Middle | 1998 |  |
-| 185 | [Inside Out][185] | Eve 6 | Eve 6 | 1998 |  |
-| 186 | [Celebrity Skin][186] | Hole | Celebrity Skin | 1998 |  |
-| 187 | [Malibu][187] | Hole | Celebrity Skin | 1998 |  |
-| 188 | [Push It][188] | Garbage | Version 2.0 | 1998 |  |
-| 189 | [I Think I'm Paranoid][189] | Garbage | Version 2.0 | 1998 |  |
-| 190 | [Special][190] | Garbage | Version 2.0 | 1998 |  |
-| 191 | [When You Were Young][191] | Garbage | Version 2.0 | 1998 |  |
-| 192 | [My Own Worst Enemy][192] | Lit | A Place in the Sun | 1999 |  |
-| 193 | [All Star][193] | Smash Mouth | Astro Lounge | 1999 |  |
-| 194 | [Steal My Sunshine][194] | Len | You Can't Stop the Bum Rush | 1999 |  |
-| 195 | [Last Kiss][195] | Pearl Jam | Last Kiss (Single) | 1999 |  |
-| 196 | [Shimmer][196] | Fuel | Sunburn | 1999 |  |
-| 197 | [Learn to Fly][197] | Foo Fighters | There Is Nothing Left to Lose | 1999 |  |
+| 177 | [The Way][177] | Fastball | All the Pain Money Can Buy | 1998 |  |
+| 178 | [Fire Water Burn][178] | Bloodhound Gang | One Fierce Beer Coaster | 1998 |  |
+| 179 | [Push][179] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
+| 180 | [3 AM][180] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
+| 181 | [Iris][181] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
+| 182 | [Slide][182] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
+| 183 | [Torn][183] | Natalie Imbruglia | Left of the Middle | 1998 |  |
+| 184 | [Inside Out][184] | Eve 6 | Eve 6 | 1998 |  |
+| 185 | [Celebrity Skin][185] | Hole | Celebrity Skin | 1998 |  |
+| 186 | [Malibu][186] | Hole | Celebrity Skin | 1998 |  |
+| 187 | [Push It][187] | Garbage | Version 2.0 | 1998 |  |
+| 188 | [I Think I'm Paranoid][188] | Garbage | Version 2.0 | 1998 |  |
+| 189 | [Special][189] | Garbage | Version 2.0 | 1998 |  |
+| 190 | [When You Were Young][190] | Garbage | Version 2.0 | 1998 |  |
+| 191 | [My Own Worst Enemy][191] | Lit | A Place in the Sun | 1999 |  |
+| 192 | [Steal My Sunshine][192] | Len | You Can't Stop the Bum Rush | 1999 |  |
+| 193 | [Last Kiss][193] | Pearl Jam | Last Kiss (Single) | 1999 |  |
+| 194 | [Shimmer][194] | Fuel | Sunburn | 1999 |  |
+| 195 | [Learn to Fly][195] | Foo Fighters | There Is Nothing Left to Lose | 1999 |  |
 
 [1]: https://music.apple.com/us/song/man-in-the-box/1440806588
 [2]: https://music.apple.com/us/song/smells-like-teen-spirit/1440783617
@@ -402,24 +400,22 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 [174]: https://music.apple.com/us/song/my-hero/1440897157
 [175]: https://music.apple.com/us/song/monkey-wrench/1440897159
 [176]: https://music.apple.com/us/song/everlong/1440897161
-[177]: https://music.apple.com/us/song/walkin-on-the-sun/1443012837
-[178]: https://music.apple.com/us/song/the-way/1440722443
-[179]: https://music.apple.com/us/song/fire-water-burn/328320815
-[180]: https://music.apple.com/us/song/push/1440852665
-[181]: https://music.apple.com/us/song/3-am/1440852667
-[182]: https://music.apple.com/us/song/iris/1440798585
-[183]: https://music.apple.com/us/song/slide/1440798587
-[184]: https://music.apple.com/us/song/torn/1440921093
-[185]: https://music.apple.com/us/song/inside-out/724841679
-[186]: https://music.apple.com/us/song/celebrity-skin/1440848431
-[187]: https://music.apple.com/us/song/malibu/1440848433
-[188]: https://music.apple.com/us/song/push-it/1440877969
-[189]: https://music.apple.com/us/song/i-think-im-paranoid/1440877971
-[190]: https://music.apple.com/us/song/special/1440877973
-[191]: https://music.apple.com/us/song/when-you-were-young/1440877975
-[192]: https://music.apple.com/us/song/my-own-worst-enemy/328339889
-[193]: https://music.apple.com/us/song/all-star/1443013169
-[194]: https://music.apple.com/us/song/steal-my-sunshine/724695506
-[195]: https://music.apple.com/us/song/last-kiss/192139
-[196]: https://music.apple.com/us/song/shimmer/278822516
-[197]: https://music.apple.com/us/song/learn-to-fly/1440896761
+[177]: https://music.apple.com/us/song/the-way/1440722443
+[178]: https://music.apple.com/us/song/fire-water-burn/328320815
+[179]: https://music.apple.com/us/song/push/1440852665
+[180]: https://music.apple.com/us/song/3-am/1440852667
+[181]: https://music.apple.com/us/song/iris/1440798585
+[182]: https://music.apple.com/us/song/slide/1440798587
+[183]: https://music.apple.com/us/song/torn/1440921093
+[184]: https://music.apple.com/us/song/inside-out/724841679
+[185]: https://music.apple.com/us/song/celebrity-skin/1440848431
+[186]: https://music.apple.com/us/song/malibu/1440848433
+[187]: https://music.apple.com/us/song/push-it/1440877969
+[188]: https://music.apple.com/us/song/i-think-im-paranoid/1440877971
+[189]: https://music.apple.com/us/song/special/1440877973
+[190]: https://music.apple.com/us/song/when-you-were-young/1440877975
+[191]: https://music.apple.com/us/song/my-own-worst-enemy/328339889
+[192]: https://music.apple.com/us/song/steal-my-sunshine/724695506
+[193]: https://music.apple.com/us/song/last-kiss/192139
+[194]: https://music.apple.com/us/song/shimmer/278822516
+[195]: https://music.apple.com/us/song/learn-to-fly/1440896761
