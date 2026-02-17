@@ -5,9 +5,16 @@ on:
     branches: [main]
     paths:
       - 'playlists/*.md'
+  workflow_dispatch:
+    inputs:
+      playlist:
+        description: 'Playlist file to sync (e.g. playlists/classic-rock.md). Leave empty to sync all.'
+        required: false
+        type: string
 
 jobs:
-  sync:
+  sync-changed:
+    if: github.event_name == 'push'
     runs-on: ubuntu-latest
 
     steps:
@@ -55,3 +62,33 @@ jobs:
             fi
           done
           exit $failed
+
+  sync-manual:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync playlists
+        env:
+          APPLE_MUSIC_TEAM_ID: ${{ secrets.APPLE_MUSIC_TEAM_ID }}
+          APPLE_MUSIC_KEY_ID: ${{ secrets.APPLE_MUSIC_KEY_ID }}
+          APPLE_MUSIC_PRIVATE_KEY: ${{ secrets.APPLE_MUSIC_PRIVATE_KEY }}
+          APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
+        run: |
+          playlist="${{ inputs.playlist }}"
+          if [ -n "$playlist" ]; then
+            echo "Syncing single playlist: $playlist"
+            node .github/skills/apple-music-api/sync.mjs "$playlist"
+          else
+            echo "Syncing all playlists..."
+            node .github/skills/apple-music-api/sync-all.mjs
+          fi
