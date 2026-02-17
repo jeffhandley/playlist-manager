@@ -46,14 +46,19 @@ jobs:
             mapfile -t all_playlists < <(find playlists -name "*.md" -type f | sort)
             playlists=()
             
-            # Parse exclusions into array (localized IFS)
+            # Parse exclusions into array (IFS is localized to this read operation)
             IFS=',' read -ra exclude_list <<< "$EXCLUDE_PLAYLISTS"
             
             for playlist_file in "${all_playlists[@]}"; do
               excluded=false
+              filename=$(basename "$playlist_file")
+              
               # Use bash built-in string matching for efficiency
-              for exclude_name in "${exclude_list[@]}"; do
-                if [[ "$playlist_file" == *"$exclude_name"* ]]; then
+              # Match against basename for exact filename comparison
+              for exclude_item in "${exclude_list[@]}"; do
+                # Trim whitespace from exclude_item
+                exclude_name=$(echo "$exclude_item" | xargs)
+                if [[ "$filename" == "$exclude_name" ]]; then
                   excluded=true
                   break
                 fi
