@@ -74,24 +74,31 @@ jobs:
 
           Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push origin "$branch"
-          gh pr create \
-            --title "Fix invalid Apple Music URLs" \
-            --body "$(cat <<'EOF'
-          ## Automated URL Validation
+          
+          # Build PR body with optional exclusions line
+          pr_body="## Automated URL Validation
 
           This PR was created by the **Validate Playlist URLs** workflow.
 
-          The Apple Music API was used to verify every song permalink across all playlists. Invalid or stale song IDs were corrected by searching the Apple Music catalog for the correct track.
+          The Apple Music API was used to verify every song permalink across all playlists. Invalid or stale song IDs were corrected by searching the Apple Music catalog for the correct track."
+          
+          if [ -n "${{ inputs.exclude_playlists }}" ]; then
+            pr_body="$pr_body
 
-          ${{ inputs.exclude_playlists != '' && format('**Excluded playlists:** {0}', inputs.exclude_playlists) || '' }}
+          **Excluded playlists:** ${{ inputs.exclude_playlists }}"
+          fi
+          
+          pr_body="$pr_body
 
           ### Validation Log
           \`\`\`
           $(tail -30 validation.log)
           \`\`\`
 
-          Review the changes to confirm the corrected URLs are accurate, then merge to trigger an automatic sync.
-          EOF
-          )" \
+          Review the changes to confirm the corrected URLs are accurate, then merge to trigger an automatic sync."
+          
+          gh pr create \
+            --title "Fix invalid Apple Music URLs" \
+            --body "$pr_body" \
             --base main \
             --head "$branch"
