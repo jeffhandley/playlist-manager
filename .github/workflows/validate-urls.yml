@@ -42,12 +42,12 @@ jobs:
             node .github/skills/apple-music-api/validate-urls.mjs 2>&1 | tee validation.log
           else
             # Get all playlists and filter out excluded ones
-            # Using a loop with grep -F for safe literal string matching
-            all_playlists=$(find playlists -name "*.md" -type f | sort)
-            playlists=""
+            # Using arrays for safe handling of filenames with spaces
+            mapfile -t all_playlists < <(find playlists -name "*.md" -type f | sort)
+            playlists=()
             
             IFS=',' read -ra exclude_array <<< "$EXCLUDE_PLAYLISTS"
-            for playlist_file in $all_playlists; do
+            for playlist_file in "${all_playlists[@]}"; do
               excluded=false
               for exclude_pattern in "${exclude_array[@]}"; do
                 # Use grep -F for literal string matching (no regex)
@@ -58,13 +58,13 @@ jobs:
               done
               
               if [ "$excluded" = false ]; then
-                playlists="$playlists $playlist_file"
+                playlists+=("$playlist_file")
               fi
             done
             
             # Run validation on filtered list
-            if [ -n "$playlists" ]; then
-              node .github/skills/apple-music-api/validate-urls.mjs $playlists 2>&1 | tee validation.log
+            if [ ${#playlists[@]} -gt 0 ]; then
+              node .github/skills/apple-music-api/validate-urls.mjs "${playlists[@]}" 2>&1 | tee validation.log
             else
               echo "No playlists to validate after exclusions"
               exit 0
