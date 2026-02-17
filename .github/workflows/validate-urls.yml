@@ -43,10 +43,10 @@ jobs:
             node .github/skills/apple-music-api/validate-urls.mjs 2>&1 | tee validation.log
           else
             # Build exclusion pattern for grep
-            exclude_pattern=$(echo "$exclude_list" | sed 's/,/\\|/g')
+            exclude_pattern=$(echo "$exclude_list" | sed 's/,/|/g')
             
             # Get all playlists except excluded ones
-            playlists=$(find playlists -name "*.md" -type f | grep -v "$exclude_pattern" | sort)
+            playlists=$(find playlists -name "*.md" -type f | grep -vE "$exclude_pattern" | sort)
             
             # Run validation on filtered list
             node .github/skills/apple-music-api/validate-urls.mjs $playlists 2>&1 | tee validation.log
@@ -83,7 +83,7 @@ jobs:
 
           The Apple Music API was used to verify every song permalink across all playlists. Invalid or stale song IDs were corrected by searching the Apple Music catalog for the correct track.
 
-          ${{ inputs.exclude_playlists && format('**Excluded playlists:** {0}', inputs.exclude_playlists) || '' }}
+          ${{ inputs.exclude_playlists != '' && format('**Excluded playlists:** {0}', inputs.exclude_playlists) || '' }}
 
           ### Validation Log
           \`\`\`
