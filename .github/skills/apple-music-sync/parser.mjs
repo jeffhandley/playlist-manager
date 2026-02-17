@@ -31,12 +31,13 @@ export function parsePlaylistMarkdown(filePath) {
   const tracks = [];
   for (const line of content.split("\n")) {
     const match = line.match(
-      /^\|\s*(\d+)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*.*\|$/
+      /^\|\s*(\d+)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*.*\|$/
     );
     if (match) {
       const num = match[1].trim();
       let song = match[2].trim();
       const artist = match[3].trim();
+      const album = match[4].trim();
 
       // Extract song name from markdown link: [Song Title][N] or [Song Title](url)
       let url = null;
@@ -51,7 +52,7 @@ export function parsePlaylistMarkdown(filePath) {
         url = inlineLinkMatch[2];
       }
 
-      tracks.push({ song, artist, url });
+      tracks.push({ song, artist, album, url });
     }
   }
 

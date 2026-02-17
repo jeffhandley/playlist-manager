@@ -26,13 +26,17 @@ async function main() {
   const libraryOnly = args.includes("--library-only");
   const headless = args.includes("--headless");
   const renameFrom = args.find(a => a.startsWith("--rename-from="))?.split("=").slice(1).join("=");
+  const fromAlbum = parseInt(args.find(a => a.startsWith("--from-album="))?.split("=")[1]) || null;
+  const toAlbum = parseInt(args.find(a => a.startsWith("--to-album="))?.split("=")[1]) || null;
 
   if (!filePath || !existsSync(filePath)) {
     console.error(
       "Usage: node sync.mjs <playlist.md> [--library-only] [--rename-from=NAME] [--headless]\n" +
-      "  --library-only       Only add tracks to library, don't manage the playlist\n" +
-      "  --rename-from=NAME   Rename existing playlist from NAME to the markdown heading\n" +
-      "  --headless           Run in headless browser mode\n" +
+      "  --library-only         Only add tracks to library, don't manage the playlist\n" +
+      "  --rename-from=NAME     Rename existing playlist from NAME to the markdown heading\n" +
+      "  --from-album=N         Start syncing from album group N (1-based)\n" +
+      "  --to-album=N           Stop syncing after album group N (1-based)\n" +
+      "  --headless             Run in headless browser mode\n" +
       (filePath ? `\nError: ${filePath} not found` : "")
     );
     process.exit(1);
@@ -57,6 +61,7 @@ async function main() {
   console.log(`Tracks:   ${tracks.length}`);
   if (libraryOnly) console.log(`Mode:     Library only (no playlist management)`);
   if (renameFrom) console.log(`Mode:     Rename from "${managedName(renameFrom)}"`);
+  if (fromAlbum || toAlbum) console.log(`Albums:   ${fromAlbum || 1} to ${toAlbum || 'end'}`);
   if (headless) console.log(`Mode:     Headless`);
   console.log("");
 
@@ -75,7 +80,7 @@ async function main() {
   if (libraryOnly) {
     await syncLibraryOnly(page, tracks);
   } else {
-    await syncPlaylist(page, tracks, playlistName, description);
+    await syncPlaylist(page, tracks, playlistName, description, { fromAlbum, toAlbum });
   }
 
   console.log("\nBrowser will close in 5 seconds...");
@@ -114,77 +119,105 @@ async function syncLibraryOnly(page, tracks) {
   }
 }
 
-async function syncPlaylist(page, tracks, playlistName, description) {
+async function syncPlaylist(page, tracks, playlistName, description, { fromAlbum, toAlbum } = {}) {
   // Back up the playlist before making any changes (once per day).
-  // This renames the 🤖 playlist to 🔙, so after backup the playlist won't exist.
-  await backupPlaylist(page, playlistName);
+  // Skip backup when doing a partial album-range sync.
+  if (!fromAlbum && !toAlbum) {
+    await backupPlaylist(page, playlistName);
+  } else {
+    console.log("Skipping backup for partial album-range sync.\n");
+  }
 
   // Check if the playlist exists (it won't after a successful backup rename)
-  const initialTracks = await readPlaylistTracks(page, playlistName);
+  const existingTracks = await readPlaylistTracks(page, playlistName);
+  const existingCount = existingTracks ? existingTracks.length : 0;
 
-  if (!initialTracks) {
-    // Playlist doesn't exist — create it via the first track add and add all tracks
+  // Group tracks by album (preserving order within each album)
+  const albums = [];
+  let currentAlbum = null;
+  for (const track of tracks) {
+    const albumKey = `${track.album || ''} — ${track.artist}`;
+    if (!currentAlbum || currentAlbum.key !== albumKey) {
+      currentAlbum = { key: albumKey, album: track.album || 'Unknown', artist: track.artist, tracks: [] };
+      albums.push(currentAlbum);
+    }
+    currentAlbum.tracks.push(track);
+  }
+
+  const startAlbum = (fromAlbum || 1) - 1; // convert to 0-based
+  const endAlbum = toAlbum || albums.length; // 1-based inclusive → use as exclusive
+
+  console.log(`${albums.length} album groups, ${tracks.length} tracks total.`);
+  if (fromAlbum || toAlbum) {
+    console.log(`Syncing albums ${startAlbum + 1} to ${endAlbum} of ${albums.length}.`);
+  }
+  if (existingTracks) {
+    console.log(`Playlist has ${existingCount} existing tracks.\n`);
+  } else {
     console.log(`Playlist not found. Will create "${playlistName}" during first track add.\n`);
+  }
 
-    let playlistCreated = false;
-    const onCreatePlaylist = (p) => {
-      playlistCreated = true;
-      return createPlaylist(p, playlistName, { description });
-    };
+  let playlistCreated = existingTracks != null;
+  const onCreatePlaylist = (p) => {
+    playlistCreated = true;
+    return createPlaylist(p, playlistName, { description });
+  };
 
-    const failed = [];
-    let added = 0;
-    let lastRetried = false;
-    let verifyInterval = 5;   // tracks between verifications (grows: 5→10→20→30)
-    let sinceLastVerify = 0;
+  let totalAdded = 0; // tracks added this session
+  let totalFailed = 0;
+  const failedTracks = [];
+  let consecutiveErrors = 0;
 
-    for (let i = 0; i < tracks.length; i++) {
-      const track = tracks[i];
-      const progress = `[${i + 1}/${tracks.length}]`;
+  for (let ai = startAlbum; ai < endAlbum && ai < albums.length; ai++) {
+    const albumGroup = albums[ai];
+    const albumLabel = `${albumGroup.album} — ${albumGroup.artist}`;
+    const albumProgress = `[Album ${ai + 1}/${albums.length}]`;
 
-      // Adaptive verification: always verify tracks 1-2, after a retry,
-      // or after verifyInterval tracks. Otherwise skip verification for speed.
-      const shouldVerify = added < 2 || lastRetried || sinceLastVerify >= verifyInterval;
+    console.log(`${albumProgress} ${albumLabel} (${albumGroup.tracks.length} tracks)`);
+
+    let albumAdded = 0;
+
+    for (let ti = 0; ti < albumGroup.tracks.length; ti++) {
+      const track = albumGroup.tracks[ti];
+      const trackProgress = `  [${ti + 1}/${albumGroup.tracks.length}]`;
+
+      // If we've had many consecutive errors, do a hard recovery
+      if (consecutiveErrors >= 3) {
+        console.log(`  ⚠ ${consecutiveErrors} consecutive errors — waiting 10s for recovery...`);
+        try {
+          await page.goto(`${BASE_URL}/`, { waitUntil: "load", timeout: 30000 });
+          await setTimeout(10000);
+        } catch { /* ignore */ }
+        consecutiveErrors = 0;
+      }
 
       try {
         const opts = playlistCreated
-          ? { url: track.url, retries: 5, ...(shouldVerify ? { expectedCount: added } : {}) }
-          : { url: track.url, onCreatePlaylist, forceCreate: !playlistCreated, retries: 5 };
+          ? { url: track.url, retries: 4 }
+          : { url: track.url, onCreatePlaylist, forceCreate: !playlistCreated, retries: 4 };
 
         const result = await addTrackWithRetry(page, track, playlistName, opts);
-        lastRetried = result.retried || false;
 
         if (result.added) {
-          added++;
-          sinceLastVerify++;
-
           if (result.created) {
-            console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (playlist created)`);
-            sinceLastVerify = 0;
-          } else if (result.count != null) {
-            // Verified — check if count matches and adjust interval
-            sinceLastVerify = 0;
-            if (result.count === added) {
-              console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count} tracks)`);
-              // Successful verify — expand interval (5→10→20→30 max)
-              if (!lastRetried) verifyInterval = Math.min(30, verifyInterval < 10 ? verifyInterval + 5 : verifyInterval + 10);
-            } else {
-              console.log(`  ${progress} ✓ ${track.song} — ${track.artist} (${result.count} tracks, expected ${added})`);
-              added = result.count; // correct our count
-              verifyInterval = 5;  // reset interval after mismatch
-            }
+            console.log(`${trackProgress} ✓ ${track.song} (playlist created)`);
           } else {
-            // Unverified add
-            console.log(`  ${progress} ✓ ${track.song} — ${track.artist}`);
+            console.log(`${trackProgress} ✓ ${track.song}`);
           }
+          albumAdded++;
+          totalAdded++;
+          consecutiveErrors = 0;
         } else {
-          console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${result.reason})`);
-          failed.push(`${track.song} — ${track.artist}`);
-          lastRetried = true; // verify the next one
+          console.log(`${trackProgress} ✗ ${track.song} (${result.reason})`);
+          failedTracks.push(`${track.song} — ${track.artist}`);
+          totalFailed++;
+          consecutiveErrors++;
         }
       } catch (err) {
-        console.log(`  ${progress} ✗ ${track.song} — ${track.artist} (${err.message.split("\n")[0]})`);
-        failed.push(`${track.song} — ${track.artist}`);
+        console.log(`${trackProgress} ✗ ${track.song} (${err.message.split("\n")[0]})`);
+        failedTracks.push(`${track.song} — ${track.artist}`);
+        totalFailed++;
+        consecutiveErrors++;
         // Recover browser state after navigation errors
         try {
           await page.goto(`${BASE_URL}/us/browse`, { waitUntil: "load", timeout: 15000 });
@@ -193,16 +226,29 @@ async function syncPlaylist(page, tracks, playlistName, description) {
       }
     }
 
-    console.log(`\nDone! ${added} track(s) added to "${playlistName}".`);
-    if (failed.length > 0) {
-      console.log(`\n${failed.length} track(s) could not be added:`);
-      for (const t of failed) console.log(`  • ${t}`);
-      console.log("\nYou may need to add these manually in Apple Music.");
+    // Verify track count after each album (skip if we just had errors)
+    try {
+      const actualTracks = await readPlaylistTracks(page, playlistName);
+      const actualCount = actualTracks ? actualTracks.length : 0;
+      const expectedCount = existingCount + totalAdded;
+
+      if (actualCount !== expectedCount) {
+        console.log(`  ⚠ Verification: expected ${expectedCount} tracks, found ${actualCount}`);
+      } else {
+        console.log(`  ✓ Verified: ${actualCount} tracks`);
+      }
+    } catch (err) {
+      console.log(`  ⚠ Verification skipped: ${err.message.split("\n")[0]}`);
     }
-  } else {
-    // Playlist exists — reorder to match the markdown (deletes out-of-sync
-    // tracks and re-adds them in the correct order)
-    await reorderPlaylist(page, playlistName, tracks);
+
+    console.log("");
+  }
+
+  console.log(`\nDone! ${totalAdded} track(s) added to "${playlistName}" (${existingCount + totalAdded} total).`);
+  if (failedTracks.length > 0) {
+    console.log(`\n${failedTracks.length} track(s) could not be added:`);
+    for (const t of failedTracks) console.log(`  • ${t}`);
+    console.log("\nYou may need to add these manually in Apple Music.");
   }
 
   // Update the playlist description if one is provided
