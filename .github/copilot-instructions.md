@@ -50,6 +50,16 @@ When creating a new playlist or updating an existing one:
 
 Always check `PREFERENCES.md` before adding tracks. It lists blocked songs and artists that must never be included in any playlist.
 
+## Security — Secrets
+
+**NEVER include secrets, API keys, tokens, or private key material in any file, commit, PR, or comment.** This includes:
+- Apple Music private keys (`.p8` file contents)
+- Music User Tokens
+- Team IDs and Key IDs
+- Any `APPLE_MUSIC_*` environment variable values
+
+Secrets are stored exclusively in **GitHub repository secrets** and injected into workflows via `${{ secrets.* }}`. If a user shares a secret value in conversation, do not echo it back or write it to any file. If you encounter what appears to be a leaked secret, alert the user immediately.
+
 ## Syncing and Validation
 
 Two GitHub Actions workflows are available and can be triggered on request:
