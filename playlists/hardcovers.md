@@ -135,6 +135,8 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | 98 | [Personal Jesus][100] | Marilyn Manson | Lest We Forget: The Best of Marilyn Manson | 2004 | Grinding industrial metal |
 | 99 | [It's a Sin][35] | Pet Shop Boys | Actually: Further Listening 1987-1988 (Deluxe) [2018 Remaster] | 1987 | 80s synthpop classic |
 | 100 | [It's A Sin][36] | Ghost | It's A Sin - Single | 2026 | Theatrical heavy metal |
+| 101 | [Zombie][101] | The Cranberries | No Need to Argue | 1994 | 90s alt-rock protest anthem |
+| 102 | [Zombie][102] | Bad Wolves | Disobey | 2018 | Powerful modern metal cover |
 
 
 [1]: https://music.apple.com/us/song/live-and-let-die/1440952880
@@ -237,3 +239,5 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [98]: https://music.apple.com/us/song/in-a-gadda-da-vida/1443269252
 [99]: https://music.apple.com/us/song/personal-jesus/1174246806
 [100]: https://music.apple.com/us/song/personal-jesus/1440746931
+[101]: https://music.apple.com/us/song/zombie/1422648233
+[102]: https://music.apple.com/us/song/zombie/1440844617
