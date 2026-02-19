@@ -36,7 +36,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 3 | [The Good's Gone][3] | The Who | My Generation | 1965 |  |
 | 4 | [La-La-La-Lies][4] | The Who | My Generation | 1965 |  |
 | 5 | [Much Too Much][5] | The Who | My Generation | 1965 |  |
-| 6 | [My Generation][6] | The Who | My Generation | 1965 |  |
+| 6 | [My Generation][6] | The Who | My Generation | 1965 | Youth rebellion anthem |
 | 7 | [The Kids Are Alright][7] | The Who | My Generation | 1965 |  |
 | 8 | [Please Please Please][8] | The Who | My Generation | 1965 |  |
 | 9 | [It's Not True][9] | The Who | My Generation | 1965 |  |
@@ -371,8 +371,8 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 338 | [Voodoo Child (Slight Return)][338] | Jimi Hendrix | Electric Ladyland | 1968 |  |
 | 339 | Electric Ladyland (Bonus Footage) | Jimi Hendrix | Electric Ladyland | 1968 |  |
 | 340 | [Spanish Caravan][340] | The Doors | Waiting for the Sun | 1968 |  |
-| 341 | [The Unknown Soldier][341] | The Doors | Waiting for the Sun | 1968 |  |
-| 342 | [Five To One][342] | The Doors | Waiting for the Sun | 1968 |  |
+| 341 | [The Unknown Soldier][341] | The Doors | Waiting for the Sun | 1968 | Vietnam War protest |
+| 342 | [Five To One][342] | The Doors | Waiting for the Sun | 1968 | Generational rebellion |
 | 343 | [Love Her Madly][343] | The Doors | Waiting for the Sun | 1968 |  |
 | 344 | [Riders On the Storm][344] | The Doors | Waiting for the Sun | 1968 |  |
 | 345 | [Tell All the People][345] | The Doors | Waiting for the Sun | 1968 |  |
@@ -394,7 +394,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 361 | [Dear Doctor][361] | The Rolling Stones | Beggars Banquet | 1968 |  |
 | 362 | [Parachute Woman][362] | The Rolling Stones | Beggars Banquet | 1968 |  |
 | 363 | [Jigsaw Puzzle][363] | The Rolling Stones | Beggars Banquet | 1968 |  |
-| 364 | [Street Fighting Man][364] | The Rolling Stones | Beggars Banquet | 1968 |  |
+| 364 | [Street Fighting Man][364] | The Rolling Stones | Beggars Banquet | 1968 | Late 60s protest anthem |
 | 365 | [Prodigal Son][365] | The Rolling Stones | Beggars Banquet | 1968 |  |
 | 366 | [Stray Cat Blues][366] | The Rolling Stones | Beggars Banquet | 1968 |  |
 | 367 | [Factory Girl][367] | The Rolling Stones | Beggars Banquet | 1968 |  |
@@ -421,7 +421,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 388 | [Cotton Fields][388] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 |  |
 | 389 | [Poorboy Shuffle][389] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 |  |
 | 390 | [Feelin' Blue][390] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 |  |
-| 391 | [Fortunate Son][391] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 |  |
+| 391 | [Fortunate Son][391] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 | Anti-draft/class divide |
 | 392 | [Don't Look Now][392] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 |  |
 | 393 | [Midnight Special][393] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 |  |
 | 394 | [Side o' the Road][394] | Creedence Clearwater Revival | Willy and the Poor Boys | 1969 |  |
@@ -449,7 +449,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 416 | [Wild Child][416] | The Doors | The Soft Parade | 1969 |  |
 | 417 | [Runnin' Blue][417] | The Doors | The Soft Parade | 1969 |  |
 | 418 | [The Soft Parade][418] | The Doors | The Soft Parade | 1969 |  |
-| 419 | [Gimme Shelter (Remastered 2019)][419] | The Rolling Stones | Let It Bleed | 1969 |  |
+| 419 | [Gimme Shelter (Remastered 2019)][419] | The Rolling Stones | Let It Bleed | 1969 | Vietnam era chaos/fear |
 | 420 | [Love In Vain (Remastered 2019)][420] | The Rolling Stones | Let It Bleed | 1969 |  |
 | 421 | [Country Honk (Remastered 2019)][421] | The Rolling Stones | Let It Bleed | 1969 |  |
 | 422 | [Live with Me (Remastered 2019)][422] | The Rolling Stones | Let It Bleed | 1969 |  |
@@ -487,7 +487,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 454 | [Wasp / Behind the Wall of Sleep / Bassically / N.I.B.][454] | Black Sabbath | Black Sabbath | 1970 |  |
 | 455 | [Wicked World][455] | Black Sabbath | Black Sabbath | 1970 |  |
 | 456 | [A Bit of Finger / Sleeping Village / Warning][456] | Black Sabbath | Black Sabbath | 1970 |  |
-| 457 | [War Pigs / Luke's Wall][457] | Black Sabbath | Paranoid | 1970 |  |
+| 457 | [War Pigs / Luke's Wall][457] | Black Sabbath | Paranoid | 1970 | Anti-war protest |
 | 458 | [Paranoid][458] | Black Sabbath | Paranoid | 1970 |  |
 | 459 | [Planet Caravan][459] | Black Sabbath | Paranoid | 1970 |  |
 | 460 | [Iron Man][460] | Black Sabbath | Paranoid | 1970 |  |
@@ -545,7 +545,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 512 | [Sweet Leaf][512] | Black Sabbath | Master of Reality | 1971 |  |
 | 513 | [After Forever][513] | Black Sabbath | Master of Reality | 1971 |  |
 | 514 | [Embryo][514] | Black Sabbath | Master of Reality | 1971 |  |
-| 515 | [Children of the Grave][515] | Black Sabbath | Master of Reality | 1971 |  |
+| 515 | [Children of the Grave][515] | Black Sabbath | Master of Reality | 1971 | Peace/anti-nuclear |
 | 516 | [Orchid][516] | Black Sabbath | Master of Reality | 1971 |  |
 | 517 | [Lord of This World][517] | Black Sabbath | Master of Reality | 1971 |  |
 | 518 | [Solitude][518] | Black Sabbath | Master of Reality | 1971 |  |
@@ -606,8 +606,8 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 573 | [Getting In Tune (Remastered 2022)][573] | The Who | Whos Next | 1971 |  |
 | 574 | [Going Mobile (Remastered 2022)][574] | The Who | Whos Next | 1971 |  |
 | 575 | [Behind Blue Eyes (Remastered 2022)][575] | The Who | Whos Next | 1971 |  |
-| 576 | [Won't Get Fooled Again (Remastered 2022)][576] | The Who | Whos Next | 1971 |  |
-| 577 | [Signs][1939] | Five Man Electrical Band | Good-byes and Butterflies | 1971 | Hits |
+| 576 | [Won't Get Fooled Again (Remastered 2022)][576] | The Who | Whos Next | 1971 | Political cynicism |
+| 577 | [Signs][1939] | Five Man Electrical Band | Good-byes and Butterflies | 1971 | Anti-establishment/Hits |
 | 578 | [Wheels of Confusion / The Straightener][577] | Black Sabbath | Vol. 4 | 1972 |  |
 | 579 | [Tomorrow's Dream][578] | Black Sabbath | Vol. 4 | 1972 |  |
 | 580 | [Changes][579] | Black Sabbath | Vol. 4 | 1972 |  |
@@ -815,7 +815,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 782 | [Ol' 55][781] | Eagles | On the Border | 1974 |  |
 | 783 | [Is It True?][782] | Eagles | On the Border | 1974 |  |
 | 784 | [Good Day In Hell][783] | Eagles | On the Border | 1974 |  |
-| 785 | [Sweet Home Alabama][784] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 785 | [Sweet Home Alabama][784] | Lynyrd Skynyrd | Second Helping | 1974 | Southern pride/culture clash |
 | 786 | [I Need You][785] | Lynyrd Skynyrd | Second Helping | 1974 |  |
 | 787 | [Don't Ask Me No Questions][786] | Lynyrd Skynyrd | Second Helping | 1974 |  |
 | 788 | [Workin' for MCA][787] | Lynyrd Skynyrd | Second Helping | 1974 |  |
