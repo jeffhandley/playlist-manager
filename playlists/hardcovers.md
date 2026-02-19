@@ -137,6 +137,8 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | 100 | [It's A Sin][36] | Ghost | It's A Sin - Single | 2026 | Theatrical heavy metal |
 | 101 | [Zombie][101] | The Cranberries | No Need to Argue | 1994 | 90s alt-rock protest anthem |
 | 102 | [Zombie][102] | Bad Wolves | Disobey | 2018 | Powerful modern metal cover |
+| 103 | [Signs][103] | Five Man Electrical Band | Good-byes and Butterflies | 1971 | 70s protest anthem |
+| 104 | [Signs (Live)][104] | Tesla | Five Man Acoustical Jam (Live) | 1990 | Acoustic rock cover |
 
 
 [1]: https://music.apple.com/us/song/live-and-let-die/1440952880
@@ -241,3 +243,5 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [100]: https://music.apple.com/us/song/personal-jesus/1440746931
 [101]: https://music.apple.com/us/song/zombie/1440735264
 [102]: https://music.apple.com/us/song/zombie/1440844617
+[103]: https://music.apple.com/us/song/signs/1443005908
+[104]: https://music.apple.com/us/song/signs/1440918486
