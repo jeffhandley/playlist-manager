@@ -47,7 +47,7 @@ A curated collection of classic singer-songwriter tracks from the late 60s throu
 [15]: https://music.apple.com/us/song/so-far-away/209431598
 [16]: https://music.apple.com/us/song/its-too-late/747087665
 [17]: https://music.apple.com/us/song/the-pretender/298088977
-[18]: https://music.apple.com/us/song/these-days/268498696
+[18]: https://music.apple.com/us/song/these-days/217507441
 [19]: https://music.apple.com/us/song/a-case-of-you/1492263131
 [20]: https://music.apple.com/us/song/river/1808850880
 [21]: https://music.apple.com/us/song/if-you-could-read-my-mind/362089066
