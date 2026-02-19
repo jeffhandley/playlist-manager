@@ -607,1368 +607,1369 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 574 | [Going Mobile (Remastered 2022)][574] | The Who | Whos Next | 1971 |  |
 | 575 | [Behind Blue Eyes (Remastered 2022)][575] | The Who | Whos Next | 1971 |  |
 | 576 | [Won't Get Fooled Again (Remastered 2022)][576] | The Who | Whos Next | 1971 |  |
-| 577 | [Wheels of Confusion / The Straightener][577] | Black Sabbath | Vol. 4 | 1972 |  |
-| 578 | [Tomorrow's Dream][578] | Black Sabbath | Vol. 4 | 1972 |  |
-| 579 | [Changes][579] | Black Sabbath | Vol. 4 | 1972 |  |
-| 580 | [FX][580] | Black Sabbath | Vol. 4 | 1972 |  |
-| 581 | [Supernaut][581] | Black Sabbath | Vol. 4 | 1972 |  |
-| 582 | [Snowblind][582] | Black Sabbath | Vol. 4 | 1972 |  |
-| 583 | [Cornucopia][583] | Black Sabbath | Vol. 4 | 1972 |  |
-| 584 | [Laguna Sunrise][584] | Black Sabbath | Vol. 4 | 1972 |  |
-| 585 | [St. Vitus Dance][585] | Black Sabbath | Vol. 4 | 1972 |  |
-| 586 | [Under the Sun / Every Day Comes and Goes][586] | Black Sabbath | Vol. 4 | 1972 |  |
-| 587 | [Lookin' For a Reason][587] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 588 | [Take It Like a Friend][588] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 589 | [Need Someone To Hold][589] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 590 | [Tearin' Up the Country][590] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 591 | [Someday Never Comes][591] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 592 | [What Are You Gonna Do][592] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 593 | [Sail Away][593] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 594 | [Hello Mary Lou][594] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 595 | [Door To Door][595] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 596 | [Sweet Hitch-Hiker][596] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
-| 597 | [Highway Star (2024 Remix)][597] | Deep Purple | Machine Head | 1972 | Hits |
-| 598 | [Smoke on the Water (2024 Remix)][598] | Deep Purple | Machine Head | 1972 | Hits |
-| 599 | [Lazy (2024 Remix)][599] | Deep Purple | Machine Head | 1972 | Hits |
-| 600 | [Space Truckin' (2024 Remix)][600] | Deep Purple | Machine Head | 1972 | Hits |
-| 601 | [Take It Easy][601] | Eagles | Eagles | 1972 |  |
-| 602 | [Witchy Woman][602] | Eagles | Eagles | 1972 |  |
-| 603 | [Chug All Night][603] | Eagles | Eagles | 1972 |  |
-| 604 | [Most of Us Are Sad][604] | Eagles | Eagles | 1972 |  |
-| 605 | [Nightingale][605] | Eagles | Eagles | 1972 |  |
-| 606 | [Train Leaves Here This Morning][606] | Eagles | Eagles | 1972 |  |
-| 607 | [Take the Devil][607] | Eagles | Eagles | 1972 |  |
-| 608 | [Earlybird][608] | Eagles | Eagles | 1972 |  |
-| 609 | [Peaceful Easy Feeling][609] | Eagles | Eagles | 1972 |  |
-| 610 | [Tryin'][610] | Eagles | Eagles | 1972 |  |
-| 611 | [Obscured By Clouds][611] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 612 | [When You're In][612] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 613 | [Burning Bridges][613] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 614 | [The Gold It's In the...][614] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 615 | [Wot's... Uh the Deal?][615] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 616 | [Mudmen][616] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 617 | [Childhood's End][617] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 618 | [Free Four][618] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 619 | [Stay][619] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 620 | [Absolutely Curtains][620] | Pink Floyd | Obscured by Clouds | 1972 |  |
-| 621 | [Rocks Off][621] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 622 | [Rip This Joint][622] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 623 | [Shake Your Hips][623] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 624 | [Casino Boogie][624] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 625 | [Tumbling Dice][625] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 626 | [Sweet Virginia][626] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 627 | [Torn And Frayed][627] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 628 | [Sweet Black Angel][628] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 629 | [Loving Cup][629] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 630 | [Happy][630] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 631 | [Turd On The Run][631] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 632 | [Ventilator Blues][632] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 633 | [I Just Want To See His Face][633] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 634 | [Let It Loose][634] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 635 | [All Down The Line][635] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 636 | [Stop Breaking Down][636] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 637 | [Shine A Light][637] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 638 | [Soul Survivor][638] | The Rolling Stones | Exile on Main St | 1972 |  |
-| 639 | Make It (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 640 | Somebody (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 641 | Dream On (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 642 | One Way Street (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 643 | Mama Kin (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 644 | Write Me a Letter (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 645 | Movin' Out (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 646 | Walkin' The Dog (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
-| 647 | Make It (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
-| 648 | Somebody (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
-| 649 | Dream On (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
-| 650 | One Way Street (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
-| 651 | [Mama Kin (2024 Mix)][651] | Aerosmith | Aerosmith | 1973 |  |
-| 652 | Write Me a Letter (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
-| 653 | Movin' Out (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
-| 654 | [Sabbath Bloody Sabbath][654] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 655 | [A National Acrobat][655] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 656 | [Fluff][656] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 657 | [Sabbra Cadabra][657] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 658 | [Killing Yourself to Live][658] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 659 | [Who Are You?][659] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 660 | [Looking for Today][660] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 661 | [Spiral Architect][661] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
-| 662 | [Woman from Tokyo][662] | Deep Purple | Who Do We Think We Are | 1973 | Hits |
-| 663 | [Lyin' Eyes][663] | Eagles | Desperado | 1973 |  |
-| 664 | [Already Gone][664] | Eagles | Desperado | 1973 |  |
-| 665 | [Desperado][665] | Eagles | Desperado | 1973 |  |
-| 666 | [One of These Nights][666] | Eagles | Desperado | 1973 |  |
-| 667 | [Tequila Sunrise][667] | Eagles | Desperado | 1973 |  |
-| 668 | [Take It to the Limit][668] | Eagles | Desperado | 1973 |  |
-| 669 | [The Best of My Love][669] | Eagles | Desperado | 1973 |  |
-| 670 | [The Song Remains the Same][670] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 671 | [The Rain Song][671] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 672 | [Over the Hills and Far Away][672] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 673 | [The Crunge][673] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 674 | [Dancing Days][674] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 675 | [D'yer Mak'er][675] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 676 | [No Quarter][676] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 677 | [The Ocean][677] | Led Zeppelin | Houses of the Holy | 1973 |  |
-| 678 | [I Ain't the One][678] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 679 | [Tuesday's Gone][679] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 680 | [Gimme Three Steps][680] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 681 | [Simple Man][681] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 682 | [Things Goin' On][682] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 683 | [Mississippi Kid][683] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 684 | [Poison Whiskey][684] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 685 | [Free Bird][685] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
-| 686 | [Speak to Me][686] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 687 | [Breathe (In the Air)][687] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 688 | [On the Run][688] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 689 | [Time][689] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 690 | [The Great Gig In the Sky][690] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 691 | [Money][691] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 692 | [Us and Them][692] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 693 | [Any Colour You Like][693] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 694 | [Brain Damage][694] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 695 | [Eclipse][695] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
-| 696 | [Swingtown][696] | Steve Miller Band | The Joker | 1973 |  |
-| 697 | [Jungle Love][697] | Steve Miller Band | The Joker | 1973 |  |
-| 698 | [Take the Money and Run][698] | Steve Miller Band | The Joker | 1973 |  |
-| 699 | [Rock'n Me][699] | Steve Miller Band | The Joker | 1973 |  |
-| 700 | [Serenade][700] | Steve Miller Band | The Joker | 1973 |  |
-| 701 | [True Fine Love][701] | Steve Miller Band | The Joker | 1973 |  |
-| 702 | [The Stake][702] | Steve Miller Band | The Joker | 1973 |  |
-| 703 | [The Joker][703] | Steve Miller Band | The Joker | 1973 |  |
-| 704 | [Fly Like an Eagle][704] | Steve Miller Band | The Joker | 1973 |  |
-| 705 | [Threshold][705] | Steve Miller Band | The Joker | 1973 |  |
-| 706 | [Jet Airliner][706] | Steve Miller Band | The Joker | 1973 |  |
-| 707 | [Dance, Dance, Dance][707] | Steve Miller Band | The Joker | 1973 |  |
-| 708 | [Winter Time][708] | Steve Miller Band | The Joker | 1973 |  |
-| 709 | [Wild Mountain Honey][709] | Steve Miller Band | The Joker | 1973 |  |
-| 710 | [Dancing With Mr D (2020 Giles Martin Mix)][710] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 711 | [100 Years Ago (2020 Giles Martin Mix)][711] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 712 | [Coming Down Again (2020 Giles Martin Mix)][712] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 713 | [Doo Doo Doo Doo Doo (Heartbreaker) [2020 Giles Martin Mix]][713] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 714 | [Angie (2020 Giles Martin Mix)][714] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 715 | [Silver Train (2020 Giles Martin Mix)][715] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 716 | [Hide Your Love (2020 Giles Martin Mix)][716] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 717 | [Winter (2020 Giles Martin Mix)][717] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 718 | [Can You Hear The Music (2020 Giles Martin Mix)][718] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 719 | [Star Star (2020 Giles Martin Mix)][719] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 720 | [Scarlet (feat. Jimmy Page)][720] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 721 | [All The Rage][721] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 722 | [Criss Cross][722] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 723 | [100 Years Ago (Piano Demo)][723] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 724 | [Dancing With Mr D (Instrumental)][724] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 725 | [Heartbreaker (Instrumental)][725] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 726 | [Hide Your Love (Alternate Mix)][726] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 727 | [Dancing With Mr D][727] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 728 | [Doo Doo Doo Doo Doo (Heartbreaker)][728] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 729 | [Silver Train][729] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 730 | [Scarlet (feat. Jimmy Page) [The War On Drugs Remix]][730] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 731 | [Scarlet (feat. Jimmy Page) [The Killers & Jacques Lu Cont Remix]][731] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 732 | [Brown Sugar (Live / Forest National Arena, Brussels / 17/10/73)][732] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 733 | [Gimme Shelter (Live / Forest National Arena, Brussels / 17/10/73)][733] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 734 | [Happy (Live / Forest National Arena, Brussels / 17/10/73)][734] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 735 | [Tumbling Dice (Live / Forest National Arena, Brussels / 17/10/73)][735] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 736 | [Star Star (Live / Forest National Arena, Brussels / 17/10/73)][736] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 737 | [Dancing With Mr D (Live / Forest National Arena, Brussels / 17/10/73)][737] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 738 | [Doo Doo Doo Doo Doo (Heartbreaker) [Live / Forest National Arena, Brussels / 17/10/73]][738] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 739 | [Angie (Live / Forest National Arena, Brussels / 17/10/73)][739] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 740 | [You Can't Always Get What You Want (Live / Forest National Arena, Brussels / 17/10/73)][740] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 741 | [Midnight Rambler (Live / Forest National Arena, Brussels / 17/10/73)][741] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 742 | [Honky Tonk Women (Live / Forest National Arena, Brussels / 17/10/73)][742] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 743 | [All Down The Line (Live / Forest National Arena, Brussels / 17/10/73)][743] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 744 | [Rip This Joint (Live / Forest National Arena, Brussels / 17/10/73)][744] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 745 | [Jumpin' Jack Flash (Live / Forest National Arena, Brussels / 17/10/73)][745] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 746 | [Street Fighting Man (Live / Forest National Arena, Brussels / 17/10/73)][746] | The Rolling Stones | Goats Head Soup | 1973 |  |
-| 747 | [I Am the Sea][747] | The Who | Quadrophenia | 1973 |  |
-| 748 | [The Real Me][748] | The Who | Quadrophenia | 1973 |  |
-| 749 | [Quadrophenia][749] | The Who | Quadrophenia | 1973 |  |
-| 750 | [Cut My Hair][750] | The Who | Quadrophenia | 1973 |  |
-| 751 | [The Punk and the Godfather][751] | The Who | Quadrophenia | 1973 |  |
-| 752 | [I'm One][752] | The Who | Quadrophenia | 1973 |  |
-| 753 | [The Dirty Jobs][753] | The Who | Quadrophenia | 1973 |  |
-| 754 | [Helpless Dancer][754] | The Who | Quadrophenia | 1973 |  |
-| 755 | [Is It In My Head?][755] | The Who | Quadrophenia | 1973 |  |
-| 756 | [I've Had Enough][756] | The Who | Quadrophenia | 1973 |  |
-| 757 | [5:15][757] | The Who | Quadrophenia | 1973 |  |
-| 758 | [Sea and Sand][758] | The Who | Quadrophenia | 1973 |  |
-| 759 | [Drowned][759] | The Who | Quadrophenia | 1973 |  |
-| 760 | [Bell Boy][760] | The Who | Quadrophenia | 1973 |  |
-| 761 | [Doctor Jimmy][761] | The Who | Quadrophenia | 1973 |  |
-| 762 | [The Rock][762] | The Who | Quadrophenia | 1973 |  |
-| 763 | [Love, Reign O'er Me][763] | The Who | Quadrophenia | 1973 |  |
-| 764 | [La Grange][764] | ZZ Top | Tres Hombres | 1973 | Hits |
-| 765 | [Jesus Just Left Chicago][765] | ZZ Top | Tres Hombres | 1973 | Hits |
-| 766 | [Same Old Song and Dance][766] | Aerosmith | Get Your Wings | 1974 |  |
-| 767 | [Lord of the Thighs][767] | Aerosmith | Get Your Wings | 1974 |  |
-| 768 | [Spaced][768] | Aerosmith | Get Your Wings | 1974 |  |
-| 769 | [Woman of the World][769] | Aerosmith | Get Your Wings | 1974 |  |
-| 770 | [S.O.S. (Too Bad)][770] | Aerosmith | Get Your Wings | 1974 |  |
-| 771 | [Train Kept a Rollin'][771] | Aerosmith | Get Your Wings | 1974 |  |
-| 772 | [Seasons of Wither][772] | Aerosmith | Get Your Wings | 1974 |  |
-| 773 | [Pandora's Box][773] | Aerosmith | Get Your Wings | 1974 |  |
-| 774 | [Burn][774] | Deep Purple | Burn | 1974 | Hits |
-| 775 | [Mistreated][775] | Deep Purple | Burn | 1974 | Hits |
-| 776 | [You Never Cry Like a Lover][776] | Eagles | On the Border | 1974 |  |
-| 777 | [Midnight Flyer][777] | Eagles | On the Border | 1974 |  |
-| 778 | [My Man][778] | Eagles | On the Border | 1974 |  |
-| 779 | [On the Border][779] | Eagles | On the Border | 1974 |  |
-| 780 | [James Dean][780] | Eagles | On the Border | 1974 |  |
-| 781 | [Ol' 55][781] | Eagles | On the Border | 1974 |  |
-| 782 | [Is It True?][782] | Eagles | On the Border | 1974 |  |
-| 783 | [Good Day In Hell][783] | Eagles | On the Border | 1974 |  |
-| 784 | [Sweet Home Alabama][784] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 785 | [I Need You][785] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 786 | [Don't Ask Me No Questions][786] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 787 | [Workin' for MCA][787] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 788 | [The Ballad of Curtis Loew][788] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 789 | [Swamp Music][789] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 790 | [The Needle and the Spoon][790] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 791 | [Call Me the Breeze][791] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 792 | [Don't Ask Me No Questions (Single Version)][792] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 793 | [Was I Right or Wrong (Demo Version)][793] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 794 | [Take Your Time (B-Side Single Version)][794] | Lynyrd Skynyrd | Second Helping | 1974 |  |
-| 795 | [The Promise of a New Day][795] | Rush | Rush | 1974 |  |
-| 796 | [Rock House][796] | Rush | Rush | 1974 |  |
-| 797 | [Rush Rush][797] | Rush | Rush | 1974 |  |
-| 798 | [Spellbound][798] | Rush | Rush | 1974 |  |
-| 799 | [Vibeology][799] | Rush | Rush | 1974 |  |
-| 800 | [U][800] | Rush | Rush | 1974 |  |
-| 801 | [My Foolish Heart][801] | Rush | Rush | 1974 |  |
-| 802 | [Blowing Kisses in the Wind][802] | Rush | Rush | 1974 |  |
-| 803 | [To You][803] | Rush | Rush | 1974 |  |
-| 804 | [Alright Tonight][804] | Rush | Rush | 1974 |  |
-| 805 | [Will You Marry Me][805] | Rush | Rush | 1974 |  |
-| 806 | [Brown Sugar (Live)][806] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 807 | [Street Fighting Man (Live)][807] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 808 | [Paint It Black (Live)][808] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 809 | [You Can't Always Get What You Want (Live)][809] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 810 | [Start Me Up (Live)][810] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 811 | [It's Only Rock 'N' Roll (But I Like It) [Live]][811] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 812 | [Angie (Live)][812] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 813 | [Honky Tonk Women (Live) The Rolling Stones, Sheryl Crow][813] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 814 | [Happy (Live)][814] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 815 | [Gimme Shelter (Live)][815] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 816 | [(I Can't Get No) Satisfaction (Live)][816] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 817 | [Neighbours (Live)][817] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 818 | [Monkey Man (Live)][818] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 819 | [Rocks Off (Live)][819] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 820 | [Can't You Hear Me Knocking (Live)][820] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 821 | [That's How Strong My Love Is (Live)][821] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 822 | [The Nearness of You (Live)][822] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 823 | [Beast of Burden (Live)][823] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 824 | [When the Whip Comes Down (Live)][824] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 825 | [Rock Me, Baby (Live)][825] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 826 | [You Don't Have to Mean It (Live)][826] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 827 | [Worried About You (Live)][827] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 828 | [Everybody Needs Somebody to Love (Live) The Rolling Stones, Solomon Burke][828] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
-| 829 | [Toys In the Attic][829] | Aerosmith | Toys in the Attic | 1975 |  |
-| 830 | [Uncle Salty][830] | Aerosmith | Toys in the Attic | 1975 |  |
-| 831 | [Adam's Apple][831] | Aerosmith | Toys in the Attic | 1975 |  |
-| 832 | [Walk This Way][832] | Aerosmith | Toys in the Attic | 1975 |  |
-| 833 | [Big Ten Inch Record][833] | Aerosmith | Toys in the Attic | 1975 |  |
-| 834 | [Sweet Emotion][834] | Aerosmith | Toys in the Attic | 1975 |  |
-| 835 | [No More No More][835] | Aerosmith | Toys in the Attic | 1975 |  |
-| 836 | [Round and Round][836] | Aerosmith | Toys in the Attic | 1975 |  |
-| 837 | [You See Me Crying][837] | Aerosmith | Toys in the Attic | 1975 |  |
-| 838 | [Hole In the Sky][838] | Black Sabbath | Sabotage | 1975 |  |
-| 839 | [Don't Start (Too Late)][839] | Black Sabbath | Sabotage | 1975 |  |
-| 840 | [Symptom of the Universe][840] | Black Sabbath | Sabotage | 1975 |  |
-| 841 | [Megalomania][841] | Black Sabbath | Sabotage | 1975 |  |
-| 842 | [Thrill of It All][842] | Black Sabbath | Sabotage | 1975 |  |
-| 843 | [Supertzar][843] | Black Sabbath | Sabotage | 1975 |  |
-| 844 | [Am I Going Insane (Radio)][844] | Black Sabbath | Sabotage | 1975 |  |
-| 845 | [The Writ][845] | Black Sabbath | Sabotage | 1975 |  |
-| 846 | [Too Many Hands][846] | Eagles | One of These Nights | 1975 |  |
-| 847 | [Hollywood Waltz][847] | Eagles | One of These Nights | 1975 |  |
-| 848 | [Journey of the Sorcerer][848] | Eagles | One of These Nights | 1975 |  |
-| 849 | [Visions][849] | Eagles | One of These Nights | 1975 |  |
-| 850 | [After the Thrill Is Gone][850] | Eagles | One of These Nights | 1975 |  |
-| 851 | [I Wish You Peace][851] | Eagles | One of These Nights | 1975 |  |
-| 852 | [Monday Morning][852] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 853 | [Warm Ways][853] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 854 | [Blue Letter][854] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 855 | [Rhiannon][855] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 856 | [Over My Head][856] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 857 | [Crystal][857] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 858 | [Say You Love Me][858] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 859 | [Landslide][859] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 860 | [World Turning][860] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 861 | [Sugar Daddy][861] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 862 | [I'm So Afraid][862] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
-| 863 | [Magic Man][863] | Heart | Dreamboat Annie | 1975 | Hits |
-| 864 | [Crazy On You][864] | Heart | Dreamboat Annie | 1975 | Hits |
-| 865 | [Dreamboat Annie (Fantasy Child)][865] | Heart | Dreamboat Annie | 1975 | Hits |
-| 866 | [Custard Pie][866] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 867 | [The Rover][867] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 868 | [In My Time of Dying][868] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 869 | [Houses of the Holy][869] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 870 | [Trampled Under Foot][870] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 871 | [Kashmir][871] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 872 | [In the Light][872] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 873 | [Bron-Yr-Aur][873] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 874 | [Down By the Seaside][874] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 875 | [Ten Years Gone][875] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 876 | [Night Flight][876] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 877 | [The Wanton Song][877] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 878 | [Boogie With Stu][878] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 879 | [Black Country Woman][879] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 880 | [Sick Again][880] | Led Zeppelin | Physical Graffiti | 1975 |  |
-| 881 | [Saturday Night Special][881] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 882 | [Cheatin' Woman][882] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 883 | [Railroad Song][883] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 884 | [I'm a Country Boy][884] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 885 | [On the Hunt][885] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 886 | [Am I Losin'][886] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 887 | [Made in the Shade][887] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 888 | [Whiskey Rock-a-Roller][888] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
-| 889 | [Shine On You Crazy Diamond, Pts. 1-5][889] | Pink Floyd | Wish You Were Here | 1975 |  |
-| 890 | [Welcome to the Machine][890] | Pink Floyd | Wish You Were Here | 1975 |  |
-| 891 | [Have a Cigar][891] | Pink Floyd | Wish You Were Here | 1975 |  |
-| 892 | [Wish You Were Here][892] | Pink Floyd | Wish You Were Here | 1975 |  |
-| 893 | [Shine On You Crazy Diamond, Pts. 6-9][893] | Pink Floyd | Wish You Were Here | 1975 |  |
-| 894 | [Bastille Day][894] | Rush | Caress of Steel | 1975 |  |
-| 895 | [I Think I'm Going Bald][895] | Rush | Caress of Steel | 1975 |  |
-| 896 | [Lakeside Park][896] | Rush | Caress of Steel | 1975 |  |
-| 897 | [The Necromancer][897] | Rush | Caress of Steel | 1975 |  |
-| 898 | [The Fountain of Lamneth][898] | Rush | Caress of Steel | 1975 |  |
-| 899 | [Anthem][899] | Rush | Fly by Night | 1975 |  |
-| 900 | [Best I Can][900] | Rush | Fly by Night | 1975 |  |
-| 901 | [Beneath, Between & Behind][901] | Rush | Fly by Night | 1975 |  |
-| 902 | [By-Tor & The Snow Dog][902] | Rush | Fly by Night | 1975 |  |
-| 903 | [Fly By Night][903] | Rush | Fly by Night | 1975 |  |
-| 904 | [Making Memories][904] | Rush | Fly by Night | 1975 |  |
-| 905 | [Rivendell][905] | Rush | Fly by Night | 1975 |  |
-| 906 | [In the End][906] | Rush | Fly by Night | 1975 |  |
-| 907 | [Light Up][907] | Styx | Equinox | 1975 |  |
-| 908 | [Lorelei][908] | Styx | Equinox | 1975 |  |
-| 909 | [Mother Dear][909] | Styx | Equinox | 1975 |  |
-| 910 | [Lonely Child][910] | Styx | Equinox | 1975 |  |
-| 911 | [Midnight Ride][911] | Styx | Equinox | 1975 |  |
-| 912 | [Born for Adventure][912] | Styx | Equinox | 1975 |  |
-| 913 | [Prelude 12][913] | Styx | Equinox | 1975 |  |
-| 914 | [Suite Madame Blue][914] | Styx | Equinox | 1975 |  |
-| 915 | [Slip Kid][915] | The Who | The Who by Numbers | 1975 |  |
-| 916 | [However Much I Booze][916] | The Who | The Who by Numbers | 1975 |  |
-| 917 | [Squeeze Box][917] | The Who | The Who by Numbers | 1975 |  |
-| 918 | [Dreaming from the Waist][918] | The Who | The Who by Numbers | 1975 |  |
-| 919 | [Imagine a Man][919] | The Who | The Who by Numbers | 1975 |  |
-| 920 | [Success Story][920] | The Who | The Who by Numbers | 1975 |  |
-| 921 | [They Are All In Love][921] | The Who | The Who by Numbers | 1975 |  |
-| 922 | [Blue, Red and Grey][922] | The Who | The Who by Numbers | 1975 |  |
-| 923 | [How Many Friends][923] | The Who | The Who by Numbers | 1975 |  |
-| 924 | [In a Hand or a Face][924] | The Who | The Who by Numbers | 1975 |  |
-| 925 | [Squeeze Box (Live)][925] | The Who | The Who by Numbers | 1975 |  |
-| 926 | [Behind Blue Eyes (Live)][926] | The Who | The Who by Numbers | 1975 |  |
-| 927 | [Dreaming from the Waist (Live)][927] | The Who | The Who by Numbers | 1975 |  |
-| 928 | [Tush][928] | ZZ Top | Fandango | 1975 | Hits |
-| 929 | [Dirty Deeds Done Dirt Cheap][929] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 930 | [Love at First Feel][930] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 931 | [Big Balls][931] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 932 | [Rocker][932] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 933 | [Problem Child][933] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 934 | [There's Gonna Be Some Rockin'][934] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 935 | [Ain't No Fun (Waiting Round to Be a Millionaire)][935] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 936 | [Ride On][936] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 937 | [Squealer][937] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
-| 938 | [It's a Long Way to the Top (If You Wanna Rock 'N' Roll)][938] | AC/DC | High Voltage | 1976 |  |
-| 939 | [Rock 'N' Roll Singer][939] | AC/DC | High Voltage | 1976 |  |
-| 940 | [The Jack][940] | AC/DC | High Voltage | 1976 |  |
-| 941 | [Live Wire][941] | AC/DC | High Voltage | 1976 |  |
-| 942 | [T.N.T.][942] | AC/DC | High Voltage | 1976 |  |
-| 943 | [Can I Sit Next to You Girl][943] | AC/DC | High Voltage | 1976 |  |
-| 944 | [Little Lover][944] | AC/DC | High Voltage | 1976 |  |
-| 945 | [She's Got Balls][945] | AC/DC | High Voltage | 1976 |  |
-| 946 | [High Voltage][946] | AC/DC | High Voltage | 1976 |  |
-| 947 | [Back In the Saddle][947] | Aerosmith | Rocks | 1976 |  |
-| 948 | [Last Child][948] | Aerosmith | Rocks | 1976 |  |
-| 949 | [Rats In the Cellar][949] | Aerosmith | Rocks | 1976 |  |
-| 950 | [Combination][950] | Aerosmith | Rocks | 1976 |  |
-| 951 | [Sick As a Dog][951] | Aerosmith | Rocks | 1976 |  |
-| 952 | [Nobody's Fault][952] | Aerosmith | Rocks | 1976 |  |
-| 953 | [Get the Lead Out][953] | Aerosmith | Rocks | 1976 |  |
-| 954 | [Lick and a Promise][954] | Aerosmith | Rocks | 1976 |  |
-| 955 | [Home Tonight][955] | Aerosmith | Rocks | 1976 |  |
-| 956 | [Back Street Kids][956] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 957 | [You Won't Change Me][957] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 958 | [It's Alright][958] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 959 | [Gypsy][959] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 960 | [All Moving Parts (Stand Still)][960] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 961 | [Rock 'N' Roll Doctor][961] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 962 | [She's Gone][962] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 963 | [Dirty Women][963] | Black Sabbath | Technical Ecstasy | 1976 |  |
-| 964 | [More Than a Feeling][964] | Boston | Boston | 1976 | Hits |
-| 965 | [Peace of Mind][965] | Boston | Boston | 1976 | Hits |
-| 966 | [Foreplay / Long Time][966] | Boston | Boston | 1976 | Hits |
-| 967 | [Rock & Roll Band][967] | Boston | Boston | 1976 | Hits |
-| 968 | [Smokin'][968] | Boston | Boston | 1976 | Hits |
-| 969 | [Hitch a Ride][969] | Boston | Boston | 1976 | Hits |
-| 970 | [Hotel California][970] | Eagles | Hotel California | 1976 |  |
-| 971 | [New Kid In Town][971] | Eagles | Hotel California | 1976 |  |
-| 972 | [Life In the Fast Lane][972] | Eagles | Hotel California | 1976 |  |
-| 973 | [Wasted Time][973] | Eagles | Hotel California | 1976 |  |
-| 974 | [Wasted Time (Reprise)][974] | Eagles | Hotel California | 1976 |  |
-| 975 | [Victim of Love][975] | Eagles | Hotel California | 1976 |  |
-| 976 | [Pretty Maids All In a Row][976] | Eagles | Hotel California | 1976 |  |
-| 977 | [Try and Love Again][977] | Eagles | Hotel California | 1976 |  |
-| 978 | [The Last Resort][978] | Eagles | Hotel California | 1976 |  |
-| 979 | [Carry On Wayward Son][979] | Kansas | Leftoverture | 1976 | Hits |
-| 980 | [Miracles Out of Nowhere][980] | Kansas | Leftoverture | 1976 | Hits |
-| 981 | [The Wall][981] | Kansas | Leftoverture | 1976 | Hits |
-| 982 | [Achilles Last Stand (Remaster)][982] | Led Zeppelin | Presence | 1976 |  |
-| 983 | [For Your Life (Remaster)][983] | Led Zeppelin | Presence | 1976 |  |
-| 984 | [Royal Orleans (Remaster)][984] | Led Zeppelin | Presence | 1976 |  |
-| 985 | [Nobody's Fault but Mine (Remaster)][985] | Led Zeppelin | Presence | 1976 |  |
-| 986 | [Candy Store Rock (Remaster)][986] | Led Zeppelin | Presence | 1976 |  |
-| 987 | [Hots on for Nowhere (Remaster)][987] | Led Zeppelin | Presence | 1976 |  |
-| 988 | [Tea for One (Remaster)][988] | Led Zeppelin | Presence | 1976 |  |
-| 989 | [Gimme Back My Bullets][989] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 990 | [Every Mother's Son][990] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 991 | [Trust][991] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 992 | [(I Got The) Same Old Blues][992] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 993 | [Double Trouble][993] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 994 | [Roll Gypsy Roll][994] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 995 | [Searching][995] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 996 | [Cry for the Bad Man][996] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 997 | [All I Can Do Is Write About It][997] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
-| 998 | [2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale (Remastered 2012)][998] | Rush | 2112 | 1976 |  |
-| 999 | [A Passage To Bangkok (Remastered 2012)][999] | Rush | 2112 | 1976 |  |
-| 1000 | [The Twilight Zone (Remastered 2012)][1000] | Rush | 2112 | 1976 |  |
-| 1001 | [Lessons (Remastered 2012)][1001] | Rush | 2112 | 1976 |  |
-| 1002 | [Tears (Remastered 2012)][1002] | Rush | 2112 | 1976 |  |
-| 1003 | [Something For Nothing (Remastered 2012)][1003] | Rush | 2112 | 1976 |  |
-| 1004 | [Space Intro][1004] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
-| 1005 | [Mercury Blues][1005] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
-| 1006 | [You Send Me][1006] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
-| 1007 | [Blue Odyssey][1007] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
-| 1008 | [Sweet Maree][1008] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
-| 1009 | [The Window][1009] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
-| 1010 | [Put Me On][1010] | Styx | Crystal Ball | 1976 |  |
-| 1011 | [Mademoiselle][1011] | Styx | Crystal Ball | 1976 |  |
-| 1012 | [Jennifer][1012] | Styx | Crystal Ball | 1976 |  |
-| 1013 | [Crystal Ball][1013] | Styx | Crystal Ball | 1976 |  |
-| 1014 | [Shooz][1014] | Styx | Crystal Ball | 1976 |  |
-| 1015 | [This Old Man][1015] | Styx | Crystal Ball | 1976 |  |
-| 1016 | [Clair de Lune / Ballerina][1016] | Styx | Crystal Ball | 1976 |  |
-| 1017 | [Hot Stuff (2025 Mix)][1017] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1018 | [Hand Of Fate (2025 Mix)][1018] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1019 | [Cherry Oh Baby (2025 Mix)][1019] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1020 | [Memory Motel (2025 Mix)][1020] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1021 | [Hey Negrita (2025 Mix)][1021] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1022 | [Melody (2025 Mix)][1022] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1023 | [Fool To Cry (2025 Mix)][1023] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1024 | [Crazy Mama (2025 Mix)][1024] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1025 | [I Love Ladies][1025] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1026 | [Shame, Shame, Shame][1026] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1027 | [Chuck Berry Style Jam][1027] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1028 | [Blues Jam][1028] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1029 | [Rotterdam Jam][1029] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1030 | [Freeway Jam][1030] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1031 | [Honky Tonk Women (Live At Earls Court, London, UK / 1976)][1031] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1032 | [If You Can’t Rock Me/Get Off My Cloud (Live At Earls Court, London, UK / 1976)][1032] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1033 | [Hand Of Fate (Live At Earls Court, London, UK / 1976)][1033] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1034 | [Hey Negrita (Live At Earls Court, London, UK / 1976)][1034] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1035 | [Ain't Too Proud To Beg (Live At Earls Court, London, UK / 1976)][1035] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1036 | [Fool To Cry (Live At Earls Court, London, UK / 1976)][1036] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1037 | [Hot Stuff (Live At Earls Court, London, UK / 1976)][1037] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1038 | [Star Star (S********r) [Live At Earls Court, London, UK / 1976]][1038] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1039 | [You Gotta Move (Live At Earls Court, London, UK / 1976)][1039] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1040 | [You Can't Always Get What You Want (Live At Earls Court, London, UK / 1976)][1040] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1041 | [Band Intro (Live At Earls Court, London, UK / 1976)][1041] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1042 | [Happy (Live At Earls Court, London, UK / 1976)][1042] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1043 | [Tumbling Dice (Live At Earls Court, London, UK / 1976)][1043] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1044 | [Nothing From Nothing (Live At Earls Court, London, UK / 1976)][1044] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1045 | [Outa-Space (Live At Earls Court, London, UK / 1976)][1045] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1046 | [Midnight Rambler (Live At Earls Court, London, UK / 1976)][1046] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1047 | [It's Only Rock 'n Roll (But I Like It) [Live At Earls Court, London, UK / 1976]][1047] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1048 | [Brown Sugar (Live At Earls Court, London, UK / 1976)][1048] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1049 | [Jumpin' Jack Flash (Live At Earls Court, London, UK / 1976)][1049] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1050 | [Street Fighting Man (Live At Earls Court, London, UK / 1976)][1050] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1051 | [Sympathy For The Devil (Live At Earls Court, London, UK / 1976)][1051] | The Rolling Stones | Black and Blue | 1976 |  |
-| 1052 | [The Boys Are Back In Town][1052] | Thin Lizzy | Jailbreak | 1976 | Hits |
-| 1053 | [Jailbreak][1053] | Thin Lizzy | Jailbreak | 1976 | Hits |
-| 1054 | [Cowboy Song][1054] | Thin Lizzy | Jailbreak | 1976 | Hits |
-| 1055 | [Emerald][1055] | Thin Lizzy | Jailbreak | 1976 | Hits |
-| 1056 | [Go Down][1056] | AC/DC | Let There Be Rock | 1977 |  |
-| 1057 | [Dog Eat Dog][1057] | AC/DC | Let There Be Rock | 1977 |  |
-| 1058 | [Let There Be Rock][1058] | AC/DC | Let There Be Rock | 1977 |  |
-| 1059 | [Bad Boy Boogie][1059] | AC/DC | Let There Be Rock | 1977 |  |
-| 1060 | [Overdose][1060] | AC/DC | Let There Be Rock | 1977 |  |
-| 1061 | [Hell Ain't a Bad Place to Be][1061] | AC/DC | Let There Be Rock | 1977 |  |
-| 1062 | [Whole Lotta Rosie][1062] | AC/DC | Let There Be Rock | 1977 |  |
-| 1063 | [Draw the Line][1063] | Aerosmith | Draw the Line | 1977 |  |
-| 1064 | [I Wanna Know Why][1064] | Aerosmith | Draw the Line | 1977 |  |
-| 1065 | [Critical Mass][1065] | Aerosmith | Draw the Line | 1977 |  |
-| 1066 | [Get It Up][1066] | Aerosmith | Draw the Line | 1977 |  |
-| 1067 | [Bright Light Fright][1067] | Aerosmith | Draw the Line | 1977 |  |
-| 1068 | [Kings and Queens][1068] | Aerosmith | Draw the Line | 1977 |  |
-| 1069 | [The Hand That Feeds][1069] | Aerosmith | Draw the Line | 1977 |  |
-| 1070 | [Sight for Sore Eyes][1070] | Aerosmith | Draw the Line | 1977 |  |
-| 1071 | [Milk Cow Blues][1071] | Aerosmith | Draw the Line | 1977 |  |
-| 1072 | [Second Hand News][1072] | Fleetwood Mac | Rumours | 1977 |  |
-| 1073 | [Dreams][1073] | Fleetwood Mac | Rumours | 1977 |  |
-| 1074 | [Never Going Back Again][1074] | Fleetwood Mac | Rumours | 1977 |  |
-| 1075 | [Don't Stop][1075] | Fleetwood Mac | Rumours | 1977 |  |
-| 1076 | [Go Your Own Way][1076] | Fleetwood Mac | Rumours | 1977 |  |
-| 1077 | [Songbird][1077] | Fleetwood Mac | Rumours | 1977 |  |
-| 1078 | [The Chain][1078] | Fleetwood Mac | Rumours | 1977 |  |
-| 1079 | [You Make Loving Fun][1079] | Fleetwood Mac | Rumours | 1977 |  |
-| 1080 | [I Don't Want to Know][1080] | Fleetwood Mac | Rumours | 1977 |  |
-| 1081 | [Oh Daddy][1081] | Fleetwood Mac | Rumours | 1977 |  |
-| 1082 | [Gold Dust Woman][1082] | Fleetwood Mac | Rumours | 1977 |  |
-| 1083 | [Feels Like the First Time][1083] | Foreigner | Foreigner | 1977 |  |
-| 1084 | [Long, Long Way from Home][1084] | Foreigner | Foreigner | 1977 |  |
-| 1085 | [Cold As Ice][1085] | Foreigner | Foreigner | 1977 |  |
-| 1086 | [Headknocker][1086] | Foreigner | Foreigner | 1977 |  |
-| 1087 | [Starrider][1087] | Foreigner | Foreigner | 1977 |  |
-| 1088 | [Double Vision][1088] | Foreigner | Foreigner | 1977 |  |
-| 1089 | [Blue Morning, Blue Day][1089] | Foreigner | Foreigner | 1977 |  |
-| 1090 | [Hot Blooded][1090] | Foreigner | Foreigner | 1977 |  |
-| 1091 | [Dirty White Boy][1091] | Foreigner | Foreigner | 1977 |  |
-| 1092 | [Head Games][1092] | Foreigner | Foreigner | 1977 |  |
-| 1093 | [Women][1093] | Foreigner | Foreigner | 1977 |  |
-| 1094 | [Night Life][1094] | Foreigner | Foreigner | 1977 |  |
-| 1095 | [Break It Up][1095] | Foreigner | Foreigner | 1977 |  |
-| 1096 | [Juke Box Hero][1096] | Foreigner | Foreigner | 1977 |  |
-| 1097 | [Urgent][1097] | Foreigner | Foreigner | 1977 |  |
-| 1098 | [Waiting for a Girl Like You][1098] | Foreigner | Foreigner | 1977 |  |
-| 1099 | [I Want to Know What Love Is][1099] | Foreigner | Foreigner | 1977 |  |
-| 1100 | [Down On Love][1100] | Foreigner | Foreigner | 1977 |  |
-| 1101 | [Reaction to Action][1101] | Foreigner | Foreigner | 1977 |  |
-| 1102 | [That Was Yesterday][1102] | Foreigner | Foreigner | 1977 |  |
-| 1103 | [Say You Will][1103] | Foreigner | Foreigner | 1977 |  |
-| 1104 | [I Don't Want to Live Without You][1104] | Foreigner | Foreigner | 1977 |  |
-| 1105 | [Can't Wait][1105] | Foreigner | Foreigner | 1977 |  |
-| 1106 | [Tooth and Nail][1106] | Foreigner | Foreigner | 1977 |  |
-| 1107 | [Heart Turns to Stone][1107] | Foreigner | Foreigner | 1977 |  |
-| 1108 | [Lowdown and Dirty][1108] | Foreigner | Foreigner | 1977 |  |
-| 1109 | [I'll Fight for You][1109] | Foreigner | Foreigner | 1977 |  |
-| 1110 | [Until the End of Time][1110] | Foreigner | Foreigner | 1977 |  |
-| 1111 | [Too Late][1111] | Foreigner | Foreigner | 1977 |  |
-| 1112 | [Say You Will (Live 2008)][1112] | Foreigner | Foreigner | 1977 |  |
-| 1113 | [Starrider (Live 2005)][1113] | Foreigner | Foreigner | 1977 |  |
-| 1114 | [Juke Box Hero / Whole Lotta Love (Live 2005)][1114] | Foreigner | Foreigner | 1977 |  |
-| 1115 | [Barracuda][1115] | Heart | Little Queen | 1977 | Hits |
-| 1116 | [Kick It Out][1116] | Heart | Little Queen | 1977 | Hits |
-| 1117 | [Dust In the Wind][1117] | Kansas | Point of Know Return | 1977 | Hits |
-| 1118 | [Point of Know Return][1118] | Kansas | Point of Know Return | 1977 | Hits |
-| 1119 | [Portrait (He Knew)][1119] | Kansas | Point of Know Return | 1977 | Hits |
-| 1120 | [What's Your Name][1120] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1121 | [That Smell][1121] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1122 | [One More Time][1122] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1123 | [I Know a Little][1123] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1124 | [You Got That Right][1124] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1125 | [I Never Dreamed][1125] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1126 | [Honky Tonk Night Time Man][1126] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1127 | [Ain't No Good Life][1127] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
-| 1128 | [Pigs On the Wing, Pt. 1][1128] | Pink Floyd | Animals | 1977 |  |
-| 1129 | [Dogs][1129] | Pink Floyd | Animals | 1977 |  |
-| 1130 | [Pigs (Three Different Ones)][1130] | Pink Floyd | Animals | 1977 |  |
-| 1131 | [Sheep][1131] | Pink Floyd | Animals | 1977 |  |
-| 1132 | [Pigs On the Wing, Pt. 2][1132] | Pink Floyd | Animals | 1977 |  |
-| 1133 | [A Farewell To Kings (Remastered 2013)][1133] | Rush | A Farewell to Kings | 1977 |  |
-| 1134 | [Xanadu (Remastered 2013)][1134] | Rush | A Farewell to Kings | 1977 |  |
-| 1135 | [Closer To The Heart (Remastered 2013)][1135] | Rush | A Farewell to Kings | 1977 |  |
-| 1136 | [Cinderella Man (Remastered 2013)][1136] | Rush | A Farewell to Kings | 1977 |  |
-| 1137 | [Madrigal (Remastered 2013)][1137] | Rush | A Farewell to Kings | 1977 |  |
-| 1138 | [Cygnus X-1 Book I: The Voyage (Remastered 2013)][1138] | Rush | A Farewell to Kings | 1977 |  |
-| 1139 | [Wish Upon a Star][1139] | Steve Miller Band | Book of Dreams | 1977 |  |
-| 1140 | [Electro Lux Imbroglio][1140] | Steve Miller Band | Book of Dreams | 1977 |  |
-| 1141 | [Sacrifice][1141] | Steve Miller Band | Book of Dreams | 1977 |  |
-| 1142 | [My Own Space][1142] | Steve Miller Band | Book of Dreams | 1977 |  |
-| 1143 | [Babes in the Wood][1143] | Steve Miller Band | Book of Dreams | 1977 |  |
-| 1144 | [The Grand Illusion][1144] | Styx | The Grand Illusion | 1977 |  |
-| 1145 | [Fooling Yourself (The Angry Young Man)][1145] | Styx | The Grand Illusion | 1977 |  |
-| 1146 | [Superstars][1146] | Styx | The Grand Illusion | 1977 |  |
-| 1147 | [Come Sail Away][1147] | Styx | The Grand Illusion | 1977 |  |
-| 1148 | [Miss America][1148] | Styx | The Grand Illusion | 1977 |  |
-| 1149 | [Man In the Wilderness][1149] | Styx | The Grand Illusion | 1977 |  |
-| 1150 | [Castle Walls][1150] | Styx | The Grand Illusion | 1977 |  |
-| 1151 | [The Grand Finale][1151] | Styx | The Grand Illusion | 1977 |  |
-| 1152 | Don't Believe a Word | Thin Lizzy | Bad Reputation | 1977 | Hits |
-| 1153 | [Dancing In the Moonlight (It's Caught Me In Its Spotlight)][1153] | Thin Lizzy | Bad Reputation | 1977 | Hits |
-| 1154 | [Bad Reputation][1154] | Thin Lizzy | Bad Reputation | 1977 | Hits |
-| 1155 | [Rock 'N' Roll Damnation][1155] | AC/DC | Powerage | 1978 |  |
-| 1156 | [Down Payment Blues][1156] | AC/DC | Powerage | 1978 |  |
-| 1157 | [Gimme a Bullet][1157] | AC/DC | Powerage | 1978 |  |
-| 1158 | [Riff Raff][1158] | AC/DC | Powerage | 1978 |  |
-| 1159 | [Sin City][1159] | AC/DC | Powerage | 1978 |  |
-| 1160 | [What's Next to the Moon][1160] | AC/DC | Powerage | 1978 |  |
-| 1161 | [Gone Shootin'][1161] | AC/DC | Powerage | 1978 |  |
-| 1162 | [Up to My Neck In You][1162] | AC/DC | Powerage | 1978 |  |
-| 1163 | [Kicked In the Teeth][1163] | AC/DC | Powerage | 1978 |  |
-| 1164 | [Never Say Die][1164] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1165 | [Johnny Blade][1165] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1166 | [Junior's Eyes][1166] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1167 | [A Hard Road][1167] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1168 | [Shock Wave][1168] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1169 | [Air Dance][1169] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1170 | [Over to You][1170] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1171 | [Breakout][1171] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1172 | [Swinging the Chain][1172] | Black Sabbath | Never Say Die! | 1978 |  |
-| 1173 | [Don't Look Back][1173] | Boston | Don't Look Back | 1978 | Hits |
-| 1174 | [A Man I'll Never Be][1174] | Boston | Don't Look Back | 1978 | Hits |
-| 1175 | [You're All I Am][1175] | Foreigner | Double Vision | 1978 |  |
-| 1176 | [Back Where You Belong][1176] | Foreigner | Double Vision | 1978 |  |
-| 1177 | [Love Has Taken Its Toll][1177] | Foreigner | Double Vision | 1978 |  |
-| 1178 | [Tramontane][1178] | Foreigner | Double Vision | 1978 |  |
-| 1179 | [I Have Waited So Long][1179] | Foreigner | Double Vision | 1978 |  |
-| 1180 | [Lonely Children][1180] | Foreigner | Double Vision | 1978 |  |
-| 1181 | [Spellbinder][1181] | Foreigner | Double Vision | 1978 |  |
-| 1182 | [Hot Blooded (Live) [Bonus Track]][1182] | Foreigner | Double Vision | 1978 |  |
-| 1183 | [Love Maker (Live) [Bonus Track]][1183] | Foreigner | Double Vision | 1978 |  |
-| 1184 | Straight On | Heart | Dog & Butterfly | 1978 | Hits |
-| 1185 | Dog & Butterfly | Heart | Dog & Butterfly | 1978 | Hits |
-| 1186 | [Wheel In the Sky][1186] | Journey | Infinity | 1978 | Hits |
-| 1187 | [Lights][1187] | Journey | Infinity | 1978 | Hits |
-| 1188 | [Cygnus X-1 Book II: Hemispheres (Remastered 2013)][1188] | Rush | Hemispheres | 1978 |  |
-| 1189 | [Circumstances (Remastered 2013)][1189] | Rush | Hemispheres | 1978 |  |
-| 1190 | [The Trees (Remastered 2013)][1190] | Rush | Hemispheres | 1978 |  |
-| 1191 | [La Villa Strangiato (Remastered 2013)][1191] | Rush | Hemispheres | 1978 |  |
-| 1192 | [Great White Hope][1192] | Styx | Pieces of Eight | 1978 |  |
-| 1193 | [I'm O.K.][1193] | Styx | Pieces of Eight | 1978 |  |
-| 1194 | [Sing for the Day][1194] | Styx | Pieces of Eight | 1978 |  |
-| 1195 | [The Message][1195] | Styx | Pieces of Eight | 1978 |  |
-| 1196 | [Lords of the Ring][1196] | Styx | Pieces of Eight | 1978 |  |
-| 1197 | [Blue Collar Man][1197] | Styx | Pieces of Eight | 1978 |  |
-| 1198 | [Queen of Spades][1198] | Styx | Pieces of Eight | 1978 |  |
-| 1199 | [Renegade][1199] | Styx | Pieces of Eight | 1978 |  |
-| 1200 | [Pieces of Eight][1200] | Styx | Pieces of Eight | 1978 |  |
-| 1201 | [Aku Aku][1201] | Styx | Pieces of Eight | 1978 |  |
-| 1202 | [Miss You][1202] | The Rolling Stones | Some Girls | 1978 |  |
-| 1203 | [When The Whip Comes Down][1203] | The Rolling Stones | Some Girls | 1978 |  |
-| 1204 | [Just My Imagination (Running Away With Me)][1204] | The Rolling Stones | Some Girls | 1978 |  |
-| 1205 | [Some Girls][1205] | The Rolling Stones | Some Girls | 1978 |  |
-| 1206 | [Lies][1206] | The Rolling Stones | Some Girls | 1978 |  |
-| 1207 | [Far Away Eyes][1207] | The Rolling Stones | Some Girls | 1978 |  |
-| 1208 | [Respectable][1208] | The Rolling Stones | Some Girls | 1978 |  |
-| 1209 | [Before They Make Me Run][1209] | The Rolling Stones | Some Girls | 1978 |  |
-| 1210 | [Beast Of Burden][1210] | The Rolling Stones | Some Girls | 1978 |  |
-| 1211 | [Shattered][1211] | The Rolling Stones | Some Girls | 1978 |  |
-| 1212 | [Zoot Suit The High Numbers][1212] | The Who | Who Are You | 1978 |  |
-| 1213 | [I'm the Face The High Numbers][1213] | The Who | Who Are You | 1978 |  |
-| 1214 | [My Generation (Mono Version)][1214] | The Who | Who Are You | 1978 |  |
-| 1215 | [A Legal Matter (Mono Version)][1215] | The Who | Who Are You | 1978 |  |
-| 1216 | [The Kids Are Alright (Mono Version)][1216] | The Who | Who Are You | 1978 |  |
-| 1217 | [The Ox (Mono Version)][1217] | The Who | Who Are You | 1978 |  |
-| 1218 | [La-La-La-Lies (Mono Version)][1218] | The Who | Who Are You | 1978 |  |
-| 1219 | [The Good's Gone (Mono Version)][1219] | The Who | Who Are You | 1978 |  |
-| 1220 | [Substitute (Single Version)][1220] | The Who | Who Are You | 1978 |  |
-| 1221 | [Circles (Revised Second Mono Version)][1221] | The Who | Who Are You | 1978 |  |
-| 1222 | [Waltz For a Pig The Graham Bond Organisation][1222] | The Who | Who Are You | 1978 |  |
-| 1223 | [I'm a Boy (Mono Version)][1223] | The Who | Who Are You | 1978 |  |
-| 1224 | [In the City (Mono Version)][1224] | The Who | Who Are You | 1978 |  |
-| 1225 | [Disguises (Mono Version)][1225] | The Who | Who Are You | 1978 |  |
-| 1226 | [Batman (Mono Version)][1226] | The Who | Who Are You | 1978 |  |
-| 1227 | [Bucket T (Mono Version)][1227] | The Who | Who Are You | 1978 |  |
-| 1228 | [Barbara Ann (Mono Version)][1228] | The Who | Who Are You | 1978 |  |
-| 1229 | [Happy Jack (Single Version)][1229] | The Who | Who Are You | 1978 |  |
-| 1230 | [I've Been Away (Mono Version)][1230] | The Who | Who Are You | 1978 |  |
-| 1231 | [Pictures of Lily][1231] | The Who | Who Are You | 1978 |  |
-| 1232 | [Doctor, Doctor (Mono Version)][1232] | The Who | Who Are You | 1978 |  |
-| 1233 | [The Last Time][1233] | The Who | Who Are You | 1978 |  |
-| 1234 | [Under My Thumb][1234] | The Who | Who Are You | 1978 |  |
-| 1235 | [Dogs][1235] | The Who | Who Are You | 1978 |  |
-| 1236 | [Call Me Lightning][1236] | The Who | Who Are You | 1978 |  |
-| 1237 | [Magic Bus (Edit Mono Version)][1237] | The Who | Who Are You | 1978 |  |
-| 1238 | [Dr Jekyll & Mr Hyde][1238] | The Who | Who Are You | 1978 |  |
-| 1239 | [Dogs, Pt. Two][1239] | The Who | Who Are You | 1978 |  |
-| 1240 | [The Seeker (Edit)][1240] | The Who | Who Are You | 1978 |  |
-| 1241 | [Here For More][1241] | The Who | Who Are You | 1978 |  |
-| 1242 | [Summertime Blues (Live At Leeds)][1242] | The Who | Who Are You | 1978 |  |
-| 1243 | [Heaven and Hell (Mono Version)][1243] | The Who | Who Are You | 1978 |  |
-| 1244 | [See Me, Feel Me (Single Version)][1244] | The Who | Who Are You | 1978 |  |
-| 1245 | [Christmas (Edit)][1245] | The Who | Who Are You | 1978 |  |
-| 1246 | [Won't Get Fooled Again (Single Version)][1246] | The Who | Who Are You | 1978 |  |
-| 1247 | [Don't Know Myself][1247] | The Who | Who Are You | 1978 |  |
-| 1248 | [Let's See Action][1248] | The Who | Who Are You | 1978 |  |
-| 1249 | [When I Was a Boy][1249] | The Who | Who Are You | 1978 |  |
-| 1250 | [Join Together][1250] | The Who | Who Are You | 1978 |  |
-| 1251 | [Baby Don't You Do It (Live)][1251] | The Who | Who Are You | 1978 |  |
-| 1252 | [Relay][1252] | The Who | Who Are You | 1978 |  |
-| 1253 | [Waspman][1253] | The Who | Who Are You | 1978 |  |
-| 1254 | [5.15 (Single Version)][1254] | The Who | Who Are You | 1978 |  |
-| 1255 | [Water][1255] | The Who | Who Are You | 1978 |  |
-| 1256 | [Listening To You / See Me, Feel Me][1256] | The Who | Who Are You | 1978 |  |
-| 1257 | [Overture From Tommy][1257] | The Who | Who Are You | 1978 |  |
-| 1258 | [Who Are You (Single Version)][1258] | The Who | Who Are You | 1978 |  |
-| 1259 | [Had Enough][1259] | The Who | Who Are You | 1978 |  |
-| 1260 | [Long Live Rock (Single Version)][1260] | The Who | Who Are You | 1978 |  |
-| 1261 | [My Wife (Live)][1261] | The Who | Who Are You | 1978 |  |
-| 1262 | [You Better You Bet (Edit)][1262] | The Who | Who Are You | 1978 |  |
-| 1263 | [The Quiet One][1263] | The Who | Who Are You | 1978 |  |
-| 1264 | [Don't Let Go the Coat][1264] | The Who | Who Are You | 1978 |  |
-| 1265 | [You][1265] | The Who | Who Are You | 1978 |  |
-| 1266 | [Athena][1266] | The Who | Who Are You | 1978 |  |
-| 1267 | [A Man Is a Man][1267] | The Who | Who Are You | 1978 |  |
-| 1268 | [Eminence Front][1268] | The Who | Who Are You | 1978 |  |
-| 1269 | [It's Your Turn][1269] | The Who | Who Are You | 1978 |  |
-| 1270 | [Twist and Shout (Live)][1270] | The Who | Who Are You | 1978 |  |
-| 1271 | [I Can't Explain (Live)][1271] | The Who | Who Are You | 1978 |  |
-| 1272 | [Bony Moronie (Live)][1272] | The Who | Who Are You | 1978 |  |
-| 1273 | [Join Together (Live)][1273] | The Who | Who Are You | 1978 |  |
-| 1274 | [I Can See For Miles (Live)][1274] | The Who | Who Are You | 1978 |  |
-| 1275 | [Real Good Looking Boy][1275] | The Who | Who Are You | 1978 |  |
-| 1276 | [Old Red Wine][1276] | The Who | Who Are You | 1978 |  |
-| 1277 | [Sound Round][1277] | The Who | Who Are You | 1978 |  |
-| 1278 | [Pick Up the Peace][1278] | The Who | Who Are You | 1978 |  |
-| 1279 | [Endless Wire][1279] | The Who | Who Are You | 1978 |  |
-| 1280 | [We Got a Hit][1280] | The Who | Who Are You | 1978 |  |
-| 1281 | [They Make My Dream Come True][1281] | The Who | Who Are You | 1978 |  |
-| 1282 | [Mirror Door][1282] | The Who | Who Are You | 1978 |  |
-| 1283 | [Be Lucky][1283] | The Who | Who Are You | 1978 |  |
-| 1284 | [Highway to Hell][1284] | AC/DC | Highway to Hell | 1979 |  |
-| 1285 | [Girls Got Rhythm][1285] | AC/DC | Highway to Hell | 1979 |  |
-| 1286 | [Walk All Over You][1286] | AC/DC | Highway to Hell | 1979 |  |
-| 1287 | [Touch Too Much][1287] | AC/DC | Highway to Hell | 1979 |  |
-| 1288 | [Beating Around the Bush][1288] | AC/DC | Highway to Hell | 1979 |  |
-| 1289 | [Shot Down In Flames][1289] | AC/DC | Highway to Hell | 1979 |  |
-| 1290 | [Get It Hot][1290] | AC/DC | Highway to Hell | 1979 |  |
-| 1291 | [If You Want Blood (You've Got It)][1291] | AC/DC | Highway to Hell | 1979 |  |
-| 1292 | [Love Hungry Man][1292] | AC/DC | Highway to Hell | 1979 |  |
-| 1293 | [Night Prowler][1293] | AC/DC | Highway to Hell | 1979 |  |
-| 1294 | [No Surprize][1294] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1295 | [Chiquita][1295] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1296 | [Remember (Walking In the Sand)][1296] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1297 | [Cheese Cake][1297] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1298 | [Three Mile Smile][1298] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1299 | [Reefer Head Woman][1299] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1300 | [Bone to Bone (Coney Island White Fish Boy)][1300] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1301 | [Think About It][1301] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1302 | [Mia][1302] | Aerosmith | Night in the Ruts | 1979 |  |
-| 1303 | [The Long Run][1303] | Eagles | The Long Run | 1979 |  |
-| 1304 | [I Can't Tell You Why][1304] | Eagles | The Long Run | 1979 |  |
-| 1305 | [In the City][1305] | Eagles | The Long Run | 1979 |  |
-| 1306 | [The Disco Strangler][1306] | Eagles | The Long Run | 1979 |  |
-| 1307 | [King of Hollywood][1307] | Eagles | The Long Run | 1979 |  |
-| 1308 | [Heartache Tonight][1308] | Eagles | The Long Run | 1979 |  |
-| 1309 | [Those Shoes][1309] | Eagles | The Long Run | 1979 |  |
-| 1310 | [Teenage Jail][1310] | Eagles | The Long Run | 1979 |  |
-| 1311 | [The Greeks Don't Want No Freaks][1311] | Eagles | The Long Run | 1979 |  |
-| 1312 | [The Sad Cafe][1312] | Eagles | The Long Run | 1979 |  |
-| 1313 | [Hold Me][1313] | Fleetwood Mac | Tusk | 1979 |  |
-| 1314 | [Everywhere][1314] | Fleetwood Mac | Tusk | 1979 |  |
-| 1315 | [Gypsy][1315] | Fleetwood Mac | Tusk | 1979 |  |
-| 1316 | [As Long As You Follow][1316] | Fleetwood Mac | Tusk | 1979 |  |
-| 1317 | [Tusk][1317] | Fleetwood Mac | Tusk | 1979 |  |
-| 1318 | [Little Lies][1318] | Fleetwood Mac | Tusk | 1979 |  |
-| 1319 | [Sara][1319] | Fleetwood Mac | Tusk | 1979 |  |
-| 1320 | [Big Love][1320] | Fleetwood Mac | Tusk | 1979 |  |
-| 1321 | [No Questions Asked][1321] | Fleetwood Mac | Tusk | 1979 |  |
-| 1322 | [Love On the Telephone][1322] | Foreigner | Head Games | 1979 |  |
-| 1323 | [I'll Get Even With You][1323] | Foreigner | Head Games | 1979 |  |
-| 1324 | [Seventeen][1324] | Foreigner | Head Games | 1979 |  |
-| 1325 | [The Modern Day][1325] | Foreigner | Head Games | 1979 |  |
-| 1326 | [Blinded By Science][1326] | Foreigner | Head Games | 1979 |  |
-| 1327 | [Do What You Like][1327] | Foreigner | Head Games | 1979 |  |
-| 1328 | [Rev On the Red Line][1328] | Foreigner | Head Games | 1979 |  |
-| 1329 | [Zalia (Bonus Track)][1329] | Foreigner | Head Games | 1979 |  |
-| 1330 | [Lovin', Touchin', Squeezin'][1330] | Journey | Evolution | 1979 | Hits |
-| 1331 | [In the Evening][1331] | Led Zeppelin | In Through the Out Door | 1979 |  |
-| 1332 | [South Bound Saurez][1332] | Led Zeppelin | In Through the Out Door | 1979 |  |
-| 1333 | [Fool In the Rain][1333] | Led Zeppelin | In Through the Out Door | 1979 |  |
-| 1334 | [Hot Dog][1334] | Led Zeppelin | In Through the Out Door | 1979 |  |
-| 1335 | [Carouselambra][1335] | Led Zeppelin | In Through the Out Door | 1979 |  |
-| 1336 | [All My Love][1336] | Led Zeppelin | In Through the Out Door | 1979 |  |
-| 1337 | [I'm Gonna Crawl][1337] | Led Zeppelin | In Through the Out Door | 1979 |  |
-| 1338 | [In the Flesh?][1338] | Pink Floyd | The Wall | 1979 |  |
-| 1339 | [The Thin Ice][1339] | Pink Floyd | The Wall | 1979 |  |
-| 1340 | [Another Brick In the Wall, Pt. 1][1340] | Pink Floyd | The Wall | 1979 |  |
-| 1341 | [The Happiest Days of Our Lives][1341] | Pink Floyd | The Wall | 1979 |  |
-| 1342 | [Another Brick In the Wall, Pt. 2][1342] | Pink Floyd | The Wall | 1979 |  |
-| 1343 | [Mother][1343] | Pink Floyd | The Wall | 1979 |  |
-| 1344 | [Goodbye Blue Sky][1344] | Pink Floyd | The Wall | 1979 |  |
-| 1345 | [Empty Spaces][1345] | Pink Floyd | The Wall | 1979 |  |
-| 1346 | [Young Lust][1346] | Pink Floyd | The Wall | 1979 |  |
-| 1347 | [One of My Turns][1347] | Pink Floyd | The Wall | 1979 |  |
-| 1348 | [Don't Leave Me Now][1348] | Pink Floyd | The Wall | 1979 |  |
-| 1349 | [Another Brick In the Wall, Pt. 3][1349] | Pink Floyd | The Wall | 1979 |  |
-| 1350 | [Goodbye Cruel World][1350] | Pink Floyd | The Wall | 1979 |  |
-| 1351 | [Hey You][1351] | Pink Floyd | The Wall | 1979 |  |
-| 1352 | [Is There Anybody Out There?][1352] | Pink Floyd | The Wall | 1979 |  |
-| 1353 | [Nobody Home][1353] | Pink Floyd | The Wall | 1979 |  |
-| 1354 | [Vera][1354] | Pink Floyd | The Wall | 1979 |  |
-| 1355 | [Bring the Boys Back Home][1355] | Pink Floyd | The Wall | 1979 |  |
-| 1356 | [Comfortably Numb][1356] | Pink Floyd | The Wall | 1979 |  |
-| 1357 | [The Show Must Go On][1357] | Pink Floyd | The Wall | 1979 |  |
-| 1358 | [Run Like Hell][1358] | Pink Floyd | The Wall | 1979 |  |
-| 1359 | [Waiting for the Worms][1359] | Pink Floyd | The Wall | 1979 |  |
-| 1360 | [Stop][1360] | Pink Floyd | The Wall | 1979 |  |
-| 1361 | [The Trial][1361] | Pink Floyd | The Wall | 1979 |  |
-| 1362 | [Outside the Wall][1362] | Pink Floyd | The Wall | 1979 |  |
-| 1363 | [Lights][1363] | Styx | Cornerstone | 1979 |  |
-| 1364 | [Why Me][1364] | Styx | Cornerstone | 1979 |  |
-| 1365 | [Babe][1365] | Styx | Cornerstone | 1979 |  |
-| 1366 | [Never Say Never][1366] | Styx | Cornerstone | 1979 |  |
-| 1367 | [Boat on a River][1367] | Styx | Cornerstone | 1979 |  |
-| 1368 | [Borrowed Time][1368] | Styx | Cornerstone | 1979 |  |
-| 1369 | [First Time][1369] | Styx | Cornerstone | 1979 |  |
-| 1370 | [Eddie][1370] | Styx | Cornerstone | 1979 |  |
-| 1371 | [Love in the Midnight][1371] | Styx | Cornerstone | 1979 |  |
-| 1372 | [Waiting for an Alibi][1372] | Thin Lizzy | Black Rose: A Rock Legend | 1979 | Hits |
-| 1373 | [Cheap Sunglasses][1373] | ZZ Top | Deguello | 1979 | Hits |
-| 1374 | [I'm Bad, I'm Nationwide][1374] | ZZ Top | Deguello | 1979 | Hits |
-| 1375 | [Hells Bells][1375] | AC/DC | Back in Black | 1980 |  |
-| 1376 | [Shoot to Thrill][1376] | AC/DC | Back in Black | 1980 |  |
-| 1377 | [What Do You Do for Money Honey][1377] | AC/DC | Back in Black | 1980 |  |
-| 1378 | [Givin the Dog a Bone][1378] | AC/DC | Back in Black | 1980 |  |
-| 1379 | [Let Me Put My Love Into You][1379] | AC/DC | Back in Black | 1980 |  |
-| 1380 | [Back In Black][1380] | AC/DC | Back in Black | 1980 |  |
-| 1381 | [You Shook Me All Night Long][1381] | AC/DC | Back in Black | 1980 |  |
-| 1382 | [Have a Drink On Me][1382] | AC/DC | Back in Black | 1980 |  |
-| 1383 | [Shake a Leg][1383] | AC/DC | Back in Black | 1980 |  |
-| 1384 | [Rock and Roll Ain't Noise Pollution][1384] | AC/DC | Back in Black | 1980 |  |
-| 1385 | [Neon Knights][1385] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1386 | [Children of the Sea][1386] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1387 | [Lady Evil][1387] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1388 | [Heaven and Hell][1388] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1389 | [Wishing Well][1389] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1390 | [Die Young][1390] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1391 | [Walk Away][1391] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1392 | [Lonely Is the Word][1392] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1393 | [Children of the Sea (Live B-Side)][1393] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1394 | [Heaven and Hell (Live B-Side)][1394] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1395 | [Lady Evil (7" Mono Edit)][1395] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1396 | [Neon Knights (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1396] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1397 | [Children of the Sea (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1397] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1398 | [Heaven and Hell (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1398] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1399 | [Die Young (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1399] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1400 | [E5150 (Live at Hammersmith Odeon, London, UK, 12/31/81)][1400] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1401 | [Neon Knights (Live at Hammersmith Odeon, London, UK, 12/31/81)][1401] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1402 | [Children of the Sea (Live at Hammersmith Odeon, London, UK, 12/31/81)][1402] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1403 | [Heaven and Hell (Live at Hammersmith Odeon, London, UK, 12/31/81)][1403] | Black Sabbath | Heaven and Hell | 1980 |  |
-| 1404 | [Any Way You Want It][1404] | Journey | Departure | 1980 | Hits |
-| 1405 | [The Spirit of Radio][1405] | Rush | Permanent Waves | 1980 |  |
-| 1406 | [Freewill][1406] | Rush | Permanent Waves | 1980 |  |
-| 1407 | [Jacob's Ladder][1407] | Rush | Permanent Waves | 1980 |  |
-| 1408 | [Entre Nous][1408] | Rush | Permanent Waves | 1980 |  |
-| 1409 | [Different Strings][1409] | Rush | Permanent Waves | 1980 |  |
-| 1410 | [Natural Science][1410] | Rush | Permanent Waves | 1980 |  |
-| 1411 | [Dance (Pt. 1)][1411] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1412 | [Summer Romance][1412] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1413 | [Send It To Me][1413] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1414 | [Let Me Go][1414] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1415 | [Indian Girl][1415] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1416 | [Where The Boys Go][1416] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1417 | [Down In The Hole][1417] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1418 | [Emotional Rescue][1418] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1419 | [She's So Cold][1419] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1420 | [All About You][1420] | The Rolling Stones | Emotional Rescue | 1980 |  |
-| 1421 | [For Those About to Rock (We Salute You)][1421] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1422 | [Put the Finger On You][1422] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1423 | [Let's Get It Up][1423] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1424 | [Inject the Venom][1424] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1425 | [Snowballed][1425] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1426 | [Evil Walks][1426] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1427 | [C.O.D.][1427] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1428 | [Breaking the Rules][1428] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1429 | [Night of the Long Knives][1429] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1430 | [Spellbound][1430] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
-| 1431 | [Turn Up the Night][1431] | Black Sabbath | Mob Rules | 1981 |  |
-| 1432 | [Voodoo][1432] | Black Sabbath | Mob Rules | 1981 |  |
-| 1433 | [The Sign of the Southern Cross][1433] | Black Sabbath | Mob Rules | 1981 |  |
-| 1434 | [E5150][1434] | Black Sabbath | Mob Rules | 1981 |  |
-| 1435 | [The Mob Rules][1435] | Black Sabbath | Mob Rules | 1981 |  |
-| 1436 | [Country Girl][1436] | Black Sabbath | Mob Rules | 1981 |  |
-| 1437 | [Slipping Away][1437] | Black Sabbath | Mob Rules | 1981 |  |
-| 1438 | [Falling Off the Edge of the World][1438] | Black Sabbath | Mob Rules | 1981 |  |
-| 1439 | [Over and Over][1439] | Black Sabbath | Mob Rules | 1981 |  |
-| 1440 | [Luanne][1440] | Foreigner | 4 | 1981 |  |
-| 1441 | [I'm Gonna Win][1441] | Foreigner | 4 | 1981 |  |
-| 1442 | [Woman In Black][1442] | Foreigner | 4 | 1981 |  |
-| 1443 | [Girl On the Moon][1443] | Foreigner | 4 | 1981 |  |
-| 1444 | [Don't Let Go][1444] | Foreigner | 4 | 1981 |  |
-| 1445 | [Juke Box Hero (Nearly Unplugged Version) [Bonus Track]][1445] | Foreigner | 4 | 1981 |  |
-| 1446 | [Waiting for a Girl Like You (Nearly Unplugged Version) [Bonus Track]][1446] | Foreigner | 4 | 1981 |  |
-| 1447 | [Don't Stop Believin'  (2022 Remaster)][1447] | Journey | Escape | 1981 | Hits |
-| 1448 | [Who's Crying Now (2022 Remaster)][1448] | Journey | Escape | 1981 | Hits |
-| 1449 | [Stone In Love (2022 Remaster)][1449] | Journey | Escape | 1981 | Hits |
-| 1450 | [Open Arms (2022 Remaster)][1450] | Journey | Escape | 1981 | Hits |
-| 1451 | [Tom Sawyer][1451] | Rush | Moving Pictures | 1981 |  |
-| 1452 | [Red Barchetta][1452] | Rush | Moving Pictures | 1981 |  |
-| 1453 | [YYZ][1453] | Rush | Moving Pictures | 1981 |  |
-| 1454 | [Limelight][1454] | Rush | Moving Pictures | 1981 |  |
-| 1455 | [The Camera Eye][1455] | Rush | Moving Pictures | 1981 |  |
-| 1456 | [Witch Hunt][1456] | Rush | Moving Pictures | 1981 |  |
-| 1457 | [Vital Signs][1457] | Rush | Moving Pictures | 1981 |  |
-| 1458 | [2112 - Overture (Live In YYZ 1981)][1458] | Rush | Moving Pictures | 1981 |  |
-| 1459 | [2112 - The Temples of Syrinx (Live In YYZ 1981)][1459] | Rush | Moving Pictures | 1981 |  |
-| 1460 | [Freewill (Live In YYZ 1981)][1460] | Rush | Moving Pictures | 1981 |  |
-| 1461 | [Limelight (Live In YYZ 1981)][1461] | Rush | Moving Pictures | 1981 |  |
-| 1462 | [Cygnus X-1 Book II: Hemispheres - Prelude (Live In YYZ 1981)][1462] | Rush | Moving Pictures | 1981 |  |
-| 1463 | [Beneath, Between & Behind (Live In YYZ 1981)][1463] | Rush | Moving Pictures | 1981 |  |
-| 1464 | [The Camera Eye (Live In YYZ 1981)][1464] | Rush | Moving Pictures | 1981 |  |
-| 1465 | [YYZ (Live In YYZ 1981)][1465] | Rush | Moving Pictures | 1981 |  |
-| 1466 | [Broon's Bane (Live In YYZ 1981)][1466] | Rush | Moving Pictures | 1981 |  |
-| 1467 | [The Trees (Live In YYZ 1981)][1467] | Rush | Moving Pictures | 1981 |  |
-| 1468 | [Xanadu (Live In YYZ 1981)][1468] | Rush | Moving Pictures | 1981 |  |
-| 1469 | [The Spirit Of Radio (Live In YYZ 1981)][1469] | Rush | Moving Pictures | 1981 |  |
-| 1470 | [Red Barchetta (Live In YYZ 1981)][1470] | Rush | Moving Pictures | 1981 |  |
-| 1471 | [Closer To The Heart (Live In YYZ 1981)][1471] | Rush | Moving Pictures | 1981 |  |
-| 1472 | [Tom Sawyer (Live In YYZ 1981)][1472] | Rush | Moving Pictures | 1981 |  |
-| 1473 | [Vital Signs (Live In YYZ 1981)][1473] | Rush | Moving Pictures | 1981 |  |
-| 1474 | [Natural Science (Live In YYZ 1981)][1474] | Rush | Moving Pictures | 1981 |  |
-| 1475 | [Working Man / Cygnus X-1 Book II: Hemispheres - Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 - Grand Finale (Live In YYZ 1981)][1475] | Rush | Moving Pictures | 1981 |  |
-| 1476 | [La Villa Strangiato (Live In YYZ 1981)][1476] | Rush | Moving Pictures | 1981 |  |
-| 1477 | [Heart Like a Wheel][1477] | Steve Miller Band | Circle of Love | 1981 |  |
-| 1478 | [Get on Home][1478] | Steve Miller Band | Circle of Love | 1981 |  |
-| 1479 | [Baby Wanna Dance][1479] | Steve Miller Band | Circle of Love | 1981 |  |
-| 1480 | [Circle of Love][1480] | Steve Miller Band | Circle of Love | 1981 |  |
-| 1481 | [Macho City][1481] | Steve Miller Band | Circle of Love | 1981 |  |
-| 1482 | [A.D. 1928][1482] | Styx | Paradise Theatre | 1981 |  |
-| 1483 | [Rockin' The Paradise][1483] | Styx | Paradise Theatre | 1981 |  |
-| 1484 | [Too Much Time On My Hands][1484] | Styx | Paradise Theatre | 1981 |  |
-| 1485 | [Nothing Ever Goes As Planned][1485] | Styx | Paradise Theatre | 1981 |  |
-| 1486 | [The Best Of Times][1486] | Styx | Paradise Theatre | 1981 |  |
-| 1487 | [Lonely People][1487] | Styx | Paradise Theatre | 1981 |  |
-| 1488 | [She Cares][1488] | Styx | Paradise Theatre | 1981 |  |
-| 1489 | [Snowblind][1489] | Styx | Paradise Theatre | 1981 |  |
-| 1490 | [Half Penny Two Penny][1490] | Styx | Paradise Theatre | 1981 |  |
-| 1491 | [A.D. 1958][1491] | Styx | Paradise Theatre | 1981 |  |
-| 1492 | [State Street Sadie][1492] | Styx | Paradise Theatre | 1981 |  |
-| 1493 | [Start Me Up][1493] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1494 | [Hang Fire][1494] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1495 | [Slave][1495] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1496 | [Little T&A][1496] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1497 | [Black Limousine][1497] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1498 | [Neighbours][1498] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1499 | [Worried About You][1499] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1500 | [Tops][1500] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1501 | [Heaven][1501] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1502 | [No Use In Crying][1502] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1503 | [Waiting On A Friend][1503] | The Rolling Stones | Tattoo You | 1981 |  |
-| 1504 | [You Better You Bet][1504] | The Who | Face Dances | 1981 |  |
-| 1505 | [Cache Cache][1505] | The Who | Face Dances | 1981 |  |
-| 1506 | [Did You Steal My Money][1506] | The Who | Face Dances | 1981 |  |
-| 1507 | [How Can You Do It Alone][1507] | The Who | Face Dances | 1981 |  |
-| 1508 | [Daily Records][1508] | The Who | Face Dances | 1981 |  |
-| 1509 | [Another Tricky Day][1509] | The Who | Face Dances | 1981 |  |
-| 1510 | [I Like Nightmares][1510] | The Who | Face Dances | 1981 |  |
-| 1511 | [It's In You][1511] | The Who | Face Dances | 1981 |  |
-| 1512 | [How Can You Do It Alone (Live at the International Amphitheatre, Chicago, 12/08/79)][1512] | The Who | Face Dances | 1981 |  |
-| 1513 | [The Quiet One (Live at Shea Stadium, NYC, 10/13/82)][1513] | The Who | Face Dances | 1981 |  |
-| 1514 | [Jailbait][1514] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1515 | [Lightning Strikes][1515] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1516 | [Bitch's Brew][1516] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1517 | [Bolivian Ragamuffin][1517] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1518 | [Cry Me a River][1518] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1519 | [Prelude to Joanie][1519] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1520 | [Joanie's Butterfly][1520] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1521 | [Rock In a Hard Place (Cheshire Cat)][1521] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1522 | [Jig Is Up][1522] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1523 | [Push Comes to Shove][1523] | Aerosmith | Rock in a Hard Place | 1982 |  |
-| 1524 | [Love In Store (2016 Remastered)][1524] | Fleetwood Mac | Mirage | 1982 |  |
-| 1525 | [Can't Go Back (2016 Remastered)][1525] | Fleetwood Mac | Mirage | 1982 |  |
-| 1526 | [That's Alright (2016 Remastered)][1526] | Fleetwood Mac | Mirage | 1982 |  |
-| 1527 | [Book of Love (2016 Remastered)][1527] | Fleetwood Mac | Mirage | 1982 |  |
-| 1528 | [Gypsy (2016 Remastered)][1528] | Fleetwood Mac | Mirage | 1982 |  |
-| 1529 | [Only Over You (2016 Remastered)][1529] | Fleetwood Mac | Mirage | 1982 |  |
-| 1530 | [Empire State (2016 Remastered)][1530] | Fleetwood Mac | Mirage | 1982 |  |
-| 1531 | [Straight Back (2016 Remastered)][1531] | Fleetwood Mac | Mirage | 1982 |  |
-| 1532 | [Hold Me (2016 Remastered)][1532] | Fleetwood Mac | Mirage | 1982 |  |
-| 1533 | [Oh Diane (2016 Remastered)][1533] | Fleetwood Mac | Mirage | 1982 |  |
-| 1534 | [Eyes of the World (2016 Remastered)][1534] | Fleetwood Mac | Mirage | 1982 |  |
-| 1535 | [Wish You Were Here (2016 Remastered)][1535] | Fleetwood Mac | Mirage | 1982 |  |
-| 1536 | [We're Gonna Groove][1536] | Led Zeppelin | Coda | 1982 |  |
-| 1537 | [Poor Tom][1537] | Led Zeppelin | Coda | 1982 |  |
-| 1538 | [I Can't Quit You Baby (Sound Check Version)][1538] | Led Zeppelin | Coda | 1982 |  |
-| 1539 | [Walter's Walk][1539] | Led Zeppelin | Coda | 1982 |  |
-| 1540 | [Ozone Baby][1540] | Led Zeppelin | Coda | 1982 |  |
-| 1541 | [Darlene][1541] | Led Zeppelin | Coda | 1982 |  |
-| 1542 | [Bonzo's Montreux][1542] | Led Zeppelin | Coda | 1982 |  |
-| 1543 | [Wearing and Tearing][1543] | Led Zeppelin | Coda | 1982 |  |
-| 1544 | [We're Gonna Groove (Alternate Mix)][1544] | Led Zeppelin | Coda | 1982 |  |
-| 1545 | [If It Keeps On Raining (Rough Mix)][1545] | Led Zeppelin | Coda | 1982 |  |
-| 1546 | [Bonzo's Montreux (Mix Construction In Progress)][1546] | Led Zeppelin | Coda | 1982 |  |
-| 1547 | [Baby Come On Home][1547] | Led Zeppelin | Coda | 1982 |  |
-| 1548 | [Sugar Mama (Mix)][1548] | Led Zeppelin | Coda | 1982 |  |
-| 1549 | [Poor Tom (Instrumental Mix)][1549] | Led Zeppelin | Coda | 1982 |  |
-| 1550 | [Travelling Riverside Blues (BBC Session)][1550] | Led Zeppelin | Coda | 1982 |  |
-| 1551 | [Hey, Hey, What Can I Do][1551] | Led Zeppelin | Coda | 1982 |  |
-| 1552 | [Four Hands (Four Sticks) [Bombay Orchestra]][1552] | Led Zeppelin | Coda | 1982 |  |
-| 1553 | [Friends (Bombay Orchestra)][1553] | Led Zeppelin | Coda | 1982 |  |
-| 1554 | [St. Tristan's Sword (Rough Mix)][1554] | Led Zeppelin | Coda | 1982 |  |
-| 1555 | [Desire (The Wanton Song) [Rough Mix]][1555] | Led Zeppelin | Coda | 1982 |  |
-| 1556 | [Bring It On Home (Rough Mix)][1556] | Led Zeppelin | Coda | 1982 |  |
-| 1557 | [Walter's Walk (Rough Mix)][1557] | Led Zeppelin | Coda | 1982 |  |
-| 1558 | [Everybody Makes It Through (In the Light) [Rough Mix]][1558] | Led Zeppelin | Coda | 1982 |  |
-| 1559 | [Subdivisions][1559] | Rush | Signals | 1982 |  |
-| 1560 | [The Analog Kid][1560] | Rush | Signals | 1982 |  |
-| 1561 | [Chemistry][1561] | Rush | Signals | 1982 |  |
-| 1562 | [Digital Man][1562] | Rush | Signals | 1982 |  |
-| 1563 | [The Weapon (Part II of Fear)][1563] | Rush | Signals | 1982 |  |
-| 1564 | [New World Man][1564] | Rush | Signals | 1982 |  |
-| 1565 | [Losing It][1565] | Rush | Signals | 1982 |  |
-| 1566 | [Countdown][1566] | Rush | Signals | 1982 |  |
-| 1567 | [Blues with a Feeling (Live)][1567] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1568 | [Don’t Let Nobody Turn You Around (Alternate Version)][1568] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1569 | [Super Shuffle (Live)][1569] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1570 | [It Hurts Me Too (feat. Steve Miller Band) [Live at Fillmore Auditorium, San Francisco, CA, 1967] Chuck Berry][1570] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1571 | [Industrial Military Complex Hex (Alternate Version)][1571] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1572 | [Living in the U.S.A.][1572] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1573 | [Kow Kow Calculator (Alternate Version)][1573] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1574 | [Going to Mexico (Alternate Version)][1574] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1575 | [Quicksilver Girl (Alternate Version)][1575] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1576 | [Jackson-Kent Blues (Alternate Version)][1576] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1577 | [Crossroads (Live)][1577] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1578 | [Hesitation Blues][1578] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1579 | [Seasons (Alternate Version)][1579] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1580 | [Say Wow!][1580] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1581 | [Never Kill Another Man (Live Alternate Version)][1581] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1582 | [The Gangster Is Back (Live in Hollywood, Florida, 1971)][1582] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1583 | [Space Cowboy (Instrumental)][1583] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1584 | [Space Cowboy (Live / Alternate Version)][1584] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1585 | [The Lovin' Cup][1585] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1586 | [Killing Floor][1586] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1587 | [Evil (Live at the Aquarius Theater, Boston, 1973)][1587] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1588 | [Echoplex Blues (Instrumental)][1588] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1589 | [Rock’n Me (Alternate Version 1)][1589] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1590 | [Rock’n Me (Alternate Version 2)][1590] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1591 | [Tain’t It the Truth][1591] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1592 | [Freight Train Blues][1592] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1593 | [True Fine Love (Alternate Version)][1593] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1594 | [The Stake (Alternate Version)][1594] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1595 | [My Babe (Alternate Version)][1595] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1596 | [That’s the Way It’s Got to Be][1596] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1597 | [Double Trouble][1597] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1598 | [Love Is Strange][1598] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1599 | [All Your Love (I Miss Loving) [Alternate Version]][1599] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1600 | [I Wanna Be Loved (Live) Steve Miller, Les Paul][1600] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1601 | [Fly Like an Eagle (Alternate Version)][1601] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1602 | [Mercury Blues (Alternate Version)][1602] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1603 | [Jet Airliner (Alternate Version)][1603] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1604 | [Swingtown (Alternate Version)][1604] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1605 | [Who Do You Love][1605] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1606 | [Abracadabra][1606] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1607 | [Macho City (Short Version)][1607] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1608 | [Take the Money and Run (Live Alternate Version) Steve Miller][1608] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1609 | [Bizzy's Blue Tango (Instrumental)][1609] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1610 | [Lollie Lou (Live) T-Bone Walker][1610] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1611 | [Lollie Lou (Live) Steve Miller][1611] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1612 | [It's Your Turn (feat. Andy Fairweather Low)][1612] | The Who | Its Hard | 1982 |  |
-| 1613 | [Cooks Country][1613] | The Who | Its Hard | 1982 |  |
-| 1614 | [It's Hard][1614] | The Who | Its Hard | 1982 |  |
-| 1615 | [Dangerous][1615] | The Who | Its Hard | 1982 |  |
-| 1616 | [I've Known No War][1616] | The Who | Its Hard | 1982 |  |
-| 1617 | [One Life's Enough][1617] | The Who | Its Hard | 1982 |  |
-| 1618 | [One At a Time][1618] | The Who | Its Hard | 1982 |  |
-| 1619 | [Why Did I Fall For That][1619] | The Who | Its Hard | 1982 |  |
-| 1620 | [Cry If You Want][1620] | The Who | Its Hard | 1982 |  |
-| 1621 | [It's Hard (Live)][1621] | The Who | Its Hard | 1982 |  |
-| 1622 | [Eminence Front (Live)][1622] | The Who | Its Hard | 1982 |  |
-| 1623 | [Dangerous (Live)][1623] | The Who | Its Hard | 1982 |  |
-| 1624 | [Cry If You Want (Live)][1624] | The Who | Its Hard | 1982 |  |
-| 1625 | [Rising Power][1625] | AC/DC | Flick of the Switch | 1983 |  |
-| 1626 | [This House Is On Fire][1626] | AC/DC | Flick of the Switch | 1983 |  |
-| 1627 | [Flick of the Switch][1627] | AC/DC | Flick of the Switch | 1983 |  |
-| 1628 | [Nervous Shakedown][1628] | AC/DC | Flick of the Switch | 1983 |  |
-| 1629 | [Landslide][1629] | AC/DC | Flick of the Switch | 1983 |  |
-| 1630 | [Guns for Hire][1630] | AC/DC | Flick of the Switch | 1983 |  |
-| 1631 | [Deep In the Hole][1631] | AC/DC | Flick of the Switch | 1983 |  |
-| 1632 | [Bedlam In Belgium][1632] | AC/DC | Flick of the Switch | 1983 |  |
-| 1633 | [Badlands][1633] | AC/DC | Flick of the Switch | 1983 |  |
-| 1634 | [Brain Shake][1634] | AC/DC | Flick of the Switch | 1983 |  |
-| 1635 | [Trashed][1635] | Black Sabbath | Born Again | 1983 |  |
-| 1636 | [Stonehenge][1636] | Black Sabbath | Born Again | 1983 |  |
-| 1637 | [Disturbing the Priest][1637] | Black Sabbath | Born Again | 1983 |  |
-| 1638 | [The Dark][1638] | Black Sabbath | Born Again | 1983 |  |
-| 1639 | [Zero the Hero][1639] | Black Sabbath | Born Again | 1983 |  |
-| 1640 | [Digital Bitch][1640] | Black Sabbath | Born Again | 1983 |  |
-| 1641 | [Born Again][1641] | Black Sabbath | Born Again | 1983 |  |
-| 1642 | [Hot Line][1642] | Black Sabbath | Born Again | 1983 |  |
-| 1643 | [Keep It Warm][1643] | Black Sabbath | Born Again | 1983 |  |
-| 1644 | [Separate Ways (Worlds Apart)][1644] | Journey | Frontiers | 1983 | Hits |
-| 1645 | [Faithfully][1645] | Journey | Frontiers | 1983 | Hits |
-| 1646 | [The Post War Dream][1646] | Pink Floyd | The Final Cut | 1983 |  |
-| 1647 | [Your Possible Pasts][1647] | Pink Floyd | The Final Cut | 1983 |  |
-| 1648 | [One of the Few][1648] | Pink Floyd | The Final Cut | 1983 |  |
-| 1649 | [When the Tigers Broke Free][1649] | Pink Floyd | The Final Cut | 1983 |  |
-| 1650 | [The Hero's Return][1650] | Pink Floyd | The Final Cut | 1983 |  |
-| 1651 | [The Gunner's Dream][1651] | Pink Floyd | The Final Cut | 1983 |  |
-| 1652 | [Paranoid Eyes][1652] | Pink Floyd | The Final Cut | 1983 |  |
-| 1653 | [Get Your Filthy Hands Off My Desert][1653] | Pink Floyd | The Final Cut | 1983 |  |
-| 1654 | [The Fletcher Memorial Home][1654] | Pink Floyd | The Final Cut | 1983 |  |
-| 1655 | [Southampton Dock][1655] | Pink Floyd | The Final Cut | 1983 |  |
-| 1656 | [The Final Cut][1656] | Pink Floyd | The Final Cut | 1983 |  |
-| 1657 | [Not Now John][1657] | Pink Floyd | The Final Cut | 1983 |  |
-| 1658 | [Two Suns In the Sunset][1658] | Pink Floyd | The Final Cut | 1983 |  |
-| 1659 | [Mr. Roboto][1659] | Styx | Kilroy Was Here | 1983 |  |
-| 1660 | [Cold War][1660] | Styx | Kilroy Was Here | 1983 |  |
-| 1661 | [Don't Let It End][1661] | Styx | Kilroy Was Here | 1983 |  |
-| 1662 | [High Time][1662] | Styx | Kilroy Was Here | 1983 |  |
-| 1663 | [Heavy Metal Poisoning][1663] | Styx | Kilroy Was Here | 1983 |  |
-| 1664 | [Just Get Through This Night][1664] | Styx | Kilroy Was Here | 1983 |  |
-| 1665 | [Double Life][1665] | Styx | Kilroy Was Here | 1983 |  |
-| 1666 | [Haven't We Been Here Before?][1666] | Styx | Kilroy Was Here | 1983 |  |
-| 1667 | [Don't Let It End (Reprise)][1667] | Styx | Kilroy Was Here | 1983 |  |
-| 1668 | [Undercover of the Night][1668] | The Rolling Stones | Undercover | 1983 |  |
-| 1669 | [She Was Hot][1669] | The Rolling Stones | Undercover | 1983 |  |
-| 1670 | [Tie You Up (The Pain of Love)][1670] | The Rolling Stones | Undercover | 1983 |  |
-| 1671 | [Wanna Hold You][1671] | The Rolling Stones | Undercover | 1983 |  |
-| 1672 | [Feel On Baby][1672] | The Rolling Stones | Undercover | 1983 |  |
-| 1673 | [Too Much Blood][1673] | The Rolling Stones | Undercover | 1983 |  |
-| 1674 | [Pretty Beat Up][1674] | The Rolling Stones | Undercover | 1983 |  |
-| 1675 | [Too Tough][1675] | The Rolling Stones | Undercover | 1983 |  |
-| 1676 | [All the Way Down][1676] | The Rolling Stones | Undercover | 1983 |  |
-| 1677 | [It Must Be Hell][1677] | The Rolling Stones | Undercover | 1983 |  |
-| 1678 | [Gimme All Your Lovin'][1678] | ZZ Top | Eliminator | 1983 | Hits |
-| 1679 | [Sharp Dressed Man][1679] | ZZ Top | Eliminator | 1983 | Hits |
-| 1680 | [Legs (Edit)][1680] | ZZ Top | Eliminator | 1983 | Hits |
-| 1681 | [Got Me Under Pressure][1681] | ZZ Top | Eliminator | 1983 | Hits |
-| 1682 | [Perfect Strangers][1682] | Deep Purple | Perfect Strangers | 1984 | Hits |
-| 1683 | [Knocking At Your Back Door][1683] | Deep Purple | Perfect Strangers | 1984 | Hits |
-| 1684 | [Growing Up the Hard Way][1684] | Foreigner | Agent Provocateur | 1984 |  |
-| 1685 | [Stranger In My Own House][1685] | Foreigner | Agent Provocateur | 1984 |  |
-| 1686 | [A Love In Vain][1686] | Foreigner | Agent Provocateur | 1984 |  |
-| 1687 | [Two Different Worlds][1687] | Foreigner | Agent Provocateur | 1984 |  |
-| 1688 | [She's Too Tough][1688] | Foreigner | Agent Provocateur | 1984 |  |
-| 1689 | Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1690 | Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1691 | Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1692 | The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1693 | The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1694 | Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1695 | Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1696 | Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1697 | Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1698 | Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1699 | Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1700 | The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1701 | The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1702 | Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1703 | Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1704 | Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1705 | Intro (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1706 | The Spirit Of Radio (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1707 | Subdivisions (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1708 | The Body Electric (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1709 | The Enemy Within (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1710 | The Weapon (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1711 | Witch Hunt (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1712 | New World Man (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1713 | Between The Wheels (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1714 | Red Barchetta (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1715 | Distant Early Warning (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1716 | Red Sector A (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1717 | Closer To The Heart (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1718 | [Kid Gloves (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984)][1718] | Rush | Grace Under Pressure | 1984 |  |
-| 1719 | YYZ (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1720 | 2112: The Temples Of Syrinx (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1721 | Tom Sawyer (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1722 | Red Lenses / Drum Solo (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1723 | Vital Signs (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1724 | Finding My Way (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1725 | In The Mood (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
-| 1726 | [Radio 1][1726] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1727 | [Italian X Rays][1727] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1728 | [Daybreak][1728] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1729 | [Shangri-La][1729] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1730 | [Harmony of the Spheres 1][1730] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1731 | [Radio 2][1731] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1732 | [Bongo Bongo][1732] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1733 | [Out of the Night][1733] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1734 | [Golden Opportunity][1734] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1735 | [The Hollywood Dream][1735] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1736 | [One In a Million][1736] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1737 | [Harmony of the Spheres 2][1737] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1738 | [Fly On the Wall][1738] | AC/DC | Fly on the Wall | 1985 |  |
-| 1739 | [Shake Your Foundations][1739] | AC/DC | Fly on the Wall | 1985 |  |
-| 1740 | [First Blood][1740] | AC/DC | Fly on the Wall | 1985 |  |
-| 1741 | [Danger][1741] | AC/DC | Fly on the Wall | 1985 |  |
-| 1742 | [Sink the Pink][1742] | AC/DC | Fly on the Wall | 1985 |  |
-| 1743 | [Playing with Girls][1743] | AC/DC | Fly on the Wall | 1985 |  |
-| 1744 | [Stand Up][1744] | AC/DC | Fly on the Wall | 1985 |  |
-| 1745 | [Hell or High Water][1745] | AC/DC | Fly on the Wall | 1985 |  |
-| 1746 | [Back In Business][1746] | AC/DC | Fly on the Wall | 1985 |  |
-| 1747 | [Send for the Man][1747] | AC/DC | Fly on the Wall | 1985 |  |
-| 1748 | [Let the Music Do the Talking][1748] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1749 | [My Fist Your Face][1749] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1750 | [Shame On You][1750] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1751 | [The Reason a Dog][1751] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1752 | [Shela][1752] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1753 | [Gypsy Boots][1753] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1754 | [She's On Fire][1754] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1755 | [The Hop][1755] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1756 | [Darkness][1756] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1757 | What About Love | Heart | Heart | 1985 | Hits |
-| 1758 | These Dreams | Heart | Heart | 1985 | Hits |
-| 1759 | Alone | Heart | Heart | 1985 | Hits |
-| 1760 | [The Big Money][1760] | Rush | Power Windows | 1985 |  |
-| 1761 | [Grand Designs][1761] | Rush | Power Windows | 1985 |  |
-| 1762 | [Manhattan Project][1762] | Rush | Power Windows | 1985 |  |
-| 1763 | [Marathon][1763] | Rush | Power Windows | 1985 |  |
-| 1764 | [Territories][1764] | Rush | Power Windows | 1985 |  |
-| 1765 | [Middletown Dreams][1765] | Rush | Power Windows | 1985 |  |
-| 1766 | [Emotion Detector][1766] | Rush | Power Windows | 1985 |  |
-| 1767 | [Mystic Rhythms][1767] | Rush | Power Windows | 1985 |  |
-| 1768 | [In for the Kill][1768] | Black Sabbath | Seventh Star | 1986 |  |
-| 1769 | [No Stranger to Love][1769] | Black Sabbath | Seventh Star | 1986 |  |
-| 1770 | [Turn to Stone][1770] | Black Sabbath | Seventh Star | 1986 |  |
-| 1771 | [Sphinx (The Guardian)][1771] | Black Sabbath | Seventh Star | 1986 |  |
-| 1772 | [Seventh Star][1772] | Black Sabbath | Seventh Star | 1986 |  |
-| 1773 | [Danger Zone][1773] | Black Sabbath | Seventh Star | 1986 |  |
-| 1774 | [Heart Like a Wheel][1774] | Black Sabbath | Seventh Star | 1986 |  |
-| 1775 | [Angry Heart][1775] | Black Sabbath | Seventh Star | 1986 |  |
-| 1776 | [In Memory...][1776] | Black Sabbath | Seventh Star | 1986 |  |
-| 1777 | [Amanda][1777] | Boston | Third Stage | 1986 | Hits |
-| 1778 | [Nobody But You Baby][1778] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1779 | [I Want to Make the World Turn Around][1779] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1780 | [Slinky][1780] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1781 | [Living In the 20th Century][1781] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1782 | [Maelstrom][1782] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1783 | [I Wanna Be Loved (But By Only You)][1783] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1784 | [My Babe][1784] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1785 | [Big Boss Man][1785] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1786 | [Caress Me Baby][1786] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1787 | [Ain't That Lovin' You Baby][1787] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1788 | [Behind the Barn][1788] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1789 | [One Hit (To The Body)][1789] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1790 | [Fight][1790] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1791 | [Harlem Shuffle][1791] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1792 | [Hold Back][1792] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1793 | [Too Rude][1793] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1794 | [Winning Ugly][1794] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1795 | [Back To Zero][1795] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1796 | [Dirty Work][1796] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1797 | [Had It With You][1797] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1798 | [Sleep Tonight][1798] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1799 | [Key To The Highway (Piano Instrumental)][1799] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1800 | [Heart's Done Time][1800] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1801 | [Magic Touch][1801] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1802 | [Rag Doll][1802] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1803 | [Simoriah][1803] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1804 | [Dude (Looks Like a Lady)][1804] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1805 | [St. John][1805] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1806 | [Hangman Jury][1806] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1807 | [Girl Keeps Coming Apart][1807] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1808 | [Angel][1808] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1809 | [Permanent Vacation][1809] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1810 | [I'm Down][1810] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1811 | [The Movie][1811] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1812 | [The Shining][1812] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1813 | [Ancient Warrior][1813] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1814 | [Hard Life to Love][1814] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1815 | [Glory Ride][1815] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1816 | [Born to Lose][1816] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1817 | [Nightmare][1817] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1818 | [Scarlet Pimpernel][1818] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1819 | [Lost Forever][1819] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1820 | [Eternal Idol][1820] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1821 | [Big Love (2017 Remaster)][1821] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1822 | [Seven Wonders (2017 Remaster)][1822] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1823 | [Everywhere (2017 Remaster)][1823] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1824 | [Caroline (2017 Remaster)][1824] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1825 | [Tango in the Night (2017 Remaster)][1825] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1826 | [Mystified (2017 Remaster)][1826] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1827 | [Little Lies (2017 Remaster)][1827] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1828 | [Family Man (2017 Remaster)][1828] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1829 | [Welcome to the Room... Sara (2017 Remaster)][1829] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1830 | [Isn't It Midnight (2017 Remaster)][1830] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1831 | [When I See You Again (2017 Remaster)][1831] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1832 | [You and I, Pt. II (2017 Remaster)][1832] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1833 | [Down Endless Street (2017 Remaster)][1833] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1834 | [Special Kind of Love (Demo) [2017 Remaster]][1834] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1835 | [Seven Wonders (Early Version) [2017 Remaster]][1835] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1836 | [Tango in the Night (Demo) [2017 Remaster]][1836] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1837 | [Mystified (Alternate Version) [2017 Remaster]][1837] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1838 | [Book of Miracles (Instrumental) [2017 Remaster]][1838] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1839 | [Where We Belong (Demo) [2017 Remaster]][1839] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1840 | [Ricky (2017 Remaster)][1840] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1841 | [Juliet (Run-Through) [2017 Remaster]][1841] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1842 | [Isn't It Midnight (Alternate Mix) [2017 Remaster]][1842] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1843 | [Ooh My Love (Demo) [2017 Remaster]][1843] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1844 | [Mystified (Instrumental Demo) [2017 Remaster]][1844] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1845 | [You and I, Pt. II (Full Version) [2017 Remaster]][1845] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1846 | [Big Love (Extended Remix) [2017 Remaster]][1846] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1847 | [Big Love (House on the Hill Dub) [2017 Remaster]][1847] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1848 | [Big Love (Piano Dub) [2017 Remaster]][1848] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1849 | [Big Love (Remix / Edit) [2017 Remaster]][1849] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1850 | [Seven Wonders (Extended Version) [2017 Remaster]][1850] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1851 | [Seven Wonders (Dub) [2017 Remaster]][1851] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1852 | [Little Lies (Extended Version) [2017 Remaster]][1852] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1853 | [Little Lies (Dub) [2017 Remaster]][1853] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1854 | [Family Man (Extended Vocal Remix) [2017 Remaster]][1854] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1855 | [Family Man (I'm a Jazz Man Dub) [2017 Remaster]][1855] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1856 | [Family Man (Extended Guitar Version) [2017 Remaster]][1856] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1857 | [Family Man (Bonus Beats) [2017 Remaster]][1857] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1858 | [Everywhere (2017 Remaster) [II]][1858] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1859 | [Everywhere (Dub) [2017 Remaster]][1859] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1860 | [Counting Every Minute][1860] | Foreigner | Inside Information | 1987 |  |
-| 1861 | [Inside Information][1861] | Foreigner | Inside Information | 1987 |  |
-| 1862 | [The Beat of My Heart][1862] | Foreigner | Inside Information | 1987 |  |
-| 1863 | [Face to Face][1863] | Foreigner | Inside Information | 1987 |  |
-| 1864 | [Out of the Blue][1864] | Foreigner | Inside Information | 1987 |  |
-| 1865 | [A Night to Remember][1865] | Foreigner | Inside Information | 1987 |  |
-| 1866 | [Signs of Life][1866] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1867 | [Learning to Fly][1867] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1868 | [The Dogs of War][1868] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1869 | [One Slip][1869] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1870 | [On the Turning Away][1870] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1871 | [Yet Another Movie][1871] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1872 | [Round and Around][1872] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1873 | [A New Machine, Pt. 1][1873] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1874 | [Terminal Frost][1874] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1875 | [A New Machine, Pt. 2][1875] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1876 | [Sorrow][1876] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1877 | [Force Ten][1877] | Rush | Hold Your Fire | 1987 |  |
-| 1878 | [Time Stand Still][1878] | Rush | Hold Your Fire | 1987 |  |
-| 1879 | [Open Secrets][1879] | Rush | Hold Your Fire | 1987 |  |
-| 1880 | [Second Nature][1880] | Rush | Hold Your Fire | 1987 |  |
-| 1881 | [Prime Mover][1881] | Rush | Hold Your Fire | 1987 |  |
-| 1882 | [Lock and Key][1882] | Rush | Hold Your Fire | 1987 |  |
-| 1883 | [Mission][1883] | Rush | Hold Your Fire | 1987 |  |
-| 1884 | [Turn the Page][1884] | Rush | Hold Your Fire | 1987 |  |
-| 1885 | [Tai Shan][1885] | Rush | Hold Your Fire | 1987 |  |
-| 1886 | [High Water][1886] | Rush | Hold Your Fire | 1987 |  |
-| 1887 | [Heatseeker][1887] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1888 | [That's the Way I Wanna Rock 'N' Roll][1888] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1889 | [Meanstreak][1889] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1890 | [Go Zone][1890] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1891 | [Kissin' Dynamite][1891] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1892 | [Nick of Time][1892] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1893 | [Some Sin for Nuthin'][1893] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1894 | [Ruff Stuff][1894] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1895 | [Two's Up][1895] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1896 | [This Means War][1896] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1897 | [Young Lust][1897] | Aerosmith | Pump | 1989 |  |
-| 1898 | [F.I.N.E.][1898] | Aerosmith | Pump | 1989 |  |
-| 1899 | [Going Down / Love In an Elevator][1899] | Aerosmith | Pump | 1989 |  |
-| 1900 | [Monkey On My Back][1900] | Aerosmith | Pump | 1989 |  |
-| 1901 | [Water Song / Janie's Got a Gun][1901] | Aerosmith | Pump | 1989 |  |
-| 1902 | [Dulcimer Stomp / The Other Side][1902] | Aerosmith | Pump | 1989 |  |
-| 1903 | [My Girl][1903] | Aerosmith | Pump | 1989 |  |
-| 1904 | [Don't Get Mad, Get Even][1904] | Aerosmith | Pump | 1989 |  |
-| 1905 | [Hoodoo / Voodoo Medicine Man][1905] | Aerosmith | Pump | 1989 |  |
-| 1906 | [What It Takes][1906] | Aerosmith | Pump | 1989 |  |
-| 1907 | [The Gates of Hell (2024 Remaster)][1907] | Black Sabbath | Headless Cross | 1989 |  |
-| 1908 | [Headless Cross (2024 Remaster)][1908] | Black Sabbath | Headless Cross | 1989 |  |
-| 1909 | [Devil & Daughter (2024 Remaster)][1909] | Black Sabbath | Headless Cross | 1989 |  |
-| 1910 | [When Death Calls (2024 Remaster)][1910] | Black Sabbath | Headless Cross | 1989 |  |
-| 1911 | [Kill In the Spirit World (2024 Remaster)][1911] | Black Sabbath | Headless Cross | 1989 |  |
-| 1912 | [Call of the Wild (2024 Remaster)][1912] | Black Sabbath | Headless Cross | 1989 |  |
-| 1913 | [Black Moon (2024 Remaster)][1913] | Black Sabbath | Headless Cross | 1989 |  |
-| 1914 | [Nightwing (2024 Remaster)][1914] | Black Sabbath | Headless Cross | 1989 |  |
-| 1915 | [Cloak and Dagger (2024 Remaster)][1915] | Black Sabbath | Headless Cross | 1989 |  |
-| 1916 | [Show Don't Tell][1916] | Rush | Presto | 1989 |  |
-| 1917 | [Chain Lightning][1917] | Rush | Presto | 1989 |  |
-| 1918 | [The Pass][1918] | Rush | Presto | 1989 |  |
-| 1919 | [War Paint][1919] | Rush | Presto | 1989 |  |
-| 1920 | [Scars][1920] | Rush | Presto | 1989 |  |
-| 1921 | [Presto][1921] | Rush | Presto | 1989 |  |
-| 1922 | [Superconductor][1922] | Rush | Presto | 1989 |  |
-| 1923 | [Anagram (For Mongo)][1923] | Rush | Presto | 1989 |  |
-| 1924 | [Red Tide][1924] | Rush | Presto | 1989 |  |
-| 1925 | [Hand Over Fist][1925] | Rush | Presto | 1989 |  |
-| 1926 | [Available Light][1926] | Rush | Presto | 1989 |  |
-| 1927 | [Sad Sad Sad][1927] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1928 | [Mixed Emotions][1928] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1929 | [Terrifying][1929] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1930 | [Hold On to Your Hat][1930] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1931 | [Hearts for Sale][1931] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1932 | [Blinded By Love][1932] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1933 | [Rock and a Hard Place][1933] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1934 | [Can't Be Seen][1934] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1935 | [Almost Hear You Sigh][1935] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1936 | [Continental Drift][1936] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1937 | [Break the Spell][1937] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1938 | [Slipping Away][1938] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 577 | [Signs][1939] | Five Man Electrical Band | Good-byes and Butterflies | 1971 | Hits |
+| 578 | [Wheels of Confusion / The Straightener][577] | Black Sabbath | Vol. 4 | 1972 |  |
+| 579 | [Tomorrow's Dream][578] | Black Sabbath | Vol. 4 | 1972 |  |
+| 580 | [Changes][579] | Black Sabbath | Vol. 4 | 1972 |  |
+| 581 | [FX][580] | Black Sabbath | Vol. 4 | 1972 |  |
+| 582 | [Supernaut][581] | Black Sabbath | Vol. 4 | 1972 |  |
+| 583 | [Snowblind][582] | Black Sabbath | Vol. 4 | 1972 |  |
+| 584 | [Cornucopia][583] | Black Sabbath | Vol. 4 | 1972 |  |
+| 585 | [Laguna Sunrise][584] | Black Sabbath | Vol. 4 | 1972 |  |
+| 586 | [St. Vitus Dance][585] | Black Sabbath | Vol. 4 | 1972 |  |
+| 587 | [Under the Sun / Every Day Comes and Goes][586] | Black Sabbath | Vol. 4 | 1972 |  |
+| 588 | [Lookin' For a Reason][587] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 589 | [Take It Like a Friend][588] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 590 | [Need Someone To Hold][589] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 591 | [Tearin' Up the Country][590] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 592 | [Someday Never Comes][591] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 593 | [What Are You Gonna Do][592] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 594 | [Sail Away][593] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 595 | [Hello Mary Lou][594] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 596 | [Door To Door][595] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 597 | [Sweet Hitch-Hiker][596] | Creedence Clearwater Revival | Mardi Gras | 1972 |  |
+| 598 | [Highway Star (2024 Remix)][597] | Deep Purple | Machine Head | 1972 | Hits |
+| 599 | [Smoke on the Water (2024 Remix)][598] | Deep Purple | Machine Head | 1972 | Hits |
+| 600 | [Lazy (2024 Remix)][599] | Deep Purple | Machine Head | 1972 | Hits |
+| 601 | [Space Truckin' (2024 Remix)][600] | Deep Purple | Machine Head | 1972 | Hits |
+| 602 | [Take It Easy][601] | Eagles | Eagles | 1972 |  |
+| 603 | [Witchy Woman][602] | Eagles | Eagles | 1972 |  |
+| 604 | [Chug All Night][603] | Eagles | Eagles | 1972 |  |
+| 605 | [Most of Us Are Sad][604] | Eagles | Eagles | 1972 |  |
+| 606 | [Nightingale][605] | Eagles | Eagles | 1972 |  |
+| 607 | [Train Leaves Here This Morning][606] | Eagles | Eagles | 1972 |  |
+| 608 | [Take the Devil][607] | Eagles | Eagles | 1972 |  |
+| 609 | [Earlybird][608] | Eagles | Eagles | 1972 |  |
+| 610 | [Peaceful Easy Feeling][609] | Eagles | Eagles | 1972 |  |
+| 611 | [Tryin'][610] | Eagles | Eagles | 1972 |  |
+| 612 | [Obscured By Clouds][611] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 613 | [When You're In][612] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 614 | [Burning Bridges][613] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 615 | [The Gold It's In the...][614] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 616 | [Wot's... Uh the Deal?][615] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 617 | [Mudmen][616] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 618 | [Childhood's End][617] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 619 | [Free Four][618] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 620 | [Stay][619] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 621 | [Absolutely Curtains][620] | Pink Floyd | Obscured by Clouds | 1972 |  |
+| 622 | [Rocks Off][621] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 623 | [Rip This Joint][622] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 624 | [Shake Your Hips][623] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 625 | [Casino Boogie][624] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 626 | [Tumbling Dice][625] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 627 | [Sweet Virginia][626] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 628 | [Torn And Frayed][627] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 629 | [Sweet Black Angel][628] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 630 | [Loving Cup][629] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 631 | [Happy][630] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 632 | [Turd On The Run][631] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 633 | [Ventilator Blues][632] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 634 | [I Just Want To See His Face][633] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 635 | [Let It Loose][634] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 636 | [All Down The Line][635] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 637 | [Stop Breaking Down][636] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 638 | [Shine A Light][637] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 639 | [Soul Survivor][638] | The Rolling Stones | Exile on Main St | 1972 |  |
+| 640 | Make It (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 641 | Somebody (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 642 | Dream On (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 643 | One Way Street (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 644 | Mama Kin (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 645 | Write Me a Letter (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 646 | Movin' Out (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 647 | Walkin' The Dog (2024 Remaster) | Aerosmith | Aerosmith | 1973 |  |
+| 648 | Make It (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
+| 649 | Somebody (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
+| 650 | Dream On (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
+| 651 | One Way Street (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
+| 652 | [Mama Kin (2024 Mix)][651] | Aerosmith | Aerosmith | 1973 |  |
+| 653 | Write Me a Letter (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
+| 654 | Movin' Out (2024 Mix) | Aerosmith | Aerosmith | 1973 |  |
+| 655 | [Sabbath Bloody Sabbath][654] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 656 | [A National Acrobat][655] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 657 | [Fluff][656] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 658 | [Sabbra Cadabra][657] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 659 | [Killing Yourself to Live][658] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 660 | [Who Are You?][659] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 661 | [Looking for Today][660] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 662 | [Spiral Architect][661] | Black Sabbath | Sabbath Bloody Sabbath | 1973 |  |
+| 663 | [Woman from Tokyo][662] | Deep Purple | Who Do We Think We Are | 1973 | Hits |
+| 664 | [Lyin' Eyes][663] | Eagles | Desperado | 1973 |  |
+| 665 | [Already Gone][664] | Eagles | Desperado | 1973 |  |
+| 666 | [Desperado][665] | Eagles | Desperado | 1973 |  |
+| 667 | [One of These Nights][666] | Eagles | Desperado | 1973 |  |
+| 668 | [Tequila Sunrise][667] | Eagles | Desperado | 1973 |  |
+| 669 | [Take It to the Limit][668] | Eagles | Desperado | 1973 |  |
+| 670 | [The Best of My Love][669] | Eagles | Desperado | 1973 |  |
+| 671 | [The Song Remains the Same][670] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 672 | [The Rain Song][671] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 673 | [Over the Hills and Far Away][672] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 674 | [The Crunge][673] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 675 | [Dancing Days][674] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 676 | [D'yer Mak'er][675] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 677 | [No Quarter][676] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 678 | [The Ocean][677] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| 679 | [I Ain't the One][678] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 680 | [Tuesday's Gone][679] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 681 | [Gimme Three Steps][680] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 682 | [Simple Man][681] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 683 | [Things Goin' On][682] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 684 | [Mississippi Kid][683] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 685 | [Poison Whiskey][684] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 686 | [Free Bird][685] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
+| 687 | [Speak to Me][686] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 688 | [Breathe (In the Air)][687] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 689 | [On the Run][688] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 690 | [Time][689] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 691 | [The Great Gig In the Sky][690] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 692 | [Money][691] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 693 | [Us and Them][692] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 694 | [Any Colour You Like][693] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 695 | [Brain Damage][694] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 696 | [Eclipse][695] | Pink Floyd | The Dark Side of the Moon | 1973 |  |
+| 697 | [Swingtown][696] | Steve Miller Band | The Joker | 1973 |  |
+| 698 | [Jungle Love][697] | Steve Miller Band | The Joker | 1973 |  |
+| 699 | [Take the Money and Run][698] | Steve Miller Band | The Joker | 1973 |  |
+| 700 | [Rock'n Me][699] | Steve Miller Band | The Joker | 1973 |  |
+| 701 | [Serenade][700] | Steve Miller Band | The Joker | 1973 |  |
+| 702 | [True Fine Love][701] | Steve Miller Band | The Joker | 1973 |  |
+| 703 | [The Stake][702] | Steve Miller Band | The Joker | 1973 |  |
+| 704 | [The Joker][703] | Steve Miller Band | The Joker | 1973 |  |
+| 705 | [Fly Like an Eagle][704] | Steve Miller Band | The Joker | 1973 |  |
+| 706 | [Threshold][705] | Steve Miller Band | The Joker | 1973 |  |
+| 707 | [Jet Airliner][706] | Steve Miller Band | The Joker | 1973 |  |
+| 708 | [Dance, Dance, Dance][707] | Steve Miller Band | The Joker | 1973 |  |
+| 709 | [Winter Time][708] | Steve Miller Band | The Joker | 1973 |  |
+| 710 | [Wild Mountain Honey][709] | Steve Miller Band | The Joker | 1973 |  |
+| 711 | [Dancing With Mr D (2020 Giles Martin Mix)][710] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 712 | [100 Years Ago (2020 Giles Martin Mix)][711] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 713 | [Coming Down Again (2020 Giles Martin Mix)][712] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 714 | [Doo Doo Doo Doo Doo (Heartbreaker) [2020 Giles Martin Mix]][713] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 715 | [Angie (2020 Giles Martin Mix)][714] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 716 | [Silver Train (2020 Giles Martin Mix)][715] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 717 | [Hide Your Love (2020 Giles Martin Mix)][716] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 718 | [Winter (2020 Giles Martin Mix)][717] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 719 | [Can You Hear The Music (2020 Giles Martin Mix)][718] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 720 | [Star Star (2020 Giles Martin Mix)][719] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 721 | [Scarlet (feat. Jimmy Page)][720] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 722 | [All The Rage][721] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 723 | [Criss Cross][722] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 724 | [100 Years Ago (Piano Demo)][723] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 725 | [Dancing With Mr D (Instrumental)][724] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 726 | [Heartbreaker (Instrumental)][725] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 727 | [Hide Your Love (Alternate Mix)][726] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 728 | [Dancing With Mr D][727] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 729 | [Doo Doo Doo Doo Doo (Heartbreaker)][728] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 730 | [Silver Train][729] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 731 | [Scarlet (feat. Jimmy Page) [The War On Drugs Remix]][730] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 732 | [Scarlet (feat. Jimmy Page) [The Killers & Jacques Lu Cont Remix]][731] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 733 | [Brown Sugar (Live / Forest National Arena, Brussels / 17/10/73)][732] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 734 | [Gimme Shelter (Live / Forest National Arena, Brussels / 17/10/73)][733] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 735 | [Happy (Live / Forest National Arena, Brussels / 17/10/73)][734] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 736 | [Tumbling Dice (Live / Forest National Arena, Brussels / 17/10/73)][735] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 737 | [Star Star (Live / Forest National Arena, Brussels / 17/10/73)][736] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 738 | [Dancing With Mr D (Live / Forest National Arena, Brussels / 17/10/73)][737] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 739 | [Doo Doo Doo Doo Doo (Heartbreaker) [Live / Forest National Arena, Brussels / 17/10/73]][738] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 740 | [Angie (Live / Forest National Arena, Brussels / 17/10/73)][739] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 741 | [You Can't Always Get What You Want (Live / Forest National Arena, Brussels / 17/10/73)][740] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 742 | [Midnight Rambler (Live / Forest National Arena, Brussels / 17/10/73)][741] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 743 | [Honky Tonk Women (Live / Forest National Arena, Brussels / 17/10/73)][742] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 744 | [All Down The Line (Live / Forest National Arena, Brussels / 17/10/73)][743] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 745 | [Rip This Joint (Live / Forest National Arena, Brussels / 17/10/73)][744] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 746 | [Jumpin' Jack Flash (Live / Forest National Arena, Brussels / 17/10/73)][745] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 747 | [Street Fighting Man (Live / Forest National Arena, Brussels / 17/10/73)][746] | The Rolling Stones | Goats Head Soup | 1973 |  |
+| 748 | [I Am the Sea][747] | The Who | Quadrophenia | 1973 |  |
+| 749 | [The Real Me][748] | The Who | Quadrophenia | 1973 |  |
+| 750 | [Quadrophenia][749] | The Who | Quadrophenia | 1973 |  |
+| 751 | [Cut My Hair][750] | The Who | Quadrophenia | 1973 |  |
+| 752 | [The Punk and the Godfather][751] | The Who | Quadrophenia | 1973 |  |
+| 753 | [I'm One][752] | The Who | Quadrophenia | 1973 |  |
+| 754 | [The Dirty Jobs][753] | The Who | Quadrophenia | 1973 |  |
+| 755 | [Helpless Dancer][754] | The Who | Quadrophenia | 1973 |  |
+| 756 | [Is It In My Head?][755] | The Who | Quadrophenia | 1973 |  |
+| 757 | [I've Had Enough][756] | The Who | Quadrophenia | 1973 |  |
+| 758 | [5:15][757] | The Who | Quadrophenia | 1973 |  |
+| 759 | [Sea and Sand][758] | The Who | Quadrophenia | 1973 |  |
+| 760 | [Drowned][759] | The Who | Quadrophenia | 1973 |  |
+| 761 | [Bell Boy][760] | The Who | Quadrophenia | 1973 |  |
+| 762 | [Doctor Jimmy][761] | The Who | Quadrophenia | 1973 |  |
+| 763 | [The Rock][762] | The Who | Quadrophenia | 1973 |  |
+| 764 | [Love, Reign O'er Me][763] | The Who | Quadrophenia | 1973 |  |
+| 765 | [La Grange][764] | ZZ Top | Tres Hombres | 1973 | Hits |
+| 766 | [Jesus Just Left Chicago][765] | ZZ Top | Tres Hombres | 1973 | Hits |
+| 767 | [Same Old Song and Dance][766] | Aerosmith | Get Your Wings | 1974 |  |
+| 768 | [Lord of the Thighs][767] | Aerosmith | Get Your Wings | 1974 |  |
+| 769 | [Spaced][768] | Aerosmith | Get Your Wings | 1974 |  |
+| 770 | [Woman of the World][769] | Aerosmith | Get Your Wings | 1974 |  |
+| 771 | [S.O.S. (Too Bad)][770] | Aerosmith | Get Your Wings | 1974 |  |
+| 772 | [Train Kept a Rollin'][771] | Aerosmith | Get Your Wings | 1974 |  |
+| 773 | [Seasons of Wither][772] | Aerosmith | Get Your Wings | 1974 |  |
+| 774 | [Pandora's Box][773] | Aerosmith | Get Your Wings | 1974 |  |
+| 775 | [Burn][774] | Deep Purple | Burn | 1974 | Hits |
+| 776 | [Mistreated][775] | Deep Purple | Burn | 1974 | Hits |
+| 777 | [You Never Cry Like a Lover][776] | Eagles | On the Border | 1974 |  |
+| 778 | [Midnight Flyer][777] | Eagles | On the Border | 1974 |  |
+| 779 | [My Man][778] | Eagles | On the Border | 1974 |  |
+| 780 | [On the Border][779] | Eagles | On the Border | 1974 |  |
+| 781 | [James Dean][780] | Eagles | On the Border | 1974 |  |
+| 782 | [Ol' 55][781] | Eagles | On the Border | 1974 |  |
+| 783 | [Is It True?][782] | Eagles | On the Border | 1974 |  |
+| 784 | [Good Day In Hell][783] | Eagles | On the Border | 1974 |  |
+| 785 | [Sweet Home Alabama][784] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 786 | [I Need You][785] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 787 | [Don't Ask Me No Questions][786] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 788 | [Workin' for MCA][787] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 789 | [The Ballad of Curtis Loew][788] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 790 | [Swamp Music][789] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 791 | [The Needle and the Spoon][790] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 792 | [Call Me the Breeze][791] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 793 | [Don't Ask Me No Questions (Single Version)][792] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 794 | [Was I Right or Wrong (Demo Version)][793] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 795 | [Take Your Time (B-Side Single Version)][794] | Lynyrd Skynyrd | Second Helping | 1974 |  |
+| 796 | [The Promise of a New Day][795] | Rush | Rush | 1974 |  |
+| 797 | [Rock House][796] | Rush | Rush | 1974 |  |
+| 798 | [Rush Rush][797] | Rush | Rush | 1974 |  |
+| 799 | [Spellbound][798] | Rush | Rush | 1974 |  |
+| 800 | [Vibeology][799] | Rush | Rush | 1974 |  |
+| 801 | [U][800] | Rush | Rush | 1974 |  |
+| 802 | [My Foolish Heart][801] | Rush | Rush | 1974 |  |
+| 803 | [Blowing Kisses in the Wind][802] | Rush | Rush | 1974 |  |
+| 804 | [To You][803] | Rush | Rush | 1974 |  |
+| 805 | [Alright Tonight][804] | Rush | Rush | 1974 |  |
+| 806 | [Will You Marry Me][805] | Rush | Rush | 1974 |  |
+| 807 | [Brown Sugar (Live)][806] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 808 | [Street Fighting Man (Live)][807] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 809 | [Paint It Black (Live)][808] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 810 | [You Can't Always Get What You Want (Live)][809] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 811 | [Start Me Up (Live)][810] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 812 | [It's Only Rock 'N' Roll (But I Like It) [Live]][811] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 813 | [Angie (Live)][812] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 814 | [Honky Tonk Women (Live) The Rolling Stones, Sheryl Crow][813] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 815 | [Happy (Live)][814] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 816 | [Gimme Shelter (Live)][815] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 817 | [(I Can't Get No) Satisfaction (Live)][816] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 818 | [Neighbours (Live)][817] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 819 | [Monkey Man (Live)][818] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 820 | [Rocks Off (Live)][819] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 821 | [Can't You Hear Me Knocking (Live)][820] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 822 | [That's How Strong My Love Is (Live)][821] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 823 | [The Nearness of You (Live)][822] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 824 | [Beast of Burden (Live)][823] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 825 | [When the Whip Comes Down (Live)][824] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 826 | [Rock Me, Baby (Live)][825] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 827 | [You Don't Have to Mean It (Live)][826] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 828 | [Worried About You (Live)][827] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 829 | [Everybody Needs Somebody to Love (Live) The Rolling Stones, Solomon Burke][828] | The Rolling Stones | Its Only Rock n Roll | 1974 |  |
+| 830 | [Toys In the Attic][829] | Aerosmith | Toys in the Attic | 1975 |  |
+| 831 | [Uncle Salty][830] | Aerosmith | Toys in the Attic | 1975 |  |
+| 832 | [Adam's Apple][831] | Aerosmith | Toys in the Attic | 1975 |  |
+| 833 | [Walk This Way][832] | Aerosmith | Toys in the Attic | 1975 |  |
+| 834 | [Big Ten Inch Record][833] | Aerosmith | Toys in the Attic | 1975 |  |
+| 835 | [Sweet Emotion][834] | Aerosmith | Toys in the Attic | 1975 |  |
+| 836 | [No More No More][835] | Aerosmith | Toys in the Attic | 1975 |  |
+| 837 | [Round and Round][836] | Aerosmith | Toys in the Attic | 1975 |  |
+| 838 | [You See Me Crying][837] | Aerosmith | Toys in the Attic | 1975 |  |
+| 839 | [Hole In the Sky][838] | Black Sabbath | Sabotage | 1975 |  |
+| 840 | [Don't Start (Too Late)][839] | Black Sabbath | Sabotage | 1975 |  |
+| 841 | [Symptom of the Universe][840] | Black Sabbath | Sabotage | 1975 |  |
+| 842 | [Megalomania][841] | Black Sabbath | Sabotage | 1975 |  |
+| 843 | [Thrill of It All][842] | Black Sabbath | Sabotage | 1975 |  |
+| 844 | [Supertzar][843] | Black Sabbath | Sabotage | 1975 |  |
+| 845 | [Am I Going Insane (Radio)][844] | Black Sabbath | Sabotage | 1975 |  |
+| 846 | [The Writ][845] | Black Sabbath | Sabotage | 1975 |  |
+| 847 | [Too Many Hands][846] | Eagles | One of These Nights | 1975 |  |
+| 848 | [Hollywood Waltz][847] | Eagles | One of These Nights | 1975 |  |
+| 849 | [Journey of the Sorcerer][848] | Eagles | One of These Nights | 1975 |  |
+| 850 | [Visions][849] | Eagles | One of These Nights | 1975 |  |
+| 851 | [After the Thrill Is Gone][850] | Eagles | One of These Nights | 1975 |  |
+| 852 | [I Wish You Peace][851] | Eagles | One of These Nights | 1975 |  |
+| 853 | [Monday Morning][852] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 854 | [Warm Ways][853] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 855 | [Blue Letter][854] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 856 | [Rhiannon][855] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 857 | [Over My Head][856] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 858 | [Crystal][857] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 859 | [Say You Love Me][858] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 860 | [Landslide][859] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 861 | [World Turning][860] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 862 | [Sugar Daddy][861] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 863 | [I'm So Afraid][862] | Fleetwood Mac | Fleetwood Mac | 1975 |  |
+| 864 | [Magic Man][863] | Heart | Dreamboat Annie | 1975 | Hits |
+| 865 | [Crazy On You][864] | Heart | Dreamboat Annie | 1975 | Hits |
+| 866 | [Dreamboat Annie (Fantasy Child)][865] | Heart | Dreamboat Annie | 1975 | Hits |
+| 867 | [Custard Pie][866] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 868 | [The Rover][867] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 869 | [In My Time of Dying][868] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 870 | [Houses of the Holy][869] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 871 | [Trampled Under Foot][870] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 872 | [Kashmir][871] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 873 | [In the Light][872] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 874 | [Bron-Yr-Aur][873] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 875 | [Down By the Seaside][874] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 876 | [Ten Years Gone][875] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 877 | [Night Flight][876] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 878 | [The Wanton Song][877] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 879 | [Boogie With Stu][878] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 880 | [Black Country Woman][879] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 881 | [Sick Again][880] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| 882 | [Saturday Night Special][881] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 883 | [Cheatin' Woman][882] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 884 | [Railroad Song][883] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 885 | [I'm a Country Boy][884] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 886 | [On the Hunt][885] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 887 | [Am I Losin'][886] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 888 | [Made in the Shade][887] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 889 | [Whiskey Rock-a-Roller][888] | Lynyrd Skynyrd | Nuthin Fancy | 1975 |  |
+| 890 | [Shine On You Crazy Diamond, Pts. 1-5][889] | Pink Floyd | Wish You Were Here | 1975 |  |
+| 891 | [Welcome to the Machine][890] | Pink Floyd | Wish You Were Here | 1975 |  |
+| 892 | [Have a Cigar][891] | Pink Floyd | Wish You Were Here | 1975 |  |
+| 893 | [Wish You Were Here][892] | Pink Floyd | Wish You Were Here | 1975 |  |
+| 894 | [Shine On You Crazy Diamond, Pts. 6-9][893] | Pink Floyd | Wish You Were Here | 1975 |  |
+| 895 | [Bastille Day][894] | Rush | Caress of Steel | 1975 |  |
+| 896 | [I Think I'm Going Bald][895] | Rush | Caress of Steel | 1975 |  |
+| 897 | [Lakeside Park][896] | Rush | Caress of Steel | 1975 |  |
+| 898 | [The Necromancer][897] | Rush | Caress of Steel | 1975 |  |
+| 899 | [The Fountain of Lamneth][898] | Rush | Caress of Steel | 1975 |  |
+| 900 | [Anthem][899] | Rush | Fly by Night | 1975 |  |
+| 901 | [Best I Can][900] | Rush | Fly by Night | 1975 |  |
+| 902 | [Beneath, Between & Behind][901] | Rush | Fly by Night | 1975 |  |
+| 903 | [By-Tor & The Snow Dog][902] | Rush | Fly by Night | 1975 |  |
+| 904 | [Fly By Night][903] | Rush | Fly by Night | 1975 |  |
+| 905 | [Making Memories][904] | Rush | Fly by Night | 1975 |  |
+| 906 | [Rivendell][905] | Rush | Fly by Night | 1975 |  |
+| 907 | [In the End][906] | Rush | Fly by Night | 1975 |  |
+| 908 | [Light Up][907] | Styx | Equinox | 1975 |  |
+| 909 | [Lorelei][908] | Styx | Equinox | 1975 |  |
+| 910 | [Mother Dear][909] | Styx | Equinox | 1975 |  |
+| 911 | [Lonely Child][910] | Styx | Equinox | 1975 |  |
+| 912 | [Midnight Ride][911] | Styx | Equinox | 1975 |  |
+| 913 | [Born for Adventure][912] | Styx | Equinox | 1975 |  |
+| 914 | [Prelude 12][913] | Styx | Equinox | 1975 |  |
+| 915 | [Suite Madame Blue][914] | Styx | Equinox | 1975 |  |
+| 916 | [Slip Kid][915] | The Who | The Who by Numbers | 1975 |  |
+| 917 | [However Much I Booze][916] | The Who | The Who by Numbers | 1975 |  |
+| 918 | [Squeeze Box][917] | The Who | The Who by Numbers | 1975 |  |
+| 919 | [Dreaming from the Waist][918] | The Who | The Who by Numbers | 1975 |  |
+| 920 | [Imagine a Man][919] | The Who | The Who by Numbers | 1975 |  |
+| 921 | [Success Story][920] | The Who | The Who by Numbers | 1975 |  |
+| 922 | [They Are All In Love][921] | The Who | The Who by Numbers | 1975 |  |
+| 923 | [Blue, Red and Grey][922] | The Who | The Who by Numbers | 1975 |  |
+| 924 | [How Many Friends][923] | The Who | The Who by Numbers | 1975 |  |
+| 925 | [In a Hand or a Face][924] | The Who | The Who by Numbers | 1975 |  |
+| 926 | [Squeeze Box (Live)][925] | The Who | The Who by Numbers | 1975 |  |
+| 927 | [Behind Blue Eyes (Live)][926] | The Who | The Who by Numbers | 1975 |  |
+| 928 | [Dreaming from the Waist (Live)][927] | The Who | The Who by Numbers | 1975 |  |
+| 929 | [Tush][928] | ZZ Top | Fandango | 1975 | Hits |
+| 930 | [Dirty Deeds Done Dirt Cheap][929] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 931 | [Love at First Feel][930] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 932 | [Big Balls][931] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 933 | [Rocker][932] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 934 | [Problem Child][933] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 935 | [There's Gonna Be Some Rockin'][934] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 936 | [Ain't No Fun (Waiting Round to Be a Millionaire)][935] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 937 | [Ride On][936] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 938 | [Squealer][937] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 |  |
+| 939 | [It's a Long Way to the Top (If You Wanna Rock 'N' Roll)][938] | AC/DC | High Voltage | 1976 |  |
+| 940 | [Rock 'N' Roll Singer][939] | AC/DC | High Voltage | 1976 |  |
+| 941 | [The Jack][940] | AC/DC | High Voltage | 1976 |  |
+| 942 | [Live Wire][941] | AC/DC | High Voltage | 1976 |  |
+| 943 | [T.N.T.][942] | AC/DC | High Voltage | 1976 |  |
+| 944 | [Can I Sit Next to You Girl][943] | AC/DC | High Voltage | 1976 |  |
+| 945 | [Little Lover][944] | AC/DC | High Voltage | 1976 |  |
+| 946 | [She's Got Balls][945] | AC/DC | High Voltage | 1976 |  |
+| 947 | [High Voltage][946] | AC/DC | High Voltage | 1976 |  |
+| 948 | [Back In the Saddle][947] | Aerosmith | Rocks | 1976 |  |
+| 949 | [Last Child][948] | Aerosmith | Rocks | 1976 |  |
+| 950 | [Rats In the Cellar][949] | Aerosmith | Rocks | 1976 |  |
+| 951 | [Combination][950] | Aerosmith | Rocks | 1976 |  |
+| 952 | [Sick As a Dog][951] | Aerosmith | Rocks | 1976 |  |
+| 953 | [Nobody's Fault][952] | Aerosmith | Rocks | 1976 |  |
+| 954 | [Get the Lead Out][953] | Aerosmith | Rocks | 1976 |  |
+| 955 | [Lick and a Promise][954] | Aerosmith | Rocks | 1976 |  |
+| 956 | [Home Tonight][955] | Aerosmith | Rocks | 1976 |  |
+| 957 | [Back Street Kids][956] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 958 | [You Won't Change Me][957] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 959 | [It's Alright][958] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 960 | [Gypsy][959] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 961 | [All Moving Parts (Stand Still)][960] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 962 | [Rock 'N' Roll Doctor][961] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 963 | [She's Gone][962] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 964 | [Dirty Women][963] | Black Sabbath | Technical Ecstasy | 1976 |  |
+| 965 | [More Than a Feeling][964] | Boston | Boston | 1976 | Hits |
+| 966 | [Peace of Mind][965] | Boston | Boston | 1976 | Hits |
+| 967 | [Foreplay / Long Time][966] | Boston | Boston | 1976 | Hits |
+| 968 | [Rock & Roll Band][967] | Boston | Boston | 1976 | Hits |
+| 969 | [Smokin'][968] | Boston | Boston | 1976 | Hits |
+| 970 | [Hitch a Ride][969] | Boston | Boston | 1976 | Hits |
+| 971 | [Hotel California][970] | Eagles | Hotel California | 1976 |  |
+| 972 | [New Kid In Town][971] | Eagles | Hotel California | 1976 |  |
+| 973 | [Life In the Fast Lane][972] | Eagles | Hotel California | 1976 |  |
+| 974 | [Wasted Time][973] | Eagles | Hotel California | 1976 |  |
+| 975 | [Wasted Time (Reprise)][974] | Eagles | Hotel California | 1976 |  |
+| 976 | [Victim of Love][975] | Eagles | Hotel California | 1976 |  |
+| 977 | [Pretty Maids All In a Row][976] | Eagles | Hotel California | 1976 |  |
+| 978 | [Try and Love Again][977] | Eagles | Hotel California | 1976 |  |
+| 979 | [The Last Resort][978] | Eagles | Hotel California | 1976 |  |
+| 980 | [Carry On Wayward Son][979] | Kansas | Leftoverture | 1976 | Hits |
+| 981 | [Miracles Out of Nowhere][980] | Kansas | Leftoverture | 1976 | Hits |
+| 982 | [The Wall][981] | Kansas | Leftoverture | 1976 | Hits |
+| 983 | [Achilles Last Stand (Remaster)][982] | Led Zeppelin | Presence | 1976 |  |
+| 984 | [For Your Life (Remaster)][983] | Led Zeppelin | Presence | 1976 |  |
+| 985 | [Royal Orleans (Remaster)][984] | Led Zeppelin | Presence | 1976 |  |
+| 986 | [Nobody's Fault but Mine (Remaster)][985] | Led Zeppelin | Presence | 1976 |  |
+| 987 | [Candy Store Rock (Remaster)][986] | Led Zeppelin | Presence | 1976 |  |
+| 988 | [Hots on for Nowhere (Remaster)][987] | Led Zeppelin | Presence | 1976 |  |
+| 989 | [Tea for One (Remaster)][988] | Led Zeppelin | Presence | 1976 |  |
+| 990 | [Gimme Back My Bullets][989] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 991 | [Every Mother's Son][990] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 992 | [Trust][991] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 993 | [(I Got The) Same Old Blues][992] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 994 | [Double Trouble][993] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 995 | [Roll Gypsy Roll][994] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 996 | [Searching][995] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 997 | [Cry for the Bad Man][996] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 998 | [All I Can Do Is Write About It][997] | Lynyrd Skynyrd | Gimme Back My Bullets | 1976 |  |
+| 999 | [2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale (Remastered 2012)][998] | Rush | 2112 | 1976 |  |
+| 1000 | [A Passage To Bangkok (Remastered 2012)][999] | Rush | 2112 | 1976 |  |
+| 1001 | [The Twilight Zone (Remastered 2012)][1000] | Rush | 2112 | 1976 |  |
+| 1002 | [Lessons (Remastered 2012)][1001] | Rush | 2112 | 1976 |  |
+| 1003 | [Tears (Remastered 2012)][1002] | Rush | 2112 | 1976 |  |
+| 1004 | [Something For Nothing (Remastered 2012)][1003] | Rush | 2112 | 1976 |  |
+| 1005 | [Space Intro][1004] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
+| 1006 | [Mercury Blues][1005] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
+| 1007 | [You Send Me][1006] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
+| 1008 | [Blue Odyssey][1007] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
+| 1009 | [Sweet Maree][1008] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
+| 1010 | [The Window][1009] | Steve Miller Band | Fly Like an Eagle | 1976 |  |
+| 1011 | [Put Me On][1010] | Styx | Crystal Ball | 1976 |  |
+| 1012 | [Mademoiselle][1011] | Styx | Crystal Ball | 1976 |  |
+| 1013 | [Jennifer][1012] | Styx | Crystal Ball | 1976 |  |
+| 1014 | [Crystal Ball][1013] | Styx | Crystal Ball | 1976 |  |
+| 1015 | [Shooz][1014] | Styx | Crystal Ball | 1976 |  |
+| 1016 | [This Old Man][1015] | Styx | Crystal Ball | 1976 |  |
+| 1017 | [Clair de Lune / Ballerina][1016] | Styx | Crystal Ball | 1976 |  |
+| 1018 | [Hot Stuff (2025 Mix)][1017] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1019 | [Hand Of Fate (2025 Mix)][1018] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1020 | [Cherry Oh Baby (2025 Mix)][1019] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1021 | [Memory Motel (2025 Mix)][1020] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1022 | [Hey Negrita (2025 Mix)][1021] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1023 | [Melody (2025 Mix)][1022] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1024 | [Fool To Cry (2025 Mix)][1023] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1025 | [Crazy Mama (2025 Mix)][1024] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1026 | [I Love Ladies][1025] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1027 | [Shame, Shame, Shame][1026] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1028 | [Chuck Berry Style Jam][1027] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1029 | [Blues Jam][1028] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1030 | [Rotterdam Jam][1029] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1031 | [Freeway Jam][1030] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1032 | [Honky Tonk Women (Live At Earls Court, London, UK / 1976)][1031] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1033 | [If You Can’t Rock Me/Get Off My Cloud (Live At Earls Court, London, UK / 1976)][1032] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1034 | [Hand Of Fate (Live At Earls Court, London, UK / 1976)][1033] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1035 | [Hey Negrita (Live At Earls Court, London, UK / 1976)][1034] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1036 | [Ain't Too Proud To Beg (Live At Earls Court, London, UK / 1976)][1035] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1037 | [Fool To Cry (Live At Earls Court, London, UK / 1976)][1036] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1038 | [Hot Stuff (Live At Earls Court, London, UK / 1976)][1037] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1039 | [Star Star (S********r) [Live At Earls Court, London, UK / 1976]][1038] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1040 | [You Gotta Move (Live At Earls Court, London, UK / 1976)][1039] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1041 | [You Can't Always Get What You Want (Live At Earls Court, London, UK / 1976)][1040] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1042 | [Band Intro (Live At Earls Court, London, UK / 1976)][1041] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1043 | [Happy (Live At Earls Court, London, UK / 1976)][1042] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1044 | [Tumbling Dice (Live At Earls Court, London, UK / 1976)][1043] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1045 | [Nothing From Nothing (Live At Earls Court, London, UK / 1976)][1044] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1046 | [Outa-Space (Live At Earls Court, London, UK / 1976)][1045] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1047 | [Midnight Rambler (Live At Earls Court, London, UK / 1976)][1046] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1048 | [It's Only Rock 'n Roll (But I Like It) [Live At Earls Court, London, UK / 1976]][1047] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1049 | [Brown Sugar (Live At Earls Court, London, UK / 1976)][1048] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1050 | [Jumpin' Jack Flash (Live At Earls Court, London, UK / 1976)][1049] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1051 | [Street Fighting Man (Live At Earls Court, London, UK / 1976)][1050] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1052 | [Sympathy For The Devil (Live At Earls Court, London, UK / 1976)][1051] | The Rolling Stones | Black and Blue | 1976 |  |
+| 1053 | [The Boys Are Back In Town][1052] | Thin Lizzy | Jailbreak | 1976 | Hits |
+| 1054 | [Jailbreak][1053] | Thin Lizzy | Jailbreak | 1976 | Hits |
+| 1055 | [Cowboy Song][1054] | Thin Lizzy | Jailbreak | 1976 | Hits |
+| 1056 | [Emerald][1055] | Thin Lizzy | Jailbreak | 1976 | Hits |
+| 1057 | [Go Down][1056] | AC/DC | Let There Be Rock | 1977 |  |
+| 1058 | [Dog Eat Dog][1057] | AC/DC | Let There Be Rock | 1977 |  |
+| 1059 | [Let There Be Rock][1058] | AC/DC | Let There Be Rock | 1977 |  |
+| 1060 | [Bad Boy Boogie][1059] | AC/DC | Let There Be Rock | 1977 |  |
+| 1061 | [Overdose][1060] | AC/DC | Let There Be Rock | 1977 |  |
+| 1062 | [Hell Ain't a Bad Place to Be][1061] | AC/DC | Let There Be Rock | 1977 |  |
+| 1063 | [Whole Lotta Rosie][1062] | AC/DC | Let There Be Rock | 1977 |  |
+| 1064 | [Draw the Line][1063] | Aerosmith | Draw the Line | 1977 |  |
+| 1065 | [I Wanna Know Why][1064] | Aerosmith | Draw the Line | 1977 |  |
+| 1066 | [Critical Mass][1065] | Aerosmith | Draw the Line | 1977 |  |
+| 1067 | [Get It Up][1066] | Aerosmith | Draw the Line | 1977 |  |
+| 1068 | [Bright Light Fright][1067] | Aerosmith | Draw the Line | 1977 |  |
+| 1069 | [Kings and Queens][1068] | Aerosmith | Draw the Line | 1977 |  |
+| 1070 | [The Hand That Feeds][1069] | Aerosmith | Draw the Line | 1977 |  |
+| 1071 | [Sight for Sore Eyes][1070] | Aerosmith | Draw the Line | 1977 |  |
+| 1072 | [Milk Cow Blues][1071] | Aerosmith | Draw the Line | 1977 |  |
+| 1073 | [Second Hand News][1072] | Fleetwood Mac | Rumours | 1977 |  |
+| 1074 | [Dreams][1073] | Fleetwood Mac | Rumours | 1977 |  |
+| 1075 | [Never Going Back Again][1074] | Fleetwood Mac | Rumours | 1977 |  |
+| 1076 | [Don't Stop][1075] | Fleetwood Mac | Rumours | 1977 |  |
+| 1077 | [Go Your Own Way][1076] | Fleetwood Mac | Rumours | 1977 |  |
+| 1078 | [Songbird][1077] | Fleetwood Mac | Rumours | 1977 |  |
+| 1079 | [The Chain][1078] | Fleetwood Mac | Rumours | 1977 |  |
+| 1080 | [You Make Loving Fun][1079] | Fleetwood Mac | Rumours | 1977 |  |
+| 1081 | [I Don't Want to Know][1080] | Fleetwood Mac | Rumours | 1977 |  |
+| 1082 | [Oh Daddy][1081] | Fleetwood Mac | Rumours | 1977 |  |
+| 1083 | [Gold Dust Woman][1082] | Fleetwood Mac | Rumours | 1977 |  |
+| 1084 | [Feels Like the First Time][1083] | Foreigner | Foreigner | 1977 |  |
+| 1085 | [Long, Long Way from Home][1084] | Foreigner | Foreigner | 1977 |  |
+| 1086 | [Cold As Ice][1085] | Foreigner | Foreigner | 1977 |  |
+| 1087 | [Headknocker][1086] | Foreigner | Foreigner | 1977 |  |
+| 1088 | [Starrider][1087] | Foreigner | Foreigner | 1977 |  |
+| 1089 | [Double Vision][1088] | Foreigner | Foreigner | 1977 |  |
+| 1090 | [Blue Morning, Blue Day][1089] | Foreigner | Foreigner | 1977 |  |
+| 1091 | [Hot Blooded][1090] | Foreigner | Foreigner | 1977 |  |
+| 1092 | [Dirty White Boy][1091] | Foreigner | Foreigner | 1977 |  |
+| 1093 | [Head Games][1092] | Foreigner | Foreigner | 1977 |  |
+| 1094 | [Women][1093] | Foreigner | Foreigner | 1977 |  |
+| 1095 | [Night Life][1094] | Foreigner | Foreigner | 1977 |  |
+| 1096 | [Break It Up][1095] | Foreigner | Foreigner | 1977 |  |
+| 1097 | [Juke Box Hero][1096] | Foreigner | Foreigner | 1977 |  |
+| 1098 | [Urgent][1097] | Foreigner | Foreigner | 1977 |  |
+| 1099 | [Waiting for a Girl Like You][1098] | Foreigner | Foreigner | 1977 |  |
+| 1100 | [I Want to Know What Love Is][1099] | Foreigner | Foreigner | 1977 |  |
+| 1101 | [Down On Love][1100] | Foreigner | Foreigner | 1977 |  |
+| 1102 | [Reaction to Action][1101] | Foreigner | Foreigner | 1977 |  |
+| 1103 | [That Was Yesterday][1102] | Foreigner | Foreigner | 1977 |  |
+| 1104 | [Say You Will][1103] | Foreigner | Foreigner | 1977 |  |
+| 1105 | [I Don't Want to Live Without You][1104] | Foreigner | Foreigner | 1977 |  |
+| 1106 | [Can't Wait][1105] | Foreigner | Foreigner | 1977 |  |
+| 1107 | [Tooth and Nail][1106] | Foreigner | Foreigner | 1977 |  |
+| 1108 | [Heart Turns to Stone][1107] | Foreigner | Foreigner | 1977 |  |
+| 1109 | [Lowdown and Dirty][1108] | Foreigner | Foreigner | 1977 |  |
+| 1110 | [I'll Fight for You][1109] | Foreigner | Foreigner | 1977 |  |
+| 1111 | [Until the End of Time][1110] | Foreigner | Foreigner | 1977 |  |
+| 1112 | [Too Late][1111] | Foreigner | Foreigner | 1977 |  |
+| 1113 | [Say You Will (Live 2008)][1112] | Foreigner | Foreigner | 1977 |  |
+| 1114 | [Starrider (Live 2005)][1113] | Foreigner | Foreigner | 1977 |  |
+| 1115 | [Juke Box Hero / Whole Lotta Love (Live 2005)][1114] | Foreigner | Foreigner | 1977 |  |
+| 1116 | [Barracuda][1115] | Heart | Little Queen | 1977 | Hits |
+| 1117 | [Kick It Out][1116] | Heart | Little Queen | 1977 | Hits |
+| 1118 | [Dust In the Wind][1117] | Kansas | Point of Know Return | 1977 | Hits |
+| 1119 | [Point of Know Return][1118] | Kansas | Point of Know Return | 1977 | Hits |
+| 1120 | [Portrait (He Knew)][1119] | Kansas | Point of Know Return | 1977 | Hits |
+| 1121 | [What's Your Name][1120] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1122 | [That Smell][1121] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1123 | [One More Time][1122] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1124 | [I Know a Little][1123] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1125 | [You Got That Right][1124] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1126 | [I Never Dreamed][1125] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1127 | [Honky Tonk Night Time Man][1126] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1128 | [Ain't No Good Life][1127] | Lynyrd Skynyrd | Street Survivors | 1977 |  |
+| 1129 | [Pigs On the Wing, Pt. 1][1128] | Pink Floyd | Animals | 1977 |  |
+| 1130 | [Dogs][1129] | Pink Floyd | Animals | 1977 |  |
+| 1131 | [Pigs (Three Different Ones)][1130] | Pink Floyd | Animals | 1977 |  |
+| 1132 | [Sheep][1131] | Pink Floyd | Animals | 1977 |  |
+| 1133 | [Pigs On the Wing, Pt. 2][1132] | Pink Floyd | Animals | 1977 |  |
+| 1134 | [A Farewell To Kings (Remastered 2013)][1133] | Rush | A Farewell to Kings | 1977 |  |
+| 1135 | [Xanadu (Remastered 2013)][1134] | Rush | A Farewell to Kings | 1977 |  |
+| 1136 | [Closer To The Heart (Remastered 2013)][1135] | Rush | A Farewell to Kings | 1977 |  |
+| 1137 | [Cinderella Man (Remastered 2013)][1136] | Rush | A Farewell to Kings | 1977 |  |
+| 1138 | [Madrigal (Remastered 2013)][1137] | Rush | A Farewell to Kings | 1977 |  |
+| 1139 | [Cygnus X-1 Book I: The Voyage (Remastered 2013)][1138] | Rush | A Farewell to Kings | 1977 |  |
+| 1140 | [Wish Upon a Star][1139] | Steve Miller Band | Book of Dreams | 1977 |  |
+| 1141 | [Electro Lux Imbroglio][1140] | Steve Miller Band | Book of Dreams | 1977 |  |
+| 1142 | [Sacrifice][1141] | Steve Miller Band | Book of Dreams | 1977 |  |
+| 1143 | [My Own Space][1142] | Steve Miller Band | Book of Dreams | 1977 |  |
+| 1144 | [Babes in the Wood][1143] | Steve Miller Band | Book of Dreams | 1977 |  |
+| 1145 | [The Grand Illusion][1144] | Styx | The Grand Illusion | 1977 |  |
+| 1146 | [Fooling Yourself (The Angry Young Man)][1145] | Styx | The Grand Illusion | 1977 |  |
+| 1147 | [Superstars][1146] | Styx | The Grand Illusion | 1977 |  |
+| 1148 | [Come Sail Away][1147] | Styx | The Grand Illusion | 1977 |  |
+| 1149 | [Miss America][1148] | Styx | The Grand Illusion | 1977 |  |
+| 1150 | [Man In the Wilderness][1149] | Styx | The Grand Illusion | 1977 |  |
+| 1151 | [Castle Walls][1150] | Styx | The Grand Illusion | 1977 |  |
+| 1152 | [The Grand Finale][1151] | Styx | The Grand Illusion | 1977 |  |
+| 1153 | Don't Believe a Word | Thin Lizzy | Bad Reputation | 1977 | Hits |
+| 1154 | [Dancing In the Moonlight (It's Caught Me In Its Spotlight)][1153] | Thin Lizzy | Bad Reputation | 1977 | Hits |
+| 1155 | [Bad Reputation][1154] | Thin Lizzy | Bad Reputation | 1977 | Hits |
+| 1156 | [Rock 'N' Roll Damnation][1155] | AC/DC | Powerage | 1978 |  |
+| 1157 | [Down Payment Blues][1156] | AC/DC | Powerage | 1978 |  |
+| 1158 | [Gimme a Bullet][1157] | AC/DC | Powerage | 1978 |  |
+| 1159 | [Riff Raff][1158] | AC/DC | Powerage | 1978 |  |
+| 1160 | [Sin City][1159] | AC/DC | Powerage | 1978 |  |
+| 1161 | [What's Next to the Moon][1160] | AC/DC | Powerage | 1978 |  |
+| 1162 | [Gone Shootin'][1161] | AC/DC | Powerage | 1978 |  |
+| 1163 | [Up to My Neck In You][1162] | AC/DC | Powerage | 1978 |  |
+| 1164 | [Kicked In the Teeth][1163] | AC/DC | Powerage | 1978 |  |
+| 1165 | [Never Say Die][1164] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1166 | [Johnny Blade][1165] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1167 | [Junior's Eyes][1166] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1168 | [A Hard Road][1167] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1169 | [Shock Wave][1168] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1170 | [Air Dance][1169] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1171 | [Over to You][1170] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1172 | [Breakout][1171] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1173 | [Swinging the Chain][1172] | Black Sabbath | Never Say Die! | 1978 |  |
+| 1174 | [Don't Look Back][1173] | Boston | Don't Look Back | 1978 | Hits |
+| 1175 | [A Man I'll Never Be][1174] | Boston | Don't Look Back | 1978 | Hits |
+| 1176 | [You're All I Am][1175] | Foreigner | Double Vision | 1978 |  |
+| 1177 | [Back Where You Belong][1176] | Foreigner | Double Vision | 1978 |  |
+| 1178 | [Love Has Taken Its Toll][1177] | Foreigner | Double Vision | 1978 |  |
+| 1179 | [Tramontane][1178] | Foreigner | Double Vision | 1978 |  |
+| 1180 | [I Have Waited So Long][1179] | Foreigner | Double Vision | 1978 |  |
+| 1181 | [Lonely Children][1180] | Foreigner | Double Vision | 1978 |  |
+| 1182 | [Spellbinder][1181] | Foreigner | Double Vision | 1978 |  |
+| 1183 | [Hot Blooded (Live) [Bonus Track]][1182] | Foreigner | Double Vision | 1978 |  |
+| 1184 | [Love Maker (Live) [Bonus Track]][1183] | Foreigner | Double Vision | 1978 |  |
+| 1185 | Straight On | Heart | Dog & Butterfly | 1978 | Hits |
+| 1186 | Dog & Butterfly | Heart | Dog & Butterfly | 1978 | Hits |
+| 1187 | [Wheel In the Sky][1186] | Journey | Infinity | 1978 | Hits |
+| 1188 | [Lights][1187] | Journey | Infinity | 1978 | Hits |
+| 1189 | [Cygnus X-1 Book II: Hemispheres (Remastered 2013)][1188] | Rush | Hemispheres | 1978 |  |
+| 1190 | [Circumstances (Remastered 2013)][1189] | Rush | Hemispheres | 1978 |  |
+| 1191 | [The Trees (Remastered 2013)][1190] | Rush | Hemispheres | 1978 |  |
+| 1192 | [La Villa Strangiato (Remastered 2013)][1191] | Rush | Hemispheres | 1978 |  |
+| 1193 | [Great White Hope][1192] | Styx | Pieces of Eight | 1978 |  |
+| 1194 | [I'm O.K.][1193] | Styx | Pieces of Eight | 1978 |  |
+| 1195 | [Sing for the Day][1194] | Styx | Pieces of Eight | 1978 |  |
+| 1196 | [The Message][1195] | Styx | Pieces of Eight | 1978 |  |
+| 1197 | [Lords of the Ring][1196] | Styx | Pieces of Eight | 1978 |  |
+| 1198 | [Blue Collar Man][1197] | Styx | Pieces of Eight | 1978 |  |
+| 1199 | [Queen of Spades][1198] | Styx | Pieces of Eight | 1978 |  |
+| 1200 | [Renegade][1199] | Styx | Pieces of Eight | 1978 |  |
+| 1201 | [Pieces of Eight][1200] | Styx | Pieces of Eight | 1978 |  |
+| 1202 | [Aku Aku][1201] | Styx | Pieces of Eight | 1978 |  |
+| 1203 | [Miss You][1202] | The Rolling Stones | Some Girls | 1978 |  |
+| 1204 | [When The Whip Comes Down][1203] | The Rolling Stones | Some Girls | 1978 |  |
+| 1205 | [Just My Imagination (Running Away With Me)][1204] | The Rolling Stones | Some Girls | 1978 |  |
+| 1206 | [Some Girls][1205] | The Rolling Stones | Some Girls | 1978 |  |
+| 1207 | [Lies][1206] | The Rolling Stones | Some Girls | 1978 |  |
+| 1208 | [Far Away Eyes][1207] | The Rolling Stones | Some Girls | 1978 |  |
+| 1209 | [Respectable][1208] | The Rolling Stones | Some Girls | 1978 |  |
+| 1210 | [Before They Make Me Run][1209] | The Rolling Stones | Some Girls | 1978 |  |
+| 1211 | [Beast Of Burden][1210] | The Rolling Stones | Some Girls | 1978 |  |
+| 1212 | [Shattered][1211] | The Rolling Stones | Some Girls | 1978 |  |
+| 1213 | [Zoot Suit The High Numbers][1212] | The Who | Who Are You | 1978 |  |
+| 1214 | [I'm the Face The High Numbers][1213] | The Who | Who Are You | 1978 |  |
+| 1215 | [My Generation (Mono Version)][1214] | The Who | Who Are You | 1978 |  |
+| 1216 | [A Legal Matter (Mono Version)][1215] | The Who | Who Are You | 1978 |  |
+| 1217 | [The Kids Are Alright (Mono Version)][1216] | The Who | Who Are You | 1978 |  |
+| 1218 | [The Ox (Mono Version)][1217] | The Who | Who Are You | 1978 |  |
+| 1219 | [La-La-La-Lies (Mono Version)][1218] | The Who | Who Are You | 1978 |  |
+| 1220 | [The Good's Gone (Mono Version)][1219] | The Who | Who Are You | 1978 |  |
+| 1221 | [Substitute (Single Version)][1220] | The Who | Who Are You | 1978 |  |
+| 1222 | [Circles (Revised Second Mono Version)][1221] | The Who | Who Are You | 1978 |  |
+| 1223 | [Waltz For a Pig The Graham Bond Organisation][1222] | The Who | Who Are You | 1978 |  |
+| 1224 | [I'm a Boy (Mono Version)][1223] | The Who | Who Are You | 1978 |  |
+| 1225 | [In the City (Mono Version)][1224] | The Who | Who Are You | 1978 |  |
+| 1226 | [Disguises (Mono Version)][1225] | The Who | Who Are You | 1978 |  |
+| 1227 | [Batman (Mono Version)][1226] | The Who | Who Are You | 1978 |  |
+| 1228 | [Bucket T (Mono Version)][1227] | The Who | Who Are You | 1978 |  |
+| 1229 | [Barbara Ann (Mono Version)][1228] | The Who | Who Are You | 1978 |  |
+| 1230 | [Happy Jack (Single Version)][1229] | The Who | Who Are You | 1978 |  |
+| 1231 | [I've Been Away (Mono Version)][1230] | The Who | Who Are You | 1978 |  |
+| 1232 | [Pictures of Lily][1231] | The Who | Who Are You | 1978 |  |
+| 1233 | [Doctor, Doctor (Mono Version)][1232] | The Who | Who Are You | 1978 |  |
+| 1234 | [The Last Time][1233] | The Who | Who Are You | 1978 |  |
+| 1235 | [Under My Thumb][1234] | The Who | Who Are You | 1978 |  |
+| 1236 | [Dogs][1235] | The Who | Who Are You | 1978 |  |
+| 1237 | [Call Me Lightning][1236] | The Who | Who Are You | 1978 |  |
+| 1238 | [Magic Bus (Edit Mono Version)][1237] | The Who | Who Are You | 1978 |  |
+| 1239 | [Dr Jekyll & Mr Hyde][1238] | The Who | Who Are You | 1978 |  |
+| 1240 | [Dogs, Pt. Two][1239] | The Who | Who Are You | 1978 |  |
+| 1241 | [The Seeker (Edit)][1240] | The Who | Who Are You | 1978 |  |
+| 1242 | [Here For More][1241] | The Who | Who Are You | 1978 |  |
+| 1243 | [Summertime Blues (Live At Leeds)][1242] | The Who | Who Are You | 1978 |  |
+| 1244 | [Heaven and Hell (Mono Version)][1243] | The Who | Who Are You | 1978 |  |
+| 1245 | [See Me, Feel Me (Single Version)][1244] | The Who | Who Are You | 1978 |  |
+| 1246 | [Christmas (Edit)][1245] | The Who | Who Are You | 1978 |  |
+| 1247 | [Won't Get Fooled Again (Single Version)][1246] | The Who | Who Are You | 1978 |  |
+| 1248 | [Don't Know Myself][1247] | The Who | Who Are You | 1978 |  |
+| 1249 | [Let's See Action][1248] | The Who | Who Are You | 1978 |  |
+| 1250 | [When I Was a Boy][1249] | The Who | Who Are You | 1978 |  |
+| 1251 | [Join Together][1250] | The Who | Who Are You | 1978 |  |
+| 1252 | [Baby Don't You Do It (Live)][1251] | The Who | Who Are You | 1978 |  |
+| 1253 | [Relay][1252] | The Who | Who Are You | 1978 |  |
+| 1254 | [Waspman][1253] | The Who | Who Are You | 1978 |  |
+| 1255 | [5.15 (Single Version)][1254] | The Who | Who Are You | 1978 |  |
+| 1256 | [Water][1255] | The Who | Who Are You | 1978 |  |
+| 1257 | [Listening To You / See Me, Feel Me][1256] | The Who | Who Are You | 1978 |  |
+| 1258 | [Overture From Tommy][1257] | The Who | Who Are You | 1978 |  |
+| 1259 | [Who Are You (Single Version)][1258] | The Who | Who Are You | 1978 |  |
+| 1260 | [Had Enough][1259] | The Who | Who Are You | 1978 |  |
+| 1261 | [Long Live Rock (Single Version)][1260] | The Who | Who Are You | 1978 |  |
+| 1262 | [My Wife (Live)][1261] | The Who | Who Are You | 1978 |  |
+| 1263 | [You Better You Bet (Edit)][1262] | The Who | Who Are You | 1978 |  |
+| 1264 | [The Quiet One][1263] | The Who | Who Are You | 1978 |  |
+| 1265 | [Don't Let Go the Coat][1264] | The Who | Who Are You | 1978 |  |
+| 1266 | [You][1265] | The Who | Who Are You | 1978 |  |
+| 1267 | [Athena][1266] | The Who | Who Are You | 1978 |  |
+| 1268 | [A Man Is a Man][1267] | The Who | Who Are You | 1978 |  |
+| 1269 | [Eminence Front][1268] | The Who | Who Are You | 1978 |  |
+| 1270 | [It's Your Turn][1269] | The Who | Who Are You | 1978 |  |
+| 1271 | [Twist and Shout (Live)][1270] | The Who | Who Are You | 1978 |  |
+| 1272 | [I Can't Explain (Live)][1271] | The Who | Who Are You | 1978 |  |
+| 1273 | [Bony Moronie (Live)][1272] | The Who | Who Are You | 1978 |  |
+| 1274 | [Join Together (Live)][1273] | The Who | Who Are You | 1978 |  |
+| 1275 | [I Can See For Miles (Live)][1274] | The Who | Who Are You | 1978 |  |
+| 1276 | [Real Good Looking Boy][1275] | The Who | Who Are You | 1978 |  |
+| 1277 | [Old Red Wine][1276] | The Who | Who Are You | 1978 |  |
+| 1278 | [Sound Round][1277] | The Who | Who Are You | 1978 |  |
+| 1279 | [Pick Up the Peace][1278] | The Who | Who Are You | 1978 |  |
+| 1280 | [Endless Wire][1279] | The Who | Who Are You | 1978 |  |
+| 1281 | [We Got a Hit][1280] | The Who | Who Are You | 1978 |  |
+| 1282 | [They Make My Dream Come True][1281] | The Who | Who Are You | 1978 |  |
+| 1283 | [Mirror Door][1282] | The Who | Who Are You | 1978 |  |
+| 1284 | [Be Lucky][1283] | The Who | Who Are You | 1978 |  |
+| 1285 | [Highway to Hell][1284] | AC/DC | Highway to Hell | 1979 |  |
+| 1286 | [Girls Got Rhythm][1285] | AC/DC | Highway to Hell | 1979 |  |
+| 1287 | [Walk All Over You][1286] | AC/DC | Highway to Hell | 1979 |  |
+| 1288 | [Touch Too Much][1287] | AC/DC | Highway to Hell | 1979 |  |
+| 1289 | [Beating Around the Bush][1288] | AC/DC | Highway to Hell | 1979 |  |
+| 1290 | [Shot Down In Flames][1289] | AC/DC | Highway to Hell | 1979 |  |
+| 1291 | [Get It Hot][1290] | AC/DC | Highway to Hell | 1979 |  |
+| 1292 | [If You Want Blood (You've Got It)][1291] | AC/DC | Highway to Hell | 1979 |  |
+| 1293 | [Love Hungry Man][1292] | AC/DC | Highway to Hell | 1979 |  |
+| 1294 | [Night Prowler][1293] | AC/DC | Highway to Hell | 1979 |  |
+| 1295 | [No Surprize][1294] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1296 | [Chiquita][1295] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1297 | [Remember (Walking In the Sand)][1296] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1298 | [Cheese Cake][1297] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1299 | [Three Mile Smile][1298] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1300 | [Reefer Head Woman][1299] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1301 | [Bone to Bone (Coney Island White Fish Boy)][1300] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1302 | [Think About It][1301] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1303 | [Mia][1302] | Aerosmith | Night in the Ruts | 1979 |  |
+| 1304 | [The Long Run][1303] | Eagles | The Long Run | 1979 |  |
+| 1305 | [I Can't Tell You Why][1304] | Eagles | The Long Run | 1979 |  |
+| 1306 | [In the City][1305] | Eagles | The Long Run | 1979 |  |
+| 1307 | [The Disco Strangler][1306] | Eagles | The Long Run | 1979 |  |
+| 1308 | [King of Hollywood][1307] | Eagles | The Long Run | 1979 |  |
+| 1309 | [Heartache Tonight][1308] | Eagles | The Long Run | 1979 |  |
+| 1310 | [Those Shoes][1309] | Eagles | The Long Run | 1979 |  |
+| 1311 | [Teenage Jail][1310] | Eagles | The Long Run | 1979 |  |
+| 1312 | [The Greeks Don't Want No Freaks][1311] | Eagles | The Long Run | 1979 |  |
+| 1313 | [The Sad Cafe][1312] | Eagles | The Long Run | 1979 |  |
+| 1314 | [Hold Me][1313] | Fleetwood Mac | Tusk | 1979 |  |
+| 1315 | [Everywhere][1314] | Fleetwood Mac | Tusk | 1979 |  |
+| 1316 | [Gypsy][1315] | Fleetwood Mac | Tusk | 1979 |  |
+| 1317 | [As Long As You Follow][1316] | Fleetwood Mac | Tusk | 1979 |  |
+| 1318 | [Tusk][1317] | Fleetwood Mac | Tusk | 1979 |  |
+| 1319 | [Little Lies][1318] | Fleetwood Mac | Tusk | 1979 |  |
+| 1320 | [Sara][1319] | Fleetwood Mac | Tusk | 1979 |  |
+| 1321 | [Big Love][1320] | Fleetwood Mac | Tusk | 1979 |  |
+| 1322 | [No Questions Asked][1321] | Fleetwood Mac | Tusk | 1979 |  |
+| 1323 | [Love On the Telephone][1322] | Foreigner | Head Games | 1979 |  |
+| 1324 | [I'll Get Even With You][1323] | Foreigner | Head Games | 1979 |  |
+| 1325 | [Seventeen][1324] | Foreigner | Head Games | 1979 |  |
+| 1326 | [The Modern Day][1325] | Foreigner | Head Games | 1979 |  |
+| 1327 | [Blinded By Science][1326] | Foreigner | Head Games | 1979 |  |
+| 1328 | [Do What You Like][1327] | Foreigner | Head Games | 1979 |  |
+| 1329 | [Rev On the Red Line][1328] | Foreigner | Head Games | 1979 |  |
+| 1330 | [Zalia (Bonus Track)][1329] | Foreigner | Head Games | 1979 |  |
+| 1331 | [Lovin', Touchin', Squeezin'][1330] | Journey | Evolution | 1979 | Hits |
+| 1332 | [In the Evening][1331] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| 1333 | [South Bound Saurez][1332] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| 1334 | [Fool In the Rain][1333] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| 1335 | [Hot Dog][1334] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| 1336 | [Carouselambra][1335] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| 1337 | [All My Love][1336] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| 1338 | [I'm Gonna Crawl][1337] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| 1339 | [In the Flesh?][1338] | Pink Floyd | The Wall | 1979 |  |
+| 1340 | [The Thin Ice][1339] | Pink Floyd | The Wall | 1979 |  |
+| 1341 | [Another Brick In the Wall, Pt. 1][1340] | Pink Floyd | The Wall | 1979 |  |
+| 1342 | [The Happiest Days of Our Lives][1341] | Pink Floyd | The Wall | 1979 |  |
+| 1343 | [Another Brick In the Wall, Pt. 2][1342] | Pink Floyd | The Wall | 1979 |  |
+| 1344 | [Mother][1343] | Pink Floyd | The Wall | 1979 |  |
+| 1345 | [Goodbye Blue Sky][1344] | Pink Floyd | The Wall | 1979 |  |
+| 1346 | [Empty Spaces][1345] | Pink Floyd | The Wall | 1979 |  |
+| 1347 | [Young Lust][1346] | Pink Floyd | The Wall | 1979 |  |
+| 1348 | [One of My Turns][1347] | Pink Floyd | The Wall | 1979 |  |
+| 1349 | [Don't Leave Me Now][1348] | Pink Floyd | The Wall | 1979 |  |
+| 1350 | [Another Brick In the Wall, Pt. 3][1349] | Pink Floyd | The Wall | 1979 |  |
+| 1351 | [Goodbye Cruel World][1350] | Pink Floyd | The Wall | 1979 |  |
+| 1352 | [Hey You][1351] | Pink Floyd | The Wall | 1979 |  |
+| 1353 | [Is There Anybody Out There?][1352] | Pink Floyd | The Wall | 1979 |  |
+| 1354 | [Nobody Home][1353] | Pink Floyd | The Wall | 1979 |  |
+| 1355 | [Vera][1354] | Pink Floyd | The Wall | 1979 |  |
+| 1356 | [Bring the Boys Back Home][1355] | Pink Floyd | The Wall | 1979 |  |
+| 1357 | [Comfortably Numb][1356] | Pink Floyd | The Wall | 1979 |  |
+| 1358 | [The Show Must Go On][1357] | Pink Floyd | The Wall | 1979 |  |
+| 1359 | [Run Like Hell][1358] | Pink Floyd | The Wall | 1979 |  |
+| 1360 | [Waiting for the Worms][1359] | Pink Floyd | The Wall | 1979 |  |
+| 1361 | [Stop][1360] | Pink Floyd | The Wall | 1979 |  |
+| 1362 | [The Trial][1361] | Pink Floyd | The Wall | 1979 |  |
+| 1363 | [Outside the Wall][1362] | Pink Floyd | The Wall | 1979 |  |
+| 1364 | [Lights][1363] | Styx | Cornerstone | 1979 |  |
+| 1365 | [Why Me][1364] | Styx | Cornerstone | 1979 |  |
+| 1366 | [Babe][1365] | Styx | Cornerstone | 1979 |  |
+| 1367 | [Never Say Never][1366] | Styx | Cornerstone | 1979 |  |
+| 1368 | [Boat on a River][1367] | Styx | Cornerstone | 1979 |  |
+| 1369 | [Borrowed Time][1368] | Styx | Cornerstone | 1979 |  |
+| 1370 | [First Time][1369] | Styx | Cornerstone | 1979 |  |
+| 1371 | [Eddie][1370] | Styx | Cornerstone | 1979 |  |
+| 1372 | [Love in the Midnight][1371] | Styx | Cornerstone | 1979 |  |
+| 1373 | [Waiting for an Alibi][1372] | Thin Lizzy | Black Rose: A Rock Legend | 1979 | Hits |
+| 1374 | [Cheap Sunglasses][1373] | ZZ Top | Deguello | 1979 | Hits |
+| 1375 | [I'm Bad, I'm Nationwide][1374] | ZZ Top | Deguello | 1979 | Hits |
+| 1376 | [Hells Bells][1375] | AC/DC | Back in Black | 1980 |  |
+| 1377 | [Shoot to Thrill][1376] | AC/DC | Back in Black | 1980 |  |
+| 1378 | [What Do You Do for Money Honey][1377] | AC/DC | Back in Black | 1980 |  |
+| 1379 | [Givin the Dog a Bone][1378] | AC/DC | Back in Black | 1980 |  |
+| 1380 | [Let Me Put My Love Into You][1379] | AC/DC | Back in Black | 1980 |  |
+| 1381 | [Back In Black][1380] | AC/DC | Back in Black | 1980 |  |
+| 1382 | [You Shook Me All Night Long][1381] | AC/DC | Back in Black | 1980 |  |
+| 1383 | [Have a Drink On Me][1382] | AC/DC | Back in Black | 1980 |  |
+| 1384 | [Shake a Leg][1383] | AC/DC | Back in Black | 1980 |  |
+| 1385 | [Rock and Roll Ain't Noise Pollution][1384] | AC/DC | Back in Black | 1980 |  |
+| 1386 | [Neon Knights][1385] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1387 | [Children of the Sea][1386] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1388 | [Lady Evil][1387] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1389 | [Heaven and Hell][1388] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1390 | [Wishing Well][1389] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1391 | [Die Young][1390] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1392 | [Walk Away][1391] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1393 | [Lonely Is the Word][1392] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1394 | [Children of the Sea (Live B-Side)][1393] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1395 | [Heaven and Hell (Live B-Side)][1394] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1396 | [Lady Evil (7" Mono Edit)][1395] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1397 | [Neon Knights (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1396] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1398 | [Children of the Sea (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1397] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1399 | [Heaven and Hell (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1398] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1400 | [Die Young (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][1399] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1401 | [E5150 (Live at Hammersmith Odeon, London, UK, 12/31/81)][1400] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1402 | [Neon Knights (Live at Hammersmith Odeon, London, UK, 12/31/81)][1401] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1403 | [Children of the Sea (Live at Hammersmith Odeon, London, UK, 12/31/81)][1402] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1404 | [Heaven and Hell (Live at Hammersmith Odeon, London, UK, 12/31/81)][1403] | Black Sabbath | Heaven and Hell | 1980 |  |
+| 1405 | [Any Way You Want It][1404] | Journey | Departure | 1980 | Hits |
+| 1406 | [The Spirit of Radio][1405] | Rush | Permanent Waves | 1980 |  |
+| 1407 | [Freewill][1406] | Rush | Permanent Waves | 1980 |  |
+| 1408 | [Jacob's Ladder][1407] | Rush | Permanent Waves | 1980 |  |
+| 1409 | [Entre Nous][1408] | Rush | Permanent Waves | 1980 |  |
+| 1410 | [Different Strings][1409] | Rush | Permanent Waves | 1980 |  |
+| 1411 | [Natural Science][1410] | Rush | Permanent Waves | 1980 |  |
+| 1412 | [Dance (Pt. 1)][1411] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1413 | [Summer Romance][1412] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1414 | [Send It To Me][1413] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1415 | [Let Me Go][1414] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1416 | [Indian Girl][1415] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1417 | [Where The Boys Go][1416] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1418 | [Down In The Hole][1417] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1419 | [Emotional Rescue][1418] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1420 | [She's So Cold][1419] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1421 | [All About You][1420] | The Rolling Stones | Emotional Rescue | 1980 |  |
+| 1422 | [For Those About to Rock (We Salute You)][1421] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1423 | [Put the Finger On You][1422] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1424 | [Let's Get It Up][1423] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1425 | [Inject the Venom][1424] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1426 | [Snowballed][1425] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1427 | [Evil Walks][1426] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1428 | [C.O.D.][1427] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1429 | [Breaking the Rules][1428] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1430 | [Night of the Long Knives][1429] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1431 | [Spellbound][1430] | AC/DC | For Those About to Rock We Salute You | 1981 |  |
+| 1432 | [Turn Up the Night][1431] | Black Sabbath | Mob Rules | 1981 |  |
+| 1433 | [Voodoo][1432] | Black Sabbath | Mob Rules | 1981 |  |
+| 1434 | [The Sign of the Southern Cross][1433] | Black Sabbath | Mob Rules | 1981 |  |
+| 1435 | [E5150][1434] | Black Sabbath | Mob Rules | 1981 |  |
+| 1436 | [The Mob Rules][1435] | Black Sabbath | Mob Rules | 1981 |  |
+| 1437 | [Country Girl][1436] | Black Sabbath | Mob Rules | 1981 |  |
+| 1438 | [Slipping Away][1437] | Black Sabbath | Mob Rules | 1981 |  |
+| 1439 | [Falling Off the Edge of the World][1438] | Black Sabbath | Mob Rules | 1981 |  |
+| 1440 | [Over and Over][1439] | Black Sabbath | Mob Rules | 1981 |  |
+| 1441 | [Luanne][1440] | Foreigner | 4 | 1981 |  |
+| 1442 | [I'm Gonna Win][1441] | Foreigner | 4 | 1981 |  |
+| 1443 | [Woman In Black][1442] | Foreigner | 4 | 1981 |  |
+| 1444 | [Girl On the Moon][1443] | Foreigner | 4 | 1981 |  |
+| 1445 | [Don't Let Go][1444] | Foreigner | 4 | 1981 |  |
+| 1446 | [Juke Box Hero (Nearly Unplugged Version) [Bonus Track]][1445] | Foreigner | 4 | 1981 |  |
+| 1447 | [Waiting for a Girl Like You (Nearly Unplugged Version) [Bonus Track]][1446] | Foreigner | 4 | 1981 |  |
+| 1448 | [Don't Stop Believin'  (2022 Remaster)][1447] | Journey | Escape | 1981 | Hits |
+| 1449 | [Who's Crying Now (2022 Remaster)][1448] | Journey | Escape | 1981 | Hits |
+| 1450 | [Stone In Love (2022 Remaster)][1449] | Journey | Escape | 1981 | Hits |
+| 1451 | [Open Arms (2022 Remaster)][1450] | Journey | Escape | 1981 | Hits |
+| 1452 | [Tom Sawyer][1451] | Rush | Moving Pictures | 1981 |  |
+| 1453 | [Red Barchetta][1452] | Rush | Moving Pictures | 1981 |  |
+| 1454 | [YYZ][1453] | Rush | Moving Pictures | 1981 |  |
+| 1455 | [Limelight][1454] | Rush | Moving Pictures | 1981 |  |
+| 1456 | [The Camera Eye][1455] | Rush | Moving Pictures | 1981 |  |
+| 1457 | [Witch Hunt][1456] | Rush | Moving Pictures | 1981 |  |
+| 1458 | [Vital Signs][1457] | Rush | Moving Pictures | 1981 |  |
+| 1459 | [2112 - Overture (Live In YYZ 1981)][1458] | Rush | Moving Pictures | 1981 |  |
+| 1460 | [2112 - The Temples of Syrinx (Live In YYZ 1981)][1459] | Rush | Moving Pictures | 1981 |  |
+| 1461 | [Freewill (Live In YYZ 1981)][1460] | Rush | Moving Pictures | 1981 |  |
+| 1462 | [Limelight (Live In YYZ 1981)][1461] | Rush | Moving Pictures | 1981 |  |
+| 1463 | [Cygnus X-1 Book II: Hemispheres - Prelude (Live In YYZ 1981)][1462] | Rush | Moving Pictures | 1981 |  |
+| 1464 | [Beneath, Between & Behind (Live In YYZ 1981)][1463] | Rush | Moving Pictures | 1981 |  |
+| 1465 | [The Camera Eye (Live In YYZ 1981)][1464] | Rush | Moving Pictures | 1981 |  |
+| 1466 | [YYZ (Live In YYZ 1981)][1465] | Rush | Moving Pictures | 1981 |  |
+| 1467 | [Broon's Bane (Live In YYZ 1981)][1466] | Rush | Moving Pictures | 1981 |  |
+| 1468 | [The Trees (Live In YYZ 1981)][1467] | Rush | Moving Pictures | 1981 |  |
+| 1469 | [Xanadu (Live In YYZ 1981)][1468] | Rush | Moving Pictures | 1981 |  |
+| 1470 | [The Spirit Of Radio (Live In YYZ 1981)][1469] | Rush | Moving Pictures | 1981 |  |
+| 1471 | [Red Barchetta (Live In YYZ 1981)][1470] | Rush | Moving Pictures | 1981 |  |
+| 1472 | [Closer To The Heart (Live In YYZ 1981)][1471] | Rush | Moving Pictures | 1981 |  |
+| 1473 | [Tom Sawyer (Live In YYZ 1981)][1472] | Rush | Moving Pictures | 1981 |  |
+| 1474 | [Vital Signs (Live In YYZ 1981)][1473] | Rush | Moving Pictures | 1981 |  |
+| 1475 | [Natural Science (Live In YYZ 1981)][1474] | Rush | Moving Pictures | 1981 |  |
+| 1476 | [Working Man / Cygnus X-1 Book II: Hemispheres - Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 - Grand Finale (Live In YYZ 1981)][1475] | Rush | Moving Pictures | 1981 |  |
+| 1477 | [La Villa Strangiato (Live In YYZ 1981)][1476] | Rush | Moving Pictures | 1981 |  |
+| 1478 | [Heart Like a Wheel][1477] | Steve Miller Band | Circle of Love | 1981 |  |
+| 1479 | [Get on Home][1478] | Steve Miller Band | Circle of Love | 1981 |  |
+| 1480 | [Baby Wanna Dance][1479] | Steve Miller Band | Circle of Love | 1981 |  |
+| 1481 | [Circle of Love][1480] | Steve Miller Band | Circle of Love | 1981 |  |
+| 1482 | [Macho City][1481] | Steve Miller Band | Circle of Love | 1981 |  |
+| 1483 | [A.D. 1928][1482] | Styx | Paradise Theatre | 1981 |  |
+| 1484 | [Rockin' The Paradise][1483] | Styx | Paradise Theatre | 1981 |  |
+| 1485 | [Too Much Time On My Hands][1484] | Styx | Paradise Theatre | 1981 |  |
+| 1486 | [Nothing Ever Goes As Planned][1485] | Styx | Paradise Theatre | 1981 |  |
+| 1487 | [The Best Of Times][1486] | Styx | Paradise Theatre | 1981 |  |
+| 1488 | [Lonely People][1487] | Styx | Paradise Theatre | 1981 |  |
+| 1489 | [She Cares][1488] | Styx | Paradise Theatre | 1981 |  |
+| 1490 | [Snowblind][1489] | Styx | Paradise Theatre | 1981 |  |
+| 1491 | [Half Penny Two Penny][1490] | Styx | Paradise Theatre | 1981 |  |
+| 1492 | [A.D. 1958][1491] | Styx | Paradise Theatre | 1981 |  |
+| 1493 | [State Street Sadie][1492] | Styx | Paradise Theatre | 1981 |  |
+| 1494 | [Start Me Up][1493] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1495 | [Hang Fire][1494] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1496 | [Slave][1495] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1497 | [Little T&A][1496] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1498 | [Black Limousine][1497] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1499 | [Neighbours][1498] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1500 | [Worried About You][1499] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1501 | [Tops][1500] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1502 | [Heaven][1501] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1503 | [No Use In Crying][1502] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1504 | [Waiting On A Friend][1503] | The Rolling Stones | Tattoo You | 1981 |  |
+| 1505 | [You Better You Bet][1504] | The Who | Face Dances | 1981 |  |
+| 1506 | [Cache Cache][1505] | The Who | Face Dances | 1981 |  |
+| 1507 | [Did You Steal My Money][1506] | The Who | Face Dances | 1981 |  |
+| 1508 | [How Can You Do It Alone][1507] | The Who | Face Dances | 1981 |  |
+| 1509 | [Daily Records][1508] | The Who | Face Dances | 1981 |  |
+| 1510 | [Another Tricky Day][1509] | The Who | Face Dances | 1981 |  |
+| 1511 | [I Like Nightmares][1510] | The Who | Face Dances | 1981 |  |
+| 1512 | [It's In You][1511] | The Who | Face Dances | 1981 |  |
+| 1513 | [How Can You Do It Alone (Live at the International Amphitheatre, Chicago, 12/08/79)][1512] | The Who | Face Dances | 1981 |  |
+| 1514 | [The Quiet One (Live at Shea Stadium, NYC, 10/13/82)][1513] | The Who | Face Dances | 1981 |  |
+| 1515 | [Jailbait][1514] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1516 | [Lightning Strikes][1515] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1517 | [Bitch's Brew][1516] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1518 | [Bolivian Ragamuffin][1517] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1519 | [Cry Me a River][1518] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1520 | [Prelude to Joanie][1519] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1521 | [Joanie's Butterfly][1520] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1522 | [Rock In a Hard Place (Cheshire Cat)][1521] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1523 | [Jig Is Up][1522] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1524 | [Push Comes to Shove][1523] | Aerosmith | Rock in a Hard Place | 1982 |  |
+| 1525 | [Love In Store (2016 Remastered)][1524] | Fleetwood Mac | Mirage | 1982 |  |
+| 1526 | [Can't Go Back (2016 Remastered)][1525] | Fleetwood Mac | Mirage | 1982 |  |
+| 1527 | [That's Alright (2016 Remastered)][1526] | Fleetwood Mac | Mirage | 1982 |  |
+| 1528 | [Book of Love (2016 Remastered)][1527] | Fleetwood Mac | Mirage | 1982 |  |
+| 1529 | [Gypsy (2016 Remastered)][1528] | Fleetwood Mac | Mirage | 1982 |  |
+| 1530 | [Only Over You (2016 Remastered)][1529] | Fleetwood Mac | Mirage | 1982 |  |
+| 1531 | [Empire State (2016 Remastered)][1530] | Fleetwood Mac | Mirage | 1982 |  |
+| 1532 | [Straight Back (2016 Remastered)][1531] | Fleetwood Mac | Mirage | 1982 |  |
+| 1533 | [Hold Me (2016 Remastered)][1532] | Fleetwood Mac | Mirage | 1982 |  |
+| 1534 | [Oh Diane (2016 Remastered)][1533] | Fleetwood Mac | Mirage | 1982 |  |
+| 1535 | [Eyes of the World (2016 Remastered)][1534] | Fleetwood Mac | Mirage | 1982 |  |
+| 1536 | [Wish You Were Here (2016 Remastered)][1535] | Fleetwood Mac | Mirage | 1982 |  |
+| 1537 | [We're Gonna Groove][1536] | Led Zeppelin | Coda | 1982 |  |
+| 1538 | [Poor Tom][1537] | Led Zeppelin | Coda | 1982 |  |
+| 1539 | [I Can't Quit You Baby (Sound Check Version)][1538] | Led Zeppelin | Coda | 1982 |  |
+| 1540 | [Walter's Walk][1539] | Led Zeppelin | Coda | 1982 |  |
+| 1541 | [Ozone Baby][1540] | Led Zeppelin | Coda | 1982 |  |
+| 1542 | [Darlene][1541] | Led Zeppelin | Coda | 1982 |  |
+| 1543 | [Bonzo's Montreux][1542] | Led Zeppelin | Coda | 1982 |  |
+| 1544 | [Wearing and Tearing][1543] | Led Zeppelin | Coda | 1982 |  |
+| 1545 | [We're Gonna Groove (Alternate Mix)][1544] | Led Zeppelin | Coda | 1982 |  |
+| 1546 | [If It Keeps On Raining (Rough Mix)][1545] | Led Zeppelin | Coda | 1982 |  |
+| 1547 | [Bonzo's Montreux (Mix Construction In Progress)][1546] | Led Zeppelin | Coda | 1982 |  |
+| 1548 | [Baby Come On Home][1547] | Led Zeppelin | Coda | 1982 |  |
+| 1549 | [Sugar Mama (Mix)][1548] | Led Zeppelin | Coda | 1982 |  |
+| 1550 | [Poor Tom (Instrumental Mix)][1549] | Led Zeppelin | Coda | 1982 |  |
+| 1551 | [Travelling Riverside Blues (BBC Session)][1550] | Led Zeppelin | Coda | 1982 |  |
+| 1552 | [Hey, Hey, What Can I Do][1551] | Led Zeppelin | Coda | 1982 |  |
+| 1553 | [Four Hands (Four Sticks) [Bombay Orchestra]][1552] | Led Zeppelin | Coda | 1982 |  |
+| 1554 | [Friends (Bombay Orchestra)][1553] | Led Zeppelin | Coda | 1982 |  |
+| 1555 | [St. Tristan's Sword (Rough Mix)][1554] | Led Zeppelin | Coda | 1982 |  |
+| 1556 | [Desire (The Wanton Song) [Rough Mix]][1555] | Led Zeppelin | Coda | 1982 |  |
+| 1557 | [Bring It On Home (Rough Mix)][1556] | Led Zeppelin | Coda | 1982 |  |
+| 1558 | [Walter's Walk (Rough Mix)][1557] | Led Zeppelin | Coda | 1982 |  |
+| 1559 | [Everybody Makes It Through (In the Light) [Rough Mix]][1558] | Led Zeppelin | Coda | 1982 |  |
+| 1560 | [Subdivisions][1559] | Rush | Signals | 1982 |  |
+| 1561 | [The Analog Kid][1560] | Rush | Signals | 1982 |  |
+| 1562 | [Chemistry][1561] | Rush | Signals | 1982 |  |
+| 1563 | [Digital Man][1562] | Rush | Signals | 1982 |  |
+| 1564 | [The Weapon (Part II of Fear)][1563] | Rush | Signals | 1982 |  |
+| 1565 | [New World Man][1564] | Rush | Signals | 1982 |  |
+| 1566 | [Losing It][1565] | Rush | Signals | 1982 |  |
+| 1567 | [Countdown][1566] | Rush | Signals | 1982 |  |
+| 1568 | [Blues with a Feeling (Live)][1567] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1569 | [Don’t Let Nobody Turn You Around (Alternate Version)][1568] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1570 | [Super Shuffle (Live)][1569] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1571 | [It Hurts Me Too (feat. Steve Miller Band) [Live at Fillmore Auditorium, San Francisco, CA, 1967] Chuck Berry][1570] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1572 | [Industrial Military Complex Hex (Alternate Version)][1571] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1573 | [Living in the U.S.A.][1572] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1574 | [Kow Kow Calculator (Alternate Version)][1573] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1575 | [Going to Mexico (Alternate Version)][1574] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1576 | [Quicksilver Girl (Alternate Version)][1575] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1577 | [Jackson-Kent Blues (Alternate Version)][1576] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1578 | [Crossroads (Live)][1577] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1579 | [Hesitation Blues][1578] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1580 | [Seasons (Alternate Version)][1579] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1581 | [Say Wow!][1580] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1582 | [Never Kill Another Man (Live Alternate Version)][1581] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1583 | [The Gangster Is Back (Live in Hollywood, Florida, 1971)][1582] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1584 | [Space Cowboy (Instrumental)][1583] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1585 | [Space Cowboy (Live / Alternate Version)][1584] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1586 | [The Lovin' Cup][1585] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1587 | [Killing Floor][1586] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1588 | [Evil (Live at the Aquarius Theater, Boston, 1973)][1587] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1589 | [Echoplex Blues (Instrumental)][1588] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1590 | [Rock’n Me (Alternate Version 1)][1589] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1591 | [Rock’n Me (Alternate Version 2)][1590] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1592 | [Tain’t It the Truth][1591] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1593 | [Freight Train Blues][1592] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1594 | [True Fine Love (Alternate Version)][1593] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1595 | [The Stake (Alternate Version)][1594] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1596 | [My Babe (Alternate Version)][1595] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1597 | [That’s the Way It’s Got to Be][1596] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1598 | [Double Trouble][1597] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1599 | [Love Is Strange][1598] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1600 | [All Your Love (I Miss Loving) [Alternate Version]][1599] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1601 | [I Wanna Be Loved (Live) Steve Miller, Les Paul][1600] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1602 | [Fly Like an Eagle (Alternate Version)][1601] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1603 | [Mercury Blues (Alternate Version)][1602] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1604 | [Jet Airliner (Alternate Version)][1603] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1605 | [Swingtown (Alternate Version)][1604] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1606 | [Who Do You Love][1605] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1607 | [Abracadabra][1606] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1608 | [Macho City (Short Version)][1607] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1609 | [Take the Money and Run (Live Alternate Version) Steve Miller][1608] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1610 | [Bizzy's Blue Tango (Instrumental)][1609] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1611 | [Lollie Lou (Live) T-Bone Walker][1610] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1612 | [Lollie Lou (Live) Steve Miller][1611] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1613 | [It's Your Turn (feat. Andy Fairweather Low)][1612] | The Who | Its Hard | 1982 |  |
+| 1614 | [Cooks Country][1613] | The Who | Its Hard | 1982 |  |
+| 1615 | [It's Hard][1614] | The Who | Its Hard | 1982 |  |
+| 1616 | [Dangerous][1615] | The Who | Its Hard | 1982 |  |
+| 1617 | [I've Known No War][1616] | The Who | Its Hard | 1982 |  |
+| 1618 | [One Life's Enough][1617] | The Who | Its Hard | 1982 |  |
+| 1619 | [One At a Time][1618] | The Who | Its Hard | 1982 |  |
+| 1620 | [Why Did I Fall For That][1619] | The Who | Its Hard | 1982 |  |
+| 1621 | [Cry If You Want][1620] | The Who | Its Hard | 1982 |  |
+| 1622 | [It's Hard (Live)][1621] | The Who | Its Hard | 1982 |  |
+| 1623 | [Eminence Front (Live)][1622] | The Who | Its Hard | 1982 |  |
+| 1624 | [Dangerous (Live)][1623] | The Who | Its Hard | 1982 |  |
+| 1625 | [Cry If You Want (Live)][1624] | The Who | Its Hard | 1982 |  |
+| 1626 | [Rising Power][1625] | AC/DC | Flick of the Switch | 1983 |  |
+| 1627 | [This House Is On Fire][1626] | AC/DC | Flick of the Switch | 1983 |  |
+| 1628 | [Flick of the Switch][1627] | AC/DC | Flick of the Switch | 1983 |  |
+| 1629 | [Nervous Shakedown][1628] | AC/DC | Flick of the Switch | 1983 |  |
+| 1630 | [Landslide][1629] | AC/DC | Flick of the Switch | 1983 |  |
+| 1631 | [Guns for Hire][1630] | AC/DC | Flick of the Switch | 1983 |  |
+| 1632 | [Deep In the Hole][1631] | AC/DC | Flick of the Switch | 1983 |  |
+| 1633 | [Bedlam In Belgium][1632] | AC/DC | Flick of the Switch | 1983 |  |
+| 1634 | [Badlands][1633] | AC/DC | Flick of the Switch | 1983 |  |
+| 1635 | [Brain Shake][1634] | AC/DC | Flick of the Switch | 1983 |  |
+| 1636 | [Trashed][1635] | Black Sabbath | Born Again | 1983 |  |
+| 1637 | [Stonehenge][1636] | Black Sabbath | Born Again | 1983 |  |
+| 1638 | [Disturbing the Priest][1637] | Black Sabbath | Born Again | 1983 |  |
+| 1639 | [The Dark][1638] | Black Sabbath | Born Again | 1983 |  |
+| 1640 | [Zero the Hero][1639] | Black Sabbath | Born Again | 1983 |  |
+| 1641 | [Digital Bitch][1640] | Black Sabbath | Born Again | 1983 |  |
+| 1642 | [Born Again][1641] | Black Sabbath | Born Again | 1983 |  |
+| 1643 | [Hot Line][1642] | Black Sabbath | Born Again | 1983 |  |
+| 1644 | [Keep It Warm][1643] | Black Sabbath | Born Again | 1983 |  |
+| 1645 | [Separate Ways (Worlds Apart)][1644] | Journey | Frontiers | 1983 | Hits |
+| 1646 | [Faithfully][1645] | Journey | Frontiers | 1983 | Hits |
+| 1647 | [The Post War Dream][1646] | Pink Floyd | The Final Cut | 1983 |  |
+| 1648 | [Your Possible Pasts][1647] | Pink Floyd | The Final Cut | 1983 |  |
+| 1649 | [One of the Few][1648] | Pink Floyd | The Final Cut | 1983 |  |
+| 1650 | [When the Tigers Broke Free][1649] | Pink Floyd | The Final Cut | 1983 |  |
+| 1651 | [The Hero's Return][1650] | Pink Floyd | The Final Cut | 1983 |  |
+| 1652 | [The Gunner's Dream][1651] | Pink Floyd | The Final Cut | 1983 |  |
+| 1653 | [Paranoid Eyes][1652] | Pink Floyd | The Final Cut | 1983 |  |
+| 1654 | [Get Your Filthy Hands Off My Desert][1653] | Pink Floyd | The Final Cut | 1983 |  |
+| 1655 | [The Fletcher Memorial Home][1654] | Pink Floyd | The Final Cut | 1983 |  |
+| 1656 | [Southampton Dock][1655] | Pink Floyd | The Final Cut | 1983 |  |
+| 1657 | [The Final Cut][1656] | Pink Floyd | The Final Cut | 1983 |  |
+| 1658 | [Not Now John][1657] | Pink Floyd | The Final Cut | 1983 |  |
+| 1659 | [Two Suns In the Sunset][1658] | Pink Floyd | The Final Cut | 1983 |  |
+| 1660 | [Mr. Roboto][1659] | Styx | Kilroy Was Here | 1983 |  |
+| 1661 | [Cold War][1660] | Styx | Kilroy Was Here | 1983 |  |
+| 1662 | [Don't Let It End][1661] | Styx | Kilroy Was Here | 1983 |  |
+| 1663 | [High Time][1662] | Styx | Kilroy Was Here | 1983 |  |
+| 1664 | [Heavy Metal Poisoning][1663] | Styx | Kilroy Was Here | 1983 |  |
+| 1665 | [Just Get Through This Night][1664] | Styx | Kilroy Was Here | 1983 |  |
+| 1666 | [Double Life][1665] | Styx | Kilroy Was Here | 1983 |  |
+| 1667 | [Haven't We Been Here Before?][1666] | Styx | Kilroy Was Here | 1983 |  |
+| 1668 | [Don't Let It End (Reprise)][1667] | Styx | Kilroy Was Here | 1983 |  |
+| 1669 | [Undercover of the Night][1668] | The Rolling Stones | Undercover | 1983 |  |
+| 1670 | [She Was Hot][1669] | The Rolling Stones | Undercover | 1983 |  |
+| 1671 | [Tie You Up (The Pain of Love)][1670] | The Rolling Stones | Undercover | 1983 |  |
+| 1672 | [Wanna Hold You][1671] | The Rolling Stones | Undercover | 1983 |  |
+| 1673 | [Feel On Baby][1672] | The Rolling Stones | Undercover | 1983 |  |
+| 1674 | [Too Much Blood][1673] | The Rolling Stones | Undercover | 1983 |  |
+| 1675 | [Pretty Beat Up][1674] | The Rolling Stones | Undercover | 1983 |  |
+| 1676 | [Too Tough][1675] | The Rolling Stones | Undercover | 1983 |  |
+| 1677 | [All the Way Down][1676] | The Rolling Stones | Undercover | 1983 |  |
+| 1678 | [It Must Be Hell][1677] | The Rolling Stones | Undercover | 1983 |  |
+| 1679 | [Gimme All Your Lovin'][1678] | ZZ Top | Eliminator | 1983 | Hits |
+| 1680 | [Sharp Dressed Man][1679] | ZZ Top | Eliminator | 1983 | Hits |
+| 1681 | [Legs (Edit)][1680] | ZZ Top | Eliminator | 1983 | Hits |
+| 1682 | [Got Me Under Pressure][1681] | ZZ Top | Eliminator | 1983 | Hits |
+| 1683 | [Perfect Strangers][1682] | Deep Purple | Perfect Strangers | 1984 | Hits |
+| 1684 | [Knocking At Your Back Door][1683] | Deep Purple | Perfect Strangers | 1984 | Hits |
+| 1685 | [Growing Up the Hard Way][1684] | Foreigner | Agent Provocateur | 1984 |  |
+| 1686 | [Stranger In My Own House][1685] | Foreigner | Agent Provocateur | 1984 |  |
+| 1687 | [A Love In Vain][1686] | Foreigner | Agent Provocateur | 1984 |  |
+| 1688 | [Two Different Worlds][1687] | Foreigner | Agent Provocateur | 1984 |  |
+| 1689 | [She's Too Tough][1688] | Foreigner | Agent Provocateur | 1984 |  |
+| 1690 | Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1691 | Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1692 | Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1693 | The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1694 | The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1695 | Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1696 | Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1697 | Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1698 | Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1699 | Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1700 | Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1701 | The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1702 | The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1703 | Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1704 | Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1705 | Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1706 | Intro (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1707 | The Spirit Of Radio (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1708 | Subdivisions (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1709 | The Body Electric (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1710 | The Enemy Within (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1711 | The Weapon (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1712 | Witch Hunt (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1713 | New World Man (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1714 | Between The Wheels (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1715 | Red Barchetta (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1716 | Distant Early Warning (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1717 | Red Sector A (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1718 | Closer To The Heart (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1719 | [Kid Gloves (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984)][1718] | Rush | Grace Under Pressure | 1984 |  |
+| 1720 | YYZ (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1721 | 2112: The Temples Of Syrinx (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1722 | Tom Sawyer (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1723 | Red Lenses / Drum Solo (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1724 | Vital Signs (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1725 | Finding My Way (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1726 | In The Mood (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 1727 | [Radio 1][1726] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1728 | [Italian X Rays][1727] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1729 | [Daybreak][1728] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1730 | [Shangri-La][1729] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1731 | [Harmony of the Spheres 1][1730] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1732 | [Radio 2][1731] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1733 | [Bongo Bongo][1732] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1734 | [Out of the Night][1733] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1735 | [Golden Opportunity][1734] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1736 | [The Hollywood Dream][1735] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1737 | [One In a Million][1736] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1738 | [Harmony of the Spheres 2][1737] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1739 | [Fly On the Wall][1738] | AC/DC | Fly on the Wall | 1985 |  |
+| 1740 | [Shake Your Foundations][1739] | AC/DC | Fly on the Wall | 1985 |  |
+| 1741 | [First Blood][1740] | AC/DC | Fly on the Wall | 1985 |  |
+| 1742 | [Danger][1741] | AC/DC | Fly on the Wall | 1985 |  |
+| 1743 | [Sink the Pink][1742] | AC/DC | Fly on the Wall | 1985 |  |
+| 1744 | [Playing with Girls][1743] | AC/DC | Fly on the Wall | 1985 |  |
+| 1745 | [Stand Up][1744] | AC/DC | Fly on the Wall | 1985 |  |
+| 1746 | [Hell or High Water][1745] | AC/DC | Fly on the Wall | 1985 |  |
+| 1747 | [Back In Business][1746] | AC/DC | Fly on the Wall | 1985 |  |
+| 1748 | [Send for the Man][1747] | AC/DC | Fly on the Wall | 1985 |  |
+| 1749 | [Let the Music Do the Talking][1748] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1750 | [My Fist Your Face][1749] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1751 | [Shame On You][1750] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1752 | [The Reason a Dog][1751] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1753 | [Shela][1752] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1754 | [Gypsy Boots][1753] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1755 | [She's On Fire][1754] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1756 | [The Hop][1755] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1757 | [Darkness][1756] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1758 | What About Love | Heart | Heart | 1985 | Hits |
+| 1759 | These Dreams | Heart | Heart | 1985 | Hits |
+| 1760 | Alone | Heart | Heart | 1985 | Hits |
+| 1761 | [The Big Money][1760] | Rush | Power Windows | 1985 |  |
+| 1762 | [Grand Designs][1761] | Rush | Power Windows | 1985 |  |
+| 1763 | [Manhattan Project][1762] | Rush | Power Windows | 1985 |  |
+| 1764 | [Marathon][1763] | Rush | Power Windows | 1985 |  |
+| 1765 | [Territories][1764] | Rush | Power Windows | 1985 |  |
+| 1766 | [Middletown Dreams][1765] | Rush | Power Windows | 1985 |  |
+| 1767 | [Emotion Detector][1766] | Rush | Power Windows | 1985 |  |
+| 1768 | [Mystic Rhythms][1767] | Rush | Power Windows | 1985 |  |
+| 1769 | [In for the Kill][1768] | Black Sabbath | Seventh Star | 1986 |  |
+| 1770 | [No Stranger to Love][1769] | Black Sabbath | Seventh Star | 1986 |  |
+| 1771 | [Turn to Stone][1770] | Black Sabbath | Seventh Star | 1986 |  |
+| 1772 | [Sphinx (The Guardian)][1771] | Black Sabbath | Seventh Star | 1986 |  |
+| 1773 | [Seventh Star][1772] | Black Sabbath | Seventh Star | 1986 |  |
+| 1774 | [Danger Zone][1773] | Black Sabbath | Seventh Star | 1986 |  |
+| 1775 | [Heart Like a Wheel][1774] | Black Sabbath | Seventh Star | 1986 |  |
+| 1776 | [Angry Heart][1775] | Black Sabbath | Seventh Star | 1986 |  |
+| 1777 | [In Memory...][1776] | Black Sabbath | Seventh Star | 1986 |  |
+| 1778 | [Amanda][1777] | Boston | Third Stage | 1986 | Hits |
+| 1779 | [Nobody But You Baby][1778] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1780 | [I Want to Make the World Turn Around][1779] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1781 | [Slinky][1780] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1782 | [Living In the 20th Century][1781] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1783 | [Maelstrom][1782] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1784 | [I Wanna Be Loved (But By Only You)][1783] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1785 | [My Babe][1784] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1786 | [Big Boss Man][1785] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1787 | [Caress Me Baby][1786] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1788 | [Ain't That Lovin' You Baby][1787] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1789 | [Behind the Barn][1788] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1790 | [One Hit (To The Body)][1789] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1791 | [Fight][1790] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1792 | [Harlem Shuffle][1791] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1793 | [Hold Back][1792] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1794 | [Too Rude][1793] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1795 | [Winning Ugly][1794] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1796 | [Back To Zero][1795] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1797 | [Dirty Work][1796] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1798 | [Had It With You][1797] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1799 | [Sleep Tonight][1798] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1800 | [Key To The Highway (Piano Instrumental)][1799] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1801 | [Heart's Done Time][1800] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1802 | [Magic Touch][1801] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1803 | [Rag Doll][1802] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1804 | [Simoriah][1803] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1805 | [Dude (Looks Like a Lady)][1804] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1806 | [St. John][1805] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1807 | [Hangman Jury][1806] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1808 | [Girl Keeps Coming Apart][1807] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1809 | [Angel][1808] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1810 | [Permanent Vacation][1809] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1811 | [I'm Down][1810] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1812 | [The Movie][1811] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1813 | [The Shining][1812] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1814 | [Ancient Warrior][1813] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1815 | [Hard Life to Love][1814] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1816 | [Glory Ride][1815] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1817 | [Born to Lose][1816] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1818 | [Nightmare][1817] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1819 | [Scarlet Pimpernel][1818] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1820 | [Lost Forever][1819] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1821 | [Eternal Idol][1820] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1822 | [Big Love (2017 Remaster)][1821] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1823 | [Seven Wonders (2017 Remaster)][1822] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1824 | [Everywhere (2017 Remaster)][1823] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1825 | [Caroline (2017 Remaster)][1824] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1826 | [Tango in the Night (2017 Remaster)][1825] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1827 | [Mystified (2017 Remaster)][1826] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1828 | [Little Lies (2017 Remaster)][1827] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1829 | [Family Man (2017 Remaster)][1828] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1830 | [Welcome to the Room... Sara (2017 Remaster)][1829] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1831 | [Isn't It Midnight (2017 Remaster)][1830] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1832 | [When I See You Again (2017 Remaster)][1831] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1833 | [You and I, Pt. II (2017 Remaster)][1832] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1834 | [Down Endless Street (2017 Remaster)][1833] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1835 | [Special Kind of Love (Demo) [2017 Remaster]][1834] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1836 | [Seven Wonders (Early Version) [2017 Remaster]][1835] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1837 | [Tango in the Night (Demo) [2017 Remaster]][1836] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1838 | [Mystified (Alternate Version) [2017 Remaster]][1837] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1839 | [Book of Miracles (Instrumental) [2017 Remaster]][1838] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1840 | [Where We Belong (Demo) [2017 Remaster]][1839] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1841 | [Ricky (2017 Remaster)][1840] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1842 | [Juliet (Run-Through) [2017 Remaster]][1841] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1843 | [Isn't It Midnight (Alternate Mix) [2017 Remaster]][1842] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1844 | [Ooh My Love (Demo) [2017 Remaster]][1843] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1845 | [Mystified (Instrumental Demo) [2017 Remaster]][1844] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1846 | [You and I, Pt. II (Full Version) [2017 Remaster]][1845] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1847 | [Big Love (Extended Remix) [2017 Remaster]][1846] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1848 | [Big Love (House on the Hill Dub) [2017 Remaster]][1847] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1849 | [Big Love (Piano Dub) [2017 Remaster]][1848] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1850 | [Big Love (Remix / Edit) [2017 Remaster]][1849] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1851 | [Seven Wonders (Extended Version) [2017 Remaster]][1850] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1852 | [Seven Wonders (Dub) [2017 Remaster]][1851] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1853 | [Little Lies (Extended Version) [2017 Remaster]][1852] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1854 | [Little Lies (Dub) [2017 Remaster]][1853] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1855 | [Family Man (Extended Vocal Remix) [2017 Remaster]][1854] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1856 | [Family Man (I'm a Jazz Man Dub) [2017 Remaster]][1855] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1857 | [Family Man (Extended Guitar Version) [2017 Remaster]][1856] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1858 | [Family Man (Bonus Beats) [2017 Remaster]][1857] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1859 | [Everywhere (2017 Remaster) [II]][1858] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1860 | [Everywhere (Dub) [2017 Remaster]][1859] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1861 | [Counting Every Minute][1860] | Foreigner | Inside Information | 1987 |  |
+| 1862 | [Inside Information][1861] | Foreigner | Inside Information | 1987 |  |
+| 1863 | [The Beat of My Heart][1862] | Foreigner | Inside Information | 1987 |  |
+| 1864 | [Face to Face][1863] | Foreigner | Inside Information | 1987 |  |
+| 1865 | [Out of the Blue][1864] | Foreigner | Inside Information | 1987 |  |
+| 1866 | [A Night to Remember][1865] | Foreigner | Inside Information | 1987 |  |
+| 1867 | [Signs of Life][1866] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1868 | [Learning to Fly][1867] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1869 | [The Dogs of War][1868] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1870 | [One Slip][1869] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1871 | [On the Turning Away][1870] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1872 | [Yet Another Movie][1871] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1873 | [Round and Around][1872] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1874 | [A New Machine, Pt. 1][1873] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1875 | [Terminal Frost][1874] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1876 | [A New Machine, Pt. 2][1875] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1877 | [Sorrow][1876] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1878 | [Force Ten][1877] | Rush | Hold Your Fire | 1987 |  |
+| 1879 | [Time Stand Still][1878] | Rush | Hold Your Fire | 1987 |  |
+| 1880 | [Open Secrets][1879] | Rush | Hold Your Fire | 1987 |  |
+| 1881 | [Second Nature][1880] | Rush | Hold Your Fire | 1987 |  |
+| 1882 | [Prime Mover][1881] | Rush | Hold Your Fire | 1987 |  |
+| 1883 | [Lock and Key][1882] | Rush | Hold Your Fire | 1987 |  |
+| 1884 | [Mission][1883] | Rush | Hold Your Fire | 1987 |  |
+| 1885 | [Turn the Page][1884] | Rush | Hold Your Fire | 1987 |  |
+| 1886 | [Tai Shan][1885] | Rush | Hold Your Fire | 1987 |  |
+| 1887 | [High Water][1886] | Rush | Hold Your Fire | 1987 |  |
+| 1888 | [Heatseeker][1887] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1889 | [That's the Way I Wanna Rock 'N' Roll][1888] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1890 | [Meanstreak][1889] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1891 | [Go Zone][1890] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1892 | [Kissin' Dynamite][1891] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1893 | [Nick of Time][1892] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1894 | [Some Sin for Nuthin'][1893] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1895 | [Ruff Stuff][1894] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1896 | [Two's Up][1895] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1897 | [This Means War][1896] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1898 | [Young Lust][1897] | Aerosmith | Pump | 1989 |  |
+| 1899 | [F.I.N.E.][1898] | Aerosmith | Pump | 1989 |  |
+| 1900 | [Going Down / Love In an Elevator][1899] | Aerosmith | Pump | 1989 |  |
+| 1901 | [Monkey On My Back][1900] | Aerosmith | Pump | 1989 |  |
+| 1902 | [Water Song / Janie's Got a Gun][1901] | Aerosmith | Pump | 1989 |  |
+| 1903 | [Dulcimer Stomp / The Other Side][1902] | Aerosmith | Pump | 1989 |  |
+| 1904 | [My Girl][1903] | Aerosmith | Pump | 1989 |  |
+| 1905 | [Don't Get Mad, Get Even][1904] | Aerosmith | Pump | 1989 |  |
+| 1906 | [Hoodoo / Voodoo Medicine Man][1905] | Aerosmith | Pump | 1989 |  |
+| 1907 | [What It Takes][1906] | Aerosmith | Pump | 1989 |  |
+| 1908 | [The Gates of Hell (2024 Remaster)][1907] | Black Sabbath | Headless Cross | 1989 |  |
+| 1909 | [Headless Cross (2024 Remaster)][1908] | Black Sabbath | Headless Cross | 1989 |  |
+| 1910 | [Devil & Daughter (2024 Remaster)][1909] | Black Sabbath | Headless Cross | 1989 |  |
+| 1911 | [When Death Calls (2024 Remaster)][1910] | Black Sabbath | Headless Cross | 1989 |  |
+| 1912 | [Kill In the Spirit World (2024 Remaster)][1911] | Black Sabbath | Headless Cross | 1989 |  |
+| 1913 | [Call of the Wild (2024 Remaster)][1912] | Black Sabbath | Headless Cross | 1989 |  |
+| 1914 | [Black Moon (2024 Remaster)][1913] | Black Sabbath | Headless Cross | 1989 |  |
+| 1915 | [Nightwing (2024 Remaster)][1914] | Black Sabbath | Headless Cross | 1989 |  |
+| 1916 | [Cloak and Dagger (2024 Remaster)][1915] | Black Sabbath | Headless Cross | 1989 |  |
+| 1917 | [Show Don't Tell][1916] | Rush | Presto | 1989 |  |
+| 1918 | [Chain Lightning][1917] | Rush | Presto | 1989 |  |
+| 1919 | [The Pass][1918] | Rush | Presto | 1989 |  |
+| 1920 | [War Paint][1919] | Rush | Presto | 1989 |  |
+| 1921 | [Scars][1920] | Rush | Presto | 1989 |  |
+| 1922 | [Presto][1921] | Rush | Presto | 1989 |  |
+| 1923 | [Superconductor][1922] | Rush | Presto | 1989 |  |
+| 1924 | [Anagram (For Mongo)][1923] | Rush | Presto | 1989 |  |
+| 1925 | [Red Tide][1924] | Rush | Presto | 1989 |  |
+| 1926 | [Hand Over Fist][1925] | Rush | Presto | 1989 |  |
+| 1927 | [Available Light][1926] | Rush | Presto | 1989 |  |
+| 1928 | [Sad Sad Sad][1927] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1929 | [Mixed Emotions][1928] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1930 | [Terrifying][1929] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1931 | [Hold On to Your Hat][1930] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1932 | [Hearts for Sale][1931] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1933 | [Blinded By Love][1932] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1934 | [Rock and a Hard Place][1933] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1935 | [Can't Be Seen][1934] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1936 | [Almost Hear You Sigh][1935] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1937 | [Continental Drift][1936] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1938 | [Break the Spell][1937] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1939 | [Slipping Away][1938] | The Rolling Stones | Steel Wheels | 1989 |  |
 
 [1]: https://music.apple.com/us/song/out-in-the-street/1443238434
 [2]: https://music.apple.com/us/song/i-dont-mind/1443238444
@@ -3848,3 +3849,4 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1936]: https://music.apple.com/us/song/continental-drift/1440832023
 [1937]: https://music.apple.com/us/song/break-the-spell/1440832213
 [1938]: https://music.apple.com/us/song/slipping-away/1440832223
+[1939]: https://music.apple.com/us/song/signs/1443005908
