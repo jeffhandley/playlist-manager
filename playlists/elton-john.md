@@ -2,25 +2,6 @@
 
 Complete studio discography for Elton John, organized by album in chronological order.
 
-## Playlist Instructions
-
-### Management
-
-- The playlist is defined in this file — this is the source of truth
-- Use the **artist-catalog** skill for rebuilding or updating
-- Use the **apple-music-sync** skill for syncing to Apple Music
-- Sync with: `node .github/skills/apple-music-sync/sync.mjs playlists/elton-john.md --headless`
-
-### Ordering
-
-- Tracks are ordered by album release date, then by track number within each album
-- Do not shuffle — the chronological album order is intentional
-
-### Sync Strategy
-
-- Sync adds tracks **album-at-a-time** — navigating to each album page and adding all tracks to the playlist in sequence
-- This is faster and more reliable than individual song lookups
-
 | # | Song | Artist | Album | Year | Note |
 |---|------|--------|-------|------|------|
 | 1 | [Empty Sky][1] | Elton John | Empty Sky | 1969 | |
