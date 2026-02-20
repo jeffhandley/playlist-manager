@@ -139,6 +139,8 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | 102 | [Zombie][102] | Bad Wolves | Disobey | 2018 | Powerful modern metal cover |
 | 103 | [Signs][103] | Five Man Electrical Band | Good-byes and Butterflies | 1971 | 70s protest anthem |
 | 104 | [Signs (Live)][104] | Tesla | Five Man Acoustical Jam (Live) | 1990 | Acoustic rock cover |
+| 105 | [Have You Ever Seen the Rain][105] | Creedence Clearwater Revival | Pendulum | 1970 | Classic rock anthem |
+| 106 | [Have You Ever Seen the Rain (feat. Mt. Joy)][106] | Jesse Welles | Have You Ever Seen the Rain (feat. Mt. Joy) - Single | 2024 | Modern folk-rock cover |
 
 
 [1]: https://music.apple.com/us/song/live-and-let-die/1440952880
@@ -245,3 +247,5 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [102]: https://music.apple.com/us/song/zombie/1440844617
 [103]: https://music.apple.com/us/song/signs/1443005908
 [104]: https://music.apple.com/us/song/signs/1440918486
+[105]: https://music.apple.com/us/song/have-you-ever-seen-the-rain/1440956341
+[106]: https://music.apple.com/us/song/have-you-ever-seen-the-rain-feat-mt-joy/1774004540
