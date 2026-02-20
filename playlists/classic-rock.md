@@ -2000,6 +2000,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [26]: https://music.apple.com/us/song/bald-headed-woman-mono-version/1443239777
 [27]: https://music.apple.com/us/song/daddy-rolling-stone-mono-version/1443239783
 [28]: https://music.apple.com/us/song/leaving-here-mono-version/1443239790
+[29]: https://music.apple.com/us/song/lubie-come-back-home-mono-version/1443239931
 [30]: https://music.apple.com/us/song/shout-and-shimmy-mono-version/1443239938
 [31]: https://music.apple.com/us/song/love-is-like-a-heat-wave-mono-version/1443240018
 [32]: https://music.apple.com/us/song/motoring-mono-version/1443240025
@@ -2015,6 +2016,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [42]: https://music.apple.com/us/song/my-generation-alternative-version-2000-remix/1443240382
 [43]: https://music.apple.com/us/song/im-a-man-version-2-early-vocal-version-2000-remix/1443240387
 [44]: https://music.apple.com/us/song/daddy-rolling-stone-alternative-take-2000-remix/1443240395
+[45]: https://music.apple.com/us/song/lubie-come-back-home-alternative-mix-2000-remix/1443240461
 [46]: https://music.apple.com/us/song/shout-and-shimmy-alternative-mix-2000-remix/1443240475
 [47]: https://music.apple.com/us/song/circles-alternative-mix-2000-remix/1443240485
 [48]: https://music.apple.com/us/song/out-in-the-street-alternate-take-1/1443240488
@@ -2160,6 +2162,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [190]: https://music.apple.com/us/song/citadel-mono/1440759449
 [191]: https://music.apple.com/us/song/in-another-land-mono/1440759451
 [192]: https://music.apple.com/us/song/2000-man-mono/1440759456
+[193]: https://music.apple.com/us/song/sing-this-all-together-see-what-happens-mono/1440759457
 [194]: https://music.apple.com/us/song/shes-a-rainbow-mono/1440759551
 [195]: https://music.apple.com/us/song/the-lantern-mono/1440759554
 [196]: https://music.apple.com/us/song/gomper-mono/1440759556
@@ -2242,6 +2245,11 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [273]: https://music.apple.com/us/song/rotosound-strings-take-1-2018-mix/1550186203
 [274]: https://music.apple.com/us/song/track-records-2018-mix/1550186216
 [275]: https://music.apple.com/us/song/john-mason-cars-speakeasy-rotosound-strings-bag-o-nails/1550186220
+[276]: https://music.apple.com/us/song/its-a-girl-aka-glow-girl-take-2-3-4/1550186223
+[277]: https://music.apple.com/us/song/mr-hyde-aka-dr-jekyll-and-mr-hyde-take-7-first-stage/1550186526
+[278]: https://music.apple.com/us/song/little-billy-aka-little-billys-doing-fine-take-1-3/1550186529
+[279]: https://music.apple.com/us/song/mrs-walker-aka-glow-girl-take-7-4-track-to-4-track-mix/1550186534
+[280]: https://music.apple.com/us/song/lightning-aka-call-me-lightning-take-1-8/1550186541
 [281]: https://music.apple.com/us/song/dogs-take-2/1550186544
 [282]: https://music.apple.com/us/song/melancholia-take-1/1550186859
 [283]: https://music.apple.com/us/song/shakin-all-over-take-3/1550186863
@@ -2254,6 +2262,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [290]: https://music.apple.com/us/song/dogs-2018-mix/1550187311
 [291]: https://music.apple.com/us/song/melancholia-2018-mix/1550187313
 [292]: https://music.apple.com/us/song/fortune-teller-2018-mix/1550187326
+[293]: https://music.apple.com/us/song/facts-of-life-aka-birds-and-bees-backing-track-2018-mix/1550187585
 [294]: https://music.apple.com/us/song/magic-bus-unedited-stereo-mix/1550187596
 [295]: https://music.apple.com/us/song/call-me-lightning-single-mix-mono-version/1550187700
 [296]: https://music.apple.com/us/song/dr-jekyll-mr-hyde-uk-single-mix-mono-version/1550187706
@@ -2270,6 +2279,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [307]: https://music.apple.com/us/song/pictures-of-lily-pete-townshend-demo-new-2018-mix/1550188541
 [308]: https://music.apple.com/us/song/relax-version-2-pete-townshend-demo/1550188548
 [309]: https://music.apple.com/us/song/melancholia-pete-townshend-demo-2018-mix/1550188551
+[310]: https://music.apple.com/us/song/thinking-aka-sunrise-version-2-pete-townshend-demo/1550188561
 [311]: https://music.apple.com/us/song/mary-anne-with-the-shaky-hand-pete-townshend-demo/1550188784
 [312]: https://music.apple.com/us/song/i-can-see-for-miles-pete-townshend-demo/1550188795
 [313]: https://music.apple.com/us/song/white-room/1440830954
@@ -2504,8 +2514,10 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [544]: https://music.apple.com/us/song/been-down-so-long-pt-1-l-a-woman-sessions/1583624810
 [545]: https://music.apple.com/us/song/get-out-of-my-life-woman-l-a-woman-sessions/1583624817
 [546]: https://music.apple.com/us/song/crawling-king-snake-l-a-woman-sessions/1583625024
+[547]: https://music.apple.com/us/song/the-bastard-son-of-jimmy-mama-reed-cars-hiss-by/1583625028
 [548]: https://music.apple.com/us/song/been-down-so-long-pt-2-l-a-woman-sessions/1583625029
 [549]: https://music.apple.com/us/song/mystery-train-l-a-woman-sessions/1583625126
+[550]: https://music.apple.com/us/song/the-wasp-texas-radio-and-the-big-beat-l-a-woman-sessions/1583625127
 [551]: https://music.apple.com/us/song/in-the-eye-of-the-sun/639381345
 [552]: https://music.apple.com/us/song/variety-is-the-spice-of-life/639381346
 [553]: https://music.apple.com/us/song/ships-w-sails/639381347
@@ -2596,7 +2608,9 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [638]: https://music.apple.com/us/song/stop-breaking-down/1440872614
 [639]: https://music.apple.com/us/song/shine-a-light/1440872615
 [640]: https://music.apple.com/us/song/soul-survivor/1440872618
+[652]: https://music.apple.com/us/song/mama-kin-2024-mix/1872089982
 [653]: https://music.apple.com/us/song/mama-kin-2024-mix/1872089982
+[655]: https://music.apple.com/us/song/sabbath-bloody-sabbath/785231829
 [656]: https://music.apple.com/us/song/sabbath-bloody-sabbath/785231829
 [657]: https://music.apple.com/us/song/a-national-acrobat/785231830
 [658]: https://music.apple.com/us/song/fluff/785231831
@@ -2656,6 +2670,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [712]: https://music.apple.com/us/song/dancing-with-mr-d-2020-giles-martin-mix/1522471532
 [713]: https://music.apple.com/us/song/100-years-ago-2020-giles-martin-mix/1522471721
 [714]: https://music.apple.com/us/song/coming-down-again-2020-giles-martin-mix/1522471761
+[715]: https://music.apple.com/us/song/angie-2020-giles-martin-mix/1522471806
 [716]: https://music.apple.com/us/song/angie-2020-giles-martin-mix/1522471806
 [717]: https://music.apple.com/us/song/silver-train-2020-giles-martin-mix/1522471809
 [718]: https://music.apple.com/us/song/hide-your-love-2020-giles-martin-mix/1522471813
@@ -2672,12 +2687,15 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [729]: https://music.apple.com/us/song/dancing-with-mr-d/1522472382
 [730]: https://music.apple.com/us/song/doo-doo-doo-doo-doo-heartbreaker/1522472403
 [731]: https://music.apple.com/us/song/silver-train/1522472484
+[732]: https://music.apple.com/us/song/scarlet-feat-jimmy-page-the-killers-jacques-lu-cont-remix/1522472670
+[733]: https://music.apple.com/us/song/brown-sugar-live-forest-national-arena-brussels-17-10-73/1522472718
 [734]: https://music.apple.com/us/song/brown-sugar-live-forest-national-arena-brussels-17-10-73/1522472718
 [735]: https://music.apple.com/us/song/gimme-shelter-live-forest-national-arena-brussels-17-10-73/1522472724
 [736]: https://music.apple.com/us/song/happy-live-forest-national-arena-brussels-17-10-73/1522472727
 [737]: https://music.apple.com/us/song/tumbling-dice-live-forest-national-arena-brussels-17-10-73/1522472729
 [738]: https://music.apple.com/us/song/star-star-live-forest-national-arena-brussels-17-10-73/1522472733
 [739]: https://music.apple.com/us/song/dancing-with-mr-d-live-forest-national-arena-brussels/1522473248
+[740]: https://music.apple.com/us/song/angie-live-forest-national-arena-brussels-17-10-73/1522473263
 [741]: https://music.apple.com/us/song/angie-live-forest-national-arena-brussels-17-10-73/1522473263
 [742]: https://music.apple.com/us/song/you-cant-always-get-what-you-want-live-forest-national/1522473272
 [743]: https://music.apple.com/us/song/midnight-rambler-live-forest-national-arena-brussels/1522473277
@@ -2750,6 +2768,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [810]: https://music.apple.com/us/song/paint-it-black-live/1440855540
 [811]: https://music.apple.com/us/song/you-cant-always-get-what-you-want-live/1440855542
 [812]: https://music.apple.com/us/song/start-me-up-live/1440855543
+[813]: https://music.apple.com/us/song/angie-live/1440855545
 [814]: https://music.apple.com/us/song/angie-live/1440855545
 [815]: https://music.apple.com/us/song/honky-tonk-women-live/1440855546
 [816]: https://music.apple.com/us/song/happy-live/1440855548
@@ -2976,6 +2995,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1037]: https://music.apple.com/us/song/aint-too-proud-to-beg-live-at-earls-court-london-uk-1976/1840691856
 [1038]: https://music.apple.com/us/song/fool-to-cry-live-at-earls-court-london-uk-1976/1840691859
 [1039]: https://music.apple.com/us/song/hot-stuff-live-at-earls-court-london-uk-1976/1840691863
+[1040]: https://music.apple.com/us/song/you-gotta-move-live-at-earls-court-london-uk-1976/1840691926
 [1041]: https://music.apple.com/us/song/you-gotta-move-live-at-earls-court-london-uk-1976/1840691926
 [1042]: https://music.apple.com/us/song/you-cant-always-get-what-you-want-live-at-earls-court/1840691929
 [1043]: https://music.apple.com/us/song/band-intro-live-at-earls-court-london-uk-1976/1840691933
@@ -2984,6 +3004,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1046]: https://music.apple.com/us/song/nothing-from-nothing-live-at-earls-court-london-uk-1976/1840691937
 [1047]: https://music.apple.com/us/song/outa-space-live-at-earls-court-london-uk-1976/1840691939
 [1048]: https://music.apple.com/us/song/midnight-rambler-live-at-earls-court-london-uk-1976/1840691940
+[1049]: https://music.apple.com/us/song/brown-sugar-live-at-earls-court-london-uk-1976/1840691942
 [1050]: https://music.apple.com/us/song/brown-sugar-live-at-earls-court-london-uk-1976/1840691942
 [1051]: https://music.apple.com/us/song/jumpin-jack-flash-live-at-earls-court-london-uk-1976/1840691943
 [1052]: https://music.apple.com/us/song/street-fighting-man-live-at-earls-court-london-uk-1976/1840691945
@@ -3088,6 +3109,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1151]: https://music.apple.com/us/song/man-in-the-wilderness/1440713349
 [1152]: https://music.apple.com/us/song/castle-walls/1440713442
 [1153]: https://music.apple.com/us/song/the-grand-finale/1440713444
+[1154]: https://music.apple.com/us/song/dancing-in-the-moonlight-its-caught-me-in-its-spotlight/1444095734
 [1155]: https://music.apple.com/us/song/dancing-in-the-moonlight-its-caught-me-in-its-spotlight/1444095734
 [1156]: https://music.apple.com/us/song/bad-reputation/1444095605
 [1157]: https://music.apple.com/us/song/rock-n-roll-damnation/574050330
@@ -3117,6 +3139,8 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1181]: https://music.apple.com/us/song/i-have-waited-so-long/285143178
 [1182]: https://music.apple.com/us/song/lonely-children/285143179
 [1183]: https://music.apple.com/us/song/spellbinder/285143181
+[1184]: https://music.apple.com/us/song/love-maker-live-bonus-track/285143186
+[1187]: https://music.apple.com/us/song/wheel-in-the-sky/170109579
 [1188]: https://music.apple.com/us/song/wheel-in-the-sky/170109579
 [1189]: https://music.apple.com/us/song/lights/170108942
 [1190]: https://music.apple.com/us/song/cygnus-x-1-book-ii-hemispheres-remastered-2013/1440764222
@@ -3376,6 +3400,8 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1444]: https://music.apple.com/us/song/woman-in-black/285143182
 [1445]: https://music.apple.com/us/song/girl-on-the-moon/285143185
 [1446]: https://music.apple.com/us/song/dont-let-go/285143187
+[1447]: https://music.apple.com/us/song/waiting-for-a-girl-like-you-nearly-unplugged/285143189
+[1448]: https://music.apple.com/us/song/dont-stop-believin-2022-remaster/1640102584
 [1449]: https://music.apple.com/us/song/dont-stop-believin-2022-remaster/1640102584
 [1450]: https://music.apple.com/us/song/whos-crying-now-2022-remaster/1640102590
 [1451]: https://music.apple.com/us/song/stone-in-love-2022-remaster/1640102588
@@ -3481,10 +3507,13 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1551]: https://music.apple.com/us/song/poor-tom-instrumental-mix/999609840
 [1552]: https://music.apple.com/us/song/travelling-riverside-blues-bbc-session/999609841
 [1553]: https://music.apple.com/us/song/hey-hey-what-can-i-do/999609842
+[1554]: https://music.apple.com/us/song/friends-bombay-orchestra/999609844
 [1555]: https://music.apple.com/us/song/friends-bombay-orchestra/999609844
 [1556]: https://music.apple.com/us/song/st-tristans-sword-rough-mix/999609965
+[1557]: https://music.apple.com/us/song/bring-it-on-home-rough-mix/999609967
 [1558]: https://music.apple.com/us/song/bring-it-on-home-rough-mix/999609967
 [1559]: https://music.apple.com/us/song/walters-walk-rough-mix/999609968
+[1560]: https://music.apple.com/us/song/subdivisions/1440765200
 [1561]: https://music.apple.com/us/song/subdivisions/1440765200
 [1562]: https://music.apple.com/us/song/the-analog-kid/1440765205
 [1563]: https://music.apple.com/us/song/chemistry/1440765210
@@ -3496,6 +3525,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1569]: https://music.apple.com/us/song/blues-with-a-feeling-live/1465327547
 [1570]: https://music.apple.com/us/song/dont-let-nobody-turn-you-around-alternate-version/1465327549
 [1571]: https://music.apple.com/us/song/super-shuffle-live/1465327550
+[1572]: https://music.apple.com/us/song/industrial-military-complex-hex-alternate-version/1465327553
 [1573]: https://music.apple.com/us/song/industrial-military-complex-hex-alternate-version/1465327553
 [1574]: https://music.apple.com/us/song/living-in-the-u-s-a/1465327677
 [1575]: https://music.apple.com/us/song/kow-kow-calculator-alternate-version/1465327678
@@ -3524,6 +3554,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1598]: https://music.apple.com/us/song/thats-the-way-its-got-to-be/1465327755
 [1599]: https://music.apple.com/us/song/double-trouble/1465327756
 [1600]: https://music.apple.com/us/song/love-is-strange/1465327757
+[1601]: https://music.apple.com/us/song/i-wanna-be-loved-live/1465327759
 [1602]: https://music.apple.com/us/song/i-wanna-be-loved-live/1465327759
 [1603]: https://music.apple.com/us/song/fly-like-an-eagle-alternate-version/1465327762
 [1604]: https://music.apple.com/us/song/mercury-blues-alternate-version/1465327949
@@ -3613,7 +3644,9 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1688]: https://music.apple.com/us/song/a-love-in-vain/216664069
 [1689]: https://music.apple.com/us/song/two-different-worlds/216664115
 [1690]: https://music.apple.com/us/song/shes-too-tough/216664137
+[1719]: https://music.apple.com/us/song/kid-gloves-live-at-maple-leaf-gardens-toronto-canada/1866006940
 [1720]: https://music.apple.com/us/song/kid-gloves-live-at-maple-leaf-gardens-toronto-canada/1866006940
+[1727]: https://music.apple.com/us/song/radio-1/1443173949
 [1728]: https://music.apple.com/us/song/radio-1/1443173949
 [1729]: https://music.apple.com/us/song/italian-x-rays/1443174072
 [1730]: https://music.apple.com/us/song/daybreak/1443174075
@@ -3645,6 +3678,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1756]: https://music.apple.com/us/song/shes-on-fire/1443504488
 [1757]: https://music.apple.com/us/song/the-hop/1443504490
 [1758]: https://music.apple.com/us/song/darkness/1443504701
+[1761]: https://music.apple.com/us/song/the-big-money/1440759090
 [1762]: https://music.apple.com/us/song/the-big-money/1440759090
 [1763]: https://music.apple.com/us/song/grand-designs/1440759095
 [1764]: https://music.apple.com/us/song/manhattan-project/1440759097
@@ -3719,7 +3753,32 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1833]: https://music.apple.com/us/song/when-i-see-you-again-2017-remaster/1196728401
 [1834]: https://music.apple.com/us/song/you-and-i-pt-ii-2017-remaster/1196728409
 [1835]: https://music.apple.com/us/song/down-endless-street-2017-remaster/1196728413
+[1836]: https://music.apple.com/us/song/seven-wonders-early-version-2017-remaster/1196728416
+[1837]: https://music.apple.com/us/song/tango-in-the-night-demo-2017-remaster/1196728534
+[1838]: https://music.apple.com/us/song/mystified-alternate-version-2017-remaster/1196728593
+[1839]: https://music.apple.com/us/song/book-of-miracles-instrumental-2017-remaster/1196728595
+[1840]: https://music.apple.com/us/song/where-we-belong-demo-2017-remaster/1196728598
+[1841]: https://music.apple.com/us/song/ricky-2017-remaster/1196728781
 [1842]: https://music.apple.com/us/song/ricky-2017-remaster/1196728781
+[1843]: https://music.apple.com/us/song/isnt-it-midnight-alternate-mix-2017-remaster/1196728854
+[1844]: https://music.apple.com/us/song/ooh-my-love-demo-2017-remaster/1196728856
+[1845]: https://music.apple.com/us/song/mystified-instrumental-demo-2017-remaster/1196728946
+[1846]: https://music.apple.com/us/song/you-and-i-pt-ii-full-version-2017-remaster/1196728950
+[1847]: https://music.apple.com/us/song/big-love-extended-remix-2017-remaster/1196728958
+[1848]: https://music.apple.com/us/song/big-love-house-on-the-hill-dub-2017-remaster/1196728962
+[1849]: https://music.apple.com/us/song/big-love-piano-dub-2017-remaster/1196728966
+[1850]: https://music.apple.com/us/song/big-love-remix-edit-2017-remaster/1196729180
+[1851]: https://music.apple.com/us/song/seven-wonders-extended-version-2017-remaster/1196729182
+[1852]: https://music.apple.com/us/song/seven-wonders-dub-2017-remaster/1196729185
+[1853]: https://music.apple.com/us/song/little-lies-extended-version-2017-remaster/1196729188
+[1854]: https://music.apple.com/us/song/little-lies-dub-2017-remaster/1196729190
+[1855]: https://music.apple.com/us/song/family-man-extended-vocal-remix-2017-remaster/1196729194
+[1856]: https://music.apple.com/us/song/family-man-im-a-jazz-man-dub-2017-remaster/1196729233
+[1857]: https://music.apple.com/us/song/family-man-extended-guitar-version-2017-remaster/1196729236
+[1858]: https://music.apple.com/us/song/family-man-bonus-beats-2017-remaster/1196729242
+[1859]: https://music.apple.com/us/song/everywhere-2017-remaster-ii/1196729423
+[1860]: https://music.apple.com/us/song/everywhere-dub-2017-remaster/1196729540
+[1861]: https://music.apple.com/us/song/counting-every-minute/296202682
 [1862]: https://music.apple.com/us/song/counting-every-minute/296202682
 [1863]: https://music.apple.com/us/song/inside-information/296202687
 [1864]: https://music.apple.com/us/song/the-beat-of-my-heart/296202692
