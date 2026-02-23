@@ -61,7 +61,6 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 52 | [Baby Got Back][52] | Sir Mix-a-Lot | Jun | 1992 | Humorous hip-hop mega-hit |
 | 53 | [Jump Around][53] | House of Pain | Jun | 1992 | Hip-hop party anthem endures |
 | 54 | [Damn I Wish I Was Your Lover][54] | Sophie B. Hawkins | Jun | 1992 | Alt-pop radio smash |
-| 55 | [Achy Breaky Heart][55] | Billy Ray Cyrus | Jul | 1992 | Country-pop line dance craze |
 | 56 | [Tennessee][56] | Arrested Development | Jul | 1992 | Conscious hip-hop breakthrough |
 | 57 | [End of the Road][57] | Boyz II Men | Aug | 1992 | Record 13 weeks at #1 |
 | 58 | [Jeremy][58] | Pearl Jam | Sep | 1992 | Grunge storytelling classic |
@@ -288,7 +287,6 @@ A curated journey through the decade that reshaped modern music — from the gru
 [52]: https://music.apple.com/us/song/baby-got-back/1443011600
 [53]: https://music.apple.com/us/song/jump-around/1604628161
 [54]: https://music.apple.com/us/song/damn-i-wish-i-was-your-lover/192964721
-[55]: https://music.apple.com/us/song/achy-breaky-heart/1440795516
 [56]: https://music.apple.com/us/song/tennessee/715906636
 [57]: https://music.apple.com/us/song/end-of-the-road/1440776985
 [58]: https://music.apple.com/us/song/jeremy-radio-edit/400864985
