@@ -214,26 +214,23 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 198 | [Kiss Me][198] | Sixpence None the Richer | Mar | 1999 | Indie pop crossover gem |
 | 199 | [My Name Is][199] | Eminem | Mar | 1999 | Slim Shady's explosive debut |
 | 200 | [No Scrubs][200] | TLC | Apr | 1999 | Empowerment anthem defined era |
-| 201 | [Livin' la Vida Loca][201] | Ricky Martin | May | 1999 | Latin pop explosion anthem |
-| 202 | [Every Morning][202] | Sugar Ray | May | 1999 | Sunny pop-rock radio staple |
-| 203 | [If You Had My Love][203] | Jennifer Lopez | Jun | 1999 | J.Lo's debut single hit #1 |
-| 204 | [Fortunate][204] | Maxwell | Jun | 1999 | Neo-soul Life soundtrack hit |
-| 205 | [What's My Age Again?][205] | Blink-182 | Jun | 1999 | Pop-punk anthem defined era |
-| 206 | [Bills, Bills, Bills][206] | Destiny's Child | Jul | 1999 | Beyonce-led group's first #1 |
-| 207 | [Genie in a Bottle][207] | Christina Aguilera | Jul | 1999 | Pop debut launched a superstar |
-| 208 | [Scar Tissue][208] | Red Hot Chili Peppers | Jul | 1999 | Melodic alt-rock comeback |
-| 209 | [Smooth][209] | Santana | Aug | 1999 | Latin rock comeback smash |
-| 210 | [Bailamos][210] | Enrique Iglesias | Aug | 1999 | Latin pop crossover hit #1 |
-| 211 | [I Want It That Way][211] | Backstreet Boys | Sep | 1999 | Iconic boy band pop anthem |
-| 212 | [Unpretty][212] | TLC | Sep | 1999 | Self-image anthem hit #1 |
-| 213 | [Slide][213] | Goo Goo Dolls | Oct | 1999 | Alt-rock radio staple |
-| 214 | [Mambo No. 5][214] | Lou Bega | Oct | 1999 | Retro-Latin dance novelty hit |
-| 215 | [Flat Beat][215] | Mr. Oizo | Oct | 1999 | French electronic breakbeat hit |
-| 216 | [Heartbreaker][216] | Mariah Carey | Nov | 1999 | Pop-R&B collab with Jay-Z |
-| 217 | [Steal My Sunshine][217] | Len | Nov | 1999 | One-hit wonder summer anthem |
-| 218 | [Jumpin' Jumpin'][218] | Destiny's Child | Dec | 1999 | Group's infectious party track |
-| 219 | [Maria Maria][219] | Santana | Dec | 1999 | Supernatural's second smash |
-| 220 | [Say My Name][220] | Destiny's Child | Dec | 1999 | R&B classic closed the decade |
+| 201 | [Every Morning][201] | Sugar Ray | May | 1999 | Sunny pop-rock radio staple |
+| 202 | [If You Had My Love][202] | Jennifer Lopez | Jun | 1999 | J.Lo's debut single hit #1 |
+| 203 | [Fortunate][203] | Maxwell | Jun | 1999 | Neo-soul Life soundtrack hit |
+| 204 | [What's My Age Again?][204] | Blink-182 | Jun | 1999 | Pop-punk anthem defined era |
+| 205 | [Bills, Bills, Bills][205] | Destiny's Child | Jul | 1999 | Beyonce-led group's first #1 |
+| 206 | [Genie in a Bottle][206] | Christina Aguilera | Jul | 1999 | Pop debut launched a superstar |
+| 207 | [Scar Tissue][207] | Red Hot Chili Peppers | Jul | 1999 | Melodic alt-rock comeback |
+| 208 | [Smooth][208] | Santana | Aug | 1999 | Latin rock comeback smash |
+| 209 | [I Want It That Way][209] | Backstreet Boys | Sep | 1999 | Iconic boy band pop anthem |
+| 210 | [Unpretty][210] | TLC | Sep | 1999 | Self-image anthem hit #1 |
+| 211 | [Slide][211] | Goo Goo Dolls | Oct | 1999 | Alt-rock radio staple |
+| 212 | [Flat Beat][212] | Mr. Oizo | Oct | 1999 | French electronic breakbeat hit |
+| 213 | [Heartbreaker][213] | Mariah Carey | Nov | 1999 | Pop-R&B collab with Jay-Z |
+| 214 | [Steal My Sunshine][214] | Len | Nov | 1999 | One-hit wonder summer anthem |
+| 215 | [Jumpin' Jumpin'][215] | Destiny's Child | Dec | 1999 | Group's infectious party track |
+| 216 | [Maria Maria][216] | Santana | Dec | 1999 | Supernatural's second smash |
+| 217 | [Say My Name][217] | Destiny's Child | Dec | 1999 | R&B classic closed the decade |
 
 [1]: https://music.apple.com/us/song/how-am-i-supposed-to-live-without-you/158712053
 [2]: https://music.apple.com/us/song/opposites-attract/724269310
@@ -452,6 +449,3 @@ A curated journey through the decade that reshaped modern music — from the gru
 [215]: https://music.apple.com/us/song/say-my-name/266809802
 [216]: https://music.apple.com/us/song/say-my-name/266809802
 [217]: https://music.apple.com/us/song/say-my-name/266809802
-[218]: https://music.apple.com/us/song/say-my-name/266809802
-[219]: https://music.apple.com/us/song/say-my-name/266809802
-[220]: https://music.apple.com/us/song/say-my-name/266809802
