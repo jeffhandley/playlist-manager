@@ -24,13 +24,27 @@ The following artists should **never** be added to any playlist:
 
 The following genres should be excluded from playlists unless specifically requested:
 
-- **Country-pop**
-  - Reason: User preference
-  - Note: Country songs that lean more toward rock are acceptable (e.g., "The Thunder Rolls" by Garth Brooks)
+### No Twangy Country / Country-Pop
 
-- **Teen pop phenom**
-  - Reason: User preference
-  - Note: Acts whose primary appeal was as a youth phenomenon (e.g., Hanson, early Backstreet Boys singles aimed at tweens) should be excluded; crossover artists with broader appeal may be acceptable
+Do **not** include twangy country or country-pop songs in playlists unless the user **very specifically requests** them. This applies to artists and songs with the characteristic country twang — steel guitar, fiddle-driven production, and traditional or bro-country vocal style — as well as country-pop crossovers.
+
+Examples of what to **avoid** (unless explicitly requested):
+- Lady Antebellum / Lady A
+- Florida Georgia Line
+- Luke Bryan
+- Blake Shelton
+- Brad Paisley
+- Jason Aldean
+- Traditional or bro-country crossover songs
+
+Examples of **acceptable** country-adjacent songs (these do not count as twangy country):
+- **"Old Town Road"** by Lil Nas X ft. Billy Ray Cyrus — country-rap genre fusion
+- **"The Thunder Rolls"** by Garth Brooks — acceptable exception (leans rock)
+- Pop-country crossovers that lean heavily pop (e.g., Taylor Swift's pop era)
+
+### Teen Pop Phenoms
+
+Exclude acts whose primary appeal was as a youth phenomenon (e.g., Hanson, early Backstreet Boys singles aimed at tweens). Crossover artists with broader appeal may be acceptable.
 
 ## Notes
 
