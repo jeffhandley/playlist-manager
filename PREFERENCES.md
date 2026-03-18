@@ -28,6 +28,10 @@ The following genres should be excluded from playlists unless specifically reque
   - Reason: User preference
   - Note: Country songs that lean more toward rock are acceptable (e.g., "The Thunder Rolls" by Garth Brooks)
 
+- **Teen pop phenom**
+  - Reason: User preference
+  - Note: Acts whose primary appeal was as a youth phenomenon (e.g., Hanson, early Backstreet Boys singles aimed at tweens) should be excluded; crossover artists with broader appeal may be acceptable
+
 ## Notes
 
 - When building or updating playlists, always check this file to ensure blocked content is not included

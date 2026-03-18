@@ -160,75 +160,74 @@ A curated journey through the decade that reshaped modern music — from the gru
 | | | | | **1997** | |
 | 148 | [Can't Nobody Hold Me Down][148] | Puff Daddy | Feb | 1997 | Bad Boy era begins at #1 |
 | 149 | [Foolish Games][149] | Jewel | Mar | 1997 | Folk-pop ballad breakthrough |
-| 150 | [MMMBop][150] | Hanson | Mar | 1997 | Teen pop phenomenon hit #1 |
-| 151 | [Hypnotize][151] | The Notorious B.I.G. | Apr | 1997 | Posthumous #1 smash |
-| 152 | [Bittersweet Symphony][152] | The Verve | Apr | 1997 | Orchestral Britrock masterpiece |
-| 153 | [Return of the Mack][153] | Mark Morrison | May | 1997 | UK R&B-pop crossover classic |
-| 154 | [Song 2][154] | Blur | May | 1997 | Britpop punk explosion |
-| 155 | [Quit Playing Games][155] | Backstreet Boys | Jun | 1997 | Boy band ballad era begins |
-| 156 | [I'll Be Missing You][156] | Puff Daddy & Faith Evans | Jun | 1997 | Biggie tribute topped 11 weeks |
-| 157 | [Semi-Charmed Life][157] | Third Eye Blind | Jul | 1997 | Alt-rock summer anthem |
-| 158 | [Paranoid Android][158] | Radiohead | Jul | 1997 | OK Computer's epic centerpiece |
-| 159 | [Tubthumping][159] | Chumbawamba | Aug | 1997 | Anarchist pop earworm |
-| 160 | [Mo Money Mo Problems][160] | The Notorious B.I.G. | Aug | 1997 | Second posthumous #1 |
-| 161 | [Barbie Girl][161] | Aqua | Sep | 1997 | Eurodance-pop novelty smash |
-| 162 | [You Make Me Wanna...][162] | Usher | Sep | 1997 | Usher's R&B breakthrough |
-| 163 | [Candle in the Wind 1997][163] | Elton John | Oct | 1997 | Diana tribute; best-selling single |
-| 164 | [Karma Police][164] | Radiohead | Oct | 1997 | OK Computer's haunting single |
-| 165 | [Fly][165] | Sugar Ray | Nov | 1997 | Chill rock summer crossover |
-| 166 | [Sunny Came Home][166] | Shawn Colvin | Nov | 1997 | Grammy Song of the Year |
-| 167 | [How Do I Live][167] | LeAnn Rimes | Dec | 1997 | Country-pop crossover smash |
-| 168 | [Dammit][168] | Blink-182 | Dec | 1997 | Pop-punk coming-of-age anthem |
+| 150 | [Hypnotize][150] | The Notorious B.I.G. | Apr | 1997 | Posthumous #1 smash |
+| 151 | [Bittersweet Symphony][151] | The Verve | Apr | 1997 | Orchestral Britrock masterpiece |
+| 152 | [Return of the Mack][152] | Mark Morrison | May | 1997 | UK R&B-pop crossover classic |
+| 153 | [Song 2][153] | Blur | May | 1997 | Britpop punk explosion |
+| 154 | [Quit Playing Games][154] | Backstreet Boys | Jun | 1997 | Boy band ballad era begins |
+| 155 | [I'll Be Missing You][155] | Puff Daddy & Faith Evans | Jun | 1997 | Biggie tribute topped 11 weeks |
+| 156 | [Semi-Charmed Life][156] | Third Eye Blind | Jul | 1997 | Alt-rock summer anthem |
+| 157 | [Paranoid Android][157] | Radiohead | Jul | 1997 | OK Computer's epic centerpiece |
+| 158 | [Tubthumping][158] | Chumbawamba | Aug | 1997 | Anarchist pop earworm |
+| 159 | [Mo Money Mo Problems][159] | The Notorious B.I.G. | Aug | 1997 | Second posthumous #1 |
+| 160 | [Barbie Girl][160] | Aqua | Sep | 1997 | Eurodance-pop novelty smash |
+| 161 | [You Make Me Wanna...][161] | Usher | Sep | 1997 | Usher's R&B breakthrough |
+| 162 | [Candle in the Wind 1997][162] | Elton John | Oct | 1997 | Diana tribute; best-selling single |
+| 163 | [Karma Police][163] | Radiohead | Oct | 1997 | OK Computer's haunting single |
+| 164 | [Fly][164] | Sugar Ray | Nov | 1997 | Chill rock summer crossover |
+| 165 | [Sunny Came Home][165] | Shawn Colvin | Nov | 1997 | Grammy Song of the Year |
+| 166 | [How Do I Live][166] | LeAnn Rimes | Dec | 1997 | Country-pop crossover smash |
+| 167 | [Dammit][167] | Blink-182 | Dec | 1997 | Pop-punk coming-of-age anthem |
 | | | | | **1998** | |
-| 169 | [Together Again][169] | Janet Jackson | Jan | 1998 | Dance-pop #1 with deep meaning |
-| 170 | [Truly Madly Deeply][170] | Savage Garden | Jan | 1998 | Romantic pop ballad phenomenon |
-| 171 | [Nice & Slow][171] | Usher | Feb | 1998 | Smooth R&B chart-topper |
-| 172 | [My Heart Will Go On][172] | Celine Dion | Feb | 1998 | Titanic theme won everything |
-| 173 | [Gettin' Jiggy Wit It][173] | Will Smith | Mar | 1998 | Pop-rap party anthem hit #1 |
-| 174 | [Frozen][174] | Madonna | Mar | 1998 | Dark electronica reinvention |
-| 175 | [All My Life][175] | K-Ci & JoJo | Apr | 1998 | R&B wedding staple |
-| 176 | [You're Still the One][176] | Shania Twain | Apr | 1998 | Country-pop crossover smash |
-| 177 | [Too Close][177] | Next | Apr | 1998 | Cheeky R&B anthem hit #1 |
-| 178 | [Ray of Light][178] | Madonna | May | 1998 | Electronic reinvention masterpiece |
-| 179 | [Everybody (Backstreet's Back)][179] | Backstreet Boys | May | 1998 | Pop dance anthem |
-| 180 | [The Boy Is Mine][180] | Brandy & Monica | Jun | 1998 | R&B duet dueled 13 weeks #1 |
-| 181 | [Intergalactic][181] | Beastie Boys | Jun | 1998 | Electro hip-hop robot anthem |
-| 182 | [Iris][182] | Goo Goo Dolls | Jul | 1998 | City of Angels alt-rock epic |
-| 183 | [Crush][183] | Jennifer Paige | Jul | 1998 | One-hit wonder pop gem |
-| 184 | [I Don't Want to Miss a Thing][184] | Aerosmith | Aug | 1998 | Armageddon power ballad #1 |
-| 185 | [Closing Time][185] | Semisonic | Aug | 1998 | Alt-rock bar anthem classic |
-| 186 | [Hard Knock Life][186] | Jay-Z | Sep | 1998 | Annie-sampling hip-hop anthem |
-| 187 | [Doo Wop (That Thing)][187] | Lauryn Hill | Sep | 1998 | Neo-soul hip-hop #1 debut |
-| 188 | [One Week][188] | Barenaked Ladies | Oct | 1998 | Rapid-fire novelty rock hit |
-| 189 | [...Baby One More Time][189] | Britney Spears | Oct | 1998 | Teen pop revolution launched |
-| 190 | [Fly Away][190] | Lenny Kravitz | Nov | 1998 | Rock anthem of freedom |
-| 191 | [Jump Jive an' Wail][191] | The Brian Setzer Orchestra | Nov | 1998 | Swing revival peak |
-| 192 | [Believe][192] | Cher | Nov | 1998 | Auto-Tune pioneer dance-pop hit |
-| 193 | [Jumper][193] | Third Eye Blind | Dec | 1998 | Alt-rock with emotional depth |
-| 194 | [Save Tonight][194] | Eagle-Eye Cherry | Dec | 1998 | Swedish folk-pop crossover |
+| 168 | [Together Again][168] | Janet Jackson | Jan | 1998 | Dance-pop #1 with deep meaning |
+| 169 | [Truly Madly Deeply][169] | Savage Garden | Jan | 1998 | Romantic pop ballad phenomenon |
+| 170 | [Nice & Slow][170] | Usher | Feb | 1998 | Smooth R&B chart-topper |
+| 171 | [My Heart Will Go On][171] | Celine Dion | Feb | 1998 | Titanic theme won everything |
+| 172 | [Gettin' Jiggy Wit It][172] | Will Smith | Mar | 1998 | Pop-rap party anthem hit #1 |
+| 173 | [Frozen][173] | Madonna | Mar | 1998 | Dark electronica reinvention |
+| 174 | [All My Life][174] | K-Ci & JoJo | Apr | 1998 | R&B wedding staple |
+| 175 | [You're Still the One][175] | Shania Twain | Apr | 1998 | Country-pop crossover smash |
+| 176 | [Too Close][176] | Next | Apr | 1998 | Cheeky R&B anthem hit #1 |
+| 177 | [Ray of Light][177] | Madonna | May | 1998 | Electronic reinvention masterpiece |
+| 178 | [Everybody (Backstreet's Back)][178] | Backstreet Boys | May | 1998 | Pop dance anthem |
+| 179 | [The Boy Is Mine][179] | Brandy & Monica | Jun | 1998 | R&B duet dueled 13 weeks #1 |
+| 180 | [Intergalactic][180] | Beastie Boys | Jun | 1998 | Electro hip-hop robot anthem |
+| 181 | [Iris][181] | Goo Goo Dolls | Jul | 1998 | City of Angels alt-rock epic |
+| 182 | [Crush][182] | Jennifer Paige | Jul | 1998 | One-hit wonder pop gem |
+| 183 | [I Don't Want to Miss a Thing][183] | Aerosmith | Aug | 1998 | Armageddon power ballad #1 |
+| 184 | [Closing Time][184] | Semisonic | Aug | 1998 | Alt-rock bar anthem classic |
+| 185 | [Hard Knock Life][185] | Jay-Z | Sep | 1998 | Annie-sampling hip-hop anthem |
+| 186 | [Doo Wop (That Thing)][186] | Lauryn Hill | Sep | 1998 | Neo-soul hip-hop #1 debut |
+| 187 | [One Week][187] | Barenaked Ladies | Oct | 1998 | Rapid-fire novelty rock hit |
+| 188 | [...Baby One More Time][188] | Britney Spears | Oct | 1998 | Teen pop revolution launched |
+| 189 | [Fly Away][189] | Lenny Kravitz | Nov | 1998 | Rock anthem of freedom |
+| 190 | [Jump Jive an' Wail][190] | The Brian Setzer Orchestra | Nov | 1998 | Swing revival peak |
+| 191 | [Believe][191] | Cher | Nov | 1998 | Auto-Tune pioneer dance-pop hit |
+| 192 | [Jumper][192] | Third Eye Blind | Dec | 1998 | Alt-rock with emotional depth |
+| 193 | [Save Tonight][193] | Eagle-Eye Cherry | Dec | 1998 | Swedish folk-pop crossover |
 | | | | | **1999** | |
-| 195 | [Angel of Mine][195] | Monica | Feb | 1999 | R&B ballad topped charts |
-| 196 | [Ex-Factor][196] | Lauryn Hill | Feb | 1999 | Neo-soul heartbreak masterpiece |
-| 197 | [Kiss Me][197] | Sixpence None the Richer | Mar | 1999 | Indie pop crossover gem |
-| 198 | [My Name Is][198] | Eminem | Mar | 1999 | Slim Shady's explosive debut |
-| 199 | [No Scrubs][199] | TLC | Apr | 1999 | Empowerment anthem defined era |
-| 200 | [Every Morning][200] | Sugar Ray | May | 1999 | Sunny pop-rock radio staple |
-| 201 | [If You Had My Love][201] | Jennifer Lopez | Jun | 1999 | J.Lo's debut single hit #1 |
-| 202 | [Fortunate][202] | Maxwell | Jun | 1999 | Neo-soul Life soundtrack hit |
-| 203 | [What's My Age Again?][203] | Blink-182 | Jun | 1999 | Pop-punk anthem defined era |
-| 204 | [Bills, Bills, Bills][204] | Destiny's Child | Jul | 1999 | Beyonce-led group's first #1 |
-| 205 | [Genie in a Bottle][205] | Christina Aguilera | Jul | 1999 | Pop debut launched a superstar |
-| 206 | [Scar Tissue][206] | Red Hot Chili Peppers | Jul | 1999 | Melodic alt-rock comeback |
-| 207 | [Smooth][207] | Santana | Aug | 1999 | Latin rock comeback smash |
-| 208 | [I Want It That Way][208] | Backstreet Boys | Sep | 1999 | Iconic boy band pop anthem |
-| 209 | [Unpretty][209] | TLC | Sep | 1999 | Self-image anthem hit #1 |
-| 210 | [Slide][210] | Goo Goo Dolls | Oct | 1999 | Alt-rock radio staple |
-| 211 | [Flat Beat][211] | Mr. Oizo | Oct | 1999 | French electronic breakbeat hit |
-| 212 | [Heartbreaker][212] | Mariah Carey | Nov | 1999 | Pop-R&B collab with Jay-Z |
-| 213 | [Steal My Sunshine][213] | Len | Nov | 1999 | One-hit wonder summer anthem |
-| 214 | [Jumpin' Jumpin'][214] | Destiny's Child | Dec | 1999 | Group's infectious party track |
-| 215 | [Maria Maria][215] | Santana | Dec | 1999 | Supernatural's second smash |
-| 216 | [Say My Name][216] | Destiny's Child | Dec | 1999 | R&B classic closed the decade |
+| 194 | [Angel of Mine][194] | Monica | Feb | 1999 | R&B ballad topped charts |
+| 195 | [Ex-Factor][195] | Lauryn Hill | Feb | 1999 | Neo-soul heartbreak masterpiece |
+| 196 | [Kiss Me][196] | Sixpence None the Richer | Mar | 1999 | Indie pop crossover gem |
+| 197 | [My Name Is][197] | Eminem | Mar | 1999 | Slim Shady's explosive debut |
+| 198 | [No Scrubs][198] | TLC | Apr | 1999 | Empowerment anthem defined era |
+| 199 | [Every Morning][199] | Sugar Ray | May | 1999 | Sunny pop-rock radio staple |
+| 200 | [If You Had My Love][200] | Jennifer Lopez | Jun | 1999 | J.Lo's debut single hit #1 |
+| 201 | [Fortunate][201] | Maxwell | Jun | 1999 | Neo-soul Life soundtrack hit |
+| 202 | [What's My Age Again?][202] | Blink-182 | Jun | 1999 | Pop-punk anthem defined era |
+| 203 | [Bills, Bills, Bills][203] | Destiny's Child | Jul | 1999 | Beyonce-led group's first #1 |
+| 204 | [Genie in a Bottle][204] | Christina Aguilera | Jul | 1999 | Pop debut launched a superstar |
+| 205 | [Scar Tissue][205] | Red Hot Chili Peppers | Jul | 1999 | Melodic alt-rock comeback |
+| 206 | [Smooth][206] | Santana | Aug | 1999 | Latin rock comeback smash |
+| 207 | [I Want It That Way][207] | Backstreet Boys | Sep | 1999 | Iconic boy band pop anthem |
+| 208 | [Unpretty][208] | TLC | Sep | 1999 | Self-image anthem hit #1 |
+| 209 | [Slide][209] | Goo Goo Dolls | Oct | 1999 | Alt-rock radio staple |
+| 210 | [Flat Beat][210] | Mr. Oizo | Oct | 1999 | French electronic breakbeat hit |
+| 211 | [Heartbreaker][211] | Mariah Carey | Nov | 1999 | Pop-R&B collab with Jay-Z |
+| 212 | [Steal My Sunshine][212] | Len | Nov | 1999 | One-hit wonder summer anthem |
+| 213 | [Jumpin' Jumpin'][213] | Destiny's Child | Dec | 1999 | Group's infectious party track |
+| 214 | [Maria Maria][214] | Santana | Dec | 1999 | Supernatural's second smash |
+| 215 | [Say My Name][215] | Destiny's Child | Dec | 1999 | R&B classic closed the decade |
 
 [1]: https://music.apple.com/us/song/how-am-i-supposed-to-live-without-you/158712053
 [2]: https://music.apple.com/us/song/opposites-attract/724269310
@@ -444,4 +443,3 @@ A curated journey through the decade that reshaped modern music — from the gru
 [213]: https://music.apple.com/us/song/say-my-name/266809802
 [214]: https://music.apple.com/us/song/say-my-name/266809802
 [215]: https://music.apple.com/us/song/say-my-name/266809802
-[216]: https://music.apple.com/us/song/say-my-name/266809802
