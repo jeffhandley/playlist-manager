@@ -7,10 +7,10 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | | | | | **1950** | |
 | 1 | [Dear Hearts and Gentle People][1] | Bing Crosby | Jan | 1950 | Crosby's warm Americana singalong |
 | 2 | [I Can Dream, Can't I?][2] | The Andrews Sisters | Jan | 1950 | Trio harmony standard of the era |
-| 3 | [Rag Mop][3] | The Ames Brothers | Feb | 1950 | Novelty hit still recognized today |
-| 4 | [Chattanoogie Shoe Shine Boy][4] | Red Foley | Mar | 1950 | First country crossover #1 hit |
+| 3 | [My Foolish Heart][3] | Billy Eckstine | Feb | 1950 | Jazz ballad standard, million-seller |
+| 4 | [The Fat Man][4] | Fats Domino | Mar | 1950 | Pioneering early rock & roll record |
 | 5 | [Music! Music! Music!][5] | Teresa Brewer | Mar | 1950 | Brewer's signature jukebox anthem |
-| 6 | [If I Knew You Were Comin' I'd 've Baked a Cake][6] | Eileen Barton | Apr | 1950 | Whimsical novelty pop standard |
+| 6 | [La Vie en Rose][6] | Louis Armstrong | Apr | 1950 | Iconic jazz standard, timeless classic |
 | 7 | [Bewitched, Bothered and Bewildered][7] | Bill Snyder | May | 1950 | Rodgers & Hart jazz standard |
 | 8 | [The Third Man Theme][8] | Anton Karas | May | 1950 | Iconic zither film noir instrumental |
 | 9 | [I Wanna Be Loved][9] | The Andrews Sisters | Jun | 1950 | Sisters' lush late-career ballad |
@@ -19,7 +19,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | 12 | [Goodnight, Irene][12] | Gordon Jenkins & The Weavers | Aug | 1950 | #1 for 13 weeks, folk standard |
 | 13 | [Simple Melody][13] | Bing Crosby & Gary Crosby | Sep | 1950 | Father-son novelty duet charm |
 | 14 | [Harbor Lights][14] | Sammy Kaye | Oct | 1950 | Nostalgic harbor farewell ballad |
-| 15 | [The Thing][15] | Phil Harris | Nov | 1950 | Comedic novelty hit sensation |
+| 15 | [My Heart Cries for You][15] | Guy Mitchell | Nov | 1950 | Mitchell's breakout romantic ballad |
 | 16 | [The Tennessee Waltz][16] | Patti Page | Dec | 1950 | Best-selling single of the era |
 | | | | | **1951** | |
 | 17 | [Be My Love][17] | Mario Lanza | Jan | 1951 | Operatic pop crossover sensation |
@@ -53,7 +53,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | 44 | [Glow Worm][44] | The Mills Brothers | Sep | 1952 | Vocal group novelty evergreen |
 | 45 | [You Belong to Me][45] | Jo Stafford | Sep | 1952 | Enduring love song standard |
 | 46 | [I Went to Your Wedding][46] | Patti Page | Oct | 1952 | Page's heartbreak hit sensation |
-| 47 | [It's in the Book][47] | Johnny Standley | Nov | 1952 | Comedy spoken-word novelty #1 |
+| 47 | [Why Don't You Believe Me][47] | Joni James | Nov | 1952 | James's #1 heartfelt pop ballad |
 | | | | | **1953** | |
 | 48 | [Don't Let the Stars Get in Your Eyes][48] | Perry Como | Jan | 1953 | Como's easygoing chart-topper |
 | 49 | [Till I Waltz Again with You][49] | Teresa Brewer | Feb | 1953 | Brewer's biggest romantic hit |
@@ -151,7 +151,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | 137 | [(Let Me Be Your) Teddy Bear][137] | Elvis Presley | Jun | 1957 | Playful Presley movie hit |
 | 138 | [Bye Bye Love][138] | The Everly Brothers | Jun | 1957 | Brothers' debut, harmony revolution |
 | 139 | [Rave On][139] | Buddy Holly | Jun | 1957 | Holly's high-energy rock anthem |
-| 140 | [A White Sport Coat (And a Pink Carnation)][140] | Marty Robbins | Jul | 1957 | Country crossover prom classic |
+| 140 | [Susie Q][140] | Dale Hawkins | Jul | 1957 | Swamp rock classic, guitar landmark |
 | 141 | [Searchin'][141] | The Coasters | Jul | 1957 | R&B comedy-rock novelty hit |
 | 142 | [Chances Are][142] | Johnny Mathis | Aug | 1957 | Mathis's velvet romantic standard |
 | 143 | [Diana][143] | Paul Anka | Aug | 1957 | Teen idol's worldwide smash debut |
@@ -211,7 +211,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | 195 | [The Happy Organ][195] | Dave 'Baby' Cortez | May | 1959 | First organ-driven instrumental #1 |
 | 196 | [Dream Lover][196] | Bobby Darin | Jun | 1959 | Darin's yearning pop-rock classic |
 | 197 | [Lipstick on Your Collar][197] | Connie Francis | Jun | 1959 | Francis's fun teen-pop smash |
-| 198 | [The Battle of New Orleans][198] | Johnny Horton | Jun | 1959 | Country crossover, year's biggest |
+| 198 | [Love Potion No. 9][198] | The Clovers | Jun | 1959 | Classic Leiber & Stoller R&B hit |
 | 199 | [What'd I Say][199] | Ray Charles | Jun | 1959 | Ray Charles invents soul music |
 | 200 | [Lonely Boy][200] | Paul Anka | Jul | 1959 | Anka's heartfelt teen anthem |
 | 201 | [There Goes My Baby][201] | The Drifters | Jul | 1959 | First use of strings in R&B |
@@ -232,10 +232,10 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 
 [1]: https://music.apple.com/us/song/dear-hearts-and-gentle-people/1445745276
 [2]: https://music.apple.com/us/song/i-can-dream-can-t-i/1444082229
-[3]: https://music.apple.com/us/song/rag-mop/1846295215
-[4]: https://music.apple.com/us/song/chattanoogie-shoe-shine-boy-remastered/823395545
+[3]: https://music.apple.com/us/song/my-foolish-heart/1443829018
+[4]: https://music.apple.com/us/song/the-fat-man/155829917
 [5]: https://music.apple.com/us/song/music-music-music/1443716433
-[6]: https://music.apple.com/us/song/if-i-knew-you-were-comin-i-d-ve-baked-a-cake-1954-r-b-version/332475525
+[6]: https://music.apple.com/us/song/la-vie-en-rose-single-version/1445668827
 [7]: https://music.apple.com/us/song/bewitched-digitally-remastered/416547982
 [8]: https://music.apple.com/us/song/the-third-man-theme/207754757
 [9]: https://music.apple.com/us/song/i-wanna-be-loved-feat-gordon-jenkins-and-his-orchestra-single-version/1434903136
@@ -244,7 +244,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [12]: https://music.apple.com/us/song/goodnight-irene/768663166
 [13]: https://music.apple.com/us/song/play-a-simple-melody/1444093282
 [14]: https://music.apple.com/us/song/harbor-lights-remastered/577072105
-[15]: https://music.apple.com/us/song/the-thing/251056044
+[15]: https://music.apple.com/us/song/my-heart-cries-for-you-78-rpm-version/170991237
 [16]: https://music.apple.com/us/song/tennessee-waltz/1853912203
 [17]: https://music.apple.com/us/song/be-my-love/377228540
 [18]: https://music.apple.com/us/song/if/298570635
@@ -276,7 +276,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [44]: https://music.apple.com/us/song/the-glow-worm/1574393016
 [45]: https://music.apple.com/us/song/you-belong-to-me/331641267
 [46]: https://music.apple.com/us/song/i-went-to-your-wedding/1853912411
-[47]: https://music.apple.com/us/song/it-s-in-the-book-remastered/413876570
+[47]: https://music.apple.com/us/song/why-dont-you-believe-me/1600080556
 [48]: https://music.apple.com/us/song/don-t-let-the-stars-get-in-your-eyes/258550510
 [49]: https://music.apple.com/us/song/till-i-waltz-again-with-you/1657545333
 [50]: https://music.apple.com/us/song/how-much-is-that-doggie-in-the-window/353081677
@@ -369,7 +369,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [137]: https://music.apple.com/us/song/let-me-be-your-teddy-bear/388127927
 [138]: https://music.apple.com/us/song/bye-bye-love/1713978516
 [139]: https://music.apple.com/us/song/rave-on/1434877969
-[140]: https://music.apple.com/us/song/a-white-sport-coat-and-a-pink-carnation/268973918
+[140]: https://music.apple.com/us/song/susie-q-digitally-remastered/427971319
 [141]: https://music.apple.com/us/song/searchin/59421878
 [142]: https://music.apple.com/us/song/chances-are/181452551
 [143]: https://music.apple.com/us/song/diana/81511964
@@ -427,7 +427,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [195]: https://music.apple.com/us/song/the-happy-organ/885022806
 [196]: https://music.apple.com/us/song/dream-lover/30394514
 [197]: https://music.apple.com/us/song/lipstick-on-your-collar/1444228949
-[198]: https://music.apple.com/us/song/the-battle-of-new-orleans/651305643
+[198]: https://music.apple.com/us/song/love-potion-no-9-remastered-single-version/1354794036
 [199]: https://music.apple.com/us/song/what-d-i-say/775742927
 [200]: https://music.apple.com/us/song/lonely-boy/1664614111
 [201]: https://music.apple.com/us/song/there-goes-my-baby/1052487872

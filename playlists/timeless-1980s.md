@@ -6,7 +6,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 |---|------|--------|-------|------|------|
 | | | | | **1980** | |
 | 1 | [Rock with You][1] | Michael Jackson | Jan | 1980 | Jackson's irresistible disco-funk groove |
-| 2 | [Coward of the County][2] | Kenny Rogers | Jan | 1980 | Story-song of courage and revenge |
+| 2 | [Brass in Pocket][2] | Pretenders | Jan | 1980 | New wave swagger from Chrissie Hynde |
 | 3 | [Crazy Little Thing Called Love][3] | Queen | Feb | 1980 | Freddie's rockabilly throwback hit |
 | 4 | [Cruisin'][4] | Smokey Robinson | Feb | 1980 | Smooth R&B seduction classic |
 | 5 | [Another Brick in the Wall, Part 2][5] | Pink Floyd | Mar | 1980 | Protest anthem against rigid education |
@@ -73,7 +73,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | 64 | [Jack & Diane][64] | John Cougar Mellencamp | Oct | 1982 | Small-town American rock anthem |
 | 65 | [Who Can It Be Now?][65] | Men at Work | Oct | 1982 | Quirky Australian new wave debut |
 | 66 | [Up Where We Belong][66] | Joe Cocker & Jennifer Warnes | Nov | 1982 | Oscar-winning duet soars |
-| 67 | [Mickey][67] | Toni Basil | Nov | 1982 | Cheerleader chant pop sensation |
+| 67 | [Steppin' Out][67] | Joe Jackson | Nov | 1982 | Synth-laced new wave night out anthem |
 | 68 | [Maneater][68] | Daryl Hall & John Oates | Dec | 1982 | Dark-grooved pop-rock warning |
 | 69 | [Africa][69] | Toto | Dec | 1982 | Lush arrangement, enduring cult classic |
 | 70 | [Planet Rock][70] | Afrika Bambaataa & Soulsonic Force | Dec | 1982 | Electro-hip-hop genre pioneer |
@@ -192,13 +192,13 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | 178 | [I Just Can't Stop Loving You][178] | Michael Jackson | Sep | 1987 | Bad era's tender duet ballad |
 | 179 | [Bad][179] | Michael Jackson | Oct | 1987 | Jackson's streetwise pop-funk edge |
 | 180 | [Lost in Emotion][180] | Lisa Lisa and Cult Jam | Oct | 1987 | Freestyle dance-pop perfection |
-| 181 | [I Think We're Alone Now][181] | Tiffany | Nov | 1987 | Mall-pop cover became teen anthem |
+| 181 | [Welcome to the Jungle][181] | Guns N' Roses | Nov | 1987 | Hard rock's ferocious opening statement |
 | 182 | [Mony Mony][182] | Billy Idol | Nov | 1987 | Punk-pop party remake energy |
 | 183 | [Heaven Is a Place on Earth][183] | Belinda Carlisle | Dec | 1987 | Euphoric pop-rock transcendence |
 | 184 | [Faith][184] | George Michael | Dec | 1987 | Acoustic-funk crossover smash |
 | | | | | **1988** | |
 | 185 | [Need You Tonight][185] | INXS | Jan | 1988 | Sleek Australian rock seduction |
-| 186 | [Could've Been][186] | Tiffany | Jan | 1988 | Teen pop ballad vulnerability |
+| 186 | [Just Like Heaven][186] | The Cure | Jan | 1988 | Post-punk's most euphoric love song |
 | 187 | [Hazy Shade of Winter][187] | The Bangles | Feb | 1988 | Jangly Simon & Garfunkel reinvention |
 | 188 | [Father Figure][188] | George Michael | Feb | 1988 | Sultry slow-burn pop sophistication |
 | 189 | [Never Gonna Give You Up][189] | Rick Astley | Mar | 1988 | Stock Aitken Waterman pop perfection |
@@ -213,7 +213,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | 198 | [The Flame][198] | Cheap Trick | Jul | 1988 | Power-ballad comeback gem |
 | 199 | [Roll with It][199] | Steve Winwood | Aug | 1988 | Blue-eyed soul groove triumph |
 | 200 | [Sweet Child O' Mine][200] | Guns N' Roses | Sep | 1988 | Slash's riff defined a generation |
-| 201 | [Don't Worry Be Happy][201] | Bobby McFerrin | Sep | 1988 | A cappella positivity anthem |
+| 201 | [New Sensation][201] | INXS | Sep | 1988 | Kick-era rock hooks and swagger |
 | 202 | [Love Bites][202] | Def Leppard | Oct | 1988 | Power ballad meets stadium rock |
 | 203 | [Red Red Wine][203] | UB40 | Oct | 1988 | Reggae-pop Neil Diamond reinvention |
 | 204 | [Kokomo][204] | The Beach Boys | Nov | 1988 | Tropical late-career Beach Boys hit |
@@ -225,7 +225,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | 209 | [Two Hearts][209] | Phil Collins | Jan | 1989 | Motown-inspired pop-rock energy |
 | 210 | [Straight Up][210] | Paula Abdul | Feb | 1989 | Dance-pop choreography queen arrives |
 | 211 | [The Living Years][211] | Mike + The Mechanics | Feb | 1989 | Father-son regret ballad |
-| 212 | [Lost in Your Eyes][212] | Debbie Gibson | Mar | 1989 | Teen pop sincerity and piano charm |
+| 212 | [Stand][212] | R.E.M. | Mar | 1989 | Quirky alt-rock earworm from Green |
 | 213 | [Eternal Flame][213] | The Bangles | Mar | 1989 | Timeless acoustic love ballad |
 | 214 | [Like a Prayer][214] | Madonna | Apr | 1989 | Controversial gospel-pop masterpiece |
 | 215 | [She Drives Me Crazy][215] | Fine Young Cannibals | Apr | 1989 | Quirky pop-funk with falsetto edge |
@@ -248,7 +248,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | 232 | [Free Fallin'][232] | Tom Petty | Dec | 1989 | Heartland rock poetry perfection |
 
 [1]: https://music.apple.com/us/song/rock-with-you/186166358
-[2]: https://music.apple.com/us/song/coward-of-the-county/1443293079
+[2]: https://music.apple.com/us/song/brass-in-pocket/19443739
 [3]: https://music.apple.com/us/song/crazy-little-thing-called-love/1440774185
 [4]: https://music.apple.com/us/song/cruisin/1442951752
 [5]: https://music.apple.com/us/song/another-brick-in-the-wall-pt-1/1065975636
@@ -313,7 +313,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [64]: https://music.apple.com/us/song/jack-diane/1418216928
 [65]: https://music.apple.com/us/song/who-can-it-be-now/282960963
 [66]: https://music.apple.com/us/song/up-where-we-belong-from-an-officer-and-a-gentleman/1434922654
-[67]: https://music.apple.com/us/song/hey-mickey/1496273042
+[67]: https://music.apple.com/us/song/steppin-out/1434920307
 [68]: https://music.apple.com/us/song/maneater/1444818206
 [69]: https://music.apple.com/us/song/africa/185717604
 [70]: https://music.apple.com/us/song/planet-rock/1604623462
@@ -427,12 +427,12 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [178]: https://music.apple.com/us/song/i-just-cant-stop-loving-you/159294386
 [179]: https://music.apple.com/us/song/bad/159294345
 [180]: https://music.apple.com/us/song/lost-in-emotion/268455784
-[181]: https://music.apple.com/us/song/i-think-were-alone-now/1444036857
+[181]: https://music.apple.com/us/song/welcome-to-the-jungle/1377813288
 [182]: https://music.apple.com/us/song/mony-mony/1767045534
 [183]: https://music.apple.com/us/song/heaven-is-a-place-on-earth/1440771048
 [184]: https://music.apple.com/us/song/faith/282658468
 [185]: https://music.apple.com/us/song/need-you-tonight-2017-remaster/1614037653
-[186]: https://music.apple.com/us/song/couldve-been/1440672673
+[186]: https://music.apple.com/us/song/just-like-heaven/1032914652
 [187]: https://music.apple.com/us/song/hazy-shade-of-winter/200008782
 [188]: https://music.apple.com/us/song/father-figure/282658484
 [189]: https://music.apple.com/us/song/never-gonna-give-you-up/1773293184
@@ -447,7 +447,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [198]: https://music.apple.com/us/song/the-flame/198018847
 [199]: https://music.apple.com/us/song/roll-with-it/724224008
 [200]: https://music.apple.com/us/song/sweet-child-o-mine/1377826892
-[201]: https://music.apple.com/us/song/dont-worry-be-happy/1804399111
+[201]: https://music.apple.com/us/song/new-sensation/828779769
 [202]: https://music.apple.com/us/song/love-bites/1440904256
 [203]: https://music.apple.com/us/song/red-red-wine-12-version/723495673
 [204]: https://music.apple.com/us/song/kokomo/725824397
@@ -458,7 +458,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [209]: https://music.apple.com/us/song/two-hearts/1148642433
 [210]: https://music.apple.com/us/song/straight-up/723700423
 [211]: https://music.apple.com/us/song/the-living-years/936165716
-[212]: https://music.apple.com/us/song/lost-in-your-eyes/299793313
+[212]: https://music.apple.com/us/song/stand/1440942006
 [213]: https://music.apple.com/us/song/eternal-flame/193605920
 [214]: https://music.apple.com/us/song/like-a-prayer/83445997
 [215]: https://music.apple.com/us/song/she-drives-me-crazy/1313940402

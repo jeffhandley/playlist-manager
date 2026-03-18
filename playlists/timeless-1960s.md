@@ -5,9 +5,9 @@ A curated journey through the decade that transformed popular music forever. Fro
 | # | Song | Artist | Month | Year | Note |
 |---|------|--------|-------|------|------|
 | | | | | **1960** | |
-| 1 | [El Paso][1] | Marty Robbins | Jan | 1960 | Epic cowboy narrative ballad |
+| 1 | [This Magic Moment][1] | The Drifters | Jan | 1960 | Lush R&B doo-wop soul classic |
 | 2 | [Running Bear][2] | Johnny Preston | Jan | 1960 | Tragic love story, weeks at #1 |
-| 3 | [He'll Have to Go][3] | Jim Reeves | Feb | 1960 | Smooth country crossover standard |
+| 3 | [Wonderful World][3] | Sam Cooke | Feb | 1960 | Cooke's charming pop-soul love song |
 | 4 | [Teen Angel][4] | Mark Dinning | Feb | 1960 | Tragic teen death ballad classic |
 | 5 | [Theme from A Summer Place][5] | Percy Faith | Mar | 1960 | Iconic instrumental, year's biggest |
 | 6 | [Greenfields][6] | The Brothers Four | Apr | 1960 | Folk harmony quartet classic |
@@ -16,9 +16,9 @@ A curated journey through the decade that transformed popular music forever. Fro
 | 9 | [Everybody's Somebody's Fool][9] | Connie Francis | Jun | 1960 | Francis's first #1 pop single |
 | 10 | [Only the Lonely (Know the Way I Feel)][10] | Roy Orbison | Jun | 1960 | Orbison's soaring operatic debut |
 | 11 | [I'm Sorry][11] | Brenda Lee | Jul | 1960 | Lee's powerful teen ballad #1 |
-| 12 | [Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini][12] | Brian Hyland | Jul | 1960 | Novelty beach anthem earworm |
+| 12 | [Chain Gang][12] | Sam Cooke | Jul | 1960 | Vivid soul classic, rhythmic chains |
 | 13 | [Walk Don't Run][13] | The Ventures | Aug | 1960 | Surf guitar instrumental pioneer |
-| 14 | [The Twist][14] | Chubby Checker | Sep | 1960 | Launched biggest dance craze ever |
+| 14 | [At Last][14] | Etta James | Sep | 1960 | Definitive blues torch song standard |
 | 15 | [It's Now or Never][15] | Elvis Presley | Oct | 1960 | Elvis's operatic pop masterpiece |
 | 16 | [Save the Last Dance for Me][16] | The Drifters | Oct | 1960 | Drifters' Latin-tinged pop gem |
 | 17 | [Georgia on My Mind][17] | Ray Charles | Nov | 1960 | Charles's definitive soul standard |
@@ -28,7 +28,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | | | | | **1961** | |
 | 21 | [Will You Love Me Tomorrow][21] | The Shirelles | Jan | 1961 | First girl group #1 ever |
 | 22 | [Wonderland by Night][22] | Bert Kaempfert | Jan | 1961 | Easy-listening trumpet instrumental #1 |
-| 23 | [Pony Time][23] | Chubby Checker | Feb | 1961 | Follow-up dance craze smash |
+| 23 | [Shop Around][23] | The Miracles | Feb | 1961 | Motown's first million-seller hit |
 | 24 | [Surrender][24] | Elvis Presley | Mar | 1961 | Elvis's operatic Italian-flavored hit |
 | 25 | [Blue Moon][25] | The Marcels | Apr | 1961 | Doo-wop revival of jazz standard |
 | 26 | [Runaway][26] | Del Shannon | Apr | 1961 | Distinctive Musitron riff, iconic hit |
@@ -42,27 +42,27 @@ A curated journey through the decade that transformed popular music forever. Fro
 | 34 | [Take Good Care of My Baby][34] | Bobby Vee | Sep | 1961 | Goffin-King teen pop gem |
 | 35 | [Hit the Road Jack][35] | Ray Charles | Oct | 1961 | Ray's call-response soul classic |
 | 36 | [Runaround Sue][36] | Dion | Oct | 1961 | Dion's swaggering doo-wop anthem |
-| 37 | [Big Bad John][37] | Jimmy Dean | Nov | 1961 | Spoken-word country crossover #1 |
-| 38 | [Crazy][38] | Patsy Cline | Nov | 1961 | Cline's definitive country torch song |
+| 37 | [Crying][37] | Roy Orbison | Nov | 1961 | Orbison's soaring emotional masterpiece |
+| 38 | [Stand by Me][38] | Ben E. King | Nov | 1961 | One of most iconic soul songs ever |
 | 39 | [Please Mr. Postman][39] | The Marvelettes | Dec | 1961 | Motown's first #1 hit single |
 | 40 | [The Lion Sleeps Tonight][40] | The Tokens | Dec | 1961 | South African folk-pop sensation |
 | | | | | **1962** | |
-| 41 | [Peppermint Twist][41] | Joey Dee & The Starliters | Jan | 1962 | Twist-craze nightclub anthem |
-| 42 | [The Twist][42] | Chubby Checker | Jan | 1962 | Re-charted to #1, unprecedented |
+| 41 | [The Wanderer][41] | Dion | Jan | 1962 | Dion's swaggering rock-and-roll classic |
+| 42 | [Crying in the Rain][42] | The Everly Brothers | Jan | 1962 | Everly Brothers' dramatic pop ballad |
 | 43 | [Duke of Earl][43] | Gene Chandler | Feb | 1962 | Majestic doo-wop pop classic |
 | 44 | [Hey! Baby][44] | Bruce Channel | Mar | 1962 | Harmonica-driven pop-rock charmer |
-| 45 | [Johnny Angel][45] | Shelley Fabares | Mar | 1962 | Teen idol crush anthem |
+| 45 | [Bring It On Home to Me][45] | Sam Cooke | Mar | 1962 | Soul's definitive call-response gem |
 | 46 | [Soldier Boy][46] | The Shirelles | Apr | 1962 | Girl group military devotion ballad |
 | 47 | [Stranger on the Shore][47] | Acker Bilk | May | 1962 | Clarinet instrumental, soothing classic |
 | 48 | [I Can't Stop Loving You][48] | Ray Charles | Jun | 1962 | Charles's massive country-soul crossover |
 | 49 | [The Stripper][49] | David Rose | Jun | 1962 | Iconic burlesque instrumental |
 | 50 | [Roses Are Red (My Love)][50] | Bobby Vinton | Jul | 1962 | Vinton's signature romantic ballad |
 | 51 | [Breaking Up Is Hard to Do][51] | Neil Sedaka | Aug | 1962 | Sedaka's upbeat breakup anthem |
-| 52 | [Loco-Motion][52] | Little Eva | Aug | 1962 | Dance-craze pop perfection |
+| 52 | [Green Onions][52] | Booker T. & the M.G.'s | Aug | 1962 | Iconic Memphis soul instrumental |
 | 53 | [Sherry][53] | The Four Seasons | Sep | 1962 | Falsetto-driven Four Seasons debut |
 | 54 | [You Don't Know Me][54] | Ray Charles | Sep | 1962 | Charles's tender unrequited love |
 | 55 | [Do You Love Me][55] | The Contours | Oct | 1962 | Motown dance-floor explosion |
-| 56 | [Monster Mash][56] | Bobby 'Boris' Pickett | Oct | 1962 | Perennial Halloween novelty classic |
+| 56 | [Up on the Roof][56] | The Drifters | Oct | 1962 | Dreamy urban escape R&B classic |
 | 57 | [Big Girls Don't Cry][57] | The Four Seasons | Nov | 1962 | Seasons' second consecutive #1 |
 | 58 | [He's a Rebel][58] | The Crystals | Nov | 1962 | Phil Spector girl-group revolution |
 | 59 | [Return to Sender][59] | Elvis Presley | Dec | 1962 | Elvis's bouncy film soundtrack hit |
@@ -70,12 +70,12 @@ A curated journey through the decade that transformed popular music forever. Fro
 | | | | | **1963** | |
 | 61 | [Go Away Little Girl][61] | Steve Lawrence | Jan | 1963 | Goffin-King pop standard |
 | 62 | [Walk Right In][62] | The Rooftop Singers | Jan | 1963 | Folk revival jug band hit |
-| 63 | [Hey Paula][63] | Paul & Paula | Feb | 1963 | Teen love duet sensation |
+| 63 | [Blowin' in the Wind][63] | Peter, Paul and Mary | Feb | 1963 | Dylan's folk anthem, cultural landmark |
 | 64 | [Walk Like a Man][64] | The Four Seasons | Feb | 1963 | Seasons' third #1, bold falsetto |
 | 65 | [Our Day Will Come][65] | Ruby & The Romantics | Mar | 1963 | Dreamy bossa nova-tinged pop |
 | 66 | [He's So Fine][66] | The Chiffons | Apr | 1963 | Girl-group earworm, legal landmark |
 | 67 | [Pipeline][67] | The Chantays | Apr | 1963 | Definitive surf rock instrumental |
-| 68 | [If You Wanna Be Happy][68] | Jimmy Soul | May | 1963 | Calypso novelty pop earworm |
+| 68 | [Da Doo Ron Ron][68] | The Crystals | May | 1963 | Spector's Wall of Sound girl-group gem |
 | 69 | [It's My Party][69] | Lesley Gore | Jun | 1963 | Teen girl empowerment anthem |
 | 70 | [Sukiyaki][70] | Kyu Sakamoto | Jun | 1963 | Only Japanese-language US #1 ever |
 | 71 | [So Much in Love][71] | The Tymes | Jul | 1963 | Gorgeous a cappella doo-wop |
@@ -214,7 +214,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | 198 | [Crimson and Clover][198] | Tommy James & The Shondells | Jan | 1969 | Tremolo psychedelic pop landmark |
 | 199 | [Build Me Up Buttercup][199] | The Foundations | Feb | 1969 | Irresistible pop-soul singalong |
 | 200 | [Everyday People][200] | Sly & The Family Stone | Feb | 1969 | Unity anthem, funk-soul pioneer |
-| 201 | [Dizzy][201] | Tommy Roe | Mar | 1969 | Bubblegum pop perfection |
+| 201 | [Time of the Season][201] | The Zombies | Mar | 1969 | Psychedelic rock's sultry classic |
 | 202 | [Proud Mary][202] | Creedence Clearwater Revival | Mar | 1969 | CCR's swamp-rock anthem debut |
 | 203 | [Aquarius/Let the Sunshine In][203] | The 5th Dimension | Apr | 1969 | Hair musical, Age of Aquarius |
 | 204 | [It's Your Thing][204] | The Isley Brothers | Apr | 1969 | Isleys' funk independence anthem |
@@ -224,8 +224,8 @@ A curated journey through the decade that transformed popular music forever. Fro
 | 208 | [In the Year 2525][208] | Zager and Evans | Jun | 1969 | Dystopian one-hit wonder, 6 wks #1 |
 | 209 | [Crystal Blue Persuasion][209] | Tommy James & The Shondells | Jul | 1969 | Dreamy psychedelic-pop meditation |
 | 210 | [Honky Tonk Women][210] | The Rolling Stones | Jul | 1969 | Stones' cowbell-driven blues-rock |
-| 211 | [A Boy Named Sue][211] | Johnny Cash | Aug | 1969 | Cash's humorous live narrative hit |
-| 212 | [Sugar, Sugar][212] | The Archies | Aug | 1969 | Year's #1, bubblegum pop peak |
+| 211 | [Pinball Wizard][211] | The Who | Aug | 1969 | Tommy rock opera anthem classic |
+| 212 | [Spinning Wheel][212] | Blood, Sweat & Tears | Aug | 1969 | Jazz-rock horn-driven classic |
 | 213 | [Green River][213] | Creedence Clearwater Revival | Sep | 1969 | CCR's bayou rock roots masterclass |
 | 214 | [Hot Fun in the Summertime][214] | Sly & The Family Stone | Sep | 1969 | Sly's mellow Woodstock-era groove |
 | 215 | [Something][215] | The Beatles | Oct | 1969 | Harrison's greatest love song |
@@ -237,9 +237,9 @@ A curated journey through the decade that transformed popular music forever. Fro
 | 221 | [Leaving on a Jet Plane][221] | Peter, Paul and Mary | Dec | 1969 | Denver-penned folk farewell classic |
 | 222 | [Whole Lotta Love][222] | Led Zeppelin | Dec | 1969 | Hard rock's opening statement |
 
-[1]: https://music.apple.com/us/song/el-paso/158517936
+[1]: https://music.apple.com/us/song/this-magic-moment/217503562
 [2]: https://music.apple.com/us/song/running-bear/98208151
-[3]: https://music.apple.com/us/song/he-ll-have-to-go/818525793
+[3]: https://music.apple.com/us/song/wonderful-world/1196430706
 [4]: https://music.apple.com/us/song/teen-angel/1786126168
 [5]: https://music.apple.com/us/song/theme-from-a-summer-place-single-version/191435788
 [6]: https://music.apple.com/us/song/greenfields/192656150
@@ -248,9 +248,9 @@ A curated journey through the decade that transformed popular music forever. Fro
 [9]: https://music.apple.com/us/song/everybody-s-somebody-s-fool/1830363994
 [10]: https://music.apple.com/us/song/only-the-lonely-know-the-way-i-feel/388154602
 [11]: https://music.apple.com/us/song/i-m-sorry/1391379299
-[12]: https://music.apple.com/us/song/itsy-bitsy-teenie-weenie-yellow-polka-dot-bikini/1450974117
+[12]: https://music.apple.com/us/song/chain-gang/1088173097
 [13]: https://music.apple.com/us/song/walk-don-t-run/132701610
-[14]: https://music.apple.com/us/song/the-twist/1440562877
+[14]: https://music.apple.com/us/song/at-last/1440839443
 [15]: https://music.apple.com/us/song/it-s-now-or-never/217634574
 [16]: https://music.apple.com/us/song/save-the-last-dance-for-me/340891866
 [17]: https://music.apple.com/us/song/georgia-on-my-mind/1633105615
@@ -259,7 +259,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 [20]: https://music.apple.com/us/song/last-date/215667101
 [21]: https://music.apple.com/us/song/will-you-love-me-tomorrow/453763551
 [22]: https://music.apple.com/us/song/wonderland-by-night-wunderland-bei-nacht/1723410849
-[23]: https://music.apple.com/us/song/pony-time/1443090807
+[23]: https://music.apple.com/us/song/shop-around/1475817201
 [24]: https://music.apple.com/us/song/surrender/388128125
 [25]: https://music.apple.com/us/song/blue-moon/528977423
 [26]: https://music.apple.com/us/song/runaway/381035812
@@ -273,38 +273,38 @@ A curated journey through the decade that transformed popular music forever. Fro
 [34]: https://music.apple.com/us/song/take-good-care-of-my-baby/527995812
 [35]: https://music.apple.com/us/song/hit-the-road-jack/1569553330
 [36]: https://music.apple.com/us/song/runaround-sue/724908352
-[37]: https://music.apple.com/us/song/big-bad-john/171096046
-[38]: https://music.apple.com/us/song/crazy/1440826094
+[37]: https://music.apple.com/us/song/crying/388154726
+[38]: https://music.apple.com/us/song/stand-by-me/738196409
 [39]: https://music.apple.com/us/song/please-mr-postman/1443902944
 [40]: https://music.apple.com/us/song/the-lion-sleeps-tonight/534533704
-[41]: https://music.apple.com/us/song/peppermint-twist/555860511
-[42]: https://music.apple.com/us/song/the-twist/1440562877
+[41]: https://music.apple.com/us/song/the-wanderer/724908444
+[42]: https://music.apple.com/us/song/crying-in-the-rain/805218185
 [43]: https://music.apple.com/us/song/duke-of-earl/1444013390
 [44]: https://music.apple.com/us/song/hey-baby/333512498
-[45]: https://music.apple.com/us/song/johnny-angel/1096974462
+[45]: https://music.apple.com/us/song/bring-it-on-home-to-me/299550277
 [46]: https://music.apple.com/us/song/soldier-boy/220358722
 [47]: https://music.apple.com/us/song/stranger-on-the-shore/351068896
 [48]: https://music.apple.com/us/song/i-can-t-stop-loving-you/1744974924
 [49]: https://music.apple.com/us/song/the-stripper/1443749945
 [50]: https://music.apple.com/us/song/roses-are-red-my-love/192965807
 [51]: https://music.apple.com/us/song/breaking-up-is-hard-to-do/255267441
-[52]: https://music.apple.com/us/song/the-loco-motion/432437410
+[52]: https://music.apple.com/us/song/green-onions/159363080
 [53]: https://music.apple.com/us/song/sherry/40454255
 [54]: https://music.apple.com/us/song/you-don-t-know-me/1569553407
 [55]: https://music.apple.com/us/song/do-you-love-me/164510523
-[56]: https://music.apple.com/us/song/monster-mash/82125202
+[56]: https://music.apple.com/us/song/up-on-the-roof-single-version/1589739919
 [57]: https://music.apple.com/us/song/big-girls-don-t-cry/870405777
 [58]: https://music.apple.com/us/song/he-s-a-rebel/420136962
 [59]: https://music.apple.com/us/song/return-to-sender/388128291
 [60]: https://music.apple.com/us/song/telstar/1597949031
 [61]: https://music.apple.com/us/song/go-away-little-girl/1474863913
 [62]: https://music.apple.com/us/song/walk-right-in/712132503
-[63]: https://music.apple.com/us/song/hey-paula/683272443
+[63]: https://music.apple.com/us/song/blowin-in-the-wind/357903680
 [64]: https://music.apple.com/us/song/walk-like-a-man/40454259
 [65]: https://music.apple.com/us/song/our-day-will-come/1443805270
 [66]: https://music.apple.com/us/song/he-s-so-fine/715531876
 [67]: https://music.apple.com/us/song/pipeline/1443860043
-[68]: https://music.apple.com/us/song/if-you-wanna-be-happy/494670217
+[68]: https://music.apple.com/us/song/da-doo-ron-ron/420188576
 [69]: https://music.apple.com/us/song/it-s-my-party/1444105756
 [70]: https://music.apple.com/us/song/sukiyaki/1483709388
 [71]: https://music.apple.com/us/song/so-much-in-love/1443302785
@@ -437,7 +437,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 [198]: https://music.apple.com/us/song/crimson-and-clover/59412471
 [199]: https://music.apple.com/us/song/build-me-up-buttercup/411100933
 [200]: https://music.apple.com/us/song/everyday-people/216553760
-[201]: https://music.apple.com/us/song/dizzy/1444089693
+[201]: https://music.apple.com/us/song/time-of-the-season/716633711
 [202]: https://music.apple.com/us/song/proud-mary/1440955828
 [203]: https://music.apple.com/us/song/aquarius-let-the-sunshine-in/303078892
 [204]: https://music.apple.com/us/song/it-s-your-thing/426328276
@@ -447,8 +447,8 @@ A curated journey through the decade that transformed popular music forever. Fro
 [208]: https://music.apple.com/us/song/in-the-year-2525/215791651
 [209]: https://music.apple.com/us/song/crystal-blue-persuasion/59412490
 [210]: https://music.apple.com/us/song/honky-tonk-women/1488653325
-[211]: https://music.apple.com/us/song/a-boy-named-sue/158628583
-[212]: https://music.apple.com/us/song/sugar-sugar/214805381
+[211]: https://music.apple.com/us/song/pinball-wizard/1434897598
+[212]: https://music.apple.com/us/song/spinning-wheel/257560347
 [213]: https://music.apple.com/us/song/green-river/1440952830
 [214]: https://music.apple.com/us/song/hot-fun-in-the-summertime/212579724
 [215]: https://music.apple.com/us/song/something/1441164582

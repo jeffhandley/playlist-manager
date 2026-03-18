@@ -32,7 +32,7 @@ A curated journey through the decade that defined modern music — from soul and
 | 25 | [Black Sabbath][25] | Black Sabbath | Dec | 1970 | Birth of heavy metal |
 | | | | | **1971** | |
 | 26 | [Knock Three Times][26] | Tony Orlando & Dawn | Jan | 1971 | Irresistible bubblegum pop hit |
-| 27 | [One Bad Apple][27] | The Osmonds | Jan | 1971 | Family pop-soul crossover smash |
+| 27 | [Immigrant Song][27] | Led Zeppelin | Jan | 1971 | Viking-roar hard rock anthem |
 | 28 | [Me and Bobby McGee][28] | Janis Joplin | Feb | 1971 | Posthumous country-rock triumph |
 | 29 | [Ain't No Sunshine][29] | Bill Withers | Feb | 1971 | Raw debut from soul legend |
 | 30 | [What's Going On][30] | Marvin Gaye | Mar | 1971 | Landmark social consciousness anthem |
@@ -51,9 +51,9 @@ A curated journey through the decade that defined modern music — from soul and
 | 43 | [Tired of Being Alone][43] | Al Green | Jul | 1971 | Green's silky soul debut hit |
 | 44 | [Maggie May][44] | Rod Stewart | Aug | 1971 | Stewart's breakout storytelling hit |
 | 45 | [Superstar][45] | The Carpenters | Aug | 1971 | Lush pop melancholy |
-| 46 | [Take Me Home, Country Roads][46] | John Denver | Sep | 1971 | Folk-country singalong anthem |
+| 46 | [Uncle Albert/Admiral Halsey][46] | Paul & Linda McCartney | Sep | 1971 | Whimsical post-Beatles medley |
 | 47 | [Gypsys, Tramps & Thieves][47] | Cher | Sep | 1971 | Cher's storytelling comeback |
-| 48 | [Go Away Little Girl][48] | Donny Osmond | Sep | 1971 | Teen idol pop hit |
+| 48 | [Mr. Big Stuff][48] | Jean Knight | Sep | 1971 | Sassy soul-funk classic |
 | 49 | [Imagine][49] | John Lennon | Oct | 1971 | Lennon's utopian masterpiece |
 | 50 | [Stairway to Heaven][50] | Led Zeppelin | Nov | 1971 | Rock's most iconic epic |
 | 51 | [Family Affair][51] | Sly & The Family Stone | Nov | 1971 | Minimalist funk revolution |
@@ -89,7 +89,7 @@ A curated journey through the decade that defined modern music — from soul and
 | | | | | **1973** | |
 | 80 | [You're So Vain][80] | Carly Simon | Jan | 1973 | Mystery-shrouded pop-rock classic |
 | 81 | [Crocodile Rock][81] | Elton John | Jan | 1973 | Elton's nostalgic rock 'n' roll |
-| 82 | [Rocky Mountain High][82] | John Denver | Jan | 1973 | Folk celebration of nature |
+| 82 | [Reelin' in the Years][82] | Steely Dan | Jan | 1973 | Guitar-driven jazz-rock classic |
 | 83 | [Killing Me Softly with His Song][83] | Roberta Flack | Feb | 1973 | Intimate folk-soul masterpiece |
 | 84 | [Love Train][84] | The O'Jays | Feb | 1973 | Philly soul's unity anthem |
 | 85 | [Ain't No Woman (Like the One I've Got)][85] | Four Tops | Mar | 1973 | Motown soul devotion |
@@ -113,7 +113,7 @@ A curated journey through the decade that defined modern music — from soul and
 | 103 | [Top of the World][103] | The Carpenters | Nov | 1973 | Breezy pop craftsmanship |
 | 104 | [Time in a Bottle][104] | Jim Croce | Nov | 1973 | Posthumous folk-rock gem |
 | 105 | [Goodbye Yellow Brick Road][105] | Elton John | Dec | 1973 | Elton's sweeping piano opus |
-| 106 | [The Most Beautiful Girl][106] | Charlie Rich | Dec | 1973 | Country crossover ballad |
+| 106 | [Hello, It's Me][106] | Todd Rundgren | Dec | 1973 | Soft-rock pop balladry |
 | | | | | **1974** | |
 | 107 | [The Joker][107] | Steve Miller Band | Jan | 1974 | Laid-back space cowboy rock |
 | 108 | [Show and Tell][108] | Al Wilson | Jan | 1974 | Smooth soul-pop charm |
@@ -133,13 +133,13 @@ A curated journey through the decade that defined modern music — from soul and
 | 122 | [Rock the Boat][122] | Hues Corporation | Jul | 1974 | First disco hit to reach No. 1 |
 | 123 | [Rock Your Baby][123] | George McCrae | Jul | 1974 | Silky disco-soul pioneer |
 | 124 | [Feel Like Makin' Love][124] | Roberta Flack | Jul | 1974 | Sensual soul balladry |
-| 125 | [Annie's Song][125] | John Denver | Aug | 1974 | Denver's tender love ballad |
+| 125 | [Tell Me Something Good][125] | Rufus feat. Chaka Khan | Aug | 1974 | Stevie Wonder-penned funk classic |
 | 126 | [I Shot the Sheriff][126] | Eric Clapton | Aug | 1974 | Marley cover, reggae meets rock |
 | 127 | [Can't Get Enough of Your Love, Babe][127] | Barry White | Sep | 1974 | Barry White's velvet groove |
 | 128 | [Nothing from Nothing][128] | Billy Preston | Sep | 1974 | Gospel-funk chart-topper |
 | 129 | [You Haven't Done Nothin'][129] | Stevie Wonder | Oct | 1974 | Political funk masterpiece |
 | 130 | [Then Came You][130] | Dionne Warwick & The Spinners | Oct | 1974 | Philly soul duet magic |
-| 131 | [Kung Fu Fighting][131] | Carl Douglas | Nov | 1974 | Novelty disco global smash |
+| 131 | [Whatever Gets You thru the Night][131] | John Lennon | Nov | 1974 | Lennon's funky No. 1 with Elton |
 | 132 | [Cat's in the Cradle][132] | Harry Chapin | Nov | 1974 | Folk-rock fatherhood lament |
 | 133 | [Lady Marmalade][133] | Labelle | Dec | 1974 | Funk-disco provocateur anthem |
 | | | | | **1975** | |
@@ -151,9 +151,9 @@ A curated journey through the decade that defined modern music — from soul and
 | 139 | [Landslide][139] | Fleetwood Mac | Mar | 1975 | Nicks' vulnerable acoustic gem |
 | 140 | [Philadelphia Freedom][140] | Elton John | Apr | 1975 | Philly soul-infused Elton |
 | 141 | [Shining Star][141] | Earth, Wind & Fire | Apr | 1975 | Funk-soul positivity anthem |
-| 142 | [Before the Next Teardrop Falls][142] | Freddy Fender | May | 1975 | Bilingual country crossover hit |
+| 142 | [Jackie Blue][142] | Ozark Mountain Daredevils | May | 1975 | Mellow soft-rock sleeper hit |
 | 143 | [Love Will Keep Us Together][143] | Captain & Tennille | May | 1975 | Biggest hit of the year |
-| 144 | [The Hustle][144] | Van McCoy | Jun | 1975 | Disco dance craze anthem |
+| 144 | [Sister Golden Hair][144] | America | Jun | 1975 | Breezy folk-rock pop hit |
 | 145 | [One of These Nights][145] | Eagles | Jun | 1975 | Eagles' dark, funky rocker |
 | 146 | [Jive Talkin'][146] | Bee Gees | Jul | 1975 | Bee Gees pivot to disco |
 | 147 | [Get Down Tonight][147] | KC & The Sunshine Band | Jul | 1975 | Disco-funk party starter |
@@ -222,7 +222,7 @@ A curated journey through the decade that defined modern music — from soul and
 | 208 | [I'm Your Boogie Man][208] | KC & The Sunshine Band | Jun | 1977 | Peak disco-funk energy |
 | 209 | [Got to Give It Up][209] | Marvin Gaye | Jun | 1977 | Gaye's infectious party groove |
 | 210 | [Telephone Line][210] | Electric Light Orchestra | Jun | 1977 | ELO's orchestral pop gem |
-| 211 | [Da Doo Ron Ron][211] | Shaun Cassidy | Jul | 1977 | Teen idol pop revival |
+| 211 | [Black Betty][211] | Ram Jam | Jul | 1977 | Raw power-rock anthem |
 | 212 | [Best of My Love][212] | The Emotions | Jul | 1977 | Disco-soul summer anthem |
 | 213 | [I Feel Love][213] | Donna Summer | Jul | 1977 | Electronic disco revolution |
 | 214 | [We Will Rock You][214] | Queen | Aug | 1977 | Stadium rock's stomp anthem |
@@ -323,7 +323,7 @@ A curated journey through the decade that defined modern music — from soul and
 [24]: https://music.apple.com/us/song/my-sweet-lord/1367506295
 [25]: https://music.apple.com/us/song/black-sabbath/787645012
 [26]: https://music.apple.com/us/song/knock-three-times/304763280
-[27]: https://music.apple.com/us/song/one-bad-apple/1444059261
+[27]: https://music.apple.com/us/song/immigrant-song/1445359154
 [28]: https://music.apple.com/us/song/me-and-bobby-mcgee/192712854
 [29]: https://music.apple.com/us/song/aint-no-sunshine/293521573
 [30]: https://music.apple.com/us/song/whats-going-on/1538081594
@@ -342,9 +342,9 @@ A curated journey through the decade that defined modern music — from soul and
 [43]: https://music.apple.com/us/song/tired-of-being-alone/1203896571
 [44]: https://music.apple.com/us/song/maggie-may/1423302726
 [45]: https://music.apple.com/us/song/superstar/1423235860
-[46]: https://music.apple.com/us/song/take-me-home-country-roads/1482520559
+[46]: https://music.apple.com/us/song/uncle-albert-admiral-halsey/1507830364
 [47]: https://music.apple.com/us/song/gypsys-tramps-thieves/1444102390
-[48]: https://music.apple.com/us/song/go-away-little-girl/1443823690
+[48]: https://music.apple.com/us/song/mr-big-stuff/1443307570
 [49]: https://music.apple.com/us/song/imagine/1440853776
 [50]: https://music.apple.com/us/song/stairway-to-heaven/580708180
 [51]: https://music.apple.com/us/song/family-affair/216547171
@@ -378,7 +378,7 @@ A curated journey through the decade that defined modern music — from soul and
 [79]: https://music.apple.com/us/song/tumbling-dice/1440872599
 [80]: https://music.apple.com/us/song/youre-so-vain/1057307827
 [81]: https://music.apple.com/us/song/crocodile-rock/1440926343
-[82]: https://music.apple.com/us/song/rocky-mountain-high/1456799514
+[82]: https://music.apple.com/us/song/reelin-in-the-years/1650885304
 [83]: https://music.apple.com/us/song/killing-me-softly-with-his-song/355038523
 [84]: https://music.apple.com/us/song/love-train/169938961
 [85]: https://music.apple.com/us/song/aint-no-woman-like-the-one-ive-got/1442824612
@@ -402,7 +402,7 @@ A curated journey through the decade that defined modern music — from soul and
 [103]: https://music.apple.com/us/song/top-of-the-world/1413927863
 [104]: https://music.apple.com/us/song/time-in-a-bottle/1674575651
 [105]: https://music.apple.com/us/song/goodbye-yellow-brick-road/1452863793
-[106]: https://music.apple.com/us/song/the-most-beautiful-girl/193936544
+[106]: https://music.apple.com/us/song/hello-its-me/1084075355
 [107]: https://music.apple.com/us/song/the-joker/1440843361
 [108]: https://music.apple.com/us/song/show-and-tell/198170750
 [109]: https://music.apple.com/us/song/radar-love/81667968
@@ -421,13 +421,13 @@ A curated journey through the decade that defined modern music — from soul and
 [122]: https://music.apple.com/us/song/rock-the-boat/1032798846
 [123]: https://music.apple.com/us/song/rock-your-baby/1113171457
 [124]: https://music.apple.com/us/song/feel-like-makin-love/120157223
-[125]: https://music.apple.com/us/song/annies-song/1458663244
+[125]: https://music.apple.com/us/song/tell-me-something-good-feat-chaka-khan/1444101111
 [126]: https://music.apple.com/us/song/i-shot-the-sheriff/1452858011
 [127]: https://music.apple.com/us/song/cant-get-enough-of-your-love-babe/1431053629
 [128]: https://music.apple.com/us/song/nothing-from-nothing/1444088298
 [129]: https://music.apple.com/us/song/you-havent-done-nothin/1440739727
 [130]: https://music.apple.com/us/song/then-came-you/256716689
-[131]: https://music.apple.com/us/song/kung-fu-fighting/1618254459
+[131]: https://music.apple.com/us/song/whatever-gets-you-thru-the-night/1440854741
 [132]: https://music.apple.com/us/song/cats-in-the-cradle/40286679
 [133]: https://music.apple.com/us/song/lady-marmalade/188249353
 [134]: https://music.apple.com/us/song/mandy/177410267
@@ -438,9 +438,9 @@ A curated journey through the decade that defined modern music — from soul and
 [139]: https://music.apple.com/us/song/landslide/912323300
 [140]: https://music.apple.com/us/song/philadelphia-freedom/1440811169
 [141]: https://music.apple.com/us/song/shining-star/532975790
-[142]: https://music.apple.com/us/song/before-the-next-teardrop-falls/220209183
+[142]: https://music.apple.com/us/song/jackie-blue/1443618018
 [143]: https://music.apple.com/us/song/love-will-keep-us-together/1442300589
-[144]: https://music.apple.com/us/song/the-hustle/1843186635
+[144]: https://music.apple.com/us/song/sister-golden-hair/1834637091
 [145]: https://music.apple.com/us/song/one-of-these-nights/635830022
 [146]: https://music.apple.com/us/song/jive-talkin/1442433686
 [147]: https://music.apple.com/us/song/get-down-tonight/558274317
@@ -507,7 +507,7 @@ A curated journey through the decade that defined modern music — from soul and
 [208]: https://music.apple.com/us/song/im-your-boogie-man/558274318
 [209]: https://music.apple.com/us/song/got-to-give-it-up/1442948465
 [210]: https://music.apple.com/us/song/telephone-line/196428500
-[211]: https://music.apple.com/us/song/da-doo-ron-ron/515772176
+[211]: https://music.apple.com/us/song/black-betty/890607672
 [212]: https://music.apple.com/us/song/best-of-my-love/882955357
 [213]: https://music.apple.com/us/song/i-feel-love/1442959426
 [214]: https://music.apple.com/us/song/we-will-rock-you/1440651216

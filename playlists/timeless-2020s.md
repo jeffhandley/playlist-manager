@@ -13,7 +13,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | 6 | [Don't Start Now][6] | Dua Lipa | Mar | 2020 | Disco-pop revival anthem |
 | 7 | [Say So][7] | Doja Cat | Mar | 2020 | TikTok dance craze breakout |
 | 8 | [Savage][8] | Megan Thee Stallion | Apr | 2020 | Beyonce remix went nuclear |
-| 9 | [Toosie Slide][9] | Drake | Apr | 2020 | Quarantine dance challenge hit |
+| 9 | [Righteous][9] | Juice WRLD | Apr | 2020 | Emotional posthumous hip-hop hit |
 | 10 | [Rain On Me][10] | Lady Gaga | Apr | 2020 | Pop powerhouse collaboration |
 | 11 | [Watermelon Sugar][11] | Harry Styles | May | 2020 | Sunny summer pop perfection |
 | 12 | [Level of Concern][12] | twenty one pilots | May | 2020 | Pandemic-era indie pop anthem |
@@ -25,7 +25,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | 18 | [Laugh Now Cry Later][18] | Drake | Aug | 2020 | Drake and Durk summer anthem |
 | 19 | [Break My Heart][19] | Dua Lipa | Aug | 2020 | Future Nostalgia standout |
 | 20 | [Holy][20] | Justin Bieber | Sep | 2020 | Gospel-tinged pop comeback |
-| 21 | [Savage Love][21] | Jawsh 685 Jason Derulo | Sep | 2020 | TikTok-to-Billboard pipeline hit |
+| 21 | [Midnight Sky][21] | Miley Cyrus | Aug | 2020 | Disco-rock reinvention anthem |
 | 22 | [Mood][22] | 24kGoldn | Oct | 2020 | Emo-rap crossover smash |
 | 23 | [Positions][23] | Ariana Grande | Oct | 2020 | R&B-infused pop chart-topper |
 | 24 | [Therefore I Am][24] | Billie Eilish | Nov | 2020 | Defiant electro-pop statement |
@@ -49,7 +49,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | 41 | [Happier Than Ever][41] | Billie Eilish | Jun | 2021 | Quiet-to-explosive emotional arc |
 | 42 | [Stay][42] | The Kid LAROI Justin Bieber | Jul | 2021 | Inescapable pop-rap earworm |
 | 43 | [Industry Baby][43] | Lil Nas X Jack Harlow | Jul | 2021 | Brassy hip-hop victory lap |
-| 44 | [Fancy Like][44] | Walker Hayes | Aug | 2021 | Country TikTok crossover smash |
+| 44 | [Beggin'][44] | Måneskin | Aug | 2021 | Rock revival viral sensation |
 | 45 | [Need to Know][45] | Doja Cat | Aug | 2021 | Sultry futuristic R&B-pop |
 | 46 | [Way 2 Sexy][46] | Drake Future Young Thug | Sep | 2021 | Certified Lover Boy lead single |
 | 47 | [Shivers][47] | Ed Sheeran | Sep | 2021 | Infectious pop-rock dancefloor filler |
@@ -64,12 +64,12 @@ A curated journey through the first half of the decade that redefined how we dis
 | 55 | [We Don't Talk About Bruno][55] | Encanto Cast | Jan | 2022 | Disney earworm took over charts |
 | 56 | [Enemy][56] | Imagine Dragons JID | Jan | 2022 | Arcane theme rock-rap fusion |
 | 57 | [Super Gremlin][57] | Kodak Black | Feb | 2022 | Street anthem with melodic hook |
-| 58 | [MAMIII][58] | Becky G Karol G | Feb | 2022 | Reggaeton girl power anthem |
+| 58 | [Hrs and Hrs][58] | Muni Long | Feb | 2022 | R&B sleeper hit sensation |
 | 59 | [Light Switch][59] | Charlie Puth | Mar | 2022 | TikTok-crafted pop perfection |
 | 60 | [First Class][60] | Jack Harlow | Mar | 2022 | Sampled Fergie into rap gold |
 | 61 | [As It Was][61] | Harry Styles | Apr | 2022 | Wistful pop dominated all year |
 | 62 | [About Damn Time][62] | Lizzo | Apr | 2022 | Feel-good anthem of the summer |
-| 63 | [Me Porto Bonito][63] | Bad Bunny Chencho Corleone | May | 2022 | Un Verano Sin Ti standout |
+| 63 | [Big Energy][63] | Latto | May | 2022 | Hip-hop pop party anthem |
 | 64 | [Running Up That Hill][64] | Kate Bush | May | 2022 | Stranger Things revival phenomenon |
 | 65 | [Break My Soul][65] | Beyonce | Jun | 2022 | House music renaissance anthem |
 | 66 | [Late Night Talking][66] | Harry Styles | Jun | 2022 | Breezy Harry's House highlight |
@@ -90,18 +90,18 @@ A curated journey through the first half of the decade that redefined how we dis
 | 80 | [Kill Bill][80] | SZA | Jan | 2023 | SOS breakout dark fantasy |
 | 81 | [Boy's a liar Pt. 2][81] | PinkPantheress Ice Spice | Feb | 2023 | Gen-Z drum and bass pop |
 | 82 | [Die For You][82] | The Weeknd Ariana Grande | Feb | 2023 | Sleeper hit finally peaked |
-| 83 | [Last Night][83] | Morgan Wallen | Mar | 2023 | Country smash sixteen weeks atop |
+| 83 | [Daylight][83] | David Kushner | Mar | 2023 | Gothic pop breakout sensation |
 | 84 | [Players][84] | Coi Leray | Mar | 2023 | Carefree rap-pop earworm |
 | 85 | [Ella Baila Sola][85] | Eslabon Armado Peso Pluma | Apr | 2023 | Regional Mexican goes mainstream |
 | 86 | [Fukumean][86] | Gunna | Apr | 2023 | Comeback trap hit post-controversy |
-| 87 | [Fast Car][87] | Luke Combs | May | 2023 | Country cover revived Tracy Chapman |
+| 87 | [Padam Padam][87] | Kylie Minogue | May | 2023 | Dance-pop legend comeback anthem |
 | 88 | [Search & Rescue][88] | Drake | May | 2023 | Sampled-driven Drake standout |
 | 89 | [Cruel Summer][89] | Taylor Swift | Jun | 2023 | Eras Tour belated chart-topper |
 | 90 | [Dance the Night][90] | Dua Lipa | Jun | 2023 | Barbie movie dance anthem |
 | 91 | [Vampire][91] | Olivia Rodrigo | Jul | 2023 | GUTS lead single rock edge |
 | 92 | [Seven][92] | Jung Kook | Jul | 2023 | K-pop solo debut smash |
 | 93 | [Paint the Town Red][93] | Doja Cat | Aug | 2023 | Rap reinvention number one hit |
-| 94 | [I Remember Everything][94] | Zach Bryan Kacey Musgraves | Aug | 2023 | Country duet emotional gut-punch |
+| 94 | [Rush][94] | Troye Sivan | Aug | 2023 | Euphoric dance-pop anthem |
 | 95 | [What Was I Made For?][95] | Billie Eilish | Sep | 2023 | Barbie existential ballad beauty |
 | 96 | [Snooze][96] | SZA | Sep | 2023 | Dreamy R&B devotion anthem |
 | 97 | [Is It Over Now?][97] | Taylor Swift | Oct | 2023 | Vault track instant classic |
@@ -121,7 +121,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | 110 | [Too Sweet][110] | Hozier | Apr | 2024 | Folk-rock charm took over TikTok |
 | 111 | [Fortnight][111] | Taylor Swift Post Malone | May | 2024 | TTPD lead single collaboration |
 | 112 | [Not Like Us][112] | Kendrick Lamar | May | 2024 | Diss track became anthem |
-| 113 | [I Had Some Help][113] | Post Malone Morgan Wallen | Jun | 2024 | Country-pop mega collaboration |
+| 113 | [360][113] | Charli xcx | Jun | 2024 | Brat summer anthem defined era |
 | 114 | [Espresso][114] | Sabrina Carpenter | Jun | 2024 | Song of the summer earworm |
 | 115 | [A Bar Song (Tipsy)][115] | Shaboozey | Jul | 2024 | Record-tying nineteen weeks at one |
 | 116 | [Please Please Please][116] | Sabrina Carpenter | Jul | 2024 | Back-to-back Carpenter domination |
@@ -131,7 +131,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | 120 | [Taste][120] | Sabrina Carpenter | Sep | 2024 | Short n Sweet pop perfection |
 | 121 | [Saturn][121] | SZA | Sep | 2024 | Wistful alt-pop meditation |
 | 122 | [Million Dollar Baby][122] | Tommy Richman | Oct | 2024 | Falsetto funk viral smash |
-| 123 | [Gata Only][123] | FloyyMenor Cris MJ | Oct | 2024 | Reggaeton TikTok global hit |
+| 123 | [Noid][123] | Tyler, the Creator | Oct | 2024 | Chromakopia lead single stunner |
 | 124 | [Die With A Smile][124] | Lady Gaga Bruno Mars | Nov | 2024 | Retro duet instant classic |
 | 125 | [That's So True][125] | Gracie Abrams | Nov | 2024 | Indie-pop heartbreak standout |
 | 126 | [APT.][126] | Rose Bruno Mars | Dec | 2024 | K-pop crossover smash hit |
@@ -140,11 +140,11 @@ A curated journey through the first half of the decade that redefined how we dis
 | | | | | **2025** | |
 | 129 | [Luther][129] | Kendrick Lamar SZA | Jan | 2025 | Chart-topping duet powerhouse |
 | 130 | [TV Off][130] | Kendrick Lamar Lefty Gunplay | Jan | 2025 | GNX fan favorite single |
-| 131 | [What I Want][131] | Morgan Wallen Tate McRae | Feb | 2025 | Country-pop crossover duet |
+| 131 | [Abracadabra][131] | Lady Gaga | Feb | 2025 | Electropop Mayhem era anthem |
 | 132 | [Ordinary][132] | Alex Warren | Mar | 2025 | Longest-running 2025 number one |
 | 133 | [Manchild][133] | Sabrina Carpenter | Apr | 2025 | Witty pop follow-up hit |
 | 134 | [Nokia][134] | Drake | Apr | 2025 | Drake comeback single |
-| 135 | [Just in Case][135] | Morgan Wallen | May | 2025 | Country chart mainstay continues |
+| 135 | [Stargazing][135] | Myles Smith | May | 2025 | Folk-pop global breakout smash |
 | 136 | [New Outside][136] | Cardi B | May | 2025 | Anticipated Cardi comeback banger |
 
 [1]: https://music.apple.com/us/song/circles/1477880561
@@ -155,7 +155,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [6]: https://music.apple.com/us/song/dont-start-now/1484636829
 [7]: https://music.apple.com/us/song/say-so/1486465101
 [8]: https://music.apple.com/us/song/savage-remix-feat-beyonc/1510818269
-[9]: https://music.apple.com/us/song/toosie-slide/1505950456
+[9]: https://music.apple.com/us/song/righteous/1509339768
 [10]: https://music.apple.com/us/song/rain-on-me/1500952424
 [11]: https://music.apple.com/us/song/watermelon-sugar/1485802967
 [12]: https://music.apple.com/us/song/level-of-concern/1507187886
@@ -167,7 +167,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [18]: https://music.apple.com/us/song/laugh-now-cry-later-feat-lil-durk/1527579780
 [19]: https://music.apple.com/us/song/break-my-heart/1538004012
 [20]: https://music.apple.com/us/song/holy-feat-chance-the-rapper/1531508507
-[21]: https://music.apple.com/us/song/savage-love-laxed-siren-beat/1517698089
+[21]: https://music.apple.com/us/song/midnight-sky/1541088828
 [22]: https://music.apple.com/us/song/mood-feat-iann-dior/1559066401
 [23]: https://music.apple.com/us/song/positions/1553953912
 [24]: https://music.apple.com/us/song/therefore-i-am/1564531181
@@ -190,7 +190,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [41]: https://music.apple.com/us/song/happier-than-ever-edit/1584262469
 [42]: https://music.apple.com/us/song/stay/1579787410
 [43]: https://music.apple.com/us/song/industry-baby/1577414972
-[44]: https://music.apple.com/us/song/fancy-like/1595928077
+[44]: https://music.apple.com/us/song/beggin/1320781379
 [45]: https://music.apple.com/us/song/need-to-know/1573475837
 [46]: https://music.apple.com/us/song/way-2-sexy-feat-future-young-thug/1584449211
 [47]: https://music.apple.com/us/song/shivers/1581087034
@@ -204,12 +204,12 @@ A curated journey through the first half of the decade that redefined how we dis
 [55]: https://music.apple.com/us/song/we-dont-talk-about-bruno/1594677760
 [56]: https://music.apple.com/us/song/enemy-from-arcane-league-of-legends/1591640885
 [57]: https://music.apple.com/us/song/super-gremlin/1613765773
-[58]: https://music.apple.com/us/song/mamiii/1609137778
+[58]: https://music.apple.com/us/song/hrs-hrs/1645150744
 [59]: https://music.apple.com/us/song/light-switch/1633318329
 [60]: https://music.apple.com/us/song/first-class/1622624618
 [61]: https://music.apple.com/us/song/as-it-was/1615585008
 [62]: https://music.apple.com/us/song/about-damn-time/1634655870
-[63]: https://music.apple.com/us/song/me-porto-bonito/1789238550
+[63]: https://music.apple.com/us/song/big-energy/1585434935
 [64]: https://music.apple.com/us/song/running-up-that-hill-stranger-things-theme-feat-wonder-epic-orchestral-version/1633647361
 [65]: https://music.apple.com/us/song/break-my-soul/1630005854
 [66]: https://music.apple.com/us/song/late-night-talking/1615585006
@@ -229,18 +229,18 @@ A curated journey through the first half of the decade that redefined how we dis
 [80]: https://music.apple.com/us/song/kill-bill/1657869393
 [81]: https://music.apple.com/us/song/boys-a-liar-pt-2-mixed/1676340031
 [82]: https://music.apple.com/us/song/die-for-you-remix/1673432343
-[83]: https://music.apple.com/us/song/last-night/1818408858
+[83]: https://music.apple.com/us/song/daylight/1796004433
 [84]: https://music.apple.com/us/song/players/1663560769
 [85]: https://music.apple.com/us/song/ella-baila-sola/1677446410
 [86]: https://music.apple.com/us/song/umean/1693517755
-[87]: https://music.apple.com/us/song/fast-car/1666738585
+[87]: https://music.apple.com/us/song/padam-padam/1693600095
 [88]: https://music.apple.com/us/song/search-rescue-mixed/1695973076
 [89]: https://music.apple.com/us/song/cruel-summer/1468058171
 [90]: https://music.apple.com/us/song/dance-the-night/1689238922
 [91]: https://music.apple.com/us/song/vampire/1736995100
 [92]: https://music.apple.com/us/song/seven/1697147752
 [93]: https://music.apple.com/us/song/paint-the-town-red/1699832214
-[94]: https://music.apple.com/us/song/i-remember-everything-feat-kacey-musgraves/1703217516
+[94]: https://music.apple.com/us/song/rush/1694860254
 [95]: https://music.apple.com/us/song/what-was-i-made-for/1689239800
 [96]: https://music.apple.com/us/song/snooze/1658650499
 [97]: https://music.apple.com/us/song/is-it-over-now-taylors-version-from-the-vault/1708309430
@@ -259,7 +259,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [110]: https://music.apple.com/us/song/too-sweet/1735414394
 [111]: https://music.apple.com/us/song/fortnight-feat-post-malone/1736268216
 [112]: https://music.apple.com/us/song/not-like-us/1781353929
-[113]: https://music.apple.com/us/song/i-had-some-help-feat-morgan-wallen/1744452425
+[113]: https://music.apple.com/us/song/360/1739079976
 [114]: https://music.apple.com/us/song/espresso-on-vacation-version/1746801012
 [115]: https://music.apple.com/us/song/a-bar-song-tipsy-remix/1752631697
 [116]: https://music.apple.com/us/song/please-please-please/1795513492
@@ -269,7 +269,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [120]: https://music.apple.com/us/song/taste/1750307079
 [121]: https://music.apple.com/us/song/saturn/1732348414
 [122]: https://music.apple.com/us/song/million-dollar-baby/1749616863
-[123]: https://music.apple.com/us/song/gata-only-slowed-reverb/1761878270
+[123]: https://music.apple.com/us/song/noid/1775074029
 [124]: https://music.apple.com/us/song/die-with-a-smile-salsa-version/1771296300
 [125]: https://music.apple.com/us/song/thats-so-true/1862543347
 [126]: https://music.apple.com/us/song/apt/1773452221
@@ -277,9 +277,9 @@ A curated journey through the first half of the decade that redefined how we dis
 [128]: https://music.apple.com/us/song/squabble-up/1781316884
 [129]: https://music.apple.com/us/song/luther/1781270323
 [130]: https://music.apple.com/us/song/tv-off-feat-lefty-gunplay/1781316952
-[131]: https://music.apple.com/us/song/what-i-want/1802103975
+[131]: https://music.apple.com/us/song/abracadabra/1792667005
 [132]: https://music.apple.com/us/song/ordinary/1793663645
 [133]: https://music.apple.com/us/song/manchild/1819377511
 [134]: https://music.apple.com/us/song/nokia/1796475569
-[135]: https://music.apple.com/us/song/just-in-case/1802103915
+[135]: https://music.apple.com/us/song/stargazing/1742275653
 [136]: https://music.apple.com/us/song/outside/1821561152

@@ -8,14 +8,14 @@ A curated journey through the decade that reshaped music as we know it. From the
 | 1 | [Smooth][1] | Santana ft. Rob Thomas | Jan | 2000 | Latin rock crossover sensation |
 | 2 | [What a Girl Wants][2] | Christina Aguilera | Jan | 2000 | Aguilera's teen pop peak |
 | 3 | [I Knew I Loved You][3] | Savage Garden | Feb | 2000 | Lush pop balladry at its best |
-| 4 | [Amazed][4] | Lonestar | Feb | 2000 | Country-pop crossover smash |
+| 4 | [All the Small Things][4] | Blink-182 | Feb | 2000 | Pop-punk anthem for the ages |
 | 5 | [Say My Name][5] | Destiny's Child | Mar | 2000 | Iconic R&B girl group anthem |
-| 6 | [Breathe][6] | Faith Hill | Mar | 2000 | Country queen's crossover triumph |
+| 6 | [Everything You Want][6] | Vertical Horizon | Mar | 2000 | Alt-rock defining Y2K angst |
 | 7 | [Maria Maria][7] | Santana ft. The Product G&B | Apr | 2000 | Ten weeks atop the Hot 100 |
-| 8 | [Bye Bye Bye][8] | *NSYNC | Apr | 2000 | Boy band era's defining moment |
-| 9 | [Oops!...I Did It Again][9] | Britney Spears | May | 2000 | Pop princess at her peak |
+| 8 | [The Real Slim Shady][8] | Eminem | Apr | 2000 | Hip-hop's provocative pop smash |
+| 9 | [Otherside][9] | Red Hot Chili Peppers | May | 2000 | Alt-rock introspection classic |
 | 10 | [Thong Song][10] | Sisqo | May | 2000 | R&B novelty that defined 2000 |
-| 11 | [It's Gonna Be Me][11] | *NSYNC | Jun | 2000 | Meme-worthy pop perfection |
+| 11 | [Yellow][11] | Coldplay | Jun | 2000 | Brit-rock's breakthrough anthem |
 | 12 | [Try Again][12] | Aaliyah | Jun | 2000 | First soundtrack-only number one |
 | 13 | [Kryptonite][13] | 3 Doors Down | Jul | 2000 | Post-grunge radio staple |
 | 14 | [Bent][14] | matchbox twenty | Jul | 2000 | Alt-rock mid-tempo perfection |
@@ -152,7 +152,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | 140 | [Here It Goes Again][140] | OK Go | Oct | 2005 | Treadmill video viral pioneers |
 | 141 | [Don't Forget About Us][141] | Mariah Carey | Nov | 2005 | Mariah's second comeback hit |
 | 142 | [Girl][142] | Beck | Nov | 2005 | Indie pop genre-hopping charm |
-| 143 | [Laffy Taffy][143] | D4L | Dec | 2005 | Snap music craze anthem |
+| 143 | [Soul Meets Body][143] | Death Cab for Cutie | Dec | 2005 | Indie rock's melodic breakthrough |
 | 144 | [My Humps][144] | The Black Eyed Peas | Dec | 2005 | Polarizing pop-rap earworm |
 | | | | | **2006** | |
 | 145 | [Check on It][145] | Beyonce ft. Slim Thug | Jan | 2006 | Beyonce's Pink Panther groove |
@@ -194,7 +194,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | 180 | [The Pretender][180] | Foo Fighters | Jun | 2007 | Rock anthem fury unleashed |
 | 181 | [Big Girls Don't Cry][181] | Fergie | Jul | 2007 | Vulnerable pop ballad |
 | 182 | [Stronger][182] | Kanye West | Jul | 2007 | Daft Punk-sampling hip-hop anthem |
-| 183 | [Crank That (Soulja Boy)][183] | Soulja Boy Tell 'Em | Aug | 2007 | Viral dance craze phenomenon |
+| 183 | [Icky Thump][183] | The White Stripes | Aug | 2007 | Garage rock ferocity unleashed |
 | 184 | [Rehab][184] | Amy Winehouse | Aug | 2007 | Jazz-soul defiance classic |
 | 185 | [Kiss Kiss][185] | Chris Brown ft. T-Pain | Sep | 2007 | Dance-pop R&B energy |
 | 186 | [1234][186] | Feist | Sep | 2007 | Indie pop iPod generation anthem |
@@ -239,8 +239,8 @@ A curated journey through the decade that reshaped music as we know it. From the
 | 223 | [Blame It][223] | Jamie Foxx ft. T-Pain | Apr | 2009 | R&B party anthem |
 | 224 | [Dead and Gone][224] | T.I. ft. Justin Timberlake | Apr | 2009 | Rap-rock reflective anthem |
 | 225 | [I Gotta Feeling][225] | The Black Eyed Peas | May | 2009 | Ultimate party starter anthem |
-| 226 | [Love Story][226] | Taylor Swift | May | 2009 | Country-pop fairy tale crossover |
-| 227 | [You Belong with Me][227] | Taylor Swift | Jun | 2009 | Country-pop teenage anthem |
+| 226 | [21 Guns][226] | Green Day | May | 2009 | Punk rock's anthemic power ballad |
+| 227 | [1901][227] | Phoenix | Jun | 2009 | Indie rock's euphoric anthem |
 | 228 | [Best I Ever Had][228] | Drake | Jun | 2009 | Drake's breakthrough R&B hit |
 | 229 | [I Know You Want Me (Calle Ocho)][229] | Pitbull | Jul | 2009 | Latin club banger |
 | 230 | [Use Somebody][230] | Kings of Leon | Jul | 2009 | Arena rock anthem |
@@ -252,20 +252,20 @@ A curated journey through the decade that reshaped music as we know it. From the
 | 236 | [Empire State of Mind][236] | Jay-Z ft. Alicia Keys | Oct | 2009 | NYC anthem for a generation |
 | 237 | [Bad Romance][237] | Lady Gaga | Nov | 2009 | Dark electro-pop masterwork |
 | 238 | [Tik Tok][238] | Kesha | Nov | 2009 | Party-pop debut phenomenon |
-| 239 | [Need You Now][239] | Lady Antebellum | Dec | 2009 | Country-pop yearning crossover |
+| 239 | [Uprising][239] | Muse | Dec | 2009 | Arena rock rebellion anthem |
 | 240 | [Whatcha Say][240] | Jason Derulo | Dec | 2009 | Imogen Heap-sampling R&B debut |
 
 [1]: https://music.apple.com/us/album/smooth-feat-rob-thomas/265816081?i=265816505&uo=4
 [2]: https://music.apple.com/us/album/what-a-girl-wants/1308542675?i=1308542774&uo=4
 [3]: https://music.apple.com/us/album/i-knew-i-loved-you/157389797?i=157390097&uo=4
-[4]: https://music.apple.com/us/album/amazed/298396488?i=298396538&uo=4
+[4]: https://music.apple.com/us/song/all-the-small-things/1440840510
 [5]: https://music.apple.com/us/album/say-my-name/266809606?i=266809802&uo=4
-[6]: https://music.apple.com/us/album/breathe/321981503?i=321981540&uo=4
+[6]: https://music.apple.com/us/song/everything-you-want/298554780
 [7]: https://music.apple.com/us/album/maria-maria-feat-the-product-g-b-radio-mix/354579273?i=354579342&uo=4
-[8]: https://music.apple.com/us/album/bye-bye-bye/303171298?i=303171368&uo=4
-[9]: https://music.apple.com/us/album/oops-i-did-it-again/267954486?i=267954487&uo=4
+[8]: https://music.apple.com/us/song/the-real-slim-shady/1440866926
+[9]: https://music.apple.com/us/song/otherside/947688084
 [10]: https://music.apple.com/us/album/thong-song-1950s-motown-choir-cover-version-extended/1862689847?i=1862689852&uo=4
-[11]: https://music.apple.com/us/album/its-gonna-be-me/303171298?i=303171383&uo=4
+[11]: https://music.apple.com/us/song/yellow/1122782283
 [12]: https://music.apple.com/us/album/try-again/1816084271?i=1816084755&uo=4
 [13]: https://music.apple.com/us/album/kryptonite/1440664882?i=1440664900&uo=4
 [14]: https://music.apple.com/us/album/bent/579997746?i=579997975&uo=4
@@ -397,7 +397,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 [140]: https://music.apple.com/us/album/here-it-goes-again/715553799?i=715554157&uo=4
 [141]: https://music.apple.com/us/album/dont-forget-about-us/1807581687?i=1807581868&uo=4
 [142]: https://music.apple.com/us/album/girl/1440809859?i=1440810344&uo=4
-[143]: https://music.apple.com/us/album/laffy-taffy-2006-version/126287343?i=126287348&uo=4
+[143]: https://music.apple.com/us/song/soul-meets-body/966377502
 [144]: https://music.apple.com/us/album/my-humps-single-version/1455129504?i=1455129591&uo=4
 [145]: https://music.apple.com/us/album/check-on-it-feat-bun-b-slim-thug/159711925?i=159711975&uo=4
 [146]: https://music.apple.com/us/album/grillz-feat-paul-wall-ali-gipp-ali/1443177022?i=1443177146&uo=4
@@ -437,7 +437,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 [180]: https://music.apple.com/us/album/the-pretender/262743410?i=262743414&uo=4
 [181]: https://music.apple.com/us/album/big-girls-dont-cry-personal/1440659902?i=1440659919&uo=4
 [182]: https://music.apple.com/us/album/stronger/1442845779?i=1442846328&uo=4
-[183]: https://music.apple.com/us/album/crank-that-soulja-boy-clean/1443917916?i=1443917919&uo=4
+[183]: https://music.apple.com/us/song/icky-thump/1533513465
 [184]: https://music.apple.com/us/album/rehab/1422677780?i=1422677781&uo=4
 [185]: https://music.apple.com/us/album/kiss-kiss-feat-t-pain/267264811?i=267264869&uo=4
 [186]: https://music.apple.com/us/album/1234/1440837029?i=1440837804&uo=4
@@ -480,8 +480,8 @@ A curated journey through the decade that reshaped music as we know it. From the
 [223]: https://music.apple.com/us/album/blame-it-feat-t-pain/298377480?i=298377495&uo=4
 [224]: https://music.apple.com/us/album/dead-and-gone-feat-justin-timberlake/1260878651?i=1260878669&uo=4
 [225]: https://music.apple.com/us/album/i-gotta-feeling/1446016723?i=1446016735&uo=4
-[226]: https://music.apple.com/us/album/love-story/1440924803?i=1440924808&uo=4
-[227]: https://music.apple.com/us/album/you-belong-with-me/1440924803?i=1440925035&uo=4
+[226]: https://music.apple.com/us/song/21-guns/315611467
+[227]: https://music.apple.com/us/song/1901/1771710539
 [228]: https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216&uo=4
 [229]: https://music.apple.com/us/album/i-know-you-want-me-calle-ocho-extended-mix/1711665966?i=1711666255&uo=4
 [230]: https://music.apple.com/us/album/use-somebody/290302885?i=290303018&uo=4
@@ -493,5 +493,5 @@ A curated journey through the decade that reshaped music as we know it. From the
 [236]: https://music.apple.com/us/album/empire-state-of-mind-feat-alicia-keys/1440932009?i=1440932018&uo=4
 [237]: https://music.apple.com/us/album/bad-romance-radio-edit/1704956205?i=1704956549&uo=4
 [238]: https://music.apple.com/us/album/tik-tok/381237317?i=381237322&uo=4
-[239]: https://music.apple.com/us/album/need-you-now/721253248?i=721253705&uo=4
+[239]: https://music.apple.com/us/song/uprising/991509754
 [240]: https://music.apple.com/us/album/whatcha-say/353554371?i=353554372&uo=4

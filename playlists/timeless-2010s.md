@@ -7,7 +7,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | | | | | **2010** | |
 | 1 | [TiK ToK][1] | Kesha | Jan | 2010 | Decade-opening party anthem |
 | 2 | [Bad Romance][2] | Lady Gaga | Jan | 2010 | Dark pop perfection |
-| 3 | [Baby][3] | Justin Bieber ft. Ludacris | Feb | 2010 | Teen pop goes viral |
+| 3 | [In My Head][3] | Jason Derulo | Feb | 2010 | Pop-R&B earworm |
 | 4 | [Imma Be][4] | Black Eyed Peas | Feb | 2010 | Hip-hop club banger |
 | 5 | [Replay][5] | Iyaz | Mar | 2010 | Reggae-pop earworm phenomenon |
 | 6 | [Break Your Heart][6] | Taio Cruz ft. Ludacris | Mar | 2010 | Euro-pop club hit |
@@ -73,7 +73,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 64 | [Titanium][64] | David Guetta ft. Sia | Jul | 2012 | EDM anthem of resilience |
 | 65 | [Whistle][65] | Flo Rida | Aug | 2012 | Cheeky pop-rap earworm |
 | 66 | [Gangnam Style][66] | PSY | Aug | 2012 | K-pop goes global |
-| 67 | [We Are Never Ever Getting Back Together][67] | Taylor Swift | Sep | 2012 | Country-pop kiss-off |
+| 67 | [Thinkin Bout You][67] | Frank Ocean | Sep | 2012 | R&B emotional revelation |
 | 68 | [One More Night][68] | Maroon 5 | Sep | 2012 | Reggae-tinged pop hit |
 | 69 | [Some Nights][69] | fun. | Oct | 2012 | Anthemic indie rock |
 | 70 | [Everybody Talks][70] | Neon Trees | Oct | 2012 | New wave pop revival |
@@ -86,7 +86,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 76 | [Scream & Shout][76] | will.i.am ft. Britney Spears | Jan | 2013 | EDM-pop collaboration |
 | 77 | [When I Was Your Man][77] | Bruno Mars | Feb | 2013 | Piano ballad heartbreak |
 | 78 | [Stay][78] | Rihanna ft. Mikky Ekko | Feb | 2013 | Stripped-down vulnerability |
-| 79 | [Harlem Shake][79] | Baauer | Mar | 2013 | Viral EDM phenomenon |
+| 79 | [My Songs Know What You Did in the Dark (Light Em Up)][79] | Fall Out Boy | Mar | 2013 | Pop-rock comeback anthem |
 | 80 | [Mirrors][80] | Justin Timberlake | Mar | 2013 | R&B-pop comeback masterpiece |
 | 81 | [Just Give Me a Reason][81] | P!nk ft. Nate Ruess | Apr | 2013 | Duet pop perfection |
 | 82 | [Suit & Tie][82] | Justin Timberlake ft. Jay-Z | Apr | 2013 | Classy R&B sophistication |
@@ -152,7 +152,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 140 | [Can't Feel My Face][140] | The Weeknd | Jul | 2015 | Dark pop euphoria |
 | 141 | [Lean On][141] | Major Lazer & DJ Snake ft. MØ | Jul | 2015 | Global EDM-pop smash |
 | 142 | [Wildest Dreams][142] | Taylor Swift | Aug | 2015 | Cinematic pop romance |
-| 143 | Watch Me (Whip/Nae Nae) | Silentó | Aug | 2015 | Viral dance craze anthem |
+| 143 | [Good for You][143] | Selena Gomez ft. A$AP Rocky | Aug | 2015 | Sultry R&B-pop slow burn |
 | 144 | [The Hills][144] | The Weeknd | Sep | 2015 | Moody R&B darkness |
 | 145 | [What Do You Mean?][145] | Justin Bieber | Sep | 2015 | Tropical pop reinvention |
 | 146 | [Hotline Bling][146] | Drake | Oct | 2015 | Meme-worthy R&B groove |
@@ -198,7 +198,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 184 | [HUMBLE.][184] | Kendrick Lamar | Apr | 2017 | Hip-hop mic-drop moment |
 | 185 | [It Ain't Me][185] | Kygo & Selena Gomez | Apr | 2017 | Tropical house heartbreak |
 | 186 | [Sign of the Times][186] | Harry Styles | Apr | 2017 | Epic rock-pop debut |
-| 187 | [Despacito][187] | Luis Fonsi & Daddy Yankee ft. Justin Bieber | May | 2017 | Latin-pop global phenomenon |
+| 187 | [Green Light][187] | Lorde | May | 2017 | Electropop liberation anthem |
 | 188 | [I'm the One][188] | DJ Khaled ft. Justin Bieber & Quavo | May | 2017 | All-star summer anthem |
 | 189 | [Wild Thoughts][189] | DJ Khaled ft. Rihanna & Bryson Tiller | Jun | 2017 | Santana-sampling pop heat |
 | 190 | [XO Tour Llif3][190] | Lil Uzi Vert | Jun | 2017 | Emo-trap landmark |
@@ -251,7 +251,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 235 | [Boy With Luv][235] | BTS ft. Halsey | Apr | 2019 | K-pop crossover milestone |
 | 236 | [bad guy][236] | Billie Eilish | May | 2019 | Gen Z alt-pop arrival |
 | 237 | [ME!][237] | Taylor Swift ft. Brendon Urie | May | 2019 | Bubbly pop celebration |
-| 238 | [Con Calma][238] | Daddy Yankee ft. Snow | May | 2019 | Latin-pop global smash |
+| 238 | [If I Can't Have You][238] | Shawn Mendes | May | 2019 | Breezy pop heartache |
 | 239 | [Señorita][239] | Shawn Mendes & Camila Cabello | Jun | 2019 | Latin-pop summer sizzler |
 | 240 | [I Don't Care][240] | Ed Sheeran & Justin Bieber | Jun | 2019 | Carefree pop-dance collab |
 | 241 | [Truth Hurts][241] | Lizzo | Jul | 2019 | Self-love pop-rap anthem |
@@ -267,11 +267,11 @@ A curated journey through the decade that reshaped music forever — from the st
 | 251 | [Good as Hell][251] | Lizzo | Nov | 2019 | Feel-good empowerment pop |
 | 252 | [Don't Start Now][252] | Dua Lipa | Nov | 2019 | Disco-pop revival anthem |
 | 253 | [Memories][253] | Maroon 5 | Dec | 2019 | Nostalgic pop farewell |
-| 254 | [10,000 Hours][254] | Dan + Shay & Justin Bieber | Dec | 2019 | Pop-country devotion |
+| 254 | [Blinding Lights][254] | The Weeknd | Dec | 2019 | Synth-pop decade closer |
 
 [1]: https://music.apple.com/us/song/tik-tok/381237322
 [2]: https://music.apple.com/us/song/bad-romance-radio-edit/1704956549
-[3]: https://music.apple.com/us/song/baby-feat-ludacris/1440661545
+[3]: https://music.apple.com/us/song/in-my-head/353554374
 [4]: https://music.apple.com/us/song/imma-be/1443060266
 [5]: https://music.apple.com/us/song/replay/326644034
 [6]: https://music.apple.com/us/song/break-your-heart-feat-ludacris/1443147099
@@ -335,7 +335,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [64]: https://music.apple.com/us/song/titanium-feat-sia/693226464
 [65]: https://music.apple.com/us/song/whistle/1517556986
 [66]: https://music.apple.com/us/song/gangnam-style/1445144527
-[67]: https://music.apple.com/us/song/we-are-never-ever-getting-back-together/1440935564
+[67]: https://music.apple.com/us/song/thinkin-bout-you/1440766128
 [68]: https://music.apple.com/us/song/one-more-night/1440808310
 [69]: https://music.apple.com/us/song/some-nights-intro/601186060
 [70]: https://music.apple.com/us/song/everybody-talks-revisited-version/1597386444
@@ -347,7 +347,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [76]: https://music.apple.com/us/song/scream-shout-feat-britney-spears/1442823431
 [77]: https://music.apple.com/us/song/when-i-was-your-man/573962555
 [78]: https://music.apple.com/us/song/stay-feat-mikky-ekko/1417177313
-[79]: https://music.apple.com/us/song/harlem-shake/601136935
+[79]: https://music.apple.com/us/song/my-songs-know-what-you-did-in-the-dark-light-em-up/1440862694
 [80]: https://music.apple.com/us/song/mirrors/1441493608
 [81]: https://music.apple.com/us/song/just-give-me-a-reason-feat-nate-ruess/545398139
 [82]: https://music.apple.com/us/song/suit-tie-featuring-ja%C3%BF-z-radio-edit/598779348
@@ -411,7 +411,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [140]: https://music.apple.com/us/song/cant-feel-my-face/1440858500
 [141]: https://music.apple.com/us/song/lean-on-feat-dj-snake-m%C3%B8/1696639397
 [142]: https://music.apple.com/us/song/wildest-dreams/1440936036
-[143]: https://music.apple.com/us/song/watch-me-whip-nae-nae/1445036897
+[143]: https://music.apple.com/us/song/good-for-you-feat-a%24ap-rocky/1440826909
 [144]: https://music.apple.com/us/song/the-hills/1440858495
 [145]: https://music.apple.com/us/song/what-do-you-mean/1440829606
 [146]: https://music.apple.com/us/song/hotline-bling/1440841730
@@ -455,7 +455,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [184]: https://music.apple.com/us/song/humble/1440882165
 [185]: https://music.apple.com/us/song/it-aint-me/1444631771
 [186]: https://music.apple.com/us/song/sign-of-the-times/1226034393
-[187]: https://music.apple.com/us/song/despacito/1447401620
+[187]: https://music.apple.com/us/song/green-light/1429663163
 [188]: https://music.apple.com/us/song/im-the-one-feat-justin-bieber-quavo-chance-the-rapper/1244229849
 [189]: https://music.apple.com/us/song/wild-thoughts-feat-rihanna-bryson-tiller/1244229848
 [190]: https://music.apple.com/us/song/xo-tour-llif3/1274598339
@@ -506,7 +506,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [235]: https://music.apple.com/us/song/boy-with-luv-feat-halsey/1599172208
 [236]: https://music.apple.com/us/song/bad-guy/1450695739
 [237]: https://music.apple.com/us/song/me-feat-brendon-urie-of-panic-at-the-disco/1468058706
-[238]: https://music.apple.com/us/song/con-calma-feat-snow/1449106558
+[238]: https://music.apple.com/us/song/if-i-cant-have-you/1474313954
 [239]: https://music.apple.com/us/song/se%C3%B1orita/1468910018
 [240]: https://music.apple.com/us/song/i-dont-care/1464549844
 [241]: https://music.apple.com/us/song/truth-hurts/1498195354
@@ -522,4 +522,4 @@ A curated journey through the decade that reshaped music forever — from the st
 [251]: https://music.apple.com/us/song/good-as-hell/1150159755
 [252]: https://music.apple.com/us/song/dont-start-now/1484636829
 [253]: https://music.apple.com/us/song/memories/1479600902
-[254]: https://music.apple.com/us/song/10-000-hours-piano/1488689847
+[254]: https://music.apple.com/us/song/blinding-lights/1488408568

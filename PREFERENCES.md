@@ -1,54 +1,101 @@
 # Playlist Preferences
 
-This file documents user preferences for playlist curation, including blocked songs and artists that should not be included in playlists.
+This file documents user preferences for playlist curation, including blocked songs, blocked artists, and genre/style exclusions that apply across all playlists.
+
+**Override Policy:** All exclusions below can be overridden when very specifically requested by the user.
 
 ## Blocked Songs
 
-The following songs should **never** be added to any playlist:
+The following individual songs should **never** be added to any playlist (unless explicitly overridden):
 
 - **"What It's Like"** by Everlast
   - Reason: User preference
 
-- **"Macarena"** by Los del Rio
-  - Reason: Super ear-worm/dance craze song
-
 ## Blocked Artists
 
-The following artists should **never** be added to any playlist:
+The following artists should **never** be added to any playlist (unless explicitly overridden):
 
 - **Smash Mouth**
   - Reason: User preference
   - Note: Existing tracks may remain in playlists created before this preference was documented
 
-## Genre Exclusions
+## Genre & Style Exclusions
 
-The following genres should be excluded from playlists unless specifically requested:
+The following categories of music should be excluded from playlists unless the user **very specifically requests** them. Each category includes guidance on where the boundary lies and examples of acceptable crossover.
 
-### No Twangy Country / Country-Pop
+### 1. Twangy Country & Clearly Country Artists
 
-Do **not** include twangy country or country-pop songs in playlists unless the user **very specifically requests** them. This applies to artists and songs with the characteristic country twang — steel guitar, fiddle-driven production, and traditional or bro-country vocal style — as well as country-pop crossovers.
+Do **not** include songs or artists that are clearly country. This covers:
+- Traditional country, bro-country, and country-pop with characteristic country twang
+- Steel guitar, fiddle-driven production, and traditional country vocal style
+- Artists who are primarily known as country musicians
 
-Examples of what to **avoid** (unless explicitly requested):
+**Examples to avoid:**
 - Lady Antebellum / Lady A
 - Florida Georgia Line
-- Luke Bryan
-- Blake Shelton
-- Brad Paisley
-- Jason Aldean
+- Luke Bryan, Blake Shelton, Brad Paisley, Jason Aldean
+- Faith Hill, LeAnn Rimes, Tim McGraw
+- Alan Jackson, Toby Keith, Kenny Chesney
+- Rascal Flatts, Carrie Underwood, Keith Urban
 - Traditional or bro-country crossover songs
 
-Examples of **acceptable** country-adjacent songs (these do not count as twangy country):
-- **"Old Town Road"** by Lil Nas X ft. Billy Ray Cyrus — country-rap genre fusion
-- **"The Thunder Rolls"** by Garth Brooks — acceptable exception (leans rock)
-- Pop-country crossovers that lean heavily pop (e.g., Taylor Swift's pop era)
+**Acceptable crossover exceptions** — country-adjacent songs that could very easily pass as rock, pop, or blues/R&B:
+- **"The Thunder Rolls"** by Garth Brooks — leans rock; acceptable reference point
+- **"Old Town Road"** by Lil Nas X ft. Billy Ray Cyrus — genre fusion
+- Taylor Swift's pop-era work (not her early country catalog)
+- Songs from primarily country artists that genuinely cross into rock/pop/blues territory
 
-### Teen Pop Phenoms
+**The test:** Could this song easily pass as rock, pop, or blues/R&B to a listener who doesn't know the artist's genre? If yes, it may be acceptable.
 
-Exclude acts whose primary appeal was as a youth phenomenon (e.g., Hanson, early Backstreet Boys singles aimed at tweens). Crossover artists with broader appeal may be acceptable.
+### 2. Teen Pop Phenoms & Boy Bands
+
+Exclude teeny-bop pop acts whose primary appeal was as a youth phenomenon — acts marketed primarily to tweens and young teens with lightweight, bubblegum pop. This also includes **boy bands** and **pop princess** acts from the late 1990s and 2000s, which should be **very limited**.
+
+**Examples to avoid:**
+- **"MMMBop"** by Hanson
+- **Backstreet Boys** — "Quit Playing Games," "Everybody (Backstreet's Back)," "I Want It That Way"
+- **\*NSYNC** — "Bye Bye Bye," "It's Gonna Be Me"
+- **Britney Spears** — "...Baby One More Time," "Oops!...I Did It Again"
+- **New Kids on the Block** — "Step by Step"
+- Tiffany, Debbie Gibson, and similar late-80s teen pop acts
+
+**Boy band / pop princess test:** Only include a song from these acts if it can be considered good rock music or appeals to a very wide audience beyond the teen demographic. When in doubt, exclude.
+
+### 3. Ear-Worm Dance Craze Songs
+
+Exclude novelty hits built primarily around a repetitive hook or a viral/choreographed dance, unless they have genuine musical merit beyond the gimmick.
+
+**Examples to avoid:**
+- **"Macarena"** by Los del Rio
+- **"Cha Cha Slide"** by DJ Casper
+- **"Cupid Shuffle"** by Cupid
+- **"Watch Me (Whip/Nae Nae)"** by Silentó
+- **"Gangnam Style"** by PSY
+
+### 4. Latin Pop / Spanish-Language Dance Music
+
+Exclude Latin pop that is primarily Spanish-language dance music — crossover hits driven by Latin dance rhythms that were novelty-adjacent in English-language markets.
+
+**Examples to avoid:**
+- **"Livin' la Vida Loca"** by Ricky Martin
+- **"Bailamos"** by Enrique Iglesias
+- **"Mambo No. 5"** by Lou Bega
+
+**Acceptable exceptions:** Latin-influenced songs that are primarily English-language and have staying power beyond the dance trend may be acceptable on a case-by-case basis.
+
+### 5. Holiday Music
+
+Exclude songs that are primarily holiday-themed (Christmas, Halloween, etc.), regardless of artist or genre.
+
+**Examples to avoid:**
+- Christmas songs, Easter songs, Halloween novelty songs
+- Seasonal music of any genre
+
+---
 
 ## Notes
 
-- When building or updating playlists, always check this file to ensure blocked content is not included
-- If a user requests a specific artist or song from the blocked list, politely remind them of their stated preference and suggest alternatives
+- When building or updating playlists, always check this file to ensure excluded content is not included
+- If a user requests a specific artist or song from an excluded category, politely remind them of their stated preference and suggest alternatives — but comply if they insist
 - This list may be updated over time based on user feedback
-- Avoid **super ear-worm or dance craze songs** (e.g., novelty hits built around a repetitive hook or a viral dance) unless they have genuine musical merit beyond the gimmick
+- Additional genre exclusions may be added to the numbered list above as preferences evolve

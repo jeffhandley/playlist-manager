@@ -13,7 +13,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 6 | [U Can't Touch This][6] | MC Hammer | Jun | 1990 | Sampled Rick James's Super Freak |
 | 7 | [Hold On][7] | Wilson Phillips | Jun | 1990 | Trio's debut #1 pop anthem |
 | 8 | [It Must Have Been Love][8] | Roxette | Jun | 1990 | Pretty Woman soundtrack smash |
-| 9 | [Step by Step][9] | New Kids on the Block | Jul | 1990 | Boy band era peak hit |
+| 9 | [Cradle of Love][9] | Billy Idol | Jul | 1990 | Hard rock with a seductive edge |
 | 10 | [Vision of Love][10] | Mariah Carey | Jul | 1990 | Debut single launched a dynasty |
 | 11 | [If Wishes Came True][11] | Sweet Sensation | Aug | 1990 | Freestyle pop #1 hit |
 | 12 | [Blaze of Glory][12] | Jon Bon Jovi | Aug | 1990 | Young Guns II theme song |
@@ -81,7 +81,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 72 | [Insane in the Brain][72] | Cypress Hill | May | 1993 | Latin hip-hop stoner anthem |
 | 73 | [Weak][73] | SWV | May | 1993 | R&B trio's signature hit |
 | 74 | [Can't Help Falling in Love][74] | UB40 | Jun | 1993 | Reggae Elvis cover hit #1 |
-| 75 | [Whoomp! (There It Is)][75] | Tag Team | Jul | 1993 | Inescapable party anthem of '93 |
+| 75 | [Plush][75] | Stone Temple Pilots | Jul | 1993 | Grunge ballad with gritty beauty |
 | 76 | [Dreamlover][76] | Mariah Carey | Aug | 1993 | Breezy pop-R&B #1 smash |
 | 77 | [Creep][77] | Radiohead | Sep | 1993 | Self-loathing alt-rock anthem |
 | 78 | [Runaway Train][78] | Soul Asylum | Sep | 1993 | Alt-rock with missing kids video |
@@ -164,19 +164,19 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 151 | [Bittersweet Symphony][151] | The Verve | Apr | 1997 | Orchestral Britrock masterpiece |
 | 152 | [Return of the Mack][152] | Mark Morrison | May | 1997 | UK R&B-pop crossover classic |
 | 153 | [Song 2][153] | Blur | May | 1997 | Britpop punk explosion |
-| 154 | [Quit Playing Games][154] | Backstreet Boys | Jun | 1997 | Boy band ballad era begins |
+| 154 | [Virtual Insanity][154] | Jamiroquai | Jun | 1997 | Acid jazz-funk Grammy winner |
 | 155 | [I'll Be Missing You][155] | Puff Daddy & Faith Evans | Jun | 1997 | Biggie tribute topped 11 weeks |
 | 156 | [Semi-Charmed Life][156] | Third Eye Blind | Jul | 1997 | Alt-rock summer anthem |
 | 157 | [Paranoid Android][157] | Radiohead | Jul | 1997 | OK Computer's epic centerpiece |
-| 158 | [Tubthumping][158] | Chumbawamba | Aug | 1997 | Anarchist pop earworm |
+| 158 | [Criminal][158] | Fiona Apple | Aug | 1997 | Confessional alt-rock Grammy winner |
 | 159 | [Mo Money Mo Problems][159] | The Notorious B.I.G. | Aug | 1997 | Second posthumous #1 |
-| 160 | [Barbie Girl][160] | Aqua | Sep | 1997 | Eurodance-pop novelty smash |
+| 160 | [Block Rockin' Beats][160] | The Chemical Brothers | Sep | 1997 | Big beat electronic anthem |
 | 161 | [You Make Me Wanna...][161] | Usher | Sep | 1997 | Usher's R&B breakthrough |
 | 162 | [Candle in the Wind 1997][162] | Elton John | Oct | 1997 | Diana tribute; best-selling single |
 | 163 | [Karma Police][163] | Radiohead | Oct | 1997 | OK Computer's haunting single |
 | 164 | [Fly][164] | Sugar Ray | Nov | 1997 | Chill rock summer crossover |
 | 165 | [Sunny Came Home][165] | Shawn Colvin | Nov | 1997 | Grammy Song of the Year |
-| 166 | [How Do I Live][166] | LeAnn Rimes | Dec | 1997 | Country-pop crossover smash |
+| 166 | [The Impression That I Get][166] | The Mighty Mighty Bosstones | Dec | 1997 | Ska-punk revival anthem |
 | 167 | [Dammit][167] | Blink-182 | Dec | 1997 | Pop-punk coming-of-age anthem |
 | | | | | **1998** | |
 | 168 | [Together Again][168] | Janet Jackson | Jan | 1998 | Dance-pop #1 with deep meaning |
@@ -186,10 +186,10 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 172 | [Gettin' Jiggy Wit It][172] | Will Smith | Mar | 1998 | Pop-rap party anthem hit #1 |
 | 173 | [Frozen][173] | Madonna | Mar | 1998 | Dark electronica reinvention |
 | 174 | [All My Life][174] | K-Ci & JoJo | Apr | 1998 | R&B wedding staple |
-| 175 | [You're Still the One][175] | Shania Twain | Apr | 1998 | Country-pop crossover smash |
+| 175 | [Torn][175] | Natalie Imbruglia | Apr | 1998 | Pop-rock heartbreak classic |
 | 176 | [Too Close][176] | Next | Apr | 1998 | Cheeky R&B anthem hit #1 |
 | 177 | [Ray of Light][177] | Madonna | May | 1998 | Electronic reinvention masterpiece |
-| 178 | [Everybody (Backstreet's Back)][178] | Backstreet Boys | May | 1998 | Pop dance anthem |
+| 178 | [Flagpole Sitta][178] | Harvey Danger | May | 1998 | Alt-rock anthemic debut |
 | 179 | [The Boy Is Mine][179] | Brandy & Monica | Jun | 1998 | R&B duet dueled 13 weeks #1 |
 | 180 | [Intergalactic][180] | Beastie Boys | Jun | 1998 | Electro hip-hop robot anthem |
 | 181 | [Iris][181] | Goo Goo Dolls | Jul | 1998 | City of Angels alt-rock epic |
@@ -199,7 +199,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 185 | [Hard Knock Life][185] | Jay-Z | Sep | 1998 | Annie-sampling hip-hop anthem |
 | 186 | [Doo Wop (That Thing)][186] | Lauryn Hill | Sep | 1998 | Neo-soul hip-hop #1 debut |
 | 187 | [One Week][187] | Barenaked Ladies | Oct | 1998 | Rapid-fire novelty rock hit |
-| 188 | [...Baby One More Time][188] | Britney Spears | Oct | 1998 | Teen pop revolution launched |
+| 188 | [Teardrop][188] | Massive Attack | Oct | 1998 | Haunting trip-hop masterpiece |
 | 189 | [Fly Away][189] | Lenny Kravitz | Nov | 1998 | Rock anthem of freedom |
 | 190 | [Jump Jive an' Wail][190] | The Brian Setzer Orchestra | Nov | 1998 | Swing revival peak |
 | 191 | [Believe][191] | Cher | Nov | 1998 | Auto-Tune pioneer dance-pop hit |
@@ -219,7 +219,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | 204 | [Genie in a Bottle][204] | Christina Aguilera | Jul | 1999 | Pop debut launched a superstar |
 | 205 | [Scar Tissue][205] | Red Hot Chili Peppers | Jul | 1999 | Melodic alt-rock comeback |
 | 206 | [Smooth][206] | Santana | Aug | 1999 | Latin rock comeback smash |
-| 207 | [I Want It That Way][207] | Backstreet Boys | Sep | 1999 | Iconic boy band pop anthem |
+| 207 | [Praise You][207] | Fatboy Slim | Sep | 1999 | Big beat dance-floor classic |
 | 208 | [Unpretty][208] | TLC | Sep | 1999 | Self-image anthem hit #1 |
 | 209 | [Slide][209] | Goo Goo Dolls | Oct | 1999 | Alt-rock radio staple |
 | 210 | [Flat Beat][210] | Mr. Oizo | Oct | 1999 | French electronic breakbeat hit |
@@ -237,7 +237,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 [6]: https://music.apple.com/us/song/u-cant-touch-this/724647729
 [7]: https://music.apple.com/us/song/hold-on/723895262
 [8]: https://music.apple.com/us/song/it-must-have-been-love/976541447
-[9]: https://music.apple.com/us/song/step-by-step/157281771
+[9]: https://music.apple.com/us/song/cradle-of-love/1443111268
 [10]: https://music.apple.com/us/song/vision-of-love/169605940
 [11]: https://music.apple.com/us/song/if-wishes-came-true/1693783297
 [12]: https://music.apple.com/us/song/blaze-of-glory/1440657907
@@ -302,7 +302,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 [72]: https://music.apple.com/us/song/insane-in-the-brain-mixed/1700753109
 [73]: https://music.apple.com/us/song/weak/266800009
 [74]: https://music.apple.com/us/song/cant-help-falling-in-love-with-you/1443797980
-[75]: https://music.apple.com/us/song/whoomp-there-it-is/1244743915
+[75]: https://music.apple.com/us/song/plush/1630107255
 [76]: https://music.apple.com/us/song/dreamlover/190174817
 [77]: https://music.apple.com/us/song/creep-acoustic/1679849823
 [78]: https://music.apple.com/us/song/runaway-train/394943368
@@ -381,19 +381,19 @@ A curated journey through the decade that reshaped modern music — from the gru
 [151]: https://music.apple.com/us/song/say-my-name/266809802
 [152]: https://music.apple.com/us/song/say-my-name/266809802
 [153]: https://music.apple.com/us/song/say-my-name/266809802
-[154]: https://music.apple.com/us/song/say-my-name/266809802
+[154]: https://music.apple.com/us/song/virtual-insanity/1479062292
 [155]: https://music.apple.com/us/song/say-my-name/266809802
 [156]: https://music.apple.com/us/song/say-my-name/266809802
 [157]: https://music.apple.com/us/song/say-my-name/266809802
-[158]: https://music.apple.com/us/song/say-my-name/266809802
+[158]: https://music.apple.com/us/song/criminal/1196431695
 [159]: https://music.apple.com/us/song/say-my-name/266809802
-[160]: https://music.apple.com/us/song/say-my-name/266809802
+[160]: https://music.apple.com/us/song/block-rockin-beats/1635966361
 [161]: https://music.apple.com/us/song/say-my-name/266809802
 [162]: https://music.apple.com/us/song/say-my-name/266809802
 [163]: https://music.apple.com/us/song/say-my-name/266809802
 [164]: https://music.apple.com/us/song/say-my-name/266809802
 [165]: https://music.apple.com/us/song/say-my-name/266809802
-[166]: https://music.apple.com/us/song/say-my-name/266809802
+[166]: https://music.apple.com/us/song/the-impression-that-i-get/1708975446
 [167]: https://music.apple.com/us/song/say-my-name/266809802
 [168]: https://music.apple.com/us/song/say-my-name/266809802
 [169]: https://music.apple.com/us/song/say-my-name/266809802
@@ -402,10 +402,10 @@ A curated journey through the decade that reshaped modern music — from the gru
 [172]: https://music.apple.com/us/song/say-my-name/266809802
 [173]: https://music.apple.com/us/song/say-my-name/266809802
 [174]: https://music.apple.com/us/song/say-my-name/266809802
-[175]: https://music.apple.com/us/song/say-my-name/266809802
+[175]: https://music.apple.com/us/song/torn/286006506
 [176]: https://music.apple.com/us/song/say-my-name/266809802
 [177]: https://music.apple.com/us/song/say-my-name/266809802
-[178]: https://music.apple.com/us/song/say-my-name/266809802
+[178]: https://music.apple.com/us/song/flagpole-sitta/1440923493
 [179]: https://music.apple.com/us/song/say-my-name/266809802
 [180]: https://music.apple.com/us/song/say-my-name/266809802
 [181]: https://music.apple.com/us/song/say-my-name/266809802
@@ -415,7 +415,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 [185]: https://music.apple.com/us/song/say-my-name/266809802
 [186]: https://music.apple.com/us/song/say-my-name/266809802
 [187]: https://music.apple.com/us/song/say-my-name/266809802
-[188]: https://music.apple.com/us/song/say-my-name/266809802
+[188]: https://music.apple.com/us/song/teardrop/724466700
 [189]: https://music.apple.com/us/song/say-my-name/266809802
 [190]: https://music.apple.com/us/song/say-my-name/266809802
 [191]: https://music.apple.com/us/song/say-my-name/266809802
@@ -434,7 +434,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 [204]: https://music.apple.com/us/song/say-my-name/266809802
 [205]: https://music.apple.com/us/song/say-my-name/266809802
 [206]: https://music.apple.com/us/song/say-my-name/266809802
-[207]: https://music.apple.com/us/song/say-my-name/266809802
+[207]: https://music.apple.com/us/song/praise-you/714916617
 [208]: https://music.apple.com/us/song/say-my-name/266809802
 [209]: https://music.apple.com/us/song/say-my-name/266809802
 [210]: https://music.apple.com/us/song/say-my-name/266809802
