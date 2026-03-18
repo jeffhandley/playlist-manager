@@ -9,7 +9,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 2 | [Bad Romance][2] | Lady Gaga | Jan | 2010 | Dark pop perfection |
 | 3 | [Baby][3] | Justin Bieber ft. Ludacris | Feb | 2010 | Teen pop goes viral |
 | 4 | [Imma Be][4] | Black Eyed Peas | Feb | 2010 | Hip-hop club banger |
-| 5 | [Need You Now][5] | Lady Antebellum | Mar | 2010 | Country crossover classic |
+| 5 | [Replay][5] | Iyaz | Mar | 2010 | Reggae-pop earworm phenomenon |
 | 6 | [Break Your Heart][6] | Taio Cruz ft. Ludacris | Mar | 2010 | Euro-pop club hit |
 | 7 | [Telephone][7] | Lady Gaga ft. Beyoncé | Mar | 2010 | Pop maximalism anthem |
 | 8 | [Rude Boy][8] | Rihanna | Apr | 2010 | Dancehall-pop fusion |
@@ -91,7 +91,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 81 | [Just Give Me a Reason][81] | P!nk ft. Nate Ruess | Apr | 2013 | Duet pop perfection |
 | 82 | [Suit & Tie][82] | Justin Timberlake ft. Jay-Z | Apr | 2013 | Classy R&B sophistication |
 | 83 | [Can't Hold Us][83] | Macklemore & Ryan Lewis | May | 2013 | Triumphant indie hip-hop |
-| 84 | [Cruise][84] | Florida Georgia Line ft. Nelly | May | 2013 | Bro-country crossover smash |
+| 84 | [Come & Get It][84] | Selena Gomez | May | 2013 | Bollywood-pop crossover moment |
 | 85 | [Get Lucky][85] | Daft Punk ft. Pharrell Williams | Jun | 2013 | Disco-funk revival perfection |
 | 86 | [Blurred Lines][86] | Robin Thicke ft. T.I. & Pharrell | Jun | 2013 | Controversial summer smash |
 | 87 | [Radioactive][87] | Imagine Dragons | Jul | 2013 | Alt-rock stadium anthem |
@@ -218,7 +218,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 203 | [Finesse (Remix)][203] | Bruno Mars ft. Cardi B | Jan | 2018 | 90s-throwback funk-pop |
 | 204 | [All the Stars][204] | Kendrick Lamar & SZA | Jan | 2018 | Cinematic hip-hop beauty |
 | 205 | [God's Plan][205] | Drake | Feb | 2018 | Hip-hop anthem of generosity |
-| 206 | [Meant to Be][206] | Bebe Rexha & Florida Georgia Line | Feb | 2018 | Pop-country mega crossover |
+| 206 | [IDGAF][206] | Dua Lipa | Feb | 2018 | Breakup anthem confidence |
 | 207 | [The Middle][207] | Zedd, Maren Morris & Grey | Mar | 2018 | EDM-pop vocal anthem |
 | 208 | [Pray for Me][208] | The Weeknd & Kendrick Lamar | Mar | 2018 | Superhero soundtrack synergy |
 | 209 | [Nice for What][209] | Drake | Apr | 2018 | Bounce-influenced hip-hop |
@@ -273,7 +273,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [2]: https://music.apple.com/us/song/bad-romance-radio-edit/1704956549
 [3]: https://music.apple.com/us/song/baby-feat-ludacris/1440661545
 [4]: https://music.apple.com/us/song/imma-be/1443060266
-[5]: https://music.apple.com/us/song/need-you-now/721253705
+[5]: https://music.apple.com/us/song/replay/326644034
 [6]: https://music.apple.com/us/song/break-your-heart-feat-ludacris/1443147099
 [7]: https://music.apple.com/us/song/telephone-feat-beyonc%C3%A9/1476727675
 [8]: https://music.apple.com/us/song/rude-boy/1440775739
@@ -352,7 +352,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [81]: https://music.apple.com/us/song/just-give-me-a-reason-feat-nate-ruess/545398139
 [82]: https://music.apple.com/us/song/suit-tie-featuring-ja%C3%BF-z-radio-edit/598779348
 [83]: https://music.apple.com/us/song/cant-hold-us-feat-ray-dalton/560097694
-[84]: https://music.apple.com/us/song/cruise/1440812204
+[84]: https://music.apple.com/us/song/come-get-it/1444865505
 [85]: https://music.apple.com/us/song/get-lucky/617154366
 [86]: https://music.apple.com/us/song/blurred-lines-feat-t-i-pharrell/1442971656
 [87]: https://music.apple.com/us/song/radioactive/1440873126
@@ -474,7 +474,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [203]: https://music.apple.com/us/song/finesse-remix-feat-cardi-b/1328527216
 [204]: https://music.apple.com/us/song/all-the-stars/1440903307
 [205]: https://music.apple.com/us/song/gods-plan/1406109863
-[206]: https://music.apple.com/us/song/meant-to-be/1251713725
+[206]: https://music.apple.com/us/song/idgaf/1228742329
 [207]: https://music.apple.com/us/song/the-middle/1444896450
 [208]: https://music.apple.com/us/song/pray-for-me/1440903887
 [209]: https://music.apple.com/us/song/nice-for-what/1406109896
