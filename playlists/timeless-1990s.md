@@ -280,7 +280,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 [49]: https://music.apple.com/us/song/jump/170147030
 [50]: https://music.apple.com/us/song/under-the-bridge/948460560
 [51]: https://music.apple.com/us/song/my-lovin-youre-never-gonna-get-it/189259137
-[52]: https://music.apple.com/us/song/baby-got-back/1443011600
+[52]: https://music.apple.com/us/song/baby-got-back/1440811075
 [53]: https://music.apple.com/us/song/jump-around/1604628161
 [54]: https://music.apple.com/us/song/damn-i-wish-i-was-your-lover/192964721
 [56]: https://music.apple.com/us/song/tennessee/715906636
@@ -292,7 +292,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 [62]: https://music.apple.com/us/song/real-love/1440817021
 [63]: https://music.apple.com/us/song/i-will-always-love-you/388151901
 [64]: https://music.apple.com/us/song/id-die-without-you/260327265
-[65]: https://music.apple.com/us/song/nuthin-but-a-g-thang-feat-snoop-dogg/1440836236
+[65]: https://music.apple.com/us/song/nuthin-but-a-g-thang-feat-snoop-dogg/1668461604
 [66]: https://music.apple.com/us/song/mr-jones/1442449547
 [67]: https://music.apple.com/us/song/ordinary-world-single-version/693602520
 [68]: https://music.apple.com/us/song/informer/275025196
@@ -327,7 +327,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 [97]: https://music.apple.com/us/song/stay-i-missed-you/1270065322
 [98]: https://music.apple.com/us/song/come-out-and-play-keep-em-separated/1485034810
 [99]: https://music.apple.com/us/song/basket-case/1160082180
-[100]: https://music.apple.com/us/song/juicy/217613305
+[100]: https://music.apple.com/us/song/juicy/301228947
 [101]: https://music.apple.com/us/song/say-my-name/266809802
 [102]: https://music.apple.com/us/song/say-my-name/266809802
 [103]: https://music.apple.com/us/song/say-my-name/266809802
