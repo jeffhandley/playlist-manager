@@ -75,7 +75,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | 66 | [Gangnam Style][66] | PSY | Aug | 2012 | K-pop goes global |
 | 67 | [Thinkin Bout You][67] | Frank Ocean | Sep | 2012 | R&B emotional revelation |
 | 68 | [One More Night][68] | Maroon 5 | Sep | 2012 | Reggae-tinged pop hit |
-| 69 | [Some Nights][69] | fun. | Oct | 2012 | Anthemic indie rock |
+| 69 | [I Knew You Were Trouble][69] | Taylor Swift | Oct | 2012 | Dubstep-pop crossover smash |
 | 70 | [Everybody Talks][70] | Neon Trees | Oct | 2012 | New wave pop revival |
 | 71 | [Diamonds][71] | Rihanna | Nov | 2012 | Shimmering pop ballad |
 | 72 | [Locked Out of Heaven][72] | Bruno Mars | Nov | 2012 | Police-inspired pop-rock |
@@ -337,7 +337,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [66]: https://music.apple.com/us/song/gangnam-style/1445144527
 [67]: https://music.apple.com/us/song/thinkin-bout-you/1440766128
 [68]: https://music.apple.com/us/song/one-more-night/1440808310
-[69]: https://music.apple.com/us/song/some-nights-intro/601186060
+[69]: https://music.apple.com/us/song/i-knew-you-were-trouble/1440935349
 [70]: https://music.apple.com/us/song/everybody-talks-revisited-version/1597386444
 [71]: https://music.apple.com/us/song/diamonds/1444321282
 [72]: https://music.apple.com/us/song/locked-out-of-heaven/573962551

@@ -46,7 +46,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | 37 | [A Guy Is a Guy][37] | Doris Day | Apr | 1952 | Day's charming novelty hit |
 | 38 | [Blue Tango][38] | Leroy Anderson | May | 1952 | Best-selling instrumental of 1952 |
 | 39 | [Kiss of Fire][39] | Georgia Gibbs | Jun | 1952 | Latin-tinged pop crossover hit |
-| 40 | [Wish You Were Here][40] | Eddie Fisher | Jun | 1952 | Broadway-born romantic longing hit |
+| 40 | [Botch-a-Me (Ba-Ba-Baciami Piccina)][40] | Rosemary Clooney | Jun | 1952 | Playful novelty-swing smash, hit #2 |
 | 41 | [Auf Wiederseh'n Sweetheart][41] | Vera Lynn | Jul | 1952 | British wartime nostalgia classic |
 | 42 | [Here in My Heart][42] | Al Martino | Jul | 1952 | First-ever UK Singles Chart #1 |
 | 43 | [Half as Much][43] | Rosemary Clooney | Aug | 1952 | Clooney's country-pop crossover |
@@ -74,15 +74,15 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | | | | | **1954** | |
 | 64 | [Secret Love][64] | Doris Day | Jan | 1954 | Oscar-winning song, Day's signature |
 | 65 | [Make Love to Me!][65] | Jo Stafford | Feb | 1954 | Jazzy pop update of Dixieland tune |
-| 66 | [Stranger in Paradise][66] | Tony Bennett | Feb | 1954 | Broadway show tune pop crossover |
+| 66 | [Answer Me, My Love][66] | Nat "King" Cole | Feb | 1954 | Cole's velvet baritone, top-10 hit |
 | 67 | [Cross Over the Bridge][67] | Patti Page | Mar | 1954 | Page's uplifting inspirational hit |
 | 68 | [Wanted][68] | Perry Como | Mar | 1954 | Como's romantic plea chart-topper |
 | 69 | [Young at Heart][69] | Frank Sinatra | Apr | 1954 | Sinatra's comeback signature song |
 | 70 | [Little Things Mean a Lot][70] | Kitty Kallen | May | 1954 | #1 for nine weeks, year's biggest |
-| 71 | [Hernando's Hideaway][71] | Archie Bleyer | Jun | 1954 | Tango-novelty Broadway sensation |
+| 71 | [Shake, Rattle and Roll][71] | Big Joe Turner | Jun | 1954 | The original R&B version; rock & roll founding document |
 | 72 | [Sh-Boom][72] | The Crew-Cuts | Jun | 1954 | Pop doo-wop crossover milestone |
 | 73 | [Three Coins in the Fountain][73] | The Four Aces | Jul | 1954 | Oscar-winning romantic film theme |
-| 74 | [Hey There][74] | Rosemary Clooney | Aug | 1954 | Clooney's dramatic torch ballad |
+| 74 | [The High and the Mighty][74] | Les Baxter | Aug | 1954 | Iconic film theme, top-5 hit with whistling hook |
 | 75 | [This Ole House][75] | Rosemary Clooney | Sep | 1954 | Upbeat gospel-pop novelty smash |
 | 76 | [I Need You Now][76] | Eddie Fisher | Oct | 1954 | Fisher's emotional #1 ballad |
 | 77 | [Shake, Rattle and Roll][77] | Bill Haley & His Comets | Nov | 1954 | Seminal early rock & roll anthem |
@@ -269,7 +269,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [37]: https://music.apple.com/us/song/a-guy-is-a-guy/1516989256
 [38]: https://music.apple.com/us/song/blue-tango/1443809910
 [39]: https://music.apple.com/us/song/kiss-of-fire/1177270937
-[40]: https://music.apple.com/us/song/wish-you-were-here/298379049
+[40]: https://music.apple.com/us/song/botch-a-me-ba-ba-baciami-piccina/198161441
 [41]: https://music.apple.com/us/song/auf-wiederseh-n-sweetheart/1440754269
 [42]: https://music.apple.com/us/song/here-in-my-heart/724650071
 [43]: https://music.apple.com/us/song/half-as-much/198161305
@@ -295,15 +295,15 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [63]: https://music.apple.com/us/song/oh-my-pa-pa-o-mein-papa/298379055
 [64]: https://music.apple.com/us/song/secret-love/153006055
 [65]: https://music.apple.com/us/song/make-love-to-me/1801937256
-[66]: https://music.apple.com/us/song/stranger-in-paradise/290334952
+[66]: https://music.apple.com/us/song/answer-me-my-love/1444030559
 [67]: https://music.apple.com/us/song/cross-over-the-bridge/1853912207
 [68]: https://music.apple.com/us/song/wanted/298570641
 [69]: https://music.apple.com/us/song/young-at-heart/1443166848
 [70]: https://music.apple.com/us/song/little-things-mean-a-lot/375991231
-[71]: https://music.apple.com/us/song/hernando-s-hideaway/632212113
+[71]: https://music.apple.com/us/song/shake-rattle-and-roll/63606905
 [72]: https://music.apple.com/us/song/sh-boom-rerecorded/277439757
 [73]: https://music.apple.com/us/song/three-coins-in-the-fountain/275656200
-[74]: https://music.apple.com/us/song/hey-there/1469575159
+[74]: https://music.apple.com/us/song/the-high-and-the-mighty/1634738246
 [75]: https://music.apple.com/us/song/this-ole-house/1469574894
 [76]: https://music.apple.com/us/song/i-need-you-now/298379056
 [77]: https://music.apple.com/us/song/shake-rattle-and-roll/1440751456

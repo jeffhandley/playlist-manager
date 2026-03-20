@@ -249,14 +249,14 @@ A curated journey through the decade that defined modern music — from soul and
 | 234 | [Shadow Dancing][234] | Andy Gibb | May | 1978 | Gibb family disco dominance |
 | 235 | [Take the Long Way Home][235] | Supertramp | May | 1978 | Prog-pop introspection |
 | 236 | [Baker Street][236] | Gerry Rafferty | Jun | 1978 | Iconic saxophone-driven rock |
-| 237 | [You're the One That I Want][237] | John Travolta & Olivia Newton-John | Jun | 1978 | Grease's electrifying duet |
-| 238 | [Grease][238] | Frankie Valli | Jun | 1978 | Title track disco-pop hit |
+| 237 | [Copacabana (At the Copa)][237] | Barry Manilow | Jun | 1978 | Manilow's flamboyant showstopper, top-10 hit |
+| 238 | [Too Much, Too Little, Too Late][238] | Johnny Mathis & Deniece Williams | Jun | 1978 | Smooth duet crossover, #1 smash |
 | 239 | [Miss You][239] | The Rolling Stones | Jul | 1978 | Stones' disco-rock fusion |
 | 240 | [Last Dance][240] | Donna Summer | Jul | 1978 | Disco ballad turned anthem |
 | 241 | [Three Times a Lady][241] | Commodores | Aug | 1978 | Lionel Richie's tender ballad |
 | 242 | [Boogie Oogie Oogie][242] | A Taste of Honey | Aug | 1978 | Dance floor disco classic |
 | 243 | [Shame][243] | Evelyn 'Champagne' King | Aug | 1978 | Disco-funk dancefloor filler |
-| 244 | [Summer Nights][244] | John Travolta & Olivia Newton-John | Sep | 1978 | Grease's nostalgic duet |
+| 244 | [September][244] | Earth, Wind & Fire | Sep | 1978 | Timeless groove anthem, infectious funk classic |
 | 245 | [Kiss You All Over][245] | Exile | Sep | 1978 | Seductive pop-rock hit |
 | 246 | [MacArthur Park][246] | Donna Summer | Oct | 1978 | Summer's epic disco reimagining |
 | 247 | [Hot Child in the City][247] | Nick Gilder | Oct | 1978 | New wave pop-rock hit |
@@ -533,14 +533,14 @@ A curated journey through the decade that defined modern music — from soul and
 [234]: https://music.apple.com/us/song/shadow-dancing/1442254272
 [235]: https://music.apple.com/us/song/take-the-long-way-home/1440756626
 [236]: https://music.apple.com/us/song/baker-street/693606496
-[237]: https://music.apple.com/us/song/youre-the-one-that-i-want/1440844700
-[238]: https://music.apple.com/us/song/grease/360749620
+[237]: https://music.apple.com/us/song/copacabana-remastered/278264847
+[238]: https://music.apple.com/us/song/too-much-too-little-too-late-feat-deniece-williams/1045261097
 [239]: https://music.apple.com/us/song/miss-you/1440816778
 [240]: https://music.apple.com/us/song/last-dance/1423304865
 [241]: https://music.apple.com/us/song/three-times-a-lady/1440838459
 [242]: https://music.apple.com/us/song/boogie-oogie-oogie/716070281
 [243]: https://music.apple.com/us/song/shame/303079207
-[244]: https://music.apple.com/us/song/summer-nights/1440844694
+[244]: https://music.apple.com/us/song/september/260303087
 [245]: https://music.apple.com/us/song/kiss-you-all-over/208035543
 [246]: https://music.apple.com/us/song/macarthur-park/1423304868
 [247]: https://music.apple.com/us/song/hot-child-in-the-city/4346249

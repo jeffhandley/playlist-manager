@@ -102,7 +102,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | 91 | [Chapel of Love][91] | The Dixie Cups | May | 1964 | Joyful girl-group wedding anthem |
 | 92 | [Love Me Do][92] | The Beatles | May | 1964 | Beatles' humble debut reaches US |
 | 93 | [A World Without Love][93] | Peter and Gordon | Jun | 1964 | Lennon-McCartney gift to friends |
-| 94 | [People][94] | Barbra Streisand | Jun | 1964 | Streisand's Broadway signature song |
+| 94 | [I Get Around][94] | The Beach Boys | Jun | 1964 | Beach Boys' first #1 hit, defining summer 1964 |
 | 95 | [A Hard Day's Night][95] | The Beatles | Jul | 1964 | Film title track, infectious guitar |
 | 96 | [Rag Doll][96] | The Four Seasons | Jul | 1964 | Seasons' sympathetic class-divide hit |
 | 97 | [Under the Boardwalk][97] | The Drifters | Aug | 1964 | Timeless summer romance anthem |
@@ -216,7 +216,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | 200 | [Everyday People][200] | Sly & The Family Stone | Feb | 1969 | Unity anthem, funk-soul pioneer |
 | 201 | [Time of the Season][201] | The Zombies | Mar | 1969 | Psychedelic rock's sultry classic |
 | 202 | [Proud Mary][202] | Creedence Clearwater Revival | Mar | 1969 | CCR's swamp-rock anthem debut |
-| 203 | [Aquarius/Let the Sunshine In][203] | The 5th Dimension | Apr | 1969 | Hair musical, Age of Aquarius |
+| 203 | [Dizzy][203] | Tommy Roe | Apr | 1969 | Four weeks at #1, irresistible bubblegum pop |
 | 204 | [It's Your Thing][204] | The Isley Brothers | Apr | 1969 | Isleys' funk independence anthem |
 | 205 | [Get Back][205] | The Beatles | May | 1969 | Beatles' raw rooftop concert single |
 | 206 | [Love Theme from Romeo and Juliet][206] | Henry Mancini | May | 1969 | Sweeping film score instrumental |
@@ -330,7 +330,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 [91]: https://music.apple.com/us/song/chapel-of-love/1608609377
 [92]: https://music.apple.com/us/song/love-me-do/1441165128
 [93]: https://music.apple.com/us/song/a-world-without-love/696439624
-[94]: https://music.apple.com/us/song/people/201291480
+[94]: https://music.apple.com/us/song/i-get-around/716001862
 [95]: https://music.apple.com/us/song/a-hard-day-s-night/1441164417
 [96]: https://music.apple.com/us/song/rag-doll/40454267
 [97]: https://music.apple.com/us/song/under-the-boardwalk/59403251
@@ -439,7 +439,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 [200]: https://music.apple.com/us/song/everyday-people/216553760
 [201]: https://music.apple.com/us/song/time-of-the-season/716633711
 [202]: https://music.apple.com/us/song/proud-mary/1440955828
-[203]: https://music.apple.com/us/song/aquarius-let-the-sunshine-in/303078892
+[203]: https://music.apple.com/us/song/dizzy/1444089693
 [204]: https://music.apple.com/us/song/it-s-your-thing/426328276
 [205]: https://music.apple.com/us/song/get-back/1441164953
 [206]: https://music.apple.com/us/song/love-theme-from-romeo-and-juliet/298560834
