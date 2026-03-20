@@ -30,14 +30,14 @@ A curated journey through the first half of the decade that redefined how we dis
 | 23 | [Positions][23] | Ariana Grande | Oct | 2020 | R&B-infused pop chart-topper |
 | 24 | [Therefore I Am][24] | Billie Eilish | Nov | 2020 | Defiant electro-pop statement |
 | 25 | [Lonely][25] | Justin Bieber benny blanco | Nov | 2020 | Vulnerable fame reflection |
-| 26 | [34+35][26] | Ariana Grande | Nov | 2020 | Cheeky R&B chart-topper from the Positions era |
+| 26 | [34+35][26] | Ariana Grande | Nov | 2020 | Playful R&B chart-topper with cheeky wordplay |
 | 27 | [Levitating][27] | Dua Lipa | Dec | 2020 | Unstoppable disco-pop earworm |
 | 28 | [willow][28] | Taylor Swift | Dec | 2020 | evermore's enchanting lead single |
 | | | | | **2021** | |
 | 29 | [drivers license][29] | Olivia Rodrigo | Jan | 2021 | Heartbreak heard around the world |
 | 30 | [Astronaut in the Ocean][30] | Masked Wolf | Jan | 2021 | Australian rap viral sensation |
 | 31 | [Leave the Door Open][31] | Silk Sonic | Feb | 2021 | Retro soul revival masterclass |
-| 32 | [Calling My Phone][32] | Lil Tjay ft. 6LACK | Feb | 2021 | Haunting melodic rap longing peaked at #3 |
+| 32 | [Calling My Phone][32] | Lil Tjay ft. 6LACK | Feb | 2021 | Haunting melodic rap anthem of longing peaked at #3 |
 | 33 | [Peaches][33] | Justin Bieber | Mar | 2021 | Breezy R&B collaboration hit |
 | 34 | [Up][34] | Cardi B | Mar | 2021 | High-energy hip-hop banger |
 | 35 | [MONTERO (Call Me by Your Name)][35] | Lil Nas X | Apr | 2021 | Boundary-pushing cultural moment |
