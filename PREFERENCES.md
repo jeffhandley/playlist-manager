@@ -72,16 +72,18 @@ Exclude novelty hits built primarily around a repetitive hook or a viral/choreog
 - **"Watch Me (Whip/Nae Nae)"** by Silentó
 - **"Gangnam Style"** by PSY
 
-### 4. Latin Pop / Spanish-Language Dance Music
+### 4. Primarily Spanish-Language Songs
 
-Exclude Latin pop that is primarily Spanish-language dance music — crossover hits driven by Latin dance rhythms that were novelty-adjacent in English-language markets.
+Exclude songs that are primarily sung in Spanish, regardless of genre. This covers Latin pop, Latin trap, Regional Mexican, reggaeton, and any other genre where the primary language of the song is Spanish.
 
 **Examples to avoid:**
 - **"Livin' la Vida Loca"** by Ricky Martin
 - **"Bailamos"** by Enrique Iglesias
 - **"Mambo No. 5"** by Lou Bega
+- **"Dakiti"** by Bad Bunny & Jhay Cortez
+- **"Ella Baila Sola"** by Eslabon Armado & Peso Pluma
 
-**Acceptable exceptions:** Latin-influenced songs that are primarily English-language and have staying power beyond the dance trend may be acceptable on a case-by-case basis.
+**Acceptable exceptions:** Songs that are primarily in English — even with significant Latin musical influences or occasional Spanish phrases — may be acceptable on a case-by-case basis. The test is whether the primary language of the lyrics is English.
 
 ### 5. Holiday Music
 
