@@ -100,6 +100,7 @@ Exclude songs that originated from Broadway stage musicals or prominent film mus
 **Examples to avoid:**
 - Songs from Broadway productions: "Stranger in Paradise" (from *Kismet*), "People" (from *Funny Girl*), "Hernando's Hideaway" (from *The Pajama Game*), "Aquarius/Let the Sunshine In" (from *Hair*)
 - Songs from film musicals: "You're the One That I Want," "Summer Nights," "Grease" (from the *Grease* film)
+- Songs from animated musicals: "We Don't Talk About Bruno" (from *Encanto*), "Let It Go" (from *Frozen*)
 - Any song whose primary cultural identity is as a stage or film musical number
 
 **The test:** Would a typical listener describe this song as a "show tune" or recognize it as being from a musical? If yes, exclude it.

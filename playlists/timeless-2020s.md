@@ -61,7 +61,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | 53 | [Cold Heart][53] | Elton John Dua Lipa | Dec | 2021 | Iconic mashup across generations |
 | 54 | [Heat Waves][54] | Glass Animals | Dec | 2021 | Slow-burn indie hit phenomenon |
 | | | | | **2022** | |
-| 55 | [We Don't Talk About Bruno][55] | Encanto Cast | Jan | 2022 | Disney earworm took over charts |
+| 55 | [Sacrifice][55] | The Weeknd | Jan | 2022 | Dawn FM post-disco anthem |
 | 56 | [Enemy][56] | Imagine Dragons JID | Jan | 2022 | Arcane theme rock-rap fusion |
 | 57 | [Super Gremlin][57] | Kodak Black | Feb | 2022 | Street anthem with melodic hook |
 | 58 | [Hrs and Hrs][58] | Muni Long | Feb | 2022 | R&B sleeper hit sensation |
@@ -201,7 +201,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [52]: https://music.apple.com/us/song/abcdefu/1610618872
 [53]: https://music.apple.com/us/song/cold-heart-pnau-remix/1578986673
 [54]: https://music.apple.com/us/song/heat-waves/1508562516
-[55]: https://music.apple.com/us/song/we-dont-talk-about-bruno/1594677760
+[55]: https://music.apple.com/us/song/sacrifice/1603171533
 [56]: https://music.apple.com/us/song/enemy-from-arcane-league-of-legends/1591640885
 [57]: https://music.apple.com/us/song/super-gremlin/1613765773
 [58]: https://music.apple.com/us/song/hrs-hrs/1645150744
