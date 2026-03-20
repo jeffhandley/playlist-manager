@@ -19,6 +19,8 @@ Activate this skill when the user:
 
 This skill validates Apple Music URLs using two methods (tries API first, falls back to web scraping):
 
+**URL normalization:** Before validation, any `/album/` URLs with `?i=` track parameters are automatically converted to canonical `/song/` format. All playlist URLs should use `https://music.apple.com/us/song/{slug}/{songId}` — never `/album/` URLs.
+
 ### Method 1: Apple Music API (Preferred)
 
 If Apple Music API credentials are available as environment variables:

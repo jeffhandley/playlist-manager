@@ -14,7 +14,7 @@
 import { readdirSync, readFileSync, writeFileSync } from "fs";
 import { join } from "path";
 import { getCatalogSong, searchCatalog } from "./api.mjs";
-import { extractSongId } from "./playlist.mjs";
+import { extractSongId, normalizeToSongUrl } from "./playlist.mjs";
 import { parsePlaylistMarkdown } from "../apple-music-sync/parser.mjs";
 
 async function main() {
@@ -94,6 +94,15 @@ async function validateFile(filePath) {
 
   for (let i = 0; i < tracksWithUrls.length; i++) {
     const track = tracksWithUrls[i];
+
+    // Normalize /album/ URLs to /song/ format when possible
+    const normalized = normalizeToSongUrl(track.url);
+    if (normalized !== track.url) {
+      content = content.replace(track.url, normalized);
+      track.url = normalized;
+      modified = true;
+    }
+
     const songId = extractSongId(track.url);
     if (!songId) continue;
 

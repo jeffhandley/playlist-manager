@@ -50,7 +50,7 @@ Political and social commentary songs spanning six decades, from Vietnam-era pro
 [18]: https://music.apple.com/us/song/zombie/1440735264
 [19]: https://music.apple.com/us/song/bulls-on-parade/390538384
 [20]: https://music.apple.com/us/song/american-idiot/207192732
-[21]: https://music.apple.com/us/album/holiday/1161539183?i=1161539205
+[21]: https://music.apple.com/us/song/holiday/1161539205
 [22]: https://music.apple.com/us/song/formation/1460430757
 [23]: https://music.apple.com/us/song/this-is-america/1379046390
 [24]: https://music.apple.com/us/song/war-isnt-murder/1753983982

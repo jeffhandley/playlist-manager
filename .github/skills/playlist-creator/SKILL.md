@@ -67,7 +67,7 @@ Once the user is satisfied with the track list, look up each track on Apple Musi
 For each track:
 1. Search Apple Music for the song: fetch `https://music.apple.com/us/search?term={song}+{artist}`
 2. Find the matching song result and capture its permalink URL
-3. Format: `https://music.apple.com/us/song/{slug}/{songId}`
+3. Format: `https://music.apple.com/us/song/{slug}/{songId}` — always use `/song/` URLs, never `/album/` URLs
 
 If a song cannot be found on Apple Music, leave it as plain text (no link) and add a note.
 

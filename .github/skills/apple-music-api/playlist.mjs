@@ -230,6 +230,9 @@ export async function backupPlaylist(playlistName) {
  * Handles formats like:
  *   https://music.apple.com/us/song/slug/123456789
  *   https://music.apple.com/us/album/slug/123456789?i=987654321
+ *
+ * Note: Album URLs without a ?i= track parameter cannot be resolved to a
+ * song ID and will return null.  Prefer /song/ URLs — see normalizeToSongUrl().
  */
 export function extractSongId(url) {
   if (!url) return null;
@@ -243,6 +246,32 @@ export function extractSongId(url) {
   if (albumTrackMatch) return albumTrackMatch[1];
 
   return null;
+}
+
+/**
+ * Normalize an Apple Music URL to the canonical /song/ format.
+ * Converts album URLs with ?i= track parameters to direct song URLs.
+ * Returns the original URL unchanged if it is already a /song/ URL or
+ * cannot be converted (e.g. album URL without ?i= parameter).
+ */
+export function normalizeToSongUrl(url) {
+  if (!url) return url;
+
+  // Already a /song/ URL — strip any query params and return
+  if (url.includes("/song/")) {
+    return url.split("?")[0];
+  }
+
+  // Album URL with ?i= track param: convert to /song/{slug}/{trackId}
+  const albumMatch = url.match(/\/album\/([^/]+)\/\d+[?&]i=(\d+)/);
+  if (albumMatch) {
+    const slug = albumMatch[1];
+    const trackId = albumMatch[2];
+    return `https://music.apple.com/us/song/${slug}/${trackId}`;
+  }
+
+  // Album URL without ?i= — cannot convert without a lookup
+  return url;
 }
 
 /**

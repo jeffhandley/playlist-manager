@@ -60,6 +60,8 @@ For each album permalink (in chronological order across all artists), visit the 
 
 Record each track with: song title, artist, album name, year, and the individual song permalink (derived from the album page).
 
+**Important:** Always use `/song/` permalinks (`https://music.apple.com/us/song/{slug}/{songId}`), not `/album/` URLs. When scraping album pages, extract the direct song permalink for each track — do not construct URLs using the album ID.
+
 ### Phase 5: Save the Playlist
 
 Save the playlist as a markdown file in the `playlists/` folder.
