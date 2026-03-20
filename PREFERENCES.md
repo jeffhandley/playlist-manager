@@ -91,6 +91,22 @@ Exclude songs that are primarily holiday-themed (Christmas, Halloween, etc.), re
 - Christmas songs, Easter songs, Halloween novelty songs
 - Seasonal music of any genre
 
+### 6. Musical / Show Tune Songs
+
+Exclude songs that originated from Broadway stage musicals or prominent film musicals (productions where song-and-dance performance is central to the narrative). These songs carry a theatrical, show-tune quality that generally does not fit pop-oriented playlists.
+
+**Examples to avoid:**
+- Songs from Broadway productions: "Stranger in Paradise" (from *Kismet*), "People" (from *Funny Girl*), "Hernando's Hideaway" (from *The Pajama Game*), "Aquarius/Let the Sunshine In" (from *Hair*)
+- Songs from film musicals: "You're the One That I Want," "Summer Nights," "Grease" (from the *Grease* film)
+- Any song whose primary cultural identity is as a stage or film musical number
+
+**The test:** Would a typical listener describe this song as a "show tune" or recognize it as being from a musical? If yes, exclude it.
+
+**Acceptable exceptions:**
+- Songs that happened to be *covered in* a musical but originated as standalone pop songs
+- Film soundtrack songs from non-musical films (even if the film has original songs)
+- Songs from musical films that have so thoroughly crossed into pop culture that they are universally perceived as pop songs rather than show tunes — only include on a case-by-case basis with a very high bar
+
 ---
 
 ## Notes
