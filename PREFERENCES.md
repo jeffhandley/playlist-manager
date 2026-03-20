@@ -112,6 +112,12 @@ Exclude songs that originated from Broadway stage musicals or prominent film mus
 
 ---
 
+## Explicit Versions Preferred
+
+When a song is available in both **clean (censored)** and **explicit (uncensored)** versions on Apple Music, **always link to the explicit version**. Clean versions should only be used when no explicit alternative exists on Apple Music.
+
+---
+
 ## Notes
 
 - When building or updating playlists, always check this file to ensure excluded content is not included

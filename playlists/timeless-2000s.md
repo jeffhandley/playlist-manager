@@ -318,7 +318,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 [61]: https://music.apple.com/us/album/just-like-a-pill-live/1565442393?i=1565442394&uo=4
 [62]: https://music.apple.com/us/album/fell-in-love-with-a-girl/1533513361?i=1533513365&uo=4
 [63]: https://music.apple.com/us/album/the-middle/1450030107?i=1450030115&uo=4
-[64]: https://music.apple.com/us/song/cleanin-out-my-closet/1440821625
+[64]: https://music.apple.com/us/song/cleanin-out-my-closet/1440903549
 [65]: https://music.apple.com/us/album/a-moment-like-this/304143593?i=304143657&uo=4
 [66]: https://music.apple.com/us/album/work-it/1264578?i=1264527&uo=4
 [67]: https://music.apple.com/us/album/lose-yourself/1440903339?i=1440903439&uo=4
