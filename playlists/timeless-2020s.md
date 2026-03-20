@@ -198,7 +198,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [49]: https://music.apple.com/us/song/take-my-breath/1603164239
 [50]: https://music.apple.com/us/song/easy-on-me/1590036021
 [51]: https://music.apple.com/us/song/ghost/1556170100
-[52]: https://music.apple.com/us/song/abcdefu-originally-performed-by-gayle-karaoke-instrumental/1602426029
+[52]: https://music.apple.com/us/song/abcdefu/1610618872
 [53]: https://music.apple.com/us/song/cold-heart-pnau-remix/1578986673
 [54]: https://music.apple.com/us/song/heat-waves/1508562516
 [55]: https://music.apple.com/us/song/we-dont-talk-about-bruno/1594677760
