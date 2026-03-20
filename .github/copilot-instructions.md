@@ -10,6 +10,8 @@ When asked to create or modify a playlist, use the **playlist-creator** skill (`
 
 **Every track must have a verified Apple Music permalink.** Do NOT generate URLs from memory or training data — they will be stale and broken.
 
+**Always use `/song/` URLs, never `/album/` URLs.** The canonical format is `https://music.apple.com/us/song/{slug}/{songId}`. Album URLs (`/album/{slug}/{albumId}?i={trackId}`) are not acceptable — they are fragile and depend on query parameters that can break.
+
 To get valid permalinks:
 1. **Web search** for each track on Apple Music: search `site:music.apple.com "{song title}" "{artist}"`
 2. **Fetch the search results page** to extract the actual URL
