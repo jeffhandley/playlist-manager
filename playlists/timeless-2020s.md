@@ -1,6 +1,6 @@
 # Timeless 2020s
 
-A curated journey through the first half of the decade that redefined how we discover, share, and experience music. Born in pandemic lockdowns and propelled by TikTok virality, streaming-first releases, and genre-blurring creativity, the 2020s gave us disco-pop revivals, country-rap crossovers, Latin urbano dominance, K-pop's global takeover, and the rise of bedroom-produced hits. From Olivia Rodrigo's heartbreak anthems to Kendrick Lamar's cultural statements, this playlist captures the era's restless creative energy. Organized chronologically with 2–3 standout hits per month, spanning January 2020 through mid-2025.
+A curated journey through the first half of the decade that redefined how we discover, share, and experience music. Born in pandemic lockdowns and propelled by TikTok virality, streaming-first releases, and genre-blurring creativity, the 2020s gave us disco-pop revivals, country-rap crossovers, K-pop's global takeover, and the rise of bedroom-produced hits. From Olivia Rodrigo's heartbreak anthems to Kendrick Lamar's cultural statements, this playlist captures the era's restless creative energy. Organized chronologically with 2–3 standout hits per month, spanning January 2020 through mid-2025.
 
 | # | Song | Artist | Month | Year | Note |
 |---|------|--------|-------|------|------|
@@ -30,14 +30,14 @@ A curated journey through the first half of the decade that redefined how we dis
 | 23 | [Positions][23] | Ariana Grande | Oct | 2020 | R&B-infused pop chart-topper |
 | 24 | [Therefore I Am][24] | Billie Eilish | Nov | 2020 | Defiant electro-pop statement |
 | 25 | [Lonely][25] | Justin Bieber benny blanco | Nov | 2020 | Vulnerable fame reflection |
-| 26 | [Dakiti][26] | Bad Bunny Jhay Cortez | Nov | 2020 | Latin trap global crossover |
+| 26 | [34+35][26] | Ariana Grande | Nov | 2020 | Playful R&B chart-topper with cheeky wordplay |
 | 27 | [Levitating][27] | Dua Lipa | Dec | 2020 | Unstoppable disco-pop earworm |
 | 28 | [willow][28] | Taylor Swift | Dec | 2020 | evermore's enchanting lead single |
 | | | | | **2021** | |
 | 29 | [drivers license][29] | Olivia Rodrigo | Jan | 2021 | Heartbreak heard around the world |
 | 30 | [Astronaut in the Ocean][30] | Masked Wolf | Jan | 2021 | Australian rap viral sensation |
 | 31 | [Leave the Door Open][31] | Silk Sonic | Feb | 2021 | Retro soul revival masterclass |
-| 32 | [telepatia][32] | Kali Uchis | Feb | 2021 | Dreamy bilingual R&B gem |
+| 32 | [Calling My Phone][32] | Lil Tjay ft. 6LACK | Feb | 2021 | Haunting melodic rap anthem of longing peaked at #3 |
 | 33 | [Peaches][33] | Justin Bieber | Mar | 2021 | Breezy R&B collaboration hit |
 | 34 | [Up][34] | Cardi B | Mar | 2021 | High-energy hip-hop banger |
 | 35 | [MONTERO (Call Me by Your Name)][35] | Lil Nas X | Apr | 2021 | Boundary-pushing cultural moment |
@@ -92,7 +92,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | 82 | [Die For You][82] | The Weeknd Ariana Grande | Feb | 2023 | Sleeper hit finally peaked |
 | 83 | [Daylight][83] | David Kushner | Mar | 2023 | Gothic pop breakout sensation |
 | 84 | [Players][84] | Coi Leray | Mar | 2023 | Carefree rap-pop earworm |
-| 85 | [Ella Baila Sola][85] | Eslabon Armado Peso Pluma | Apr | 2023 | Regional Mexican goes mainstream |
+| 85 | [Favorite Song][85] | Toosii | Apr | 2023 | Tender R&B love letter became viral TikTok anthem |
 | 86 | [Fukumean][86] | Gunna | Apr | 2023 | Comeback trap hit post-controversy |
 | 87 | [Padam Padam][87] | Kylie Minogue | May | 2023 | Dance-pop legend comeback anthem |
 | 88 | [Search & Rescue][88] | Drake | May | 2023 | Sampled-driven Drake standout |
@@ -172,13 +172,13 @@ A curated journey through the first half of the decade that redefined how we dis
 [23]: https://music.apple.com/us/song/positions/1553953912
 [24]: https://music.apple.com/us/song/therefore-i-am/1564531181
 [25]: https://music.apple.com/us/song/lonely/1535542271
-[26]: https://music.apple.com/us/song/dakiti-remix-mixed/1747060587
+[26]: https://music.apple.com/us/song/34-35/1537486672
 [27]: https://music.apple.com/us/song/levitating/1538003843
 [28]: https://music.apple.com/us/song/willow/1544276228
 [29]: https://music.apple.com/us/song/drivers-license/1560735480
 [30]: https://music.apple.com/us/song/astronaut-in-the-ocean/1568740033
 [31]: https://music.apple.com/us/song/leave-the-door-open/1612867242
-[32]: https://music.apple.com/us/song/telepata/1541731262
+[32]: https://music.apple.com/us/song/calling-my-phone/1560913728
 [33]: https://music.apple.com/us/song/peaches-feat-daniel-caesar-givon/1556170101
 [34]: https://music.apple.com/us/song/up/1552255040
 [35]: https://music.apple.com/us/song/montero-call-me-by-your-name/1559318719
@@ -198,7 +198,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [49]: https://music.apple.com/us/song/take-my-breath/1603164239
 [50]: https://music.apple.com/us/song/easy-on-me/1590036021
 [51]: https://music.apple.com/us/song/ghost/1556170100
-[52]: https://music.apple.com/us/song/abcdefu-originally-performed-by-gayle-karaoke-instrumental/1602426029
+[52]: https://music.apple.com/us/song/abcdefu/1610618872
 [53]: https://music.apple.com/us/song/cold-heart-pnau-remix/1578986673
 [54]: https://music.apple.com/us/song/heat-waves/1508562516
 [55]: https://music.apple.com/us/song/we-dont-talk-about-bruno/1594677760
@@ -231,7 +231,7 @@ A curated journey through the first half of the decade that redefined how we dis
 [82]: https://music.apple.com/us/song/die-for-you-remix/1673432343
 [83]: https://music.apple.com/us/song/daylight/1796004433
 [84]: https://music.apple.com/us/song/players/1663560769
-[85]: https://music.apple.com/us/song/ella-baila-sola/1677446410
+[85]: https://music.apple.com/us/song/favorite-song/1670756419
 [86]: https://music.apple.com/us/song/umean/1693517755
 [87]: https://music.apple.com/us/song/padam-padam/1693600095
 [88]: https://music.apple.com/us/song/search-rescue-mixed/1695973076
