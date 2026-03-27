@@ -1,0 +1,32 @@
+name: Sync Playlist to Spotify
+
+on:
+  workflow_dispatch:
+    inputs:
+      playlist:
+        description: 'Playlist file to sync (e.g. playlists/classic-rock.md)'
+        required: true
+        type: string
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync playlist to Spotify
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: node .github/skills/spotify/sync.mjs "${{ inputs.playlist }}"
