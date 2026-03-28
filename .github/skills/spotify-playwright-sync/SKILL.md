@@ -20,6 +20,38 @@ Activate this skill when the user wants to:
 - **Node.js v18+** installed (for the parse helper)
 - **Spotify account** (free or Premium)
 
+### Playwright MCP Server Setup
+
+The Playwright MCP server must be configured before this skill can be used. Add the following to your MCP server configuration:
+
+**For VS Code / GitHub Copilot** (`.vscode/mcp.json`):
+```json
+{
+  "servers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
+    }
+  }
+}
+```
+
+**For Claude Desktop** (`claude_desktop_config.json`):
+```json
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
+    }
+  }
+}
+```
+
+After adding the configuration, restart your editor or AI client. Verify the MCP server is active by checking that browser tools (`browser_navigate`, `browser_snapshot`, etc.) appear in the available tools.
+
+> **If the Playwright MCP server tools are not available**, this skill cannot execute. Ask the user to configure the MCP server using the instructions above.
+
 ## Workflow Overview
 
 1. **Parse** the playlist markdown into a track list
