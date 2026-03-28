@@ -67,6 +67,7 @@ Secrets are stored exclusively in **GitHub repository secrets** and injected int
 Two GitHub Actions workflows are available and can be triggered on request:
 
 - **Sync Playlists** — Use the **sync-playlists** skill to sync one or all playlists to Apple Music via the API. Runs automatically on push to `main`, or trigger manually with `gh workflow run "Sync Playlists to Apple Music"`.
+- **Sync to Spotify** — Use the **spotify-playwright-sync** skill to sync a playlist to Spotify via browser automation. This is a local-only agent skill that uses the Playwright MCP server — no Spotify Premium or API keys required.
 
 For playlist validation:
 
@@ -82,7 +83,8 @@ For playlist validation:
 | **validate-urls** | Validate and fix Apple Music permalinks (agent skill) |
 | **apple-music-sync** | Local browser-based sync (Playwright) |
 | **apple-music-api** | API-based sync tools and utilities |
+| **spotify-playwright-sync** | Sync playlists to Spotify via Playwright MCP browser automation (no Premium required) |
 
 ## Managed Playlist Marker
 
-All synced playlists get a 🤖 emoji appended to their name in Apple Music. Backup playlists use a 🔙 marker. These markers are managed by the sync tools — do not include them in playlist markdown headings.
+All synced playlists get a 🤖 emoji appended to their name in Apple Music and Spotify. Backup playlists use a 🔙 marker. These markers are managed by the sync tools — do not include them in playlist markdown headings.

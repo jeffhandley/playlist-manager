@@ -6,7 +6,7 @@ A GitHub Copilot skill for creating and managing music playlists. Describe the m
 
 - **Song Discovery** — searches the web for songs matching your description
 - **Iterative Refinement** — add, remove, or swap tracks until the playlist is perfect
-- **Streaming Service Integration** — syncs playlists to Apple Music via the web player
+- **Streaming Service Integration** — syncs playlists to Apple Music via the web player, and to Spotify via the Playwright MCP server
 - **Playlist Archive** — finalized playlists are saved as markdown in the `playlists/` folder
 
 ## Getting Started
@@ -17,6 +17,7 @@ This repo includes two [GitHub Copilot skills](.github/skills/) that work togeth
 |-------|-------------|
 | [playlist-creator](.github/skills/playlist-creator/SKILL.md) | Build and manage playlists — create new ones interactively or manage existing ones using their playlist-specific instructions |
 | [apple-music-sync](.github/skills/apple-music-sync/SKILL.md) | Sync a playlist to Apple Music via the web player using Playwright — no developer enrollment or API keys needed |
+| [spotify-playwright-sync](.github/skills/spotify-playwright-sync/SKILL.md) | Sync a playlist to Spotify via the Playwright MCP server — no Premium subscription or API keys needed |
 
 Just describe what you want:
 
