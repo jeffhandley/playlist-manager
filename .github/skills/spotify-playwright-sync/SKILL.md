@@ -148,61 +148,92 @@ The managed playlist name is the playlist name from Phase 1 with ` 🤖` appende
 
 1. Click the **"+"** or **"Create playlist"** button (usually in the sidebar near "Your Library")
 2. A new playlist will be created with a default name (e.g., "My Playlist #1")
-3. Take a snapshot to find the name/title input field
-4. Clear the default name and type the managed playlist name: `{name} 🤖`
-5. If a description field is visible, enter the playlist description from Phase 1
-6. Save/confirm the new playlist
+3. To rename: click the **playlist title heading** on the playlist page — this opens the **"Edit details"** dialog
+4. In the dialog, clear the **"Name"** field and type the managed playlist name: `{name} 🤖`
+5. Fill in the **"Description"** field with the playlist description from Phase 1
+6. Click **"Save"** to confirm
 
 ---
 
 ## Phase 4: Add Tracks
 
-Process each track from the parsed list. Work through them sequentially.
+Use the **in-playlist search** to add tracks. This is faster and more reliable than the main Spotify search.
 
-### For each track:
+### Open the in-playlist search
 
-1. **Navigate to search**: Click the "Search" link/icon in the sidebar or top navigation
+While viewing the playlist, look for the **"Find more"** button or a searchbox labeled **"Search for songs or episodes"** at the bottom of the track list. Click it to activate the in-playlist search.
 
-2. **Enter search query**: Click the search input field and type:
-   ```
-   {song} {artist}
-   ```
-   Keep the query concise — use just the song title and artist name. If the song title is very long (>50 chars), truncate it.
+### CRITICAL: Selector for the Add button
 
-3. **Wait for results**: Take a snapshot after typing to see the search results
+The Spotify web player shows **three grids** with "Add to Playlist" buttons:
 
-4. **Find the best match**:
-   - Look for results in the "Songs" section (not Albums, Artists, or Playlists)
-   - Prefer an exact match: same song title AND same artist name
-   - Accept a close match: song title matches, artist is a slight variation (e.g., "feat." differences)
-   - Skip "Live" or "Remix" versions unless the original track specifies those
-   - If no "Songs" section is visible, look for individual track results with a play button
+1. **`aria-label="{Playlist Name} 🤖"`** — existing playlist tracks (these have `aria-label="Add to playlist"` with lowercase 'p', no `data-testid`)
+2. **`aria-label="Top"`** — search results ← **USE THIS ONE**
+3. **`aria-label="Recommended based on what's in this playlist"`** — recommendations (looks identical to #2)
 
-5. **Add to playlist**: Once you've identified the correct track:
-   - Right-click on the track row (or look for a "⋯" / "more options" button on the track)
-   - In the context menu, click **"Add to playlist"**
-   - A submenu will appear listing the user's playlists
-   - Click the managed playlist name (`{name} 🤖`)
-   - If the playlist appears with a checkmark, the track is already in it
+⚠️ If you use a generic selector like `button[data-testid="add-to-playlist-button"].first()`, it will match buttons from the **Recommended** section, NOT the search results. You **must** scope to the `[aria-label="Top"]` grid.
 
-6. **Report progress**: After each track (or every 5–10 tracks), report progress:
-   ```
-   [12/42] ✓ Song Title — Artist Name
-   ```
+### Automation pattern
 
-7. **Handle failures**: If a track can't be found after reasonable searching:
-   - Try a simplified search: just the song title alone
-   - Try alternate spelling or removing special characters
-   - If still not found, log it as failed and move on:
-     ```
-     [13/42] ✗ Song Title — Artist Name (not found)
-     ```
+Process tracks in batches of 20–25 using `browser_run_code` for efficiency:
 
-### Rate limiting and politeness
+```javascript
+async (page) => {
+  const tracks = [
+    { idx: 1, song: "Song Title", artist: "Artist Name" },
+    // ... more tracks
+  ];
 
-- Add a brief pause between searches (1–2 seconds) to avoid overwhelming the UI
-- If the page becomes unresponsive, wait a few seconds and take a snapshot to reassess
-- If errors accumulate (3+ consecutive failures), reload the page and try resuming
+  const searchBox = page.getByRole('searchbox', { name: 'Search for songs or episodes' });
+  const topGrid = page.locator('[aria-label="Top"]').first();
+  const results = [];
+
+  for (const track of tracks) {
+    try {
+      await searchBox.click();
+      await searchBox.fill('');
+      await searchBox.fill(`${track.song} ${track.artist}`);
+      await page.waitForTimeout(2000); // Wait for search results to load
+
+      const addBtn = topGrid.locator('button[data-testid="add-to-playlist-button"]').first();
+      try {
+        await addBtn.waitFor({ state: 'visible', timeout: 5000 });
+        await addBtn.click();
+        await page.waitForTimeout(800); // Wait for add confirmation
+        results.push(`[${track.idx}/${tracks.length}] ✓ ${track.song} — ${track.artist}`);
+      } catch {
+        results.push(`[${track.idx}/${tracks.length}] ✗ ${track.song} — ${track.artist} (not found)`);
+      }
+    } catch (e) {
+      results.push(`[${track.idx}/${tracks.length}] ✗ ${track.song} — ${track.artist} (error)`);
+    }
+  }
+
+  return results.join('\n');
+}
+```
+
+### Key timing values
+
+- **2000ms** after filling the search box — allows search results to load
+- **800ms** after clicking add — allows the confirmation toast to appear
+- **5000ms** timeout waiting for the add button — handles slow searches
+
+### Handle failures
+
+If a track can't be found:
+- Try a simplified search: just the song title alone
+- Try alternate spelling or removing special characters
+- If still not found, log it as failed and continue with the next track
+
+### Progress reporting
+
+Report progress after each batch:
+```
+[1/108] ✓ Song Title — Artist Name
+[2/108] ✓ Song Title — Artist Name
+[3/108] ✗ Song Title — Artist Name (not found)
+```
 
 ---
 
