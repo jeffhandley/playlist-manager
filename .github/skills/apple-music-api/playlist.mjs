@@ -7,6 +7,10 @@ import { apiFetch, searchCatalog } from "./api.mjs";
 const PLAYLIST_MARKER = " 🤖";
 const BACKUP_MARKER = " 🔙";
 
+function escapeRegExp(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
 export function managedName(name) {
   return name.endsWith(PLAYLIST_MARKER) ? name : name + PLAYLIST_MARKER;
 }
@@ -164,21 +168,27 @@ async function tryRenamePlaylist(playlistId, newName) {
 
 /**
  * Back up a managed playlist before sync.
- * Renames it to "<name> 🔙 (yyyy-MM-dd)".
- * If today's backup already exists, skips.
+ * Renames it to "<name> 🔙 (yyyy-MM-dd-N)" where N is a numeric suffix.
+ * Supports multiple backups per day by incrementing the suffix.
  */
 export async function backupPlaylist(playlistName) {
   assertManaged(playlistName);
 
   const today = new Date().toISOString().slice(0, 10);
-  const backupName = playlistName.replace(PLAYLIST_MARKER, "") + ` ${BACKUP_MARKER} (${today})`;
+  const baseName = playlistName.replace(PLAYLIST_MARKER, "");
 
-  // Check if today's backup already exists
-  const existing = await findPlaylist(backupName);
-  if (existing) {
-    console.log(`  Backup already exists: "${backupName}" — skipping`);
-    return;
+  // Find the next available backup name with numeric suffix
+  const allPlaylists = await listPlaylists();
+  const todayPattern = new RegExp(`^${escapeRegExp(baseName)}\\s*${escapeRegExp(BACKUP_MARKER)}\\s*\\(${escapeRegExp(today)}-(\\d+)\\)$`);
+  let maxSuffix = 0;
+  for (const p of allPlaylists) {
+    const match = p.name.match(todayPattern);
+    if (match) {
+      maxSuffix = Math.max(maxSuffix, parseInt(match[1], 10));
+    }
   }
+  const suffix = maxSuffix + 1;
+  const backupName = `${baseName}${BACKUP_MARKER} (${today}-${suffix})`;
 
   // Find the current playlist
   const playlist = await findPlaylist(playlistName);
