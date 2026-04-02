@@ -459,7 +459,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 426 | [You Can't Always Get What You Want (Remastered 2019)][426] | The Rolling Stones | Let It Bleed | 1969 |  |
 | 427 | [Overture][427] | The Who | Tommy | 1969 |  |
 | 428 | [It's A Boy][428] | The Who | Tommy | 1969 |  |
-| 429 | [1776][429] | The Who | Tommy | 1969 |  |
+| 429 | [1777][429] | The Who | Tommy | 1969 |  |
 | 430 | [Amazing Journey][430] | The Who | Tommy | 1969 |  |
 | 431 | [Sparks][431] | The Who | Tommy | 1969 |  |
 | 432 | [Eyesight To The Blind (The Hawker)][432] | The Who | Tommy | 1969 |  |
@@ -1498,334 +1498,335 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | 1465 | [Going to Mexico (Alternate Version)][1465] | Steve Miller Band | Abracadabra | 1982 |  |
 | 1466 | [Quicksilver Girl (Alternate Version)][1466] | Steve Miller Band | Abracadabra | 1982 |  |
 | 1467 | [Jackson-Kent Blues (Alternate Version)][1467] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1468 | [Hesitation Blues][1468] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1469 | [Seasons (Alternate Version)][1469] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1470 | [Say Wow!][1470] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1471 | [Space Cowboy (Instrumental)][1471] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1472 | [The Lovin' Cup][1472] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1473 | [Killing Floor][1473] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1474 | [Echoplex Blues (Instrumental)][1474] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1475 | [Rock’n Me (Alternate Version 1)][1475] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1476 | [Rock’n Me (Alternate Version 2)][1476] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1477 | [Tain’t It the Truth][1477] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1478 | [Freight Train Blues][1478] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1479 | [True Fine Love (Alternate Version)][1479] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1480 | [The Stake (Alternate Version)][1480] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1481 | [My Babe (Alternate Version)][1481] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1482 | [That’s the Way It’s Got to Be][1482] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1483 | [Double Trouble][1483] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1484 | [Love Is Strange][1484] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1485 | [All Your Love (I Miss Loving) [Alternate Version]][1483] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1486 | [Fly Like an Eagle (Alternate Version)][1486] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1487 | [Mercury Blues (Alternate Version)][1487] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1488 | [Jet Airliner (Alternate Version)][1488] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1489 | [Swingtown (Alternate Version)][1489] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1490 | [Who Do You Love][1490] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1491 | [Abracadabra][1491] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1492 | [Macho City (Short Version)][1492] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1493 | [Bizzy's Blue Tango (Instrumental)][1493] | Steve Miller Band | Abracadabra | 1982 |  |
-| 1494 | [It's Your Turn (feat. Andy Fairweather Low)][1494] | The Who | Its Hard | 1982 |  |
-| 1495 | [Cooks Country][1495] | The Who | Its Hard | 1982 |  |
-| 1496 | [It's Hard][1496] | The Who | Its Hard | 1982 |  |
-| 1497 | [Dangerous][1497] | The Who | Its Hard | 1982 |  |
-| 1498 | [I've Known No War][1498] | The Who | Its Hard | 1982 |  |
-| 1499 | [One Life's Enough][1499] | The Who | Its Hard | 1982 |  |
-| 1500 | [One At a Time][1500] | The Who | Its Hard | 1982 |  |
-| 1501 | [Why Did I Fall For That][1501] | The Who | Its Hard | 1982 |  |
-| 1502 | [Cry If You Want][1502] | The Who | Its Hard | 1982 |  |
-| 1503 | [Rising Power][1503] | AC/DC | Flick of the Switch | 1983 |  |
-| 1504 | [This House Is On Fire][1504] | AC/DC | Flick of the Switch | 1983 |  |
-| 1505 | [Flick of the Switch][1505] | AC/DC | Flick of the Switch | 1983 |  |
-| 1506 | [Nervous Shakedown][1506] | AC/DC | Flick of the Switch | 1983 |  |
-| 1507 | [Landslide][1507] | AC/DC | Flick of the Switch | 1983 |  |
-| 1508 | [Guns for Hire][1508] | AC/DC | Flick of the Switch | 1983 |  |
-| 1509 | [Deep In the Hole][1509] | AC/DC | Flick of the Switch | 1983 |  |
-| 1510 | [Bedlam In Belgium][1510] | AC/DC | Flick of the Switch | 1983 |  |
-| 1511 | [Badlands][1511] | AC/DC | Flick of the Switch | 1983 |  |
-| 1512 | [Brain Shake][1512] | AC/DC | Flick of the Switch | 1983 |  |
-| 1513 | [Trashed][1513] | Black Sabbath | Born Again | 1983 |  |
-| 1514 | [Stonehenge][1514] | Black Sabbath | Born Again | 1983 |  |
-| 1515 | [Disturbing the Priest][1515] | Black Sabbath | Born Again | 1983 |  |
-| 1516 | [The Dark][1516] | Black Sabbath | Born Again | 1983 |  |
-| 1517 | [Zero the Hero][1517] | Black Sabbath | Born Again | 1983 |  |
-| 1518 | [Digital Bitch][1518] | Black Sabbath | Born Again | 1983 |  |
-| 1519 | [Born Again][1519] | Black Sabbath | Born Again | 1983 |  |
-| 1520 | [Hot Line][1520] | Black Sabbath | Born Again | 1983 |  |
-| 1521 | [Keep It Warm][1521] | Black Sabbath | Born Again | 1983 |  |
-| 1522 | [Separate Ways (Worlds Apart)][1522] | Journey | Frontiers | 1983 | Hits |
-| 1523 | [Faithfully][1523] | Journey | Frontiers | 1983 | Hits |
-| 1524 | [The Post War Dream][1524] | Pink Floyd | The Final Cut | 1983 |  |
-| 1525 | [Your Possible Pasts][1525] | Pink Floyd | The Final Cut | 1983 |  |
-| 1526 | [One of the Few][1526] | Pink Floyd | The Final Cut | 1983 |  |
-| 1527 | [When the Tigers Broke Free][1527] | Pink Floyd | The Final Cut | 1983 |  |
-| 1528 | [The Hero's Return][1528] | Pink Floyd | The Final Cut | 1983 |  |
-| 1529 | [The Gunner's Dream][1529] | Pink Floyd | The Final Cut | 1983 |  |
-| 1530 | [Paranoid Eyes][1530] | Pink Floyd | The Final Cut | 1983 |  |
-| 1531 | [Get Your Filthy Hands Off My Desert][1531] | Pink Floyd | The Final Cut | 1983 |  |
-| 1532 | [The Fletcher Memorial Home][1532] | Pink Floyd | The Final Cut | 1983 |  |
-| 1533 | [Southampton Dock][1533] | Pink Floyd | The Final Cut | 1983 |  |
-| 1534 | [The Final Cut][1534] | Pink Floyd | The Final Cut | 1983 |  |
-| 1535 | [Not Now John][1535] | Pink Floyd | The Final Cut | 1983 |  |
-| 1536 | [Two Suns In the Sunset][1536] | Pink Floyd | The Final Cut | 1983 |  |
-| 1537 | [Mr. Roboto][1537] | Styx | Kilroy Was Here | 1983 |  |
-| 1538 | [Cold War][1538] | Styx | Kilroy Was Here | 1983 |  |
-| 1539 | [Don't Let It End][1539] | Styx | Kilroy Was Here | 1983 |  |
-| 1540 | [High Time][1540] | Styx | Kilroy Was Here | 1983 |  |
-| 1541 | [Heavy Metal Poisoning][1541] | Styx | Kilroy Was Here | 1983 |  |
-| 1542 | [Just Get Through This Night][1542] | Styx | Kilroy Was Here | 1983 |  |
-| 1543 | [Double Life][1543] | Styx | Kilroy Was Here | 1983 |  |
-| 1544 | [Haven't We Been Here Before?][1544] | Styx | Kilroy Was Here | 1983 |  |
-| 1545 | [Don't Let It End (Reprise)][1545] | Styx | Kilroy Was Here | 1983 |  |
-| 1546 | [Undercover of the Night][1546] | The Rolling Stones | Undercover | 1983 |  |
-| 1547 | [She Was Hot][1547] | The Rolling Stones | Undercover | 1983 |  |
-| 1548 | [Tie You Up (The Pain of Love)][1548] | The Rolling Stones | Undercover | 1983 |  |
-| 1549 | [Wanna Hold You][1549] | The Rolling Stones | Undercover | 1983 |  |
-| 1550 | [Feel On Baby][1550] | The Rolling Stones | Undercover | 1983 |  |
-| 1551 | [Too Much Blood][1551] | The Rolling Stones | Undercover | 1983 |  |
-| 1552 | [Pretty Beat Up][1552] | The Rolling Stones | Undercover | 1983 |  |
-| 1553 | [Too Tough][1553] | The Rolling Stones | Undercover | 1983 |  |
-| 1554 | [All the Way Down][1554] | The Rolling Stones | Undercover | 1983 |  |
-| 1555 | [It Must Be Hell][1555] | The Rolling Stones | Undercover | 1983 |  |
-| 1556 | [Gimme All Your Lovin'][1556] | ZZ Top | Eliminator | 1983 | Hits |
-| 1557 | [Sharp Dressed Man][1557] | ZZ Top | Eliminator | 1983 | Hits |
-| 1558 | [Legs (Edit)][1558] | ZZ Top | Eliminator | 1983 | Hits |
-| 1559 | [Got Me Under Pressure][1559] | ZZ Top | Eliminator | 1983 | Hits |
-| 1560 | [Perfect Strangers][1560] | Deep Purple | Perfect Strangers | 1984 | Hits |
-| 1561 | [Knocking At Your Back Door][1561] | Deep Purple | Perfect Strangers | 1984 | Hits |
-| 1562 | [Growing Up the Hard Way][1562] | Foreigner | Agent Provocateur | 1984 |  |
-| 1563 | [Stranger In My Own House][1563] | Foreigner | Agent Provocateur | 1984 |  |
-| 1564 | [A Love In Vain][1564] | Foreigner | Agent Provocateur | 1984 |  |
-| 1565 | [Two Different Worlds][1565] | Foreigner | Agent Provocateur | 1984 |  |
-| 1566 | [She's Too Tough][1566] | Foreigner | Agent Provocateur | 1984 |  |
-| 1567 | Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1568 | Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1569 | Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1570 | The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1571 | The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1572 | Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1573 | Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1574 | Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
-| 1575 | Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1576 | Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1577 | Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1578 | The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1579 | The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1580 | Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1581 | Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1582 | Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
-| 1583 | [Radio 1][1583] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1584 | [Italian X Rays][1584] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1585 | [Daybreak][1585] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1586 | [Shangri-La][1586] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1587 | [Harmony of the Spheres 1][1587] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1588 | [Radio 2][1588] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1589 | [Bongo Bongo][1589] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1590 | [Out of the Night][1590] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1591 | [Golden Opportunity][1591] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1592 | [The Hollywood Dream][1592] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1593 | [One In a Million][1593] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1594 | [Harmony of the Spheres 2][1594] | Steve Miller Band | Italian X Rays | 1984 |  |
-| 1595 | [Fly On the Wall][1595] | AC/DC | Fly on the Wall | 1985 |  |
-| 1596 | [Shake Your Foundations][1596] | AC/DC | Fly on the Wall | 1985 |  |
-| 1597 | [First Blood][1597] | AC/DC | Fly on the Wall | 1985 |  |
-| 1598 | [Danger][1598] | AC/DC | Fly on the Wall | 1985 |  |
-| 1599 | [Sink the Pink][1599] | AC/DC | Fly on the Wall | 1985 |  |
-| 1600 | [Playing with Girls][1600] | AC/DC | Fly on the Wall | 1985 |  |
-| 1601 | [Stand Up][1601] | AC/DC | Fly on the Wall | 1985 |  |
-| 1602 | [Hell or High Water][1602] | AC/DC | Fly on the Wall | 1985 |  |
-| 1603 | [Back In Business][1603] | AC/DC | Fly on the Wall | 1985 |  |
-| 1604 | [Send for the Man][1604] | AC/DC | Fly on the Wall | 1985 |  |
-| 1605 | [Let the Music Do the Talking][1605] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1606 | [My Fist Your Face][1606] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1607 | [Shame On You][1607] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1608 | [The Reason a Dog][1608] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1609 | [Shela][1609] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1610 | [Gypsy Boots][1610] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1611 | [She's On Fire][1611] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1612 | [The Hop][1612] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1613 | [Darkness][1613] | Aerosmith | Done with Mirrors | 1985 |  |
-| 1614 | What About Love | Heart | Heart | 1985 | Hits |
-| 1615 | These Dreams | Heart | Heart | 1985 | Hits |
-| 1616 | Alone | Heart | Heart | 1985 | Hits |
-| 1617 | [The Big Money][1617] | Rush | Power Windows | 1985 |  |
-| 1618 | [Grand Designs][1618] | Rush | Power Windows | 1985 |  |
-| 1619 | [Manhattan Project][1619] | Rush | Power Windows | 1985 |  |
-| 1620 | [Marathon][1620] | Rush | Power Windows | 1985 |  |
-| 1621 | [Territories][1621] | Rush | Power Windows | 1985 |  |
-| 1622 | [Middletown Dreams][1622] | Rush | Power Windows | 1985 |  |
-| 1623 | [Emotion Detector][1623] | Rush | Power Windows | 1985 |  |
-| 1624 | [Mystic Rhythms][1624] | Rush | Power Windows | 1985 |  |
-| 1625 | [In for the Kill][1625] | Black Sabbath | Seventh Star | 1986 |  |
-| 1626 | [No Stranger to Love][1626] | Black Sabbath | Seventh Star | 1986 |  |
-| 1627 | [Turn to Stone][1627] | Black Sabbath | Seventh Star | 1986 |  |
-| 1628 | [Sphinx (The Guardian)][1628] | Black Sabbath | Seventh Star | 1986 |  |
-| 1629 | [Seventh Star][1629] | Black Sabbath | Seventh Star | 1986 |  |
-| 1630 | [Danger Zone][1630] | Black Sabbath | Seventh Star | 1986 |  |
-| 1631 | [Heart Like a Wheel][1631] | Black Sabbath | Seventh Star | 1986 |  |
-| 1632 | [Angry Heart][1632] | Black Sabbath | Seventh Star | 1986 |  |
-| 1633 | [In Memory...][1633] | Black Sabbath | Seventh Star | 1986 |  |
-| 1634 | [Amanda][1634] | Boston | Third Stage | 1986 | Hits |
-| 1635 | [Nobody But You Baby][1635] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1636 | [I Want to Make the World Turn Around][1636] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1637 | [Slinky][1637] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1638 | [Living In the 20th Century][1638] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1639 | [Maelstrom][1639] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1640 | [I Wanna Be Loved (But By Only You)][1640] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1641 | [My Babe][1641] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1642 | [Big Boss Man][1642] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1643 | [Caress Me Baby][1643] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1644 | [Ain't That Lovin' You Baby][1644] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1645 | [Behind the Barn][1645] | Steve Miller Band | Living in the 20th Century | 1986 |  |
-| 1646 | [One Hit (To The Body)][1646] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1647 | [Fight][1647] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1648 | [Harlem Shuffle][1648] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1649 | [Hold Back][1649] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1650 | [Too Rude][1650] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1651 | [Winning Ugly][1651] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1652 | [Back To Zero][1652] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1653 | [Dirty Work][1653] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1654 | [Had It With You][1654] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1655 | [Sleep Tonight][1655] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1656 | [Key To The Highway (Piano Instrumental)][1656] | The Rolling Stones | Dirty Work | 1986 |  |
-| 1657 | [Heart's Done Time][1657] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1658 | [Magic Touch][1658] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1659 | [Rag Doll][1659] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1660 | [Simoriah][1660] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1661 | [Dude (Looks Like a Lady)][1661] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1662 | [St. John][1662] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1663 | [Hangman Jury][1663] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1664 | [Girl Keeps Coming Apart][1664] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1665 | [Angel][1665] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1666 | [Permanent Vacation][1666] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1667 | [I'm Down][1667] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1668 | [The Movie][1668] | Aerosmith | Permanent Vacation | 1987 |  |
-| 1669 | [The Shining][1669] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1670 | [Ancient Warrior][1670] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1671 | [Hard Life to Love][1671] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1672 | [Glory Ride][1672] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1673 | [Born to Lose][1673] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1674 | [Nightmare][1674] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1675 | [Scarlet Pimpernel][1675] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1676 | [Lost Forever][1676] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1677 | [Eternal Idol][1677] | Black Sabbath | The Eternal Idol | 1987 |  |
-| 1678 | [Big Love (2017 Remaster)][1678] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1679 | [Seven Wonders (2017 Remaster)][1679] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1680 | [Everywhere (2017 Remaster)][1680] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1681 | [Caroline (2017 Remaster)][1681] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1682 | [Tango in the Night (2017 Remaster)][1682] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1683 | [Mystified (2017 Remaster)][1683] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1684 | [Little Lies (2017 Remaster)][1684] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1685 | [Family Man (2017 Remaster)][1685] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1686 | [Welcome to the Room... Sara (2017 Remaster)][1686] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1687 | [Isn't It Midnight (2017 Remaster)][1687] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1688 | [When I See You Again (2017 Remaster)][1688] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1689 | [You and I, Pt. II (2017 Remaster)][1689] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1690 | [Down Endless Street (2017 Remaster)][1690] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1691 | [Special Kind of Love (Demo) [2017 Remaster]][1689] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1692 | [Seven Wonders (Early Version) [2017 Remaster]][1690] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1693 | [Tango in the Night (Demo) [2017 Remaster]][1691] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1694 | [Mystified (Alternate Version) [2017 Remaster]][1692] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1695 | [Book of Miracles (Instrumental) [2017 Remaster]][1693] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1696 | [Where We Belong (Demo) [2017 Remaster]][1694] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1697 | [Ricky (2017 Remaster)][1697] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1698 | [Juliet (Run-Through) [2017 Remaster]][1696] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1699 | [Isn't It Midnight (Alternate Mix) [2017 Remaster]][1697] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1700 | [Ooh My Love (Demo) [2017 Remaster]][1698] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1701 | [Mystified (Instrumental Demo) [2017 Remaster]][1699] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1702 | [You and I, Pt. II (Full Version) [2017 Remaster]][1700] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1703 | [Big Love (Extended Remix) [2017 Remaster]][1701] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1704 | [Big Love (House on the Hill Dub) [2017 Remaster]][1702] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1705 | [Big Love (Piano Dub) [2017 Remaster]][1703] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1706 | [Big Love (Remix / Edit) [2017 Remaster]][1704] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1707 | [Seven Wonders (Extended Version) [2017 Remaster]][1705] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1708 | [Seven Wonders (Dub) [2017 Remaster]][1706] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1709 | [Little Lies (Extended Version) [2017 Remaster]][1707] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1710 | [Little Lies (Dub) [2017 Remaster]][1708] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1711 | [Family Man (Extended Vocal Remix) [2017 Remaster]][1709] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1712 | [Family Man (I'm a Jazz Man Dub) [2017 Remaster]][1710] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1713 | [Family Man (Extended Guitar Version) [2017 Remaster]][1711] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1714 | [Family Man (Bonus Beats) [2017 Remaster]][1712] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1715 | [Everywhere (2017 Remaster) [II]][1713] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1716 | [Everywhere (Dub) [2017 Remaster]][1714] | Fleetwood Mac | Tango in the Night | 1987 |  |
-| 1717 | [Counting Every Minute][1717] | Foreigner | Inside Information | 1987 |  |
-| 1718 | [Inside Information][1718] | Foreigner | Inside Information | 1987 |  |
-| 1719 | [The Beat of My Heart][1719] | Foreigner | Inside Information | 1987 |  |
-| 1720 | [Face to Face][1720] | Foreigner | Inside Information | 1987 |  |
-| 1721 | [Out of the Blue][1721] | Foreigner | Inside Information | 1987 |  |
-| 1722 | [A Night to Remember][1722] | Foreigner | Inside Information | 1987 |  |
-| 1723 | [Signs of Life][1723] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1724 | [Learning to Fly][1724] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1725 | [The Dogs of War][1725] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1726 | [One Slip][1726] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1727 | [On the Turning Away][1727] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1728 | [Yet Another Movie][1728] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1729 | [Round and Around][1729] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1730 | [A New Machine, Pt. 1][1730] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1731 | [Terminal Frost][1731] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1732 | [A New Machine, Pt. 2][1732] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1733 | [Sorrow][1733] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
-| 1734 | [Force Ten][1734] | Rush | Hold Your Fire | 1987 |  |
-| 1735 | [Time Stand Still][1735] | Rush | Hold Your Fire | 1987 |  |
-| 1736 | [Open Secrets][1736] | Rush | Hold Your Fire | 1987 |  |
-| 1737 | [Second Nature][1737] | Rush | Hold Your Fire | 1987 |  |
-| 1738 | [Prime Mover][1738] | Rush | Hold Your Fire | 1987 |  |
-| 1739 | [Lock and Key][1739] | Rush | Hold Your Fire | 1987 |  |
-| 1740 | [Mission][1740] | Rush | Hold Your Fire | 1987 |  |
-| 1741 | [Turn the Page][1741] | Rush | Hold Your Fire | 1987 |  |
-| 1742 | [Tai Shan][1742] | Rush | Hold Your Fire | 1987 |  |
-| 1743 | [High Water][1743] | Rush | Hold Your Fire | 1987 |  |
-| 1744 | [Heatseeker][1744] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1745 | [That's the Way I Wanna Rock 'N' Roll][1745] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1746 | [Meanstreak][1746] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1747 | [Go Zone][1747] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1748 | [Kissin' Dynamite][1748] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1749 | [Nick of Time][1749] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1750 | [Some Sin for Nuthin'][1750] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1751 | [Ruff Stuff][1751] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1752 | [Two's Up][1752] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1753 | [This Means War][1753] | AC/DC | Blow Up Your Video | 1988 |  |
-| 1754 | [Young Lust][1754] | Aerosmith | Pump | 1989 |  |
-| 1755 | [F.I.N.E.][1755] | Aerosmith | Pump | 1989 |  |
-| 1756 | [Going Down / Love In an Elevator][1756] | Aerosmith | Pump | 1989 |  |
-| 1757 | [Monkey On My Back][1757] | Aerosmith | Pump | 1989 |  |
-| 1758 | [Water Song / Janie's Got a Gun][1758] | Aerosmith | Pump | 1989 |  |
-| 1759 | [Dulcimer Stomp / The Other Side][1759] | Aerosmith | Pump | 1989 |  |
-| 1760 | [My Girl][1760] | Aerosmith | Pump | 1989 |  |
-| 1761 | [Don't Get Mad, Get Even][1761] | Aerosmith | Pump | 1989 |  |
-| 1762 | [Hoodoo / Voodoo Medicine Man][1762] | Aerosmith | Pump | 1989 |  |
-| 1763 | [What It Takes][1763] | Aerosmith | Pump | 1989 |  |
-| 1764 | [The Gates of Hell (2024 Remaster)][1764] | Black Sabbath | Headless Cross | 1989 |  |
-| 1765 | [Headless Cross (2024 Remaster)][1765] | Black Sabbath | Headless Cross | 1989 |  |
-| 1766 | [Devil & Daughter (2024 Remaster)][1766] | Black Sabbath | Headless Cross | 1989 |  |
-| 1767 | [When Death Calls (2024 Remaster)][1767] | Black Sabbath | Headless Cross | 1989 |  |
-| 1768 | [Kill In the Spirit World (2024 Remaster)][1768] | Black Sabbath | Headless Cross | 1989 |  |
-| 1769 | [Call of the Wild (2024 Remaster)][1769] | Black Sabbath | Headless Cross | 1989 |  |
-| 1770 | [Black Moon (2024 Remaster)][1770] | Black Sabbath | Headless Cross | 1989 |  |
-| 1771 | [Nightwing (2024 Remaster)][1771] | Black Sabbath | Headless Cross | 1989 |  |
-| 1772 | [Cloak and Dagger (2024 Remaster)][1772] | Black Sabbath | Headless Cross | 1989 |  |
-| 1773 | [Show Don't Tell][1773] | Rush | Presto | 1989 |  |
-| 1774 | [Chain Lightning][1774] | Rush | Presto | 1989 |  |
-| 1775 | [The Pass][1775] | Rush | Presto | 1989 |  |
-| 1776 | [War Paint][1776] | Rush | Presto | 1989 |  |
-| 1777 | [Scars][1777] | Rush | Presto | 1989 |  |
-| 1778 | [Presto][1778] | Rush | Presto | 1989 |  |
-| 1779 | [Superconductor][1779] | Rush | Presto | 1989 |  |
-| 1780 | [Anagram (For Mongo)][1780] | Rush | Presto | 1989 |  |
-| 1781 | [Red Tide][1781] | Rush | Presto | 1989 |  |
-| 1782 | [Hand Over Fist][1782] | Rush | Presto | 1989 |  |
-| 1783 | [Available Light][1783] | Rush | Presto | 1989 |  |
-| 1784 | [Sad Sad Sad][1784] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1785 | [Mixed Emotions][1785] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1786 | [Terrifying][1786] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1787 | [Hold On to Your Hat][1787] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1788 | [Hearts for Sale][1788] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1789 | [Blinded By Love][1789] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1790 | [Rock and a Hard Place][1790] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1791 | [Can't Be Seen][1791] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1792 | [Almost Hear You Sigh][1792] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1793 | [Continental Drift][1793] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1794 | [Break the Spell][1794] | The Rolling Stones | Steel Wheels | 1989 |  |
-| 1795 | [Slipping Away][1795] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1468 | [Crossroads (Live)][1468] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1469 | [Hesitation Blues][1469] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1470 | [Seasons (Alternate Version)][1470] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1471 | [Say Wow!][1471] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1472 | [Space Cowboy (Instrumental)][1472] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1473 | [The Lovin' Cup][1473] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1474 | [Killing Floor][1474] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1475 | [Echoplex Blues (Instrumental)][1475] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1476 | [Rock’n Me (Alternate Version 1)][1476] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1477 | [Rock’n Me (Alternate Version 2)][1477] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1478 | [Tain’t It the Truth][1478] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1479 | [Freight Train Blues][1479] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1480 | [True Fine Love (Alternate Version)][1480] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1481 | [The Stake (Alternate Version)][1481] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1482 | [My Babe (Alternate Version)][1482] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1483 | [That’s the Way It’s Got to Be][1483] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1484 | [Double Trouble][1484] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1485 | [Love Is Strange][1485] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1486 | [All Your Love (I Miss Loving) [Alternate Version]][1484] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1487 | [Fly Like an Eagle (Alternate Version)][1487] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1488 | [Mercury Blues (Alternate Version)][1488] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1489 | [Jet Airliner (Alternate Version)][1489] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1490 | [Swingtown (Alternate Version)][1490] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1491 | [Who Do You Love][1491] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1492 | [Abracadabra][1492] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1493 | [Macho City (Short Version)][1493] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1494 | [Bizzy's Blue Tango (Instrumental)][1494] | Steve Miller Band | Abracadabra | 1982 |  |
+| 1495 | [It's Your Turn (feat. Andy Fairweather Low)][1495] | The Who | Its Hard | 1982 |  |
+| 1496 | [Cooks Country][1496] | The Who | Its Hard | 1982 |  |
+| 1497 | [It's Hard][1497] | The Who | Its Hard | 1982 |  |
+| 1498 | [Dangerous][1498] | The Who | Its Hard | 1982 |  |
+| 1499 | [I've Known No War][1499] | The Who | Its Hard | 1982 |  |
+| 1500 | [One Life's Enough][1500] | The Who | Its Hard | 1982 |  |
+| 1501 | [One At a Time][1501] | The Who | Its Hard | 1982 |  |
+| 1502 | [Why Did I Fall For That][1502] | The Who | Its Hard | 1982 |  |
+| 1503 | [Cry If You Want][1503] | The Who | Its Hard | 1982 |  |
+| 1504 | [Rising Power][1504] | AC/DC | Flick of the Switch | 1983 |  |
+| 1505 | [This House Is On Fire][1505] | AC/DC | Flick of the Switch | 1983 |  |
+| 1506 | [Flick of the Switch][1506] | AC/DC | Flick of the Switch | 1983 |  |
+| 1507 | [Nervous Shakedown][1507] | AC/DC | Flick of the Switch | 1983 |  |
+| 1508 | [Landslide][1508] | AC/DC | Flick of the Switch | 1983 |  |
+| 1509 | [Guns for Hire][1509] | AC/DC | Flick of the Switch | 1983 |  |
+| 1510 | [Deep In the Hole][1510] | AC/DC | Flick of the Switch | 1983 |  |
+| 1511 | [Bedlam In Belgium][1511] | AC/DC | Flick of the Switch | 1983 |  |
+| 1512 | [Badlands][1512] | AC/DC | Flick of the Switch | 1983 |  |
+| 1513 | [Brain Shake][1513] | AC/DC | Flick of the Switch | 1983 |  |
+| 1514 | [Trashed][1514] | Black Sabbath | Born Again | 1983 |  |
+| 1515 | [Stonehenge][1515] | Black Sabbath | Born Again | 1983 |  |
+| 1516 | [Disturbing the Priest][1516] | Black Sabbath | Born Again | 1983 |  |
+| 1517 | [The Dark][1517] | Black Sabbath | Born Again | 1983 |  |
+| 1518 | [Zero the Hero][1518] | Black Sabbath | Born Again | 1983 |  |
+| 1519 | [Digital Bitch][1519] | Black Sabbath | Born Again | 1983 |  |
+| 1520 | [Born Again][1520] | Black Sabbath | Born Again | 1983 |  |
+| 1521 | [Hot Line][1521] | Black Sabbath | Born Again | 1983 |  |
+| 1522 | [Keep It Warm][1522] | Black Sabbath | Born Again | 1983 |  |
+| 1523 | [Separate Ways (Worlds Apart)][1523] | Journey | Frontiers | 1983 | Hits |
+| 1524 | [Faithfully][1524] | Journey | Frontiers | 1983 | Hits |
+| 1525 | [The Post War Dream][1525] | Pink Floyd | The Final Cut | 1983 |  |
+| 1526 | [Your Possible Pasts][1526] | Pink Floyd | The Final Cut | 1983 |  |
+| 1527 | [One of the Few][1527] | Pink Floyd | The Final Cut | 1983 |  |
+| 1528 | [When the Tigers Broke Free][1528] | Pink Floyd | The Final Cut | 1983 |  |
+| 1529 | [The Hero's Return][1529] | Pink Floyd | The Final Cut | 1983 |  |
+| 1530 | [The Gunner's Dream][1530] | Pink Floyd | The Final Cut | 1983 |  |
+| 1531 | [Paranoid Eyes][1531] | Pink Floyd | The Final Cut | 1983 |  |
+| 1532 | [Get Your Filthy Hands Off My Desert][1532] | Pink Floyd | The Final Cut | 1983 |  |
+| 1533 | [The Fletcher Memorial Home][1533] | Pink Floyd | The Final Cut | 1983 |  |
+| 1534 | [Southampton Dock][1534] | Pink Floyd | The Final Cut | 1983 |  |
+| 1535 | [The Final Cut][1535] | Pink Floyd | The Final Cut | 1983 |  |
+| 1536 | [Not Now John][1536] | Pink Floyd | The Final Cut | 1983 |  |
+| 1537 | [Two Suns In the Sunset][1537] | Pink Floyd | The Final Cut | 1983 |  |
+| 1538 | [Mr. Roboto][1538] | Styx | Kilroy Was Here | 1983 |  |
+| 1539 | [Cold War][1539] | Styx | Kilroy Was Here | 1983 |  |
+| 1540 | [Don't Let It End][1540] | Styx | Kilroy Was Here | 1983 |  |
+| 1541 | [High Time][1541] | Styx | Kilroy Was Here | 1983 |  |
+| 1542 | [Heavy Metal Poisoning][1542] | Styx | Kilroy Was Here | 1983 |  |
+| 1543 | [Just Get Through This Night][1543] | Styx | Kilroy Was Here | 1983 |  |
+| 1544 | [Double Life][1544] | Styx | Kilroy Was Here | 1983 |  |
+| 1545 | [Haven't We Been Here Before?][1545] | Styx | Kilroy Was Here | 1983 |  |
+| 1546 | [Don't Let It End (Reprise)][1546] | Styx | Kilroy Was Here | 1983 |  |
+| 1547 | [Undercover of the Night][1547] | The Rolling Stones | Undercover | 1983 |  |
+| 1548 | [She Was Hot][1548] | The Rolling Stones | Undercover | 1983 |  |
+| 1549 | [Tie You Up (The Pain of Love)][1549] | The Rolling Stones | Undercover | 1983 |  |
+| 1550 | [Wanna Hold You][1550] | The Rolling Stones | Undercover | 1983 |  |
+| 1551 | [Feel On Baby][1551] | The Rolling Stones | Undercover | 1983 |  |
+| 1552 | [Too Much Blood][1552] | The Rolling Stones | Undercover | 1983 |  |
+| 1553 | [Pretty Beat Up][1553] | The Rolling Stones | Undercover | 1983 |  |
+| 1554 | [Too Tough][1554] | The Rolling Stones | Undercover | 1983 |  |
+| 1555 | [All the Way Down][1555] | The Rolling Stones | Undercover | 1983 |  |
+| 1556 | [It Must Be Hell][1556] | The Rolling Stones | Undercover | 1983 |  |
+| 1557 | [Gimme All Your Lovin'][1557] | ZZ Top | Eliminator | 1983 | Hits |
+| 1558 | [Sharp Dressed Man][1558] | ZZ Top | Eliminator | 1983 | Hits |
+| 1559 | [Legs (Edit)][1559] | ZZ Top | Eliminator | 1983 | Hits |
+| 1560 | [Got Me Under Pressure][1560] | ZZ Top | Eliminator | 1983 | Hits |
+| 1561 | [Perfect Strangers][1561] | Deep Purple | Perfect Strangers | 1984 | Hits |
+| 1562 | [Knocking At Your Back Door][1562] | Deep Purple | Perfect Strangers | 1984 | Hits |
+| 1563 | [Growing Up the Hard Way][1563] | Foreigner | Agent Provocateur | 1984 |  |
+| 1564 | [Stranger In My Own House][1564] | Foreigner | Agent Provocateur | 1984 |  |
+| 1565 | [A Love In Vain][1565] | Foreigner | Agent Provocateur | 1984 |  |
+| 1566 | [Two Different Worlds][1566] | Foreigner | Agent Provocateur | 1984 |  |
+| 1567 | [She's Too Tough][1567] | Foreigner | Agent Provocateur | 1984 |  |
+| 1568 | Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1569 | Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1570 | Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1571 | The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1572 | The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1573 | Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1574 | Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1575 | Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| 1576 | Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1577 | Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1578 | Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1579 | The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1580 | The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1581 | Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1582 | Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1583 | Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| 1584 | [Radio 1][1584] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1585 | [Italian X Rays][1585] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1586 | [Daybreak][1586] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1587 | [Shangri-La][1587] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1588 | [Harmony of the Spheres 1][1588] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1589 | [Radio 2][1589] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1590 | [Bongo Bongo][1590] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1591 | [Out of the Night][1591] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1592 | [Golden Opportunity][1592] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1593 | [The Hollywood Dream][1593] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1594 | [One In a Million][1594] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1595 | [Harmony of the Spheres 2][1595] | Steve Miller Band | Italian X Rays | 1984 |  |
+| 1596 | [Fly On the Wall][1596] | AC/DC | Fly on the Wall | 1985 |  |
+| 1597 | [Shake Your Foundations][1597] | AC/DC | Fly on the Wall | 1985 |  |
+| 1598 | [First Blood][1598] | AC/DC | Fly on the Wall | 1985 |  |
+| 1599 | [Danger][1599] | AC/DC | Fly on the Wall | 1985 |  |
+| 1600 | [Sink the Pink][1600] | AC/DC | Fly on the Wall | 1985 |  |
+| 1601 | [Playing with Girls][1601] | AC/DC | Fly on the Wall | 1985 |  |
+| 1602 | [Stand Up][1602] | AC/DC | Fly on the Wall | 1985 |  |
+| 1603 | [Hell or High Water][1603] | AC/DC | Fly on the Wall | 1985 |  |
+| 1604 | [Back In Business][1604] | AC/DC | Fly on the Wall | 1985 |  |
+| 1605 | [Send for the Man][1605] | AC/DC | Fly on the Wall | 1985 |  |
+| 1606 | [Let the Music Do the Talking][1606] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1607 | [My Fist Your Face][1607] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1608 | [Shame On You][1608] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1609 | [The Reason a Dog][1609] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1610 | [Shela][1610] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1611 | [Gypsy Boots][1611] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1612 | [She's On Fire][1612] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1613 | [The Hop][1613] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1614 | [Darkness][1614] | Aerosmith | Done with Mirrors | 1985 |  |
+| 1615 | What About Love | Heart | Heart | 1985 | Hits |
+| 1616 | These Dreams | Heart | Heart | 1985 | Hits |
+| 1617 | Alone | Heart | Heart | 1985 | Hits |
+| 1618 | [The Big Money][1618] | Rush | Power Windows | 1985 |  |
+| 1619 | [Grand Designs][1619] | Rush | Power Windows | 1985 |  |
+| 1620 | [Manhattan Project][1620] | Rush | Power Windows | 1985 |  |
+| 1621 | [Marathon][1621] | Rush | Power Windows | 1985 |  |
+| 1622 | [Territories][1622] | Rush | Power Windows | 1985 |  |
+| 1623 | [Middletown Dreams][1623] | Rush | Power Windows | 1985 |  |
+| 1624 | [Emotion Detector][1624] | Rush | Power Windows | 1985 |  |
+| 1625 | [Mystic Rhythms][1625] | Rush | Power Windows | 1985 |  |
+| 1626 | [In for the Kill][1626] | Black Sabbath | Seventh Star | 1986 |  |
+| 1627 | [No Stranger to Love][1627] | Black Sabbath | Seventh Star | 1986 |  |
+| 1628 | [Turn to Stone][1628] | Black Sabbath | Seventh Star | 1986 |  |
+| 1629 | [Sphinx (The Guardian)][1629] | Black Sabbath | Seventh Star | 1986 |  |
+| 1630 | [Seventh Star][1630] | Black Sabbath | Seventh Star | 1986 |  |
+| 1631 | [Danger Zone][1631] | Black Sabbath | Seventh Star | 1986 |  |
+| 1632 | [Heart Like a Wheel][1632] | Black Sabbath | Seventh Star | 1986 |  |
+| 1633 | [Angry Heart][1633] | Black Sabbath | Seventh Star | 1986 |  |
+| 1634 | [In Memory...][1634] | Black Sabbath | Seventh Star | 1986 |  |
+| 1635 | [Amanda][1635] | Boston | Third Stage | 1986 | Hits |
+| 1636 | [Nobody But You Baby][1636] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1637 | [I Want to Make the World Turn Around][1637] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1638 | [Slinky][1638] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1639 | [Living In the 20th Century][1639] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1640 | [Maelstrom][1640] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1641 | [I Wanna Be Loved (But By Only You)][1641] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1642 | [My Babe][1642] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1643 | [Big Boss Man][1643] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1644 | [Caress Me Baby][1644] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1645 | [Ain't That Lovin' You Baby][1645] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1646 | [Behind the Barn][1646] | Steve Miller Band | Living in the 20th Century | 1986 |  |
+| 1647 | [One Hit (To The Body)][1647] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1648 | [Fight][1648] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1649 | [Harlem Shuffle][1649] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1650 | [Hold Back][1650] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1651 | [Too Rude][1651] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1652 | [Winning Ugly][1652] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1653 | [Back To Zero][1653] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1654 | [Dirty Work][1654] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1655 | [Had It With You][1655] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1656 | [Sleep Tonight][1656] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1657 | [Key To The Highway (Piano Instrumental)][1657] | The Rolling Stones | Dirty Work | 1986 |  |
+| 1658 | [Heart's Done Time][1658] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1659 | [Magic Touch][1659] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1660 | [Rag Doll][1660] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1661 | [Simoriah][1661] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1662 | [Dude (Looks Like a Lady)][1662] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1663 | [St. John][1663] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1664 | [Hangman Jury][1664] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1665 | [Girl Keeps Coming Apart][1665] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1666 | [Angel][1666] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1667 | [Permanent Vacation][1667] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1668 | [I'm Down][1668] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1669 | [The Movie][1669] | Aerosmith | Permanent Vacation | 1987 |  |
+| 1670 | [The Shining][1670] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1671 | [Ancient Warrior][1671] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1672 | [Hard Life to Love][1672] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1673 | [Glory Ride][1673] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1674 | [Born to Lose][1674] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1675 | [Nightmare][1675] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1676 | [Scarlet Pimpernel][1676] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1677 | [Lost Forever][1677] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1678 | [Eternal Idol][1678] | Black Sabbath | The Eternal Idol | 1987 |  |
+| 1679 | [Big Love (2017 Remaster)][1679] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1680 | [Seven Wonders (2017 Remaster)][1680] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1681 | [Everywhere (2017 Remaster)][1681] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1682 | [Caroline (2017 Remaster)][1682] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1683 | [Tango in the Night (2017 Remaster)][1683] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1684 | [Mystified (2017 Remaster)][1684] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1685 | [Little Lies (2017 Remaster)][1685] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1686 | [Family Man (2017 Remaster)][1686] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1687 | [Welcome to the Room... Sara (2017 Remaster)][1687] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1688 | [Isn't It Midnight (2017 Remaster)][1688] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1689 | [When I See You Again (2017 Remaster)][1689] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1690 | [You and I, Pt. II (2017 Remaster)][1690] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1691 | [Down Endless Street (2017 Remaster)][1691] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1692 | [Special Kind of Love (Demo) [2017 Remaster]][1690] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1693 | [Seven Wonders (Early Version) [2017 Remaster]][1691] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1694 | [Tango in the Night (Demo) [2017 Remaster]][1692] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1695 | [Mystified (Alternate Version) [2017 Remaster]][1693] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1696 | [Book of Miracles (Instrumental) [2017 Remaster]][1694] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1697 | [Where We Belong (Demo) [2017 Remaster]][1695] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1698 | [Ricky (2017 Remaster)][1698] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1699 | [Juliet (Run-Through) [2017 Remaster]][1697] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1700 | [Isn't It Midnight (Alternate Mix) [2017 Remaster]][1698] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1701 | [Ooh My Love (Demo) [2017 Remaster]][1699] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1702 | [Mystified (Instrumental Demo) [2017 Remaster]][1700] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1703 | [You and I, Pt. II (Full Version) [2017 Remaster]][1701] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1704 | [Big Love (Extended Remix) [2017 Remaster]][1702] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1705 | [Big Love (House on the Hill Dub) [2017 Remaster]][1703] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1706 | [Big Love (Piano Dub) [2017 Remaster]][1704] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1707 | [Big Love (Remix / Edit) [2017 Remaster]][1705] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1708 | [Seven Wonders (Extended Version) [2017 Remaster]][1706] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1709 | [Seven Wonders (Dub) [2017 Remaster]][1707] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1710 | [Little Lies (Extended Version) [2017 Remaster]][1708] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1711 | [Little Lies (Dub) [2017 Remaster]][1709] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1712 | [Family Man (Extended Vocal Remix) [2017 Remaster]][1710] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1713 | [Family Man (I'm a Jazz Man Dub) [2017 Remaster]][1711] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1714 | [Family Man (Extended Guitar Version) [2017 Remaster]][1712] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1715 | [Family Man (Bonus Beats) [2017 Remaster]][1713] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1716 | [Everywhere (2017 Remaster) [II]][1714] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1717 | [Everywhere (Dub) [2017 Remaster]][1715] | Fleetwood Mac | Tango in the Night | 1987 |  |
+| 1718 | [Counting Every Minute][1718] | Foreigner | Inside Information | 1987 |  |
+| 1719 | [Inside Information][1719] | Foreigner | Inside Information | 1987 |  |
+| 1720 | [The Beat of My Heart][1720] | Foreigner | Inside Information | 1987 |  |
+| 1721 | [Face to Face][1721] | Foreigner | Inside Information | 1987 |  |
+| 1722 | [Out of the Blue][1722] | Foreigner | Inside Information | 1987 |  |
+| 1723 | [A Night to Remember][1723] | Foreigner | Inside Information | 1987 |  |
+| 1724 | [Signs of Life][1724] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1725 | [Learning to Fly][1725] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1726 | [The Dogs of War][1726] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1727 | [One Slip][1727] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1728 | [On the Turning Away][1728] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1729 | [Yet Another Movie][1729] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1730 | [Round and Around][1730] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1731 | [A New Machine, Pt. 1][1731] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1732 | [Terminal Frost][1732] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1733 | [A New Machine, Pt. 2][1733] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1734 | [Sorrow][1734] | Pink Floyd | A Momentary Lapse of Reason | 1987 |  |
+| 1735 | [Force Ten][1735] | Rush | Hold Your Fire | 1987 |  |
+| 1736 | [Time Stand Still][1736] | Rush | Hold Your Fire | 1987 |  |
+| 1737 | [Open Secrets][1737] | Rush | Hold Your Fire | 1987 |  |
+| 1738 | [Second Nature][1738] | Rush | Hold Your Fire | 1987 |  |
+| 1739 | [Prime Mover][1739] | Rush | Hold Your Fire | 1987 |  |
+| 1740 | [Lock and Key][1740] | Rush | Hold Your Fire | 1987 |  |
+| 1741 | [Mission][1741] | Rush | Hold Your Fire | 1987 |  |
+| 1742 | [Turn the Page][1742] | Rush | Hold Your Fire | 1987 |  |
+| 1743 | [Tai Shan][1743] | Rush | Hold Your Fire | 1987 |  |
+| 1744 | [High Water][1744] | Rush | Hold Your Fire | 1987 |  |
+| 1745 | [Heatseeker][1745] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1746 | [That's the Way I Wanna Rock 'N' Roll][1746] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1747 | [Meanstreak][1747] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1748 | [Go Zone][1748] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1749 | [Kissin' Dynamite][1749] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1750 | [Nick of Time][1750] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1751 | [Some Sin for Nuthin'][1751] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1752 | [Ruff Stuff][1752] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1753 | [Two's Up][1753] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1754 | [This Means War][1754] | AC/DC | Blow Up Your Video | 1988 |  |
+| 1755 | [Young Lust][1755] | Aerosmith | Pump | 1989 |  |
+| 1756 | [F.I.N.E.][1756] | Aerosmith | Pump | 1989 |  |
+| 1757 | [Going Down / Love In an Elevator][1757] | Aerosmith | Pump | 1989 |  |
+| 1758 | [Monkey On My Back][1758] | Aerosmith | Pump | 1989 |  |
+| 1759 | [Water Song / Janie's Got a Gun][1759] | Aerosmith | Pump | 1989 |  |
+| 1760 | [Dulcimer Stomp / The Other Side][1760] | Aerosmith | Pump | 1989 |  |
+| 1761 | [My Girl][1761] | Aerosmith | Pump | 1989 |  |
+| 1762 | [Don't Get Mad, Get Even][1762] | Aerosmith | Pump | 1989 |  |
+| 1763 | [Hoodoo / Voodoo Medicine Man][1763] | Aerosmith | Pump | 1989 |  |
+| 1764 | [What It Takes][1764] | Aerosmith | Pump | 1989 |  |
+| 1765 | [The Gates of Hell (2024 Remaster)][1765] | Black Sabbath | Headless Cross | 1989 |  |
+| 1766 | [Headless Cross (2024 Remaster)][1766] | Black Sabbath | Headless Cross | 1989 |  |
+| 1767 | [Devil & Daughter (2024 Remaster)][1767] | Black Sabbath | Headless Cross | 1989 |  |
+| 1768 | [When Death Calls (2024 Remaster)][1768] | Black Sabbath | Headless Cross | 1989 |  |
+| 1769 | [Kill In the Spirit World (2024 Remaster)][1769] | Black Sabbath | Headless Cross | 1989 |  |
+| 1770 | [Call of the Wild (2024 Remaster)][1770] | Black Sabbath | Headless Cross | 1989 |  |
+| 1771 | [Black Moon (2024 Remaster)][1771] | Black Sabbath | Headless Cross | 1989 |  |
+| 1772 | [Nightwing (2024 Remaster)][1772] | Black Sabbath | Headless Cross | 1989 |  |
+| 1773 | [Cloak and Dagger (2024 Remaster)][1773] | Black Sabbath | Headless Cross | 1989 |  |
+| 1774 | [Show Don't Tell][1774] | Rush | Presto | 1989 |  |
+| 1775 | [Chain Lightning][1775] | Rush | Presto | 1989 |  |
+| 1776 | [The Pass][1776] | Rush | Presto | 1989 |  |
+| 1777 | [War Paint][1777] | Rush | Presto | 1989 |  |
+| 1778 | [Scars][1778] | Rush | Presto | 1989 |  |
+| 1779 | [Presto][1779] | Rush | Presto | 1989 |  |
+| 1780 | [Superconductor][1780] | Rush | Presto | 1989 |  |
+| 1781 | [Anagram (For Mongo)][1781] | Rush | Presto | 1989 |  |
+| 1782 | [Red Tide][1782] | Rush | Presto | 1989 |  |
+| 1783 | [Hand Over Fist][1783] | Rush | Presto | 1989 |  |
+| 1784 | [Available Light][1784] | Rush | Presto | 1989 |  |
+| 1785 | [Sad Sad Sad][1785] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1786 | [Mixed Emotions][1786] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1787 | [Terrifying][1787] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1788 | [Hold On to Your Hat][1788] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1789 | [Hearts for Sale][1789] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1790 | [Blinded By Love][1790] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1791 | [Rock and a Hard Place][1791] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1792 | [Can't Be Seen][1792] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1793 | [Almost Hear You Sigh][1793] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1794 | [Continental Drift][1794] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1795 | [Break the Spell][1795] | The Rolling Stones | Steel Wheels | 1989 |  |
+| 1796 | [Slipping Away][1796] | The Rolling Stones | Steel Wheels | 1989 |  |
 
 [1]: https://music.apple.com/us/song/out-in-the-street/1443238434
 [2]: https://music.apple.com/us/song/i-dont-mind/1443238444
@@ -2546,9 +2547,9 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [733]: https://music.apple.com/us/song/the-real-me/1440824683
 [734]: https://music.apple.com/us/song/quadrophenia/1440824689
 [735]: https://music.apple.com/us/song/cut-my-hair/1440824703
+[736]: https://music.apple.com/us/song/angie-live-forest-national-arena-brussels-17-10-73/1522473263
 [736]: https://music.apple.com/us/song/the-punk-and-the-godfather/1440824801
 [737]: https://music.apple.com/us/song/im-one/1440824810
-[738]: https://music.apple.com/us/song/angie-live-forest-national-arena-brussels-17-10-73/1522473263
 [738]: https://music.apple.com/us/song/the-dirty-jobs/1440824817
 [739]: https://music.apple.com/us/song/helpless-dancer/1440824825
 [740]: https://music.apple.com/us/song/is-it-in-my-head/1440825074
@@ -2608,13 +2609,13 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [794]: https://music.apple.com/us/song/walk-this-way/1660109283
 [795]: https://music.apple.com/us/song/big-ten-inch-record/1660109291
 [796]: https://music.apple.com/us/song/sweet-emotion/1660109293
-[797]: https://music.apple.com/us/song/angie-live/1440855545
 [797]: https://music.apple.com/us/song/no-more-no-more/1660109686
 [798]: https://music.apple.com/us/song/round-and-round/1660109690
 [799]: https://music.apple.com/us/song/you-see-me-crying/1660109695
 [800]: https://music.apple.com/us/song/hole-in-the-sky/1560997136
 [801]: https://music.apple.com/us/song/dont-start-too-late/1560997138
 [802]: https://music.apple.com/us/song/symptom-of-the-universe/1560997139
+[803]: https://music.apple.com/us/song/angie-live/1440855545
 [803]: https://music.apple.com/us/song/megalomania/1560997140
 [804]: https://music.apple.com/us/song/thrill-of-it-all/1560997141
 [805]: https://music.apple.com/us/song/supertzar/1560997143
@@ -2833,20 +2834,20 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1018]: https://music.apple.com/us/song/i-dont-want-to-know/594061863
 [1019]: https://music.apple.com/us/song/oh-daddy/594061864
 [1020]: https://music.apple.com/us/song/gold-dust-woman/594061865
+[1021]: https://music.apple.com/us/song/you-gotta-move-live-at-earls-court-london-uk-1976/1840691926
 [1021]: https://music.apple.com/us/song/feels-like-the-first-time/284531744
 [1022]: https://music.apple.com/us/song/long-long-way-from-home/284531750
 [1023]: https://music.apple.com/us/song/cold-as-ice/284531755
-[1024]: https://music.apple.com/us/song/you-gotta-move-live-at-earls-court-london-uk-1976/1840691926
 [1024]: https://music.apple.com/us/song/headknocker/284531759
 [1025]: https://music.apple.com/us/song/starrider/284531760
 [1026]: https://music.apple.com/us/song/double-vision/284531761
+[1027]: https://music.apple.com/us/song/brown-sugar-live-at-earls-court-london-uk-1976/1840691942
 [1027]: https://music.apple.com/us/song/blue-morning-blue-day/284531764
 [1028]: https://music.apple.com/us/song/hot-blooded/284531765
 [1029]: https://music.apple.com/us/song/dirty-white-boy/284531766
 [1030]: https://music.apple.com/us/song/head-games/284531770
 [1031]: https://music.apple.com/us/song/women/284531771
 [1032]: https://music.apple.com/us/song/night-life/284531772
-[1033]: https://music.apple.com/us/song/brown-sugar-live-at-earls-court-london-uk-1976/1840691942
 [1033]: https://music.apple.com/us/song/break-it-up/284531773
 [1034]: https://music.apple.com/us/song/juke-box-hero/284531774
 [1035]: https://music.apple.com/us/song/urgent/284531775
@@ -2968,6 +2969,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1154]: https://music.apple.com/us/song/circles-revised-second-mono-version/1442933942
 [1155]: https://music.apple.com/us/song/waltz-for-a-pig/1442933947
 [1156]: https://music.apple.com/us/song/im-a-boy-mono-version/1442934013
+[1157]: https://music.apple.com/us/song/love-maker-live-bonus-track/285143186
 [1157]: https://music.apple.com/us/song/in-the-city-mono-version/1442934020
 [1158]: https://music.apple.com/us/song/disguises-mono-version/1442934025
 [1159]: https://music.apple.com/us/song/batman-mono-version/1442934035
@@ -2979,7 +2981,6 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1165]: https://music.apple.com/us/song/doctor-doctor-mono-version/1442934152
 [1166]: https://music.apple.com/us/song/the-last-time/1442934155
 [1167]: https://music.apple.com/us/song/under-my-thumb/1442934157
-[1168]: https://music.apple.com/us/song/love-maker-live-bonus-track/285143186
 [1168]: https://music.apple.com/us/song/dogs/1442934318
 [1169]: https://music.apple.com/us/song/call-me-lightning/1442934322
 [1170]: https://music.apple.com/us/song/magic-bus-edit-mono-version/1442934325
@@ -3276,321 +3277,321 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [1462]: https://music.apple.com/us/song/industrial-military-complex-hex-alternate-version/1465327553
 [1463]: https://music.apple.com/us/song/living-in-the-u-s-a/1465327677
 [1464]: https://music.apple.com/us/song/kow-kow-calculator-alternate-version/1465327678
-[1465]: https://music.apple.com/us/song/industrial-military-complex-hex-alternate-version/1465327553
 [1465]: https://music.apple.com/us/song/going-to-mexico-alternate-version/1465327679
 [1466]: https://music.apple.com/us/song/quicksilver-girl-alternate-version/1465327680
 [1467]: https://music.apple.com/us/song/jackson-kent-blues-alternate-version/1465327681
-[1468]: https://music.apple.com/us/song/hesitation-blues/1465327683
-[1469]: https://music.apple.com/us/song/seasons-alternate-version/1465327684
-[1470]: https://music.apple.com/us/song/say-wow/1465327685
-[1471]: https://music.apple.com/us/song/space-cowboy-instrumental/1465327697
-[1472]: https://music.apple.com/us/song/the-lovin-cup/1465327705
-[1473]: https://music.apple.com/us/song/killing-floor/1465327736
-[1474]: https://music.apple.com/us/song/echoplex-blues-instrumental/1465327739
-[1475]: https://music.apple.com/us/song/rockn-me-alternate-version-1/1465327741
-[1476]: https://music.apple.com/us/song/rockn-me-alternate-version-2/1465327743
-[1477]: https://music.apple.com/us/song/taint-it-the-truth/1465327744
-[1478]: https://music.apple.com/us/song/freight-train-blues/1465327750
-[1479]: https://music.apple.com/us/song/true-fine-love-alternate-version/1465327751
-[1480]: https://music.apple.com/us/song/the-stake-alternate-version/1465327753
-[1481]: https://music.apple.com/us/song/my-babe-alternate-version/1465327754
-[1482]: https://music.apple.com/us/song/thats-the-way-its-got-to-be/1465327755
-[1483]: https://music.apple.com/us/song/double-trouble/1465327756
-[1484]: https://music.apple.com/us/song/love-is-strange/1465327757
-[1485]: https://music.apple.com/us/song/i-wanna-be-loved-live/1465327759
-[1486]: https://music.apple.com/us/song/fly-like-an-eagle-alternate-version/1465327762
-[1487]: https://music.apple.com/us/song/mercury-blues-alternate-version/1465327949
-[1488]: https://music.apple.com/us/song/jet-airliner-alternate-version/1465327950
-[1489]: https://music.apple.com/us/song/swingtown-alternate-version/1465327953
-[1490]: https://music.apple.com/us/song/who-do-you-love/1465327957
-[1491]: https://music.apple.com/us/song/abracadabra/1465327959
-[1492]: https://music.apple.com/us/song/macho-city-short-version/1465327961
-[1493]: https://music.apple.com/us/song/bizzys-blue-tango-instrumental/1465327971
-[1494]: https://music.apple.com/us/song/its-your-turn-feat-andy-fairweather-low/1440853611
-[1495]: https://music.apple.com/us/song/cooks-country/1440853618
-[1496]: https://music.apple.com/us/song/its-hard/1440853625
-[1497]: https://music.apple.com/us/song/dangerous/1440853629
-[1498]: https://music.apple.com/us/song/ive-known-no-war/1440853638
-[1499]: https://music.apple.com/us/song/one-lifes-enough/1440853642
-[1500]: https://music.apple.com/us/song/one-at-a-time/1440853644
-[1501]: https://music.apple.com/us/song/why-did-i-fall-for-that/1440853647
-[1502]: https://music.apple.com/us/song/cry-if-you-want/1440853652
-[1503]: https://music.apple.com/us/song/rising-power/574053112
-[1504]: https://music.apple.com/us/song/this-house-is-on-fire/574053114
-[1505]: https://music.apple.com/us/song/flick-of-the-switch/574053167
-[1506]: https://music.apple.com/us/song/nervous-shakedown/574053201
-[1507]: https://music.apple.com/us/song/landslide/574053234
-[1508]: https://music.apple.com/us/song/guns-for-hire/574053236
-[1509]: https://music.apple.com/us/song/deep-in-the-hole/574053247
-[1510]: https://music.apple.com/us/song/bedlam-in-belgium/574053329
-[1511]: https://music.apple.com/us/song/badlands/574053330
-[1512]: https://music.apple.com/us/song/brain-shake/574053331
-[1513]: https://music.apple.com/us/song/trashed/40458855
-[1514]: https://music.apple.com/us/song/stonehenge/40458857
-[1515]: https://music.apple.com/us/song/disturbing-the-priest/40458859
-[1516]: https://music.apple.com/us/song/the-dark/40458861
-[1517]: https://music.apple.com/us/song/zero-the-hero/40458863
-[1518]: https://music.apple.com/us/song/digital-bitch/40458865
-[1519]: https://music.apple.com/us/song/born-again/40458867
-[1520]: https://music.apple.com/us/song/hot-line/40458869
-[1521]: https://music.apple.com/us/song/keep-it-warm/40458871
-[1522]: https://music.apple.com/us/song/separate-ways-worlds-apart/476986076
-[1523]: https://music.apple.com/us/song/faithfully/476986080
-[1524]: https://music.apple.com/us/song/the-post-war-dream/1065977146
-[1525]: https://music.apple.com/us/song/your-possible-pasts/1065977147
-[1526]: https://music.apple.com/us/song/one-of-the-few/1065977150
-[1527]: https://music.apple.com/us/song/when-the-tigers-broke-free/1065977151
-[1528]: https://music.apple.com/us/song/the-heros-return/1065977152
-[1529]: https://music.apple.com/us/song/the-gunners-dream/1065977153
-[1530]: https://music.apple.com/us/song/paranoid-eyes/1065977154
-[1531]: https://music.apple.com/us/song/get-your-filthy-hands-off-my-desert/1065977155
-[1532]: https://music.apple.com/us/song/the-fletcher-memorial-home/1065977156
-[1533]: https://music.apple.com/us/song/southampton-dock/1065977160
-[1534]: https://music.apple.com/us/song/the-final-cut/1065977161
-[1535]: https://music.apple.com/us/song/not-now-john/1065977162
-[1536]: https://music.apple.com/us/song/two-suns-in-the-sunset/1065977163
-[1537]: https://music.apple.com/us/song/mr-roboto/1440714786
-[1538]: https://music.apple.com/us/song/cold-war/1440715071
-[1539]: https://music.apple.com/us/song/dont-let-it-end/1440715078
-[1540]: https://music.apple.com/us/song/high-time/1440715084
-[1541]: https://music.apple.com/us/song/heavy-metal-poisoning/1440715089
-[1542]: https://music.apple.com/us/song/just-get-through-this-night/1440715216
-[1543]: https://music.apple.com/us/song/double-life/1440715222
-[1544]: https://music.apple.com/us/song/havent-we-been-here-before/1440715227
-[1545]: https://music.apple.com/us/song/dont-let-it-end-reprise/1440715231
-[1546]: https://music.apple.com/us/song/undercover-of-the-night/1440814199
-[1547]: https://music.apple.com/us/song/she-was-hot/1440814208
-[1548]: https://music.apple.com/us/song/tie-you-up-the-pain-of-love/1440814483
-[1549]: https://music.apple.com/us/song/wanna-hold-you/1440814485
-[1550]: https://music.apple.com/us/song/feel-on-baby/1440814488
-[1551]: https://music.apple.com/us/song/too-much-blood/1440814496
-[1552]: https://music.apple.com/us/song/pretty-beat-up/1440814502
-[1553]: https://music.apple.com/us/song/too-tough/1440814507
-[1554]: https://music.apple.com/us/song/all-the-way-down/1440814813
-[1555]: https://music.apple.com/us/song/it-must-be-hell/1440814816
-[1556]: https://music.apple.com/us/song/gimme-all-your-lovin/1728071499
-[1557]: https://music.apple.com/us/song/sharp-dressed-man/1728071582
-[1558]: https://music.apple.com/us/song/legs-edit/1728071594
-[1559]: https://music.apple.com/us/song/got-me-under-pressure/1728071579
-[1560]: https://music.apple.com/us/song/perfect-strangers/1470534347
-[1561]: https://music.apple.com/us/song/knocking-at-your-back-door/1470533931
-[1562]: https://music.apple.com/us/song/growing-up-the-hard-way/216663965
-[1563]: https://music.apple.com/us/song/stranger-in-my-own-house/216664059
-[1564]: https://music.apple.com/us/song/a-love-in-vain/216664069
-[1565]: https://music.apple.com/us/song/two-different-worlds/216664115
-[1566]: https://music.apple.com/us/song/shes-too-tough/216664137
-[1583]: https://music.apple.com/us/song/radio-1/1443173949
-[1584]: https://music.apple.com/us/song/italian-x-rays/1443174072
-[1585]: https://music.apple.com/us/song/daybreak/1443174075
-[1586]: https://music.apple.com/us/song/shangri-la/1443174076
-[1587]: https://music.apple.com/us/song/harmony-of-the-spheres-1/1443174082
-[1588]: https://music.apple.com/us/song/radio-2/1443174083
-[1589]: https://music.apple.com/us/song/bongo-bongo/1443174085
-[1590]: https://music.apple.com/us/song/out-of-the-night/1443174087
-[1591]: https://music.apple.com/us/song/golden-opportunity/1443174089
-[1592]: https://music.apple.com/us/song/the-hollywood-dream/1443174091
-[1593]: https://music.apple.com/us/song/one-in-a-million/1443174092
-[1594]: https://music.apple.com/us/song/harmony-of-the-spheres-2/1443174093
-[1595]: https://music.apple.com/us/song/fly-on-the-wall/574051214
-[1596]: https://music.apple.com/us/song/shake-your-foundations/574051216
-[1597]: https://music.apple.com/us/song/first-blood/574051244
-[1598]: https://music.apple.com/us/song/danger/574051261
-[1599]: https://music.apple.com/us/song/sink-the-pink/574051262
-[1600]: https://music.apple.com/us/song/playing-with-girls/574051264
-[1601]: https://music.apple.com/us/song/stand-up/574051265
-[1602]: https://music.apple.com/us/song/hell-or-high-water/574051267
-[1603]: https://music.apple.com/us/song/back-in-business/574051293
-[1604]: https://music.apple.com/us/song/send-for-the-man/574051295
-[1605]: https://music.apple.com/us/song/let-the-music-do-the-talking/1443504478
-[1606]: https://music.apple.com/us/song/my-fist-your-face/1443504481
-[1607]: https://music.apple.com/us/song/shame-on-you/1443504482
-[1608]: https://music.apple.com/us/song/the-reason-a-dog/1443504483
-[1609]: https://music.apple.com/us/song/shela/1443504484
-[1610]: https://music.apple.com/us/song/gypsy-boots/1443504486
-[1611]: https://music.apple.com/us/song/shes-on-fire/1443504488
-[1612]: https://music.apple.com/us/song/the-hop/1443504490
-[1613]: https://music.apple.com/us/song/darkness/1443504701
-[1616]: https://music.apple.com/us/song/the-big-money/1440759090
+[1468]: https://music.apple.com/us/song/crossroads-live/1465327682
+[1469]: https://music.apple.com/us/song/hesitation-blues/1465327683
+[1470]: https://music.apple.com/us/song/seasons-alternate-version/1465327684
+[1471]: https://music.apple.com/us/song/say-wow/1465327685
+[1472]: https://music.apple.com/us/song/space-cowboy-instrumental/1465327697
+[1473]: https://music.apple.com/us/song/the-lovin-cup/1465327705
+[1474]: https://music.apple.com/us/song/killing-floor/1465327736
+[1475]: https://music.apple.com/us/song/echoplex-blues-instrumental/1465327739
+[1476]: https://music.apple.com/us/song/rockn-me-alternate-version-1/1465327741
+[1477]: https://music.apple.com/us/song/rockn-me-alternate-version-2/1465327743
+[1478]: https://music.apple.com/us/song/taint-it-the-truth/1465327744
+[1479]: https://music.apple.com/us/song/freight-train-blues/1465327750
+[1480]: https://music.apple.com/us/song/true-fine-love-alternate-version/1465327751
+[1481]: https://music.apple.com/us/song/the-stake-alternate-version/1465327753
+[1482]: https://music.apple.com/us/song/my-babe-alternate-version/1465327754
+[1483]: https://music.apple.com/us/song/thats-the-way-its-got-to-be/1465327755
+[1484]: https://music.apple.com/us/song/double-trouble/1465327756
+[1485]: https://music.apple.com/us/song/love-is-strange/1465327757
+[1486]: https://music.apple.com/us/song/i-wanna-be-loved-live/1465327759
+[1487]: https://music.apple.com/us/song/fly-like-an-eagle-alternate-version/1465327762
+[1488]: https://music.apple.com/us/song/mercury-blues-alternate-version/1465327949
+[1489]: https://music.apple.com/us/song/jet-airliner-alternate-version/1465327950
+[1490]: https://music.apple.com/us/song/swingtown-alternate-version/1465327953
+[1491]: https://music.apple.com/us/song/who-do-you-love/1465327957
+[1492]: https://music.apple.com/us/song/abracadabra/1465327959
+[1493]: https://music.apple.com/us/song/macho-city-short-version/1465327961
+[1494]: https://music.apple.com/us/song/bizzys-blue-tango-instrumental/1465327971
+[1495]: https://music.apple.com/us/song/its-your-turn-feat-andy-fairweather-low/1440853611
+[1496]: https://music.apple.com/us/song/cooks-country/1440853618
+[1497]: https://music.apple.com/us/song/its-hard/1440853625
+[1498]: https://music.apple.com/us/song/dangerous/1440853629
+[1499]: https://music.apple.com/us/song/ive-known-no-war/1440853638
+[1500]: https://music.apple.com/us/song/one-lifes-enough/1440853642
+[1501]: https://music.apple.com/us/song/one-at-a-time/1440853644
+[1502]: https://music.apple.com/us/song/why-did-i-fall-for-that/1440853647
+[1503]: https://music.apple.com/us/song/cry-if-you-want/1440853652
+[1504]: https://music.apple.com/us/song/rising-power/574053112
+[1505]: https://music.apple.com/us/song/this-house-is-on-fire/574053114
+[1506]: https://music.apple.com/us/song/flick-of-the-switch/574053167
+[1507]: https://music.apple.com/us/song/nervous-shakedown/574053201
+[1508]: https://music.apple.com/us/song/landslide/574053234
+[1509]: https://music.apple.com/us/song/guns-for-hire/574053236
+[1510]: https://music.apple.com/us/song/deep-in-the-hole/574053247
+[1511]: https://music.apple.com/us/song/bedlam-in-belgium/574053329
+[1512]: https://music.apple.com/us/song/badlands/574053330
+[1513]: https://music.apple.com/us/song/brain-shake/574053331
+[1514]: https://music.apple.com/us/song/trashed/40458855
+[1515]: https://music.apple.com/us/song/stonehenge/40458857
+[1516]: https://music.apple.com/us/song/disturbing-the-priest/40458859
+[1517]: https://music.apple.com/us/song/the-dark/40458861
+[1518]: https://music.apple.com/us/song/zero-the-hero/40458863
+[1519]: https://music.apple.com/us/song/industrial-military-complex-hex-alternate-version/1465327553
+[1519]: https://music.apple.com/us/song/digital-bitch/40458865
+[1520]: https://music.apple.com/us/song/born-again/40458867
+[1521]: https://music.apple.com/us/song/hot-line/40458869
+[1522]: https://music.apple.com/us/song/keep-it-warm/40458871
+[1523]: https://music.apple.com/us/song/separate-ways-worlds-apart/476986076
+[1524]: https://music.apple.com/us/song/faithfully/476986080
+[1525]: https://music.apple.com/us/song/the-post-war-dream/1065977146
+[1526]: https://music.apple.com/us/song/your-possible-pasts/1065977147
+[1527]: https://music.apple.com/us/song/one-of-the-few/1065977150
+[1528]: https://music.apple.com/us/song/when-the-tigers-broke-free/1065977151
+[1529]: https://music.apple.com/us/song/the-heros-return/1065977152
+[1530]: https://music.apple.com/us/song/the-gunners-dream/1065977153
+[1531]: https://music.apple.com/us/song/paranoid-eyes/1065977154
+[1532]: https://music.apple.com/us/song/get-your-filthy-hands-off-my-desert/1065977155
+[1533]: https://music.apple.com/us/song/the-fletcher-memorial-home/1065977156
+[1534]: https://music.apple.com/us/song/southampton-dock/1065977160
+[1535]: https://music.apple.com/us/song/the-final-cut/1065977161
+[1536]: https://music.apple.com/us/song/not-now-john/1065977162
+[1537]: https://music.apple.com/us/song/two-suns-in-the-sunset/1065977163
+[1538]: https://music.apple.com/us/song/mr-roboto/1440714786
+[1539]: https://music.apple.com/us/song/cold-war/1440715071
+[1540]: https://music.apple.com/us/song/dont-let-it-end/1440715078
+[1541]: https://music.apple.com/us/song/high-time/1440715084
+[1542]: https://music.apple.com/us/song/heavy-metal-poisoning/1440715089
+[1543]: https://music.apple.com/us/song/just-get-through-this-night/1440715216
+[1544]: https://music.apple.com/us/song/double-life/1440715222
+[1545]: https://music.apple.com/us/song/havent-we-been-here-before/1440715227
+[1546]: https://music.apple.com/us/song/dont-let-it-end-reprise/1440715231
+[1547]: https://music.apple.com/us/song/undercover-of-the-night/1440814199
+[1548]: https://music.apple.com/us/song/she-was-hot/1440814208
+[1549]: https://music.apple.com/us/song/tie-you-up-the-pain-of-love/1440814483
+[1550]: https://music.apple.com/us/song/wanna-hold-you/1440814485
+[1551]: https://music.apple.com/us/song/feel-on-baby/1440814488
+[1552]: https://music.apple.com/us/song/too-much-blood/1440814496
+[1553]: https://music.apple.com/us/song/pretty-beat-up/1440814502
+[1554]: https://music.apple.com/us/song/too-tough/1440814507
+[1555]: https://music.apple.com/us/song/all-the-way-down/1440814813
+[1556]: https://music.apple.com/us/song/it-must-be-hell/1440814816
+[1557]: https://music.apple.com/us/song/gimme-all-your-lovin/1728071499
+[1558]: https://music.apple.com/us/song/sharp-dressed-man/1728071582
+[1559]: https://music.apple.com/us/song/legs-edit/1728071594
+[1560]: https://music.apple.com/us/song/got-me-under-pressure/1728071579
+[1561]: https://music.apple.com/us/song/perfect-strangers/1470534347
+[1562]: https://music.apple.com/us/song/knocking-at-your-back-door/1470533931
+[1563]: https://music.apple.com/us/song/growing-up-the-hard-way/216663965
+[1564]: https://music.apple.com/us/song/stranger-in-my-own-house/216664059
+[1565]: https://music.apple.com/us/song/a-love-in-vain/216664069
+[1566]: https://music.apple.com/us/song/two-different-worlds/216664115
+[1567]: https://music.apple.com/us/song/shes-too-tough/216664137
+[1584]: https://music.apple.com/us/song/radio-1/1443173949
+[1585]: https://music.apple.com/us/song/italian-x-rays/1443174072
+[1586]: https://music.apple.com/us/song/daybreak/1443174075
+[1587]: https://music.apple.com/us/song/shangri-la/1443174076
+[1588]: https://music.apple.com/us/song/harmony-of-the-spheres-1/1443174082
+[1589]: https://music.apple.com/us/song/radio-2/1443174083
+[1590]: https://music.apple.com/us/song/bongo-bongo/1443174085
+[1591]: https://music.apple.com/us/song/out-of-the-night/1443174087
+[1592]: https://music.apple.com/us/song/golden-opportunity/1443174089
+[1593]: https://music.apple.com/us/song/the-hollywood-dream/1443174091
+[1594]: https://music.apple.com/us/song/one-in-a-million/1443174092
+[1595]: https://music.apple.com/us/song/harmony-of-the-spheres-2/1443174093
+[1596]: https://music.apple.com/us/song/fly-on-the-wall/574051214
+[1597]: https://music.apple.com/us/song/shake-your-foundations/574051216
+[1598]: https://music.apple.com/us/song/first-blood/574051244
+[1599]: https://music.apple.com/us/song/danger/574051261
+[1600]: https://music.apple.com/us/song/sink-the-pink/574051262
+[1601]: https://music.apple.com/us/song/playing-with-girls/574051264
+[1602]: https://music.apple.com/us/song/stand-up/574051265
+[1603]: https://music.apple.com/us/song/hell-or-high-water/574051267
+[1604]: https://music.apple.com/us/song/back-in-business/574051293
+[1605]: https://music.apple.com/us/song/send-for-the-man/574051295
+[1606]: https://music.apple.com/us/song/let-the-music-do-the-talking/1443504478
+[1607]: https://music.apple.com/us/song/my-fist-your-face/1443504481
+[1608]: https://music.apple.com/us/song/shame-on-you/1443504482
+[1609]: https://music.apple.com/us/song/the-reason-a-dog/1443504483
+[1610]: https://music.apple.com/us/song/shela/1443504484
+[1611]: https://music.apple.com/us/song/gypsy-boots/1443504486
+[1612]: https://music.apple.com/us/song/shes-on-fire/1443504488
+[1613]: https://music.apple.com/us/song/the-hop/1443504490
+[1614]: https://music.apple.com/us/song/darkness/1443504701
 [1617]: https://music.apple.com/us/song/the-big-money/1440759090
-[1618]: https://music.apple.com/us/song/grand-designs/1440759095
-[1619]: https://music.apple.com/us/song/manhattan-project/1440759097
-[1620]: https://music.apple.com/us/song/marathon/1440759311
-[1621]: https://music.apple.com/us/song/territories/1440759313
-[1622]: https://music.apple.com/us/song/middletown-dreams/1440759315
-[1623]: https://music.apple.com/us/song/emotion-detector/1440759318
-[1624]: https://music.apple.com/us/song/mystic-rhythms/1440759321
-[1625]: https://music.apple.com/us/song/in-for-the-kill/59401798
-[1626]: https://music.apple.com/us/song/no-stranger-to-love/59401803
-[1627]: https://music.apple.com/us/song/turn-to-stone/59401807
-[1628]: https://music.apple.com/us/song/sphinx-the-guardian/59401811
-[1629]: https://music.apple.com/us/song/seventh-star/59401814
-[1630]: https://music.apple.com/us/song/danger-zone/59401818
-[1631]: https://music.apple.com/us/song/heart-like-a-wheel/59401865
-[1632]: https://music.apple.com/us/song/angry-heart/59401874
-[1633]: https://music.apple.com/us/song/in-memory/59401877
-[1634]: https://music.apple.com/us/song/amanda/1440851313
-[1635]: https://music.apple.com/us/song/nobody-but-you-baby/1452288417
-[1636]: https://music.apple.com/us/song/i-want-to-make-the-world-turn-around/1452288445
-[1637]: https://music.apple.com/us/song/slinky/1452288576
-[1638]: https://music.apple.com/us/song/living-in-the-20th-century/1452288585
-[1639]: https://music.apple.com/us/song/maelstrom/1452288592
-[1640]: https://music.apple.com/us/song/i-wanna-be-loved-but-by-only-you/1452288840
-[1641]: https://music.apple.com/us/song/my-babe/1452288856
-[1642]: https://music.apple.com/us/song/big-boss-man/1452288986
-[1643]: https://music.apple.com/us/song/caress-me-baby/1452288991
-[1644]: https://music.apple.com/us/song/aint-that-lovin-you-baby/1452289000
-[1645]: https://music.apple.com/us/song/behind-the-barn/1452289004
-[1646]: https://music.apple.com/us/song/one-hit-to-the-body/1440860758
-[1647]: https://music.apple.com/us/song/fight/1440860763
-[1648]: https://music.apple.com/us/song/harlem-shuffle/1440860835
-[1649]: https://music.apple.com/us/song/hold-back/1440860838
-[1650]: https://music.apple.com/us/song/too-rude/1440860843
-[1651]: https://music.apple.com/us/song/winning-ugly/1440860848
-[1652]: https://music.apple.com/us/song/back-to-zero/1440860852
-[1653]: https://music.apple.com/us/song/dirty-work/1440860856
-[1654]: https://music.apple.com/us/song/had-it-with-you/1440860858
-[1655]: https://music.apple.com/us/song/sleep-tonight/1440860859
-[1656]: https://music.apple.com/us/song/key-to-the-highway-piano-instrumental/1440860860
-[1657]: https://music.apple.com/us/song/hearts-done-time/1440823391
-[1658]: https://music.apple.com/us/song/magic-touch/1440823398
-[1659]: https://music.apple.com/us/song/rag-doll/1440823406
-[1660]: https://music.apple.com/us/song/simoriah/1440823410
-[1661]: https://music.apple.com/us/song/dude-looks-like-a-lady/1440823416
-[1662]: https://music.apple.com/us/song/st-john/1440823542
-[1663]: https://music.apple.com/us/song/hangman-jury/1440823547
-[1664]: https://music.apple.com/us/song/girl-keeps-coming-apart/1440823552
-[1665]: https://music.apple.com/us/song/angel/1440823557
-[1666]: https://music.apple.com/us/song/permanent-vacation/1440823563
-[1667]: https://music.apple.com/us/song/im-down/1440823567
-[1668]: https://music.apple.com/us/song/the-movie/1440823635
-[1669]: https://music.apple.com/us/song/the-shining/145055318
-[1670]: https://music.apple.com/us/song/ancient-warrior/145055416
-[1671]: https://music.apple.com/us/song/hard-life-to-love/145055499
-[1672]: https://music.apple.com/us/song/glory-ride/145055564
-[1673]: https://music.apple.com/us/song/born-to-lose/145055637
-[1674]: https://music.apple.com/us/song/nightmare/145055666
-[1675]: https://music.apple.com/us/song/scarlet-pimpernel/145055805
-[1676]: https://music.apple.com/us/song/lost-forever/145055815
-[1677]: https://music.apple.com/us/song/eternal-idol/145055888
-[1678]: https://music.apple.com/us/song/big-love-2017-remaster/1196728020
-[1679]: https://music.apple.com/us/song/seven-wonders-2017-remaster/1196728205
-[1680]: https://music.apple.com/us/song/everywhere-2017-remaster/1196728221
-[1681]: https://music.apple.com/us/song/caroline-2017-remaster/1196728223
-[1682]: https://music.apple.com/us/song/tango-in-the-night-2017-remaster/1196728319
-[1683]: https://music.apple.com/us/song/mystified-2017-remaster/1196728323
-[1684]: https://music.apple.com/us/song/little-lies-2017-remaster/1196728362
-[1685]: https://music.apple.com/us/song/family-man-2017-remaster/1196728392
-[1686]: https://music.apple.com/us/song/welcome-to-the-room-sara-2017-remaster/1196728398
-[1687]: https://music.apple.com/us/song/isnt-it-midnight-2017-remaster/1196728400
-[1688]: https://music.apple.com/us/song/when-i-see-you-again-2017-remaster/1196728401
-[1689]: https://music.apple.com/us/song/you-and-i-pt-ii-2017-remaster/1196728409
-[1690]: https://music.apple.com/us/song/down-endless-street-2017-remaster/1196728413
-[1691]: https://music.apple.com/us/song/seven-wonders-early-version-2017-remaster/1196728416
-[1692]: https://music.apple.com/us/song/tango-in-the-night-demo-2017-remaster/1196728534
-[1693]: https://music.apple.com/us/song/mystified-alternate-version-2017-remaster/1196728593
-[1694]: https://music.apple.com/us/song/book-of-miracles-instrumental-2017-remaster/1196728595
-[1695]: https://music.apple.com/us/song/where-we-belong-demo-2017-remaster/1196728598
-[1696]: https://music.apple.com/us/song/ricky-2017-remaster/1196728781
-[1697]: https://music.apple.com/us/song/kid-gloves-live-at-maple-leaf-gardens-toronto-canada/1866006940
+[1618]: https://music.apple.com/us/song/the-big-money/1440759090
+[1619]: https://music.apple.com/us/song/grand-designs/1440759095
+[1620]: https://music.apple.com/us/song/manhattan-project/1440759097
+[1621]: https://music.apple.com/us/song/marathon/1440759311
+[1622]: https://music.apple.com/us/song/territories/1440759313
+[1623]: https://music.apple.com/us/song/middletown-dreams/1440759315
+[1624]: https://music.apple.com/us/song/emotion-detector/1440759318
+[1625]: https://music.apple.com/us/song/mystic-rhythms/1440759321
+[1626]: https://music.apple.com/us/song/in-for-the-kill/59401798
+[1627]: https://music.apple.com/us/song/no-stranger-to-love/59401803
+[1628]: https://music.apple.com/us/song/turn-to-stone/59401807
+[1629]: https://music.apple.com/us/song/sphinx-the-guardian/59401811
+[1630]: https://music.apple.com/us/song/seventh-star/59401814
+[1631]: https://music.apple.com/us/song/danger-zone/59401818
+[1632]: https://music.apple.com/us/song/heart-like-a-wheel/59401865
+[1633]: https://music.apple.com/us/song/angry-heart/59401874
+[1634]: https://music.apple.com/us/song/in-memory/59401877
+[1635]: https://music.apple.com/us/song/amanda/1440851313
+[1636]: https://music.apple.com/us/song/nobody-but-you-baby/1452288417
+[1637]: https://music.apple.com/us/song/i-want-to-make-the-world-turn-around/1452288445
+[1638]: https://music.apple.com/us/song/slinky/1452288576
+[1639]: https://music.apple.com/us/song/living-in-the-20th-century/1452288585
+[1640]: https://music.apple.com/us/song/maelstrom/1452288592
+[1641]: https://music.apple.com/us/song/i-wanna-be-loved-but-by-only-you/1452288840
+[1642]: https://music.apple.com/us/song/my-babe/1452288856
+[1643]: https://music.apple.com/us/song/big-boss-man/1452288986
+[1644]: https://music.apple.com/us/song/caress-me-baby/1452288991
+[1645]: https://music.apple.com/us/song/aint-that-lovin-you-baby/1452289000
+[1646]: https://music.apple.com/us/song/behind-the-barn/1452289004
+[1647]: https://music.apple.com/us/song/one-hit-to-the-body/1440860758
+[1648]: https://music.apple.com/us/song/fight/1440860763
+[1649]: https://music.apple.com/us/song/harlem-shuffle/1440860835
+[1650]: https://music.apple.com/us/song/hold-back/1440860838
+[1651]: https://music.apple.com/us/song/too-rude/1440860843
+[1652]: https://music.apple.com/us/song/winning-ugly/1440860848
+[1653]: https://music.apple.com/us/song/back-to-zero/1440860852
+[1654]: https://music.apple.com/us/song/dirty-work/1440860856
+[1655]: https://music.apple.com/us/song/had-it-with-you/1440860858
+[1656]: https://music.apple.com/us/song/sleep-tonight/1440860859
+[1657]: https://music.apple.com/us/song/kid-gloves-live-at-maple-leaf-gardens-toronto-canada/1866006940
+[1657]: https://music.apple.com/us/song/key-to-the-highway-piano-instrumental/1440860860
+[1658]: https://music.apple.com/us/song/hearts-done-time/1440823391
+[1659]: https://music.apple.com/us/song/magic-touch/1440823398
+[1660]: https://music.apple.com/us/song/rag-doll/1440823406
+[1661]: https://music.apple.com/us/song/simoriah/1440823410
+[1662]: https://music.apple.com/us/song/radio-1/1443173949
+[1662]: https://music.apple.com/us/song/dude-looks-like-a-lady/1440823416
+[1663]: https://music.apple.com/us/song/st-john/1440823542
+[1664]: https://music.apple.com/us/song/hangman-jury/1440823547
+[1665]: https://music.apple.com/us/song/girl-keeps-coming-apart/1440823552
+[1666]: https://music.apple.com/us/song/angel/1440823557
+[1667]: https://music.apple.com/us/song/permanent-vacation/1440823563
+[1668]: https://music.apple.com/us/song/im-down/1440823567
+[1669]: https://music.apple.com/us/song/the-movie/1440823635
+[1670]: https://music.apple.com/us/song/the-shining/145055318
+[1671]: https://music.apple.com/us/song/ancient-warrior/145055416
+[1672]: https://music.apple.com/us/song/hard-life-to-love/145055499
+[1673]: https://music.apple.com/us/song/glory-ride/145055564
+[1674]: https://music.apple.com/us/song/born-to-lose/145055637
+[1675]: https://music.apple.com/us/song/nightmare/145055666
+[1676]: https://music.apple.com/us/song/scarlet-pimpernel/145055805
+[1677]: https://music.apple.com/us/song/lost-forever/145055815
+[1678]: https://music.apple.com/us/song/eternal-idol/145055888
+[1679]: https://music.apple.com/us/song/big-love-2017-remaster/1196728020
+[1680]: https://music.apple.com/us/song/seven-wonders-2017-remaster/1196728205
+[1681]: https://music.apple.com/us/song/everywhere-2017-remaster/1196728221
+[1682]: https://music.apple.com/us/song/caroline-2017-remaster/1196728223
+[1683]: https://music.apple.com/us/song/tango-in-the-night-2017-remaster/1196728319
+[1684]: https://music.apple.com/us/song/mystified-2017-remaster/1196728323
+[1685]: https://music.apple.com/us/song/little-lies-2017-remaster/1196728362
+[1686]: https://music.apple.com/us/song/family-man-2017-remaster/1196728392
+[1687]: https://music.apple.com/us/song/welcome-to-the-room-sara-2017-remaster/1196728398
+[1688]: https://music.apple.com/us/song/isnt-it-midnight-2017-remaster/1196728400
+[1689]: https://music.apple.com/us/song/when-i-see-you-again-2017-remaster/1196728401
+[1690]: https://music.apple.com/us/song/you-and-i-pt-ii-2017-remaster/1196728409
+[1691]: https://music.apple.com/us/song/down-endless-street-2017-remaster/1196728413
+[1692]: https://music.apple.com/us/song/seven-wonders-early-version-2017-remaster/1196728416
+[1693]: https://music.apple.com/us/song/tango-in-the-night-demo-2017-remaster/1196728534
+[1694]: https://music.apple.com/us/song/mystified-alternate-version-2017-remaster/1196728593
+[1695]: https://music.apple.com/us/song/book-of-miracles-instrumental-2017-remaster/1196728595
+[1696]: https://music.apple.com/us/song/where-we-belong-demo-2017-remaster/1196728598
 [1697]: https://music.apple.com/us/song/ricky-2017-remaster/1196728781
-[1698]: https://music.apple.com/us/song/isnt-it-midnight-alternate-mix-2017-remaster/1196728854
-[1699]: https://music.apple.com/us/song/ooh-my-love-demo-2017-remaster/1196728856
-[1700]: https://music.apple.com/us/song/mystified-instrumental-demo-2017-remaster/1196728946
-[1701]: https://music.apple.com/us/song/you-and-i-pt-ii-full-version-2017-remaster/1196728950
-[1702]: https://music.apple.com/us/song/big-love-extended-remix-2017-remaster/1196728958
-[1703]: https://music.apple.com/us/song/big-love-house-on-the-hill-dub-2017-remaster/1196728962
-[1704]: https://music.apple.com/us/song/big-love-piano-dub-2017-remaster/1196728966
-[1705]: https://music.apple.com/us/song/radio-1/1443173949
-[1705]: https://music.apple.com/us/song/big-love-remix-edit-2017-remaster/1196729180
-[1706]: https://music.apple.com/us/song/seven-wonders-extended-version-2017-remaster/1196729182
-[1707]: https://music.apple.com/us/song/seven-wonders-dub-2017-remaster/1196729185
-[1708]: https://music.apple.com/us/song/little-lies-extended-version-2017-remaster/1196729188
-[1709]: https://music.apple.com/us/song/little-lies-dub-2017-remaster/1196729190
-[1710]: https://music.apple.com/us/song/family-man-extended-vocal-remix-2017-remaster/1196729194
-[1711]: https://music.apple.com/us/song/family-man-im-a-jazz-man-dub-2017-remaster/1196729233
-[1712]: https://music.apple.com/us/song/family-man-extended-guitar-version-2017-remaster/1196729236
-[1713]: https://music.apple.com/us/song/family-man-bonus-beats-2017-remaster/1196729242
-[1714]: https://music.apple.com/us/song/everywhere-2017-remaster-ii/1196729423
-[1715]: https://music.apple.com/us/song/everywhere-dub-2017-remaster/1196729540
-[1716]: https://music.apple.com/us/song/counting-every-minute/296202682
+[1698]: https://music.apple.com/us/song/ricky-2017-remaster/1196728781
+[1699]: https://music.apple.com/us/song/isnt-it-midnight-alternate-mix-2017-remaster/1196728854
+[1700]: https://music.apple.com/us/song/ooh-my-love-demo-2017-remaster/1196728856
+[1701]: https://music.apple.com/us/song/mystified-instrumental-demo-2017-remaster/1196728946
+[1702]: https://music.apple.com/us/song/you-and-i-pt-ii-full-version-2017-remaster/1196728950
+[1703]: https://music.apple.com/us/song/big-love-extended-remix-2017-remaster/1196728958
+[1704]: https://music.apple.com/us/song/big-love-house-on-the-hill-dub-2017-remaster/1196728962
+[1705]: https://music.apple.com/us/song/big-love-piano-dub-2017-remaster/1196728966
+[1706]: https://music.apple.com/us/song/big-love-remix-edit-2017-remaster/1196729180
+[1707]: https://music.apple.com/us/song/seven-wonders-extended-version-2017-remaster/1196729182
+[1708]: https://music.apple.com/us/song/seven-wonders-dub-2017-remaster/1196729185
+[1709]: https://music.apple.com/us/song/little-lies-extended-version-2017-remaster/1196729188
+[1710]: https://music.apple.com/us/song/little-lies-dub-2017-remaster/1196729190
+[1711]: https://music.apple.com/us/song/family-man-extended-vocal-remix-2017-remaster/1196729194
+[1712]: https://music.apple.com/us/song/family-man-im-a-jazz-man-dub-2017-remaster/1196729233
+[1713]: https://music.apple.com/us/song/family-man-extended-guitar-version-2017-remaster/1196729236
+[1714]: https://music.apple.com/us/song/family-man-bonus-beats-2017-remaster/1196729242
+[1715]: https://music.apple.com/us/song/everywhere-2017-remaster-ii/1196729423
+[1716]: https://music.apple.com/us/song/everywhere-dub-2017-remaster/1196729540
 [1717]: https://music.apple.com/us/song/counting-every-minute/296202682
-[1718]: https://music.apple.com/us/song/inside-information/296202687
-[1719]: https://music.apple.com/us/song/the-beat-of-my-heart/296202692
-[1720]: https://music.apple.com/us/song/face-to-face/296202696
-[1721]: https://music.apple.com/us/song/out-of-the-blue/296202705
-[1722]: https://music.apple.com/us/song/a-night-to-remember/296202709
-[1723]: https://music.apple.com/us/song/signs-of-life/1065974934
-[1724]: https://music.apple.com/us/song/learning-to-fly/1065974935
-[1725]: https://music.apple.com/us/song/the-dogs-of-war/1065974936
-[1726]: https://music.apple.com/us/song/one-slip/1065974937
-[1727]: https://music.apple.com/us/song/on-the-turning-away/1065974938
-[1728]: https://music.apple.com/us/song/yet-another-movie/1065974940
-[1729]: https://music.apple.com/us/song/round-and-around/1065974941
-[1730]: https://music.apple.com/us/song/a-new-machine-pt-1/1065974942
-[1731]: https://music.apple.com/us/song/terminal-frost/1065974943
-[1732]: https://music.apple.com/us/song/a-new-machine-pt-2/1065974944
-[1733]: https://music.apple.com/us/song/sorrow/1065974945
-[1734]: https://music.apple.com/us/song/force-ten/1442456388
-[1735]: https://music.apple.com/us/song/time-stand-still/1442456394
-[1736]: https://music.apple.com/us/song/open-secrets/1442456397
-[1737]: https://music.apple.com/us/song/second-nature/1442456400
-[1738]: https://music.apple.com/us/song/prime-mover/1442456724
-[1739]: https://music.apple.com/us/song/lock-and-key/1442456729
-[1740]: https://music.apple.com/us/song/mission/1442456733
-[1741]: https://music.apple.com/us/song/turn-the-page/1442456735
-[1742]: https://music.apple.com/us/song/tai-shan/1442456738
-[1743]: https://music.apple.com/us/song/high-water/1442456866
-[1744]: https://music.apple.com/us/song/heatseeker/574051077
-[1745]: https://music.apple.com/us/song/thats-the-way-i-wanna-rock-n-roll/574051078
-[1746]: https://music.apple.com/us/song/meanstreak/574051080
-[1747]: https://music.apple.com/us/song/go-zone/574051589
-[1748]: https://music.apple.com/us/song/kissin-dynamite/574051590
-[1749]: https://music.apple.com/us/song/nick-of-time/574051591
-[1750]: https://music.apple.com/us/song/some-sin-for-nuthin/574051592
-[1751]: https://music.apple.com/us/song/ruff-stuff/574051593
-[1752]: https://music.apple.com/us/song/twos-up/574051594
-[1753]: https://music.apple.com/us/song/this-means-war/574051601
-[1754]: https://music.apple.com/us/song/young-lust/1440824531
-[1755]: https://music.apple.com/us/song/f-i-n-e/1440824560
-[1756]: https://music.apple.com/us/song/going-down-love-in-an-elevator/1440824716
-[1757]: https://music.apple.com/us/song/monkey-on-my-back/1440824720
-[1758]: https://music.apple.com/us/song/water-song-janies-got-a-gun/1440824725
-[1759]: https://music.apple.com/us/song/dulcimer-stomp-the-other-side/1440824730
-[1760]: https://music.apple.com/us/song/my-girl/1440824736
-[1761]: https://music.apple.com/us/song/dont-get-mad-get-even/1440825013
-[1762]: https://music.apple.com/us/song/hoodoo-voodoo-medicine-man/1440825025
-[1763]: https://music.apple.com/us/song/what-it-takes/1440825033
-[1764]: https://music.apple.com/us/song/the-gates-of-hell-2024-remaster/1747287784
-[1765]: https://music.apple.com/us/song/headless-cross-2024-remaster/1747287785
-[1766]: https://music.apple.com/us/song/devil-daughter-2024-remaster/1747287789
-[1767]: https://music.apple.com/us/song/when-death-calls-2024-remaster/1747287790
-[1768]: https://music.apple.com/us/song/kill-in-the-spirit-world-2024-remaster/1747287791
-[1769]: https://music.apple.com/us/song/call-of-the-wild-2024-remaster/1747287792
-[1770]: https://music.apple.com/us/song/black-moon-2024-remaster/1747287793
-[1771]: https://music.apple.com/us/song/nightwing-2024-remaster/1747287794
-[1772]: https://music.apple.com/us/song/cloak-and-dagger-2024-remaster/1747287795
-[1773]: https://music.apple.com/us/song/show-dont-tell/642203450
-[1774]: https://music.apple.com/us/song/chain-lightning/642203451
-[1775]: https://music.apple.com/us/song/the-pass/642203452
-[1776]: https://music.apple.com/us/song/war-paint/642203453
-[1777]: https://music.apple.com/us/song/scars/642203454
-[1778]: https://music.apple.com/us/song/presto/642203455
-[1779]: https://music.apple.com/us/song/superconductor/642203459
-[1780]: https://music.apple.com/us/song/anagram-for-mongo/642203460
-[1781]: https://music.apple.com/us/song/red-tide/642203461
-[1782]: https://music.apple.com/us/song/hand-over-fist/642203462
-[1783]: https://music.apple.com/us/song/available-light/642203463
-[1784]: https://music.apple.com/us/song/sad-sad-sad/1440831515
-[1785]: https://music.apple.com/us/song/mixed-emotions/1440831654
-[1786]: https://music.apple.com/us/song/terrifying/1440831663
-[1787]: https://music.apple.com/us/song/hold-on-to-your-hat/1440831885
-[1788]: https://music.apple.com/us/song/hearts-for-sale/1440831896
-[1789]: https://music.apple.com/us/song/blinded-by-love/1440831908
-[1790]: https://music.apple.com/us/song/rock-and-a-hard-place/1440832002
-[1791]: https://music.apple.com/us/song/cant-be-seen/1440832010
-[1792]: https://music.apple.com/us/song/almost-hear-you-sigh/1440832015
-[1793]: https://music.apple.com/us/song/continental-drift/1440832023
-[1794]: https://music.apple.com/us/song/break-the-spell/1440832213
-[1795]: https://music.apple.com/us/song/slipping-away/1440832223
-
+[1718]: https://music.apple.com/us/song/counting-every-minute/296202682
+[1719]: https://music.apple.com/us/song/inside-information/296202687
+[1720]: https://music.apple.com/us/song/the-beat-of-my-heart/296202692
+[1721]: https://music.apple.com/us/song/face-to-face/296202696
+[1722]: https://music.apple.com/us/song/out-of-the-blue/296202705
+[1723]: https://music.apple.com/us/song/a-night-to-remember/296202709
+[1724]: https://music.apple.com/us/song/signs-of-life/1065974934
+[1725]: https://music.apple.com/us/song/learning-to-fly/1065974935
+[1726]: https://music.apple.com/us/song/the-dogs-of-war/1065974936
+[1727]: https://music.apple.com/us/song/one-slip/1065974937
+[1728]: https://music.apple.com/us/song/on-the-turning-away/1065974938
+[1729]: https://music.apple.com/us/song/yet-another-movie/1065974940
+[1730]: https://music.apple.com/us/song/round-and-around/1065974941
+[1731]: https://music.apple.com/us/song/a-new-machine-pt-1/1065974942
+[1732]: https://music.apple.com/us/song/terminal-frost/1065974943
+[1733]: https://music.apple.com/us/song/a-new-machine-pt-2/1065974944
+[1734]: https://music.apple.com/us/song/sorrow/1065974945
+[1735]: https://music.apple.com/us/song/force-ten/1442456388
+[1736]: https://music.apple.com/us/song/time-stand-still/1442456394
+[1737]: https://music.apple.com/us/song/open-secrets/1442456397
+[1738]: https://music.apple.com/us/song/second-nature/1442456400
+[1739]: https://music.apple.com/us/song/prime-mover/1442456724
+[1740]: https://music.apple.com/us/song/lock-and-key/1442456729
+[1741]: https://music.apple.com/us/song/mission/1442456733
+[1742]: https://music.apple.com/us/song/turn-the-page/1442456735
+[1743]: https://music.apple.com/us/song/tai-shan/1442456738
+[1744]: https://music.apple.com/us/song/high-water/1442456866
+[1745]: https://music.apple.com/us/song/heatseeker/574051077
+[1746]: https://music.apple.com/us/song/thats-the-way-i-wanna-rock-n-roll/574051078
+[1747]: https://music.apple.com/us/song/meanstreak/574051080
+[1748]: https://music.apple.com/us/song/go-zone/574051589
+[1749]: https://music.apple.com/us/song/kissin-dynamite/574051590
+[1750]: https://music.apple.com/us/song/nick-of-time/574051591
+[1751]: https://music.apple.com/us/song/some-sin-for-nuthin/574051592
+[1752]: https://music.apple.com/us/song/ruff-stuff/574051593
+[1753]: https://music.apple.com/us/song/twos-up/574051594
+[1754]: https://music.apple.com/us/song/this-means-war/574051601
+[1755]: https://music.apple.com/us/song/young-lust/1440824531
+[1756]: https://music.apple.com/us/song/f-i-n-e/1440824560
+[1757]: https://music.apple.com/us/song/going-down-love-in-an-elevator/1440824716
+[1758]: https://music.apple.com/us/song/monkey-on-my-back/1440824720
+[1759]: https://music.apple.com/us/song/water-song-janies-got-a-gun/1440824725
+[1760]: https://music.apple.com/us/song/dulcimer-stomp-the-other-side/1440824730
+[1761]: https://music.apple.com/us/song/my-girl/1440824736
+[1762]: https://music.apple.com/us/song/dont-get-mad-get-even/1440825013
+[1763]: https://music.apple.com/us/song/hoodoo-voodoo-medicine-man/1440825025
+[1764]: https://music.apple.com/us/song/what-it-takes/1440825033
+[1765]: https://music.apple.com/us/song/the-gates-of-hell-2024-remaster/1747287784
+[1766]: https://music.apple.com/us/song/headless-cross-2024-remaster/1747287785
+[1767]: https://music.apple.com/us/song/devil-daughter-2024-remaster/1747287789
+[1768]: https://music.apple.com/us/song/when-death-calls-2024-remaster/1747287790
+[1769]: https://music.apple.com/us/song/kill-in-the-spirit-world-2024-remaster/1747287791
+[1770]: https://music.apple.com/us/song/call-of-the-wild-2024-remaster/1747287792
+[1771]: https://music.apple.com/us/song/black-moon-2024-remaster/1747287793
+[1772]: https://music.apple.com/us/song/nightwing-2024-remaster/1747287794
+[1773]: https://music.apple.com/us/song/cloak-and-dagger-2024-remaster/1747287795
+[1774]: https://music.apple.com/us/song/show-dont-tell/642203450
+[1775]: https://music.apple.com/us/song/chain-lightning/642203451
+[1776]: https://music.apple.com/us/song/the-pass/642203452
+[1777]: https://music.apple.com/us/song/war-paint/642203453
+[1778]: https://music.apple.com/us/song/scars/642203454
+[1779]: https://music.apple.com/us/song/presto/642203455
+[1780]: https://music.apple.com/us/song/superconductor/642203459
+[1781]: https://music.apple.com/us/song/anagram-for-mongo/642203460
+[1782]: https://music.apple.com/us/song/red-tide/642203461
+[1783]: https://music.apple.com/us/song/hand-over-fist/642203462
+[1784]: https://music.apple.com/us/song/available-light/642203463
+[1785]: https://music.apple.com/us/song/sad-sad-sad/1440831515
+[1786]: https://music.apple.com/us/song/mixed-emotions/1440831654
+[1787]: https://music.apple.com/us/song/terrifying/1440831663
+[1788]: https://music.apple.com/us/song/hold-on-to-your-hat/1440831885
+[1789]: https://music.apple.com/us/song/hearts-for-sale/1440831896
+[1790]: https://music.apple.com/us/song/blinded-by-love/1440831908
+[1791]: https://music.apple.com/us/song/rock-and-a-hard-place/1440832002
+[1792]: https://music.apple.com/us/song/cant-be-seen/1440832010
+[1793]: https://music.apple.com/us/song/almost-hear-you-sigh/1440832015
+[1794]: https://music.apple.com/us/song/continental-drift/1440832023
+[1795]: https://music.apple.com/us/song/break-the-spell/1440832213
+[1796]: https://music.apple.com/us/song/slipping-away/1440832223
 

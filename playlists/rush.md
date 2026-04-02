@@ -73,130 +73,141 @@ Albums: Rush (1974), Fly by Night (1975), Caress of Steel (1975), 2112 (1976), A
 | 51 | [The Camera Eye][51] | Rush | Moving Pictures | 1981 | |
 | 52 | [Witch Hunt][52] | Rush | Moving Pictures | 1981 | |
 | 53 | [Vital Signs][53] | Rush | Moving Pictures | 1981 | |
-| 54 | [Subdivisions][54] | Rush | Signals | 1982 | |
-| 55 | [The Analog Kid][55] | Rush | Signals | 1982 | |
-| 56 | [Chemistry][56] | Rush | Signals | 1982 | |
-| 57 | [Digital Man][57] | Rush | Signals | 1982 | |
-| 58 | [The Weapon (Part II of Fear)][58] | Rush | Signals | 1982 | |
-| 59 | [New World Man][59] | Rush | Signals | 1982 | |
-| 60 | [Losing It][60] | Rush | Signals | 1982 | |
-| 61 | [Countdown][61] | Rush | Signals | 1982 | |
-| 62 | Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 63 | Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 64 | Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 65 | The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 66 | The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 67 | Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 68 | Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 69 | Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| 70 | Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 71 | Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 72 | Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 73 | The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 74 | The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 75 | Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 76 | Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 77 | Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| 78 | [The Big Money][78] | Rush | Power Windows | 1985 | |
-| 79 | [Grand Designs][79] | Rush | Power Windows | 1985 | |
-| 80 | [Manhattan Project][80] | Rush | Power Windows | 1985 | |
-| 81 | [Marathon][81] | Rush | Power Windows | 1985 | |
-| 82 | [Territories][82] | Rush | Power Windows | 1985 | |
-| 83 | [Middletown Dreams][83] | Rush | Power Windows | 1985 | |
-| 84 | [Emotion Detector][84] | Rush | Power Windows | 1985 | |
-| 85 | [Mystic Rhythms][85] | Rush | Power Windows | 1985 | |
-| 86 | [Force Ten][86] | Rush | Hold Your Fire | 1987 | |
-| 87 | [Time Stand Still][87] | Rush | Hold Your Fire | 1987 | |
-| 88 | [Open Secrets][88] | Rush | Hold Your Fire | 1987 | |
-| 89 | [Second Nature][89] | Rush | Hold Your Fire | 1987 | |
-| 90 | [Prime Mover][90] | Rush | Hold Your Fire | 1987 | |
-| 91 | [Lock and Key][91] | Rush | Hold Your Fire | 1987 | |
-| 92 | [Mission][92] | Rush | Hold Your Fire | 1987 | |
-| 93 | [Turn the Page][93] | Rush | Hold Your Fire | 1987 | |
-| 94 | [Tai Shan][94] | Rush | Hold Your Fire | 1987 | |
-| 95 | [High Water][95] | Rush | Hold Your Fire | 1987 | |
-| 96 | [Show Don't Tell][96] | Rush | Presto | 1989 | |
-| 97 | [Chain Lightning][97] | Rush | Presto | 1989 | |
-| 98 | [The Pass][98] | Rush | Presto | 1989 | |
-| 99 | [War Paint][99] | Rush | Presto | 1989 | |
-| 100 | [Scars][100] | Rush | Presto | 1989 | |
-| 101 | [Presto][101] | Rush | Presto | 1989 | |
-| 102 | [Superconductor][102] | Rush | Presto | 1989 | |
-| 103 | [Anagram (For Mongo)][103] | Rush | Presto | 1989 | |
-| 104 | [Red Tide][104] | Rush | Presto | 1989 | |
-| 105 | [Hand Over Fist][105] | Rush | Presto | 1989 | |
-| 106 | [Available Light][106] | Rush | Presto | 1989 | |
-| 107 | [Dreamline][107] | Rush | Roll the Bones | 1991 | |
-| 108 | [Bravado][108] | Rush | Roll the Bones | 1991 | |
-| 109 | [Roll the Bones][109] | Rush | Roll the Bones | 1991 | |
-| 110 | [Face Up][110] | Rush | Roll the Bones | 1991 | |
-| 111 | [Where's My Thing? (Part IV "Gangster of Boats" Trilogy)][111] | Rush | Roll the Bones | 1991 | |
-| 112 | [The Big Wheel][112] | Rush | Roll the Bones | 1991 | |
-| 113 | [Heresy][113] | Rush | Roll the Bones | 1991 | |
-| 114 | [Ghost of a Chance][114] | Rush | Roll the Bones | 1991 | |
-| 115 | [Neurotica][115] | Rush | Roll the Bones | 1991 | |
-| 116 | [You Bet Your Life][116] | Rush | Roll the Bones | 1991 | |
-| 117 | [Animate][117] | Rush | Counterparts | 1993 | |
-| 118 | [Stick It Out][118] | Rush | Counterparts | 1993 | |
-| 119 | [Cut to the Chase][119] | Rush | Counterparts | 1993 | |
-| 120 | [Nobody's Hero][120] | Rush | Counterparts | 1993 | |
-| 121 | [Between Sun & Moon][121] | Rush | Counterparts | 1993 | |
-| 122 | [Alien Shore][122] | Rush | Counterparts | 1993 | |
-| 123 | [The Speed of Love][123] | Rush | Counterparts | 1993 | |
-| 124 | [Double Agent][124] | Rush | Counterparts | 1993 | |
-| 125 | [Leave That Thing Alone][125] | Rush | Counterparts | 1993 | |
-| 126 | [Cold Fire][126] | Rush | Counterparts | 1993 | |
-| 127 | [Everyday Glory][127] | Rush | Counterparts | 1993 | |
-| 128 | [Test for Echo][128] | Rush | Test for Echo | 1996 | |
-| 129 | [Driven][129] | Rush | Test for Echo | 1996 | |
-| 130 | [Half the World][130] | Rush | Test for Echo | 1996 | |
-| 131 | [The Color of Right][131] | Rush | Test for Echo | 1996 | |
-| 132 | [Time and Motion][132] | Rush | Test for Echo | 1996 | |
-| 133 | [Totem][133] | Rush | Test for Echo | 1996 | |
-| 134 | [Dog Years][134] | Rush | Test for Echo | 1996 | |
-| 135 | [Virtuality][135] | Rush | Test for Echo | 1996 | |
-| 136 | [Resist][136] | Rush | Test for Echo | 1996 | |
-| 137 | [Limbo][137] | Rush | Test for Echo | 1996 | |
-| 138 | [Carve Away the Stone][138] | Rush | Test for Echo | 1996 | |
-| 139 | [One Little Victory][139] | Rush | Vapor Trails | 2002 | |
-| 140 | [Ceiling Unlimited][140] | Rush | Vapor Trails | 2002 | |
-| 141 | [Ghost Rider][141] | Rush | Vapor Trails | 2002 | |
-| 142 | [Peaceable Kingdom][142] | Rush | Vapor Trails | 2002 | |
-| 143 | [The Stars Look Down][143] | Rush | Vapor Trails | 2002 | |
-| 144 | [How It Is][144] | Rush | Vapor Trails | 2002 | |
-| 145 | [Vapor Trail][145] | Rush | Vapor Trails | 2002 | |
-| 146 | [Secret Touch][146] | Rush | Vapor Trails | 2002 | |
-| 147 | [Earthshine][147] | Rush | Vapor Trails | 2002 | |
-| 148 | [Sweet Miracle][148] | Rush | Vapor Trails | 2002 | |
-| 149 | [Nocturne][149] | Rush | Vapor Trails | 2002 | |
-| 150 | [Freeze (Part IV of Fear)][150] | Rush | Vapor Trails | 2002 | |
-| 151 | [Out of the Cradle][151] | Rush | Vapor Trails | 2002 | |
-| 152 | [Far Cry][152] | Rush | Snakes and Arrows | 2007 | |
-| 153 | [Armor and Sword][153] | Rush | Snakes and Arrows | 2007 | |
-| 154 | [Workin' Them Angels][154] | Rush | Snakes and Arrows | 2007 | |
-| 155 | [The Larger Bowl][155] | Rush | Snakes and Arrows | 2007 | |
-| 156 | [Spindrift][156] | Rush | Snakes and Arrows | 2007 | |
-| 157 | [The Main Monkey Business][157] | Rush | Snakes and Arrows | 2007 | |
-| 158 | [The Way the Wind Blows][158] | Rush | Snakes and Arrows | 2007 | |
-| 159 | [Hope][159] | Rush | Snakes and Arrows | 2007 | |
-| 160 | [Faithless][160] | Rush | Snakes and Arrows | 2007 | |
-| 161 | [Bravest Face][161] | Rush | Snakes and Arrows | 2007 | |
-| 162 | [Good News First][162] | Rush | Snakes and Arrows | 2007 | |
-| 163 | [Malignant Narcissism][163] | Rush | Snakes and Arrows | 2007 | |
-| 164 | [We Hold On][164] | Rush | Snakes and Arrows | 2007 | |
-| 165 | Making of Snakes & Arrows | Rush | Snakes and Arrows | 2007 | |
-| 166 | [Caravan][166] | Rush | Clockwork Angels | 2012 | |
-| 167 | [BU2B][167] | Rush | Clockwork Angels | 2012 | |
-| 168 | [Clockwork Angels][168] | Rush | Clockwork Angels | 2012 | |
-| 169 | [The Anarchist][169] | Rush | Clockwork Angels | 2012 | |
-| 170 | [Carnies][170] | Rush | Clockwork Angels | 2012 | |
-| 171 | [Halo Effect][171] | Rush | Clockwork Angels | 2012 | |
-| 172 | [Seven Cities of Gold][172] | Rush | Clockwork Angels | 2012 | |
-| 173 | [The Wreckers][173] | Rush | Clockwork Angels | 2012 | |
-| 174 | [Headlong Flight][174] | Rush | Clockwork Angels | 2012 | |
-| 175 | [BU2B2][175] | Rush | Clockwork Angels | 2012 | |
-| 176 | [Wish Them Well][176] | Rush | Clockwork Angels | 2012 | |
-| 177 | [The Garden][177] | Rush | Clockwork Angels | 2012 | |
+| 54 | [2112 - Overture (Live In YYZ 1981)][54] | Rush | Moving Pictures | 1981 | |
+| 55 | [2112 - The Temples of Syrinx (Live In YYZ 1981)][55] | Rush | Moving Pictures | 1981 | |
+| 56 | [Cygnus X-1 Book II: Hemispheres - Prelude (Live In YYZ 1981)][56] | Rush | Moving Pictures | 1981 | |
+| 57 | [Broon's Bane (Live In YYZ 1981)][57] | Rush | Moving Pictures | 1981 | |
+| 58 | [Working Man / Cygnus X-1 Book II: Hemispheres - Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 - Grand Finale (Live In YYZ 1981)][58] | Rush | Moving Pictures | 1981 | |
+| 59 | [Subdivisions][59] | Rush | Signals | 1982 | |
+| 60 | [The Analog Kid][60] | Rush | Signals | 1982 | |
+| 61 | [Chemistry][61] | Rush | Signals | 1982 | |
+| 62 | [Digital Man][62] | Rush | Signals | 1982 | |
+| 63 | [The Weapon (Part II of Fear)][63] | Rush | Signals | 1982 | |
+| 64 | [New World Man][64] | Rush | Signals | 1982 | |
+| 65 | [Losing It][65] | Rush | Signals | 1982 | |
+| 66 | [Countdown][66] | Rush | Signals | 1982 | |
+| 67 | Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 68 | Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 69 | Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 70 | The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 71 | The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 72 | Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 73 | Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 74 | Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
+| 75 | Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 76 | Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 77 | Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 78 | The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 79 | The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 80 | Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 81 | Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 82 | Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
+| 83 | Intro (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
+| 84 | The Weapon (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
+| 85 | 2112: The Temples Of Syrinx (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
+| 86 | Red Lenses / Drum Solo (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
+| 87 | Finding My Way (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
+| 88 | In The Mood (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
+| 89 | [The Big Money][89] | Rush | Power Windows | 1985 | |
+| 90 | [Grand Designs][90] | Rush | Power Windows | 1985 | |
+| 91 | [Manhattan Project][91] | Rush | Power Windows | 1985 | |
+| 92 | [Marathon][92] | Rush | Power Windows | 1985 | |
+| 93 | [Territories][93] | Rush | Power Windows | 1985 | |
+| 94 | [Middletown Dreams][94] | Rush | Power Windows | 1985 | |
+| 95 | [Emotion Detector][95] | Rush | Power Windows | 1985 | |
+| 96 | [Mystic Rhythms][96] | Rush | Power Windows | 1985 | |
+| 97 | [Force Ten][97] | Rush | Hold Your Fire | 1987 | |
+| 98 | [Time Stand Still][98] | Rush | Hold Your Fire | 1987 | |
+| 99 | [Open Secrets][99] | Rush | Hold Your Fire | 1987 | |
+| 100 | [Second Nature][100] | Rush | Hold Your Fire | 1987 | |
+| 101 | [Prime Mover][101] | Rush | Hold Your Fire | 1987 | |
+| 102 | [Lock and Key][102] | Rush | Hold Your Fire | 1987 | |
+| 103 | [Mission][103] | Rush | Hold Your Fire | 1987 | |
+| 104 | [Turn the Page][104] | Rush | Hold Your Fire | 1987 | |
+| 105 | [Tai Shan][105] | Rush | Hold Your Fire | 1987 | |
+| 106 | [High Water][106] | Rush | Hold Your Fire | 1987 | |
+| 107 | [Show Don't Tell][107] | Rush | Presto | 1989 | |
+| 108 | [Chain Lightning][108] | Rush | Presto | 1989 | |
+| 109 | [The Pass][109] | Rush | Presto | 1989 | |
+| 110 | [War Paint][110] | Rush | Presto | 1989 | |
+| 111 | [Scars][111] | Rush | Presto | 1989 | |
+| 112 | [Presto][112] | Rush | Presto | 1989 | |
+| 113 | [Superconductor][113] | Rush | Presto | 1989 | |
+| 114 | [Anagram (For Mongo)][114] | Rush | Presto | 1989 | |
+| 115 | [Red Tide][115] | Rush | Presto | 1989 | |
+| 116 | [Hand Over Fist][116] | Rush | Presto | 1989 | |
+| 117 | [Available Light][117] | Rush | Presto | 1989 | |
+| 118 | [Dreamline][118] | Rush | Roll the Bones | 1991 | |
+| 119 | [Bravado][119] | Rush | Roll the Bones | 1991 | |
+| 120 | [Roll the Bones][120] | Rush | Roll the Bones | 1991 | |
+| 121 | [Face Up][121] | Rush | Roll the Bones | 1991 | |
+| 122 | [Where's My Thing? (Part IV "Gangster of Boats" Trilogy)][122] | Rush | Roll the Bones | 1991 | |
+| 123 | [The Big Wheel][123] | Rush | Roll the Bones | 1991 | |
+| 124 | [Heresy][124] | Rush | Roll the Bones | 1991 | |
+| 125 | [Ghost of a Chance][125] | Rush | Roll the Bones | 1991 | |
+| 126 | [Neurotica][126] | Rush | Roll the Bones | 1991 | |
+| 127 | [You Bet Your Life][127] | Rush | Roll the Bones | 1991 | |
+| 128 | [Animate][128] | Rush | Counterparts | 1993 | |
+| 129 | [Stick It Out][129] | Rush | Counterparts | 1993 | |
+| 130 | [Cut to the Chase][130] | Rush | Counterparts | 1993 | |
+| 131 | [Nobody's Hero][131] | Rush | Counterparts | 1993 | |
+| 132 | [Between Sun & Moon][132] | Rush | Counterparts | 1993 | |
+| 133 | [Alien Shore][133] | Rush | Counterparts | 1993 | |
+| 134 | [The Speed of Love][134] | Rush | Counterparts | 1993 | |
+| 135 | [Double Agent][135] | Rush | Counterparts | 1993 | |
+| 136 | [Leave That Thing Alone][136] | Rush | Counterparts | 1993 | |
+| 137 | [Cold Fire][137] | Rush | Counterparts | 1993 | |
+| 138 | [Everyday Glory][138] | Rush | Counterparts | 1993 | |
+| 139 | [Test for Echo][139] | Rush | Test for Echo | 1996 | |
+| 140 | [Driven][140] | Rush | Test for Echo | 1996 | |
+| 141 | [Half the World][141] | Rush | Test for Echo | 1996 | |
+| 142 | [The Color of Right][142] | Rush | Test for Echo | 1996 | |
+| 143 | [Time and Motion][143] | Rush | Test for Echo | 1996 | |
+| 144 | [Totem][144] | Rush | Test for Echo | 1996 | |
+| 145 | [Dog Years][145] | Rush | Test for Echo | 1996 | |
+| 146 | [Virtuality][146] | Rush | Test for Echo | 1996 | |
+| 147 | [Resist][147] | Rush | Test for Echo | 1996 | |
+| 148 | [Limbo][148] | Rush | Test for Echo | 1996 | |
+| 149 | [Carve Away the Stone][149] | Rush | Test for Echo | 1996 | |
+| 150 | [One Little Victory][150] | Rush | Vapor Trails | 2002 | |
+| 151 | [Ceiling Unlimited][151] | Rush | Vapor Trails | 2002 | |
+| 152 | [Ghost Rider][152] | Rush | Vapor Trails | 2002 | |
+| 153 | [Peaceable Kingdom][153] | Rush | Vapor Trails | 2002 | |
+| 154 | [The Stars Look Down][154] | Rush | Vapor Trails | 2002 | |
+| 155 | [How It Is][155] | Rush | Vapor Trails | 2002 | |
+| 156 | [Vapor Trail][156] | Rush | Vapor Trails | 2002 | |
+| 157 | [Secret Touch][157] | Rush | Vapor Trails | 2002 | |
+| 158 | [Earthshine][158] | Rush | Vapor Trails | 2002 | |
+| 159 | [Sweet Miracle][159] | Rush | Vapor Trails | 2002 | |
+| 160 | [Nocturne][160] | Rush | Vapor Trails | 2002 | |
+| 161 | [Freeze (Part IV of Fear)][161] | Rush | Vapor Trails | 2002 | |
+| 162 | [Out of the Cradle][162] | Rush | Vapor Trails | 2002 | |
+| 163 | [Far Cry][163] | Rush | Snakes and Arrows | 2007 | |
+| 164 | [Armor and Sword][164] | Rush | Snakes and Arrows | 2007 | |
+| 165 | [Workin' Them Angels][165] | Rush | Snakes and Arrows | 2007 | |
+| 166 | [The Larger Bowl][166] | Rush | Snakes and Arrows | 2007 | |
+| 167 | [Spindrift][167] | Rush | Snakes and Arrows | 2007 | |
+| 168 | [The Main Monkey Business][168] | Rush | Snakes and Arrows | 2007 | |
+| 169 | [The Way the Wind Blows][169] | Rush | Snakes and Arrows | 2007 | |
+| 170 | [Hope][170] | Rush | Snakes and Arrows | 2007 | |
+| 171 | [Faithless][171] | Rush | Snakes and Arrows | 2007 | |
+| 172 | [Bravest Face][172] | Rush | Snakes and Arrows | 2007 | |
+| 173 | [Good News First][173] | Rush | Snakes and Arrows | 2007 | |
+| 174 | [Malignant Narcissism][174] | Rush | Snakes and Arrows | 2007 | |
+| 175 | [We Hold On][175] | Rush | Snakes and Arrows | 2007 | |
+| 176 | Making of Snakes & Arrows | Rush | Snakes and Arrows | 2007 | |
+| 177 | [Caravan][177] | Rush | Clockwork Angels | 2012 | |
+| 178 | [BU2B][178] | Rush | Clockwork Angels | 2012 | |
+| 179 | [Clockwork Angels][179] | Rush | Clockwork Angels | 2012 | |
+| 180 | [The Anarchist][180] | Rush | Clockwork Angels | 2012 | |
+| 181 | [Carnies][181] | Rush | Clockwork Angels | 2012 | |
+| 182 | [Halo Effect][182] | Rush | Clockwork Angels | 2012 | |
+| 183 | [Seven Cities of Gold][183] | Rush | Clockwork Angels | 2012 | |
+| 184 | [The Wreckers][184] | Rush | Clockwork Angels | 2012 | |
+| 185 | [Headlong Flight][185] | Rush | Clockwork Angels | 2012 | |
+| 186 | [BU2B2][186] | Rush | Clockwork Angels | 2012 | |
+| 187 | [Wish Them Well][187] | Rush | Clockwork Angels | 2012 | |
+| 188 | [The Garden][188] | Rush | Clockwork Angels | 2012 | |
 
 [1]: https://music.apple.com/us/song/the-promise-of-a-new-day/723758776
 [2]: https://music.apple.com/us/song/rock-house/723758793
@@ -251,111 +262,117 @@ Albums: Rush (1974), Fly by Night (1975), Caress of Steel (1975), 2112 (1976), A
 [51]: https://music.apple.com/us/song/the-camera-eye/1608979417
 [52]: https://music.apple.com/us/song/witch-hunt/1608979419
 [53]: https://music.apple.com/us/song/vital-signs/1608979421
-[54]: https://music.apple.com/us/song/subdivisions/1440765200
-[55]: https://music.apple.com/us/song/the-analog-kid/1440765205
-[56]: https://music.apple.com/us/song/chemistry/1440765210
-[57]: https://music.apple.com/us/song/digital-man/1440765211
-[58]: https://music.apple.com/us/song/the-weapon-part-ii-of-fear/1440765214
-[59]: https://music.apple.com/us/song/new-world-man/1440765215
-[60]: https://music.apple.com/us/song/losing-it/1440765217
-[61]: https://music.apple.com/us/song/countdown/1440765219
-[78]: https://music.apple.com/us/song/the-big-money/1440759090
-[79]: https://music.apple.com/us/song/grand-designs/1440759095
-[80]: https://music.apple.com/us/song/manhattan-project/1440759097
-[81]: https://music.apple.com/us/song/marathon/1440759311
-[82]: https://music.apple.com/us/song/territories/1440759313
-[83]: https://music.apple.com/us/song/middletown-dreams/1440759315
-[84]: https://music.apple.com/us/song/emotion-detector/1440759318
-[85]: https://music.apple.com/us/song/mystic-rhythms/1440759321
-[86]: https://music.apple.com/us/song/force-ten/1442456388
-[87]: https://music.apple.com/us/song/time-stand-still/1442456394
-[88]: https://music.apple.com/us/song/open-secrets/1442456397
-[89]: https://music.apple.com/us/song/second-nature/1442456400
-[90]: https://music.apple.com/us/song/prime-mover/1442456724
-[91]: https://music.apple.com/us/song/lock-and-key/1442456729
-[92]: https://music.apple.com/us/song/mission/1442456733
-[93]: https://music.apple.com/us/song/turn-the-page/1442456735
-[94]: https://music.apple.com/us/song/tai-shan/1442456738
-[95]: https://music.apple.com/us/song/high-water/1442456866
-[96]: https://music.apple.com/us/song/show-dont-tell/642203450
-[97]: https://music.apple.com/us/song/chain-lightning/642203451
-[98]: https://music.apple.com/us/song/the-pass/642203452
-[99]: https://music.apple.com/us/song/war-paint/642203453
-[100]: https://music.apple.com/us/song/scars/642203454
-[101]: https://music.apple.com/us/song/presto/642203455
-[102]: https://music.apple.com/us/song/superconductor/642203459
-[103]: https://music.apple.com/us/song/anagram-for-mongo/642203460
-[104]: https://music.apple.com/us/song/red-tide/642203461
-[105]: https://music.apple.com/us/song/hand-over-fist/642203462
-[106]: https://music.apple.com/us/song/available-light/642203463
-[107]: https://music.apple.com/us/song/dreamline/642200519
-[108]: https://music.apple.com/us/song/bravado/642200520
-[109]: https://music.apple.com/us/song/roll-the-bones/642200521
-[110]: https://music.apple.com/us/song/face-up/642200522
-[111]: https://music.apple.com/us/song/wheres-my-thing-part-iv-gangster-of-boats-trilogy/642200523
-[112]: https://music.apple.com/us/song/the-big-wheel/642200524
-[113]: https://music.apple.com/us/song/heresy/642200525
-[114]: https://music.apple.com/us/song/ghost-of-a-chance/642200526
-[115]: https://music.apple.com/us/song/neurotica/642200527
-[116]: https://music.apple.com/us/song/you-bet-your-life/642200528
-[117]: https://music.apple.com/us/song/animate/642211703
-[118]: https://music.apple.com/us/song/stick-it-out/642211704
-[119]: https://music.apple.com/us/song/cut-to-the-chase/642211705
-[120]: https://music.apple.com/us/song/nobodys-hero/642211706
-[121]: https://music.apple.com/us/song/between-sun-moon/642211708
-[122]: https://music.apple.com/us/song/alien-shore/642211770
-[123]: https://music.apple.com/us/song/the-speed-of-love/642211783
-[124]: https://music.apple.com/us/song/double-agent/642211784
-[125]: https://music.apple.com/us/song/leave-that-thing-alone/642211785
-[126]: https://music.apple.com/us/song/cold-fire/642211786
-[127]: https://music.apple.com/us/song/everyday-glory/642211787
-[128]: https://music.apple.com/us/song/test-for-echo/642222796
-[129]: https://music.apple.com/us/song/driven/642222797
-[130]: https://music.apple.com/us/song/half-the-world/642222798
-[131]: https://music.apple.com/us/song/the-color-of-right/642222799
-[132]: https://music.apple.com/us/song/time-and-motion/642222800
-[133]: https://music.apple.com/us/song/totem/642222801
-[134]: https://music.apple.com/us/song/dog-years/642222802
-[135]: https://music.apple.com/us/song/virtuality/642222803
-[136]: https://music.apple.com/us/song/resist/642222804
-[137]: https://music.apple.com/us/song/limbo/642222805
-[138]: https://music.apple.com/us/song/carve-away-the-stone/642222806
-[139]: https://music.apple.com/us/song/one-little-victory/708140943
-[140]: https://music.apple.com/us/song/ceiling-unlimited/708140944
-[141]: https://music.apple.com/us/song/ghost-rider/708140945
-[142]: https://music.apple.com/us/song/peaceable-kingdom/708140946
-[143]: https://music.apple.com/us/song/the-stars-look-down/708140947
-[144]: https://music.apple.com/us/song/how-it-is/708140948
-[145]: https://music.apple.com/us/song/vapor-trail/708140949
-[146]: https://music.apple.com/us/song/secret-touch/708140950
-[147]: https://music.apple.com/us/song/earthshine/708140951
-[148]: https://music.apple.com/us/song/sweet-miracle/708140952
-[149]: https://music.apple.com/us/song/nocturne/708140953
-[150]: https://music.apple.com/us/song/freeze-part-iv-of-fear/708140954
-[151]: https://music.apple.com/us/song/out-of-the-cradle/708140955
-[152]: https://music.apple.com/us/song/far-cry/646612907
-[153]: https://music.apple.com/us/song/armor-and-sword/646612908
-[154]: https://music.apple.com/us/song/workin-them-angels/646612950
-[155]: https://music.apple.com/us/song/the-larger-bowl/646612951
-[156]: https://music.apple.com/us/song/spindrift/646612952
-[157]: https://music.apple.com/us/song/the-main-monkey-business/646612953
-[158]: https://music.apple.com/us/song/the-way-the-wind-blows/646612954
-[159]: https://music.apple.com/us/song/hope/646612955
-[160]: https://music.apple.com/us/song/faithless/646612956
-[161]: https://music.apple.com/us/song/bravest-face/646612957
-[162]: https://music.apple.com/us/song/good-news-first/646612958
-[163]: https://music.apple.com/us/song/malignant-narcissism/646612959
-[164]: https://music.apple.com/us/song/we-hold-on/646612960
-[166]: https://music.apple.com/us/song/caravan/522094036
-[167]: https://music.apple.com/us/song/bu2b/522094038
-[168]: https://music.apple.com/us/song/clockwork-angels/522094039
-[169]: https://music.apple.com/us/song/the-anarchist/522094040
-[170]: https://music.apple.com/us/song/carnies/522094041
-[171]: https://music.apple.com/us/song/halo-effect/522094042
-[172]: https://music.apple.com/us/song/seven-cities-of-gold/522094043
-[173]: https://music.apple.com/us/song/the-wreckers/522094045
-[174]: https://music.apple.com/us/song/headlong-flight/522094046
-[175]: https://music.apple.com/us/song/bu2b2/522094047
-[176]: https://music.apple.com/us/song/wish-them-well/522094048
-[177]: https://music.apple.com/us/song/the-garden/522094089
+[54]: https://music.apple.com/us/song/2112-overture-live-in-yyz-1981/1608979422
+[55]: https://music.apple.com/us/song/2112-the-temples-of-syrinx-live-in-yyz-1981/1608979427
+[56]: https://music.apple.com/us/song/cygnus-x-1-book-ii-hemispheres-prelude-live-in-yyz-1981/1608979434
+[57]: https://music.apple.com/us/song/broons-bane-live-in-yyz-1981/1608979440
+[58]: https://music.apple.com/us/song/working-man-cygnus-x-1-book-ii-hemispheres-armageddon/1608979548
+[59]: https://music.apple.com/us/song/subdivisions/1440765200
+[60]: https://music.apple.com/us/song/the-analog-kid/1440765205
+[61]: https://music.apple.com/us/song/chemistry/1440765210
+[62]: https://music.apple.com/us/song/digital-man/1440765211
+[63]: https://music.apple.com/us/song/the-weapon-part-ii-of-fear/1440765214
+[64]: https://music.apple.com/us/song/new-world-man/1440765215
+[65]: https://music.apple.com/us/song/losing-it/1440765217
+[66]: https://music.apple.com/us/song/countdown/1440765219
+[89]: https://music.apple.com/us/song/the-big-money/1440759090
+[90]: https://music.apple.com/us/song/grand-designs/1440759095
+[91]: https://music.apple.com/us/song/manhattan-project/1440759097
+[92]: https://music.apple.com/us/song/marathon/1440759311
+[93]: https://music.apple.com/us/song/territories/1440759313
+[94]: https://music.apple.com/us/song/middletown-dreams/1440759315
+[95]: https://music.apple.com/us/song/emotion-detector/1440759318
+[96]: https://music.apple.com/us/song/mystic-rhythms/1440759321
+[97]: https://music.apple.com/us/song/force-ten/1442456388
+[98]: https://music.apple.com/us/song/time-stand-still/1442456394
+[99]: https://music.apple.com/us/song/open-secrets/1442456397
+[100]: https://music.apple.com/us/song/second-nature/1442456400
+[101]: https://music.apple.com/us/song/prime-mover/1442456724
+[102]: https://music.apple.com/us/song/lock-and-key/1442456729
+[103]: https://music.apple.com/us/song/mission/1442456733
+[104]: https://music.apple.com/us/song/turn-the-page/1442456735
+[105]: https://music.apple.com/us/song/tai-shan/1442456738
+[106]: https://music.apple.com/us/song/high-water/1442456866
+[107]: https://music.apple.com/us/song/show-dont-tell/642203450
+[108]: https://music.apple.com/us/song/chain-lightning/642203451
+[109]: https://music.apple.com/us/song/the-pass/642203452
+[110]: https://music.apple.com/us/song/war-paint/642203453
+[111]: https://music.apple.com/us/song/scars/642203454
+[112]: https://music.apple.com/us/song/presto/642203455
+[113]: https://music.apple.com/us/song/superconductor/642203459
+[114]: https://music.apple.com/us/song/anagram-for-mongo/642203460
+[115]: https://music.apple.com/us/song/red-tide/642203461
+[116]: https://music.apple.com/us/song/hand-over-fist/642203462
+[117]: https://music.apple.com/us/song/available-light/642203463
+[118]: https://music.apple.com/us/song/dreamline/642200519
+[119]: https://music.apple.com/us/song/bravado/642200520
+[120]: https://music.apple.com/us/song/roll-the-bones/642200521
+[121]: https://music.apple.com/us/song/face-up/642200522
+[122]: https://music.apple.com/us/song/wheres-my-thing-part-iv-gangster-of-boats-trilogy/642200523
+[123]: https://music.apple.com/us/song/the-big-wheel/642200524
+[124]: https://music.apple.com/us/song/heresy/642200525
+[125]: https://music.apple.com/us/song/ghost-of-a-chance/642200526
+[126]: https://music.apple.com/us/song/neurotica/642200527
+[127]: https://music.apple.com/us/song/you-bet-your-life/642200528
+[128]: https://music.apple.com/us/song/animate/642211703
+[129]: https://music.apple.com/us/song/stick-it-out/642211704
+[130]: https://music.apple.com/us/song/cut-to-the-chase/642211705
+[131]: https://music.apple.com/us/song/nobodys-hero/642211706
+[132]: https://music.apple.com/us/song/between-sun-moon/642211708
+[133]: https://music.apple.com/us/song/alien-shore/642211770
+[134]: https://music.apple.com/us/song/the-speed-of-love/642211783
+[135]: https://music.apple.com/us/song/double-agent/642211784
+[136]: https://music.apple.com/us/song/leave-that-thing-alone/642211785
+[137]: https://music.apple.com/us/song/cold-fire/642211786
+[138]: https://music.apple.com/us/song/everyday-glory/642211787
+[139]: https://music.apple.com/us/song/test-for-echo/642222796
+[140]: https://music.apple.com/us/song/driven/642222797
+[141]: https://music.apple.com/us/song/half-the-world/642222798
+[142]: https://music.apple.com/us/song/the-color-of-right/642222799
+[143]: https://music.apple.com/us/song/time-and-motion/642222800
+[144]: https://music.apple.com/us/song/totem/642222801
+[145]: https://music.apple.com/us/song/dog-years/642222802
+[146]: https://music.apple.com/us/song/virtuality/642222803
+[147]: https://music.apple.com/us/song/resist/642222804
+[148]: https://music.apple.com/us/song/limbo/642222805
+[149]: https://music.apple.com/us/song/carve-away-the-stone/642222806
+[150]: https://music.apple.com/us/song/one-little-victory/708140943
+[151]: https://music.apple.com/us/song/ceiling-unlimited/708140944
+[152]: https://music.apple.com/us/song/ghost-rider/708140945
+[153]: https://music.apple.com/us/song/peaceable-kingdom/708140946
+[154]: https://music.apple.com/us/song/the-stars-look-down/708140947
+[155]: https://music.apple.com/us/song/how-it-is/708140948
+[156]: https://music.apple.com/us/song/vapor-trail/708140949
+[157]: https://music.apple.com/us/song/secret-touch/708140950
+[158]: https://music.apple.com/us/song/earthshine/708140951
+[159]: https://music.apple.com/us/song/sweet-miracle/708140952
+[160]: https://music.apple.com/us/song/nocturne/708140953
+[161]: https://music.apple.com/us/song/freeze-part-iv-of-fear/708140954
+[162]: https://music.apple.com/us/song/out-of-the-cradle/708140955
+[163]: https://music.apple.com/us/song/far-cry/646612907
+[164]: https://music.apple.com/us/song/armor-and-sword/646612908
+[165]: https://music.apple.com/us/song/workin-them-angels/646612950
+[166]: https://music.apple.com/us/song/the-larger-bowl/646612951
+[167]: https://music.apple.com/us/song/spindrift/646612952
+[168]: https://music.apple.com/us/song/the-main-monkey-business/646612953
+[169]: https://music.apple.com/us/song/the-way-the-wind-blows/646612954
+[170]: https://music.apple.com/us/song/hope/646612955
+[171]: https://music.apple.com/us/song/faithless/646612956
+[172]: https://music.apple.com/us/song/bravest-face/646612957
+[173]: https://music.apple.com/us/song/good-news-first/646612958
+[174]: https://music.apple.com/us/song/malignant-narcissism/646612959
+[175]: https://music.apple.com/us/song/we-hold-on/646612960
+[177]: https://music.apple.com/us/song/caravan/522094036
+[178]: https://music.apple.com/us/song/bu2b/522094038
+[179]: https://music.apple.com/us/song/clockwork-angels/522094039
+[180]: https://music.apple.com/us/song/the-anarchist/522094040
+[181]: https://music.apple.com/us/song/carnies/522094041
+[182]: https://music.apple.com/us/song/halo-effect/522094042
+[183]: https://music.apple.com/us/song/seven-cities-of-gold/522094043
+[184]: https://music.apple.com/us/song/the-wreckers/522094045
+[185]: https://music.apple.com/us/song/headlong-flight/522094046
+[186]: https://music.apple.com/us/song/bu2b2/522094047
+[187]: https://music.apple.com/us/song/wish-them-well/522094048
+[188]: https://music.apple.com/us/song/the-garden/522094089
+
 

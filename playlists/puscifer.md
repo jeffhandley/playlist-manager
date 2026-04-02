@@ -81,6 +81,7 @@ Complete studio discography for Puscifer, organized by album in chronological or
 | 54 | [Pendulum][54] | Puscifer | Normal Isn't | 2026 | |
 | 55 | [ImpetuoUs][55] | Puscifer | Normal Isn't | 2026 | |
 | 56 | [Seven One][56] | Puscifer | Normal Isn't | 2026 | |
+| 57 | [The Algorithm (Sessanta Live Mix)][57] | Puscifer | Normal Isn't | 2026 | |
 
 [1]: https://music.apple.com/us/song/queen-b/1560622103
 [2]: https://music.apple.com/us/song/dozo/1560622104
@@ -138,4 +139,4 @@ Complete studio discography for Puscifer, organized by album in chronological or
 [54]: https://music.apple.com/us/song/pendulum/1845918492
 [55]: https://music.apple.com/us/song/impetuous/1845918493
 [56]: https://music.apple.com/us/song/seven-one/1845918494
-
+[57]: https://music.apple.com/us/song/the-algorithm-sessanta-live-mix/1845918496
