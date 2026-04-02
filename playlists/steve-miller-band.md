@@ -128,132 +128,120 @@ Albums: Children of the Future (1968), Sailor (1968), Brave New World (1969), Yo
 | 106 | [Baby Wanna Dance][106] | Steve Miller Band | Circle of Love | 1981 | |
 | 107 | [Circle of Love][107] | Steve Miller Band | Circle of Love | 1981 | |
 | 108 | [Macho City][108] | Steve Miller Band | Circle of Love | 1981 | |
-| 109 | [Blues with a Feeling (Live)][109] | Steve Miller Band | Abracadabra | 1982 | |
-| 110 | [Don’t Let Nobody Turn You Around (Alternate Version)][110] | Steve Miller Band | Abracadabra | 1982 | |
-| 111 | [Super Shuffle (Live)][111] | Steve Miller Band | Abracadabra | 1982 | |
-| 112 | [It Hurts Me Too (feat. Steve Miller Band) [Live at Fillmore Auditorium, San Francisco, CA, 1967] Chuck Berry][112] | Steve Miller Band | Abracadabra | 1982 | |
-| 113 | [Industrial Military Complex Hex (Alternate Version)][113] | Steve Miller Band | Abracadabra | 1982 | |
-| 114 | [Living in the U.S.A.][114] | Steve Miller Band | Abracadabra | 1982 | |
-| 115 | [Kow Kow Calculator (Alternate Version)][115] | Steve Miller Band | Abracadabra | 1982 | |
-| 116 | [Going to Mexico (Alternate Version)][116] | Steve Miller Band | Abracadabra | 1982 | |
-| 117 | [Quicksilver Girl (Alternate Version)][117] | Steve Miller Band | Abracadabra | 1982 | |
-| 118 | [Jackson-Kent Blues (Alternate Version)][118] | Steve Miller Band | Abracadabra | 1982 | |
-| 119 | [Crossroads (Live)][119] | Steve Miller Band | Abracadabra | 1982 | |
-| 120 | [Hesitation Blues][120] | Steve Miller Band | Abracadabra | 1982 | |
-| 121 | [Seasons (Alternate Version)][121] | Steve Miller Band | Abracadabra | 1982 | |
-| 122 | [Say Wow!][122] | Steve Miller Band | Abracadabra | 1982 | |
-| 123 | [Never Kill Another Man (Live Alternate Version)][123] | Steve Miller Band | Abracadabra | 1982 | |
-| 124 | [The Gangster Is Back (Live in Hollywood, Florida, 1971)][124] | Steve Miller Band | Abracadabra | 1982 | |
-| 125 | [Space Cowboy (Instrumental)][125] | Steve Miller Band | Abracadabra | 1982 | |
-| 126 | [Space Cowboy (Live / Alternate Version)][126] | Steve Miller Band | Abracadabra | 1982 | |
-| 127 | [The Joker][127] | Steve Miller Band | Abracadabra | 1982 | |
-| 128 | [The Lovin' Cup][128] | Steve Miller Band | Abracadabra | 1982 | |
-| 129 | [Killing Floor][129] | Steve Miller Band | Abracadabra | 1982 | |
-| 130 | [Evil (Live at the Aquarius Theater, Boston, 1973)][130] | Steve Miller Band | Abracadabra | 1982 | |
-| 131 | [Echoplex Blues (Instrumental)][131] | Steve Miller Band | Abracadabra | 1982 | |
-| 132 | [Rock’n Me (Alternate Version 1)][132] | Steve Miller Band | Abracadabra | 1982 | |
-| 133 | [Rock’n Me (Alternate Version 2)][133] | Steve Miller Band | Abracadabra | 1982 | |
-| 134 | [Tain’t It the Truth][134] | Steve Miller Band | Abracadabra | 1982 | |
-| 135 | [Freight Train Blues][135] | Steve Miller Band | Abracadabra | 1982 | |
-| 136 | [True Fine Love (Alternate Version)][136] | Steve Miller Band | Abracadabra | 1982 | |
-| 137 | [The Stake (Alternate Version)][137] | Steve Miller Band | Abracadabra | 1982 | |
-| 138 | [My Babe (Alternate Version)][138] | Steve Miller Band | Abracadabra | 1982 | |
-| 139 | [That’s the Way It’s Got to Be][139] | Steve Miller Band | Abracadabra | 1982 | |
-| 140 | [Double Trouble][140] | Steve Miller Band | Abracadabra | 1982 | |
-| 141 | [Love Is Strange][141] | Steve Miller Band | Abracadabra | 1982 | |
-| 142 | [All Your Love (I Miss Loving) [Alternate Version]][142] | Steve Miller Band | Abracadabra | 1982 | |
-| 143 | [I Wanna Be Loved (Live) Steve Miller, Les Paul][143] | Steve Miller Band | Abracadabra | 1982 | |
-| 144 | [Fly Like an Eagle (Alternate Version)][144] | Steve Miller Band | Abracadabra | 1982 | |
-| 145 | [Space Intro][145] | Steve Miller Band | Abracadabra | 1982 | |
-| 146 | [Fly Like an Eagle][146] | Steve Miller Band | Abracadabra | 1982 | |
-| 147 | [The Window][147] | Steve Miller Band | Abracadabra | 1982 | |
-| 148 | [Mercury Blues (Alternate Version)][148] | Steve Miller Band | Abracadabra | 1982 | |
-| 149 | [Jet Airliner (Alternate Version)][149] | Steve Miller Band | Abracadabra | 1982 | |
-| 150 | [Take the Money and Run][150] | Steve Miller Band | Abracadabra | 1982 | |
-| 151 | [Dance, Dance, Dance][151] | Steve Miller Band | Abracadabra | 1982 | |
-| 152 | [Swingtown (Alternate Version)][152] | Steve Miller Band | Abracadabra | 1982 | |
-| 153 | [Winter Time][153] | Steve Miller Band | Abracadabra | 1982 | |
-| 154 | [Who Do You Love][154] | Steve Miller Band | Abracadabra | 1982 | |
-| 155 | [Abracadabra][155] | Steve Miller Band | Abracadabra | 1982 | |
-| 156 | [Macho City (Short Version)][156] | Steve Miller Band | Abracadabra | 1982 | |
-| 157 | [Take the Money and Run (Live Alternate Version) Steve Miller][157] | Steve Miller Band | Abracadabra | 1982 | |
-| 158 | [Bizzy's Blue Tango (Instrumental)][158] | Steve Miller Band | Abracadabra | 1982 | |
-| 159 | [Lollie Lou (Live) T-Bone Walker][159] | Steve Miller Band | Abracadabra | 1982 | |
-| 160 | [Lollie Lou (Live) Steve Miller][160] | Steve Miller Band | Abracadabra | 1982 | |
-| 161 | [Radio 1][161] | Steve Miller Band | Italian X Rays | 1984 | |
-| 162 | [Italian X Rays][162] | Steve Miller Band | Italian X Rays | 1984 | |
-| 163 | [Daybreak][163] | Steve Miller Band | Italian X Rays | 1984 | |
-| 164 | [Shangri-La][164] | Steve Miller Band | Italian X Rays | 1984 | |
-| 165 | [Who Do You Love?][165] | Steve Miller Band | Italian X Rays | 1984 | |
-| 166 | [Harmony of the Spheres 1][166] | Steve Miller Band | Italian X Rays | 1984 | |
-| 167 | [Radio 2][167] | Steve Miller Band | Italian X Rays | 1984 | |
-| 168 | [Bongo Bongo][168] | Steve Miller Band | Italian X Rays | 1984 | |
-| 169 | [Out of the Night][169] | Steve Miller Band | Italian X Rays | 1984 | |
-| 170 | [Golden Opportunity][170] | Steve Miller Band | Italian X Rays | 1984 | |
-| 171 | [The Hollywood Dream][171] | Steve Miller Band | Italian X Rays | 1984 | |
-| 172 | [One In a Million][172] | Steve Miller Band | Italian X Rays | 1984 | |
-| 173 | [Harmony of the Spheres 2][173] | Steve Miller Band | Italian X Rays | 1984 | |
-| 174 | [Nobody But You Baby][174] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 175 | [I Want to Make the World Turn Around][175] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 176 | [Slinky][176] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 177 | [Living In the 20th Century][177] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 178 | [Maelstrom][178] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 179 | [I Wanna Be Loved (But By Only You)][179] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 180 | [My Babe][180] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 181 | [Big Boss Man][181] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 182 | [Caress Me Baby][182] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 183 | [Ain't That Lovin' You Baby][183] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 184 | [Behind the Barn][184] | Steve Miller Band | Living in the 20th Century | 1986 | |
-| 185 | [Zip-A-Dee-Doo-Dah][185] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 186 | [Ya Ya][186] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 187 | [God Bless the Child][187] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 188 | [Filthy McNasty][188] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 189 | [Born to Be Blue][189] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 190 | [Mary Ann][190] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 191 | [Just a Little Bit][191] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 192 | [When Sunny Gets Blue][192] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 193 | [Willow Weep for Me][193] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 194 | [Red Top][194] | Steve Miller Band | Born 2B Blue | 1988 | |
-| 195 | [Wide River][195] | Steve Miller Band | Wide River | 1993 | |
-| 196 | [Midnight Train][196] | Steve Miller Band | Wide River | 1993 | |
-| 197 | [Blue Eyes][197] | Steve Miller Band | Wide River | 1993 | |
-| 198 | [Lost In Your Eyes][198] | Steve Miller Band | Wide River | 1993 | |
-| 199 | [Perfect World][199] | Steve Miller Band | Wide River | 1993 | |
-| 200 | [Horse and Rider][200] | Steve Miller Band | Wide River | 1993 | |
-| 201 | [Circle of Fire][201] | Steve Miller Band | Wide River | 1993 | |
-| 202 | [Conversation][202] | Steve Miller Band | Wide River | 1993 | |
-| 203 | [Cry, Cry, Cry][203] | Steve Miller Band | Wide River | 1993 | |
-| 204 | [Stranger Blues][204] | Steve Miller Band | Wide River | 1993 | |
-| 205 | [Walks Like a Lady][205] | Steve Miller Band | Wide River | 1993 | |
-| 206 | [All Your Love (I Miss Loving)][206] | Steve Miller Band | Wide River | 1993 | |
-| 207 | [Hey Yeah][207] | Steve Miller Band | Bingo! | 2010 | |
-| 208 | [Who's Been Talkin'][208] | Steve Miller Band | Bingo! | 2010 | |
-| 209 | [Don't Cha Know][209] | Steve Miller Band | Bingo! | 2010 | |
-| 210 | [Rock Me Baby][210] | Steve Miller Band | Bingo! | 2010 | |
-| 211 | [Tramp][211] | Steve Miller Band | Bingo! | 2010 | |
-| 212 | [Sweet Soul Vibe][212] | Steve Miller Band | Bingo! | 2010 | |
-| 213 | [Come On (Let the Good Times Roll)][213] | Steve Miller Band | Bingo! | 2010 | |
-| 214 | [All Your Love (I Miss Loving)][214] | Steve Miller Band | Bingo! | 2010 | |
-| 215 | [You Got Me Dizzy][215] | Steve Miller Band | Bingo! | 2010 | |
-| 216 | [Ooh Poo Pah Doo][216] | Steve Miller Band | Bingo! | 2010 | |
-| 217 | [Ain't That Loving You Baby][217] | Steve Miller Band | Bingo! | 2010 | |
-| 218 | [Further On Up the Road][218] | Steve Miller Band | Bingo! | 2010 | |
-| 219 | [Look On Yonder Wall][219] | Steve Miller Band | Bingo! | 2010 | |
-| 220 | [Drivin' Wheel][220] | Steve Miller Band | Bingo! | 2010 | |
-| 221 | [Snatch It Back and Hold It][221] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 222 | [I Got Love If You Want It][222] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 223 | [Just a Little Bit][223] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 224 | [Close Together][224] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 225 | [No More Doggin'][225] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 226 | [Pretty Thing][226] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 227 | [Can't Be Satisfied][227] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 228 | [Sweet Home Chicago][228] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 229 | [Love the Life I Live][229] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 230 | [The Walk][230] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 231 | [When Things Go Wrong (It Hurts Me Too)][231] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 232 | [I Ain't Got You][232] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 233 | [Tell Me What's the Reason][233] | Steve Miller Band | Let Your Hair Down | 2011 | |
-| 234 | [Driftin' Blues][234] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 109 | [Don’t Let Nobody Turn You Around (Alternate Version)][109] | Steve Miller Band | Abracadabra | 1982 | |
+| 110 | [Industrial Military Complex Hex (Alternate Version)][110] | Steve Miller Band | Abracadabra | 1982 | |
+| 111 | [Living in the U.S.A.][111] | Steve Miller Band | Abracadabra | 1982 | |
+| 112 | [Kow Kow Calculator (Alternate Version)][112] | Steve Miller Band | Abracadabra | 1982 | |
+| 113 | [Going to Mexico (Alternate Version)][113] | Steve Miller Band | Abracadabra | 1982 | |
+| 114 | [Quicksilver Girl (Alternate Version)][114] | Steve Miller Band | Abracadabra | 1982 | |
+| 115 | [Jackson-Kent Blues (Alternate Version)][115] | Steve Miller Band | Abracadabra | 1982 | |
+| 116 | [Hesitation Blues][116] | Steve Miller Band | Abracadabra | 1982 | |
+| 117 | [Seasons (Alternate Version)][117] | Steve Miller Band | Abracadabra | 1982 | |
+| 118 | [Say Wow!][118] | Steve Miller Band | Abracadabra | 1982 | |
+| 119 | [Space Cowboy (Instrumental)][119] | Steve Miller Band | Abracadabra | 1982 | |
+| 120 | [The Joker][120] | Steve Miller Band | Abracadabra | 1982 | |
+| 121 | [The Lovin' Cup][121] | Steve Miller Band | Abracadabra | 1982 | |
+| 122 | [Killing Floor][122] | Steve Miller Band | Abracadabra | 1982 | |
+| 123 | [Echoplex Blues (Instrumental)][123] | Steve Miller Band | Abracadabra | 1982 | |
+| 124 | [Rock’n Me (Alternate Version 1)][124] | Steve Miller Band | Abracadabra | 1982 | |
+| 125 | [Rock’n Me (Alternate Version 2)][125] | Steve Miller Band | Abracadabra | 1982 | |
+| 126 | [Tain’t It the Truth][126] | Steve Miller Band | Abracadabra | 1982 | |
+| 127 | [Freight Train Blues][127] | Steve Miller Band | Abracadabra | 1982 | |
+| 128 | [True Fine Love (Alternate Version)][128] | Steve Miller Band | Abracadabra | 1982 | |
+| 129 | [The Stake (Alternate Version)][129] | Steve Miller Band | Abracadabra | 1982 | |
+| 130 | [My Babe (Alternate Version)][130] | Steve Miller Band | Abracadabra | 1982 | |
+| 131 | [That’s the Way It’s Got to Be][131] | Steve Miller Band | Abracadabra | 1982 | |
+| 132 | [Double Trouble][132] | Steve Miller Band | Abracadabra | 1982 | |
+| 133 | [Love Is Strange][133] | Steve Miller Band | Abracadabra | 1982 | |
+| 134 | [All Your Love (I Miss Loving) [Alternate Version]][134] | Steve Miller Band | Abracadabra | 1982 | |
+| 135 | [Fly Like an Eagle (Alternate Version)][135] | Steve Miller Band | Abracadabra | 1982 | |
+| 136 | [Space Intro][136] | Steve Miller Band | Abracadabra | 1982 | |
+| 137 | [Fly Like an Eagle][137] | Steve Miller Band | Abracadabra | 1982 | |
+| 138 | [The Window][138] | Steve Miller Band | Abracadabra | 1982 | |
+| 139 | [Mercury Blues (Alternate Version)][139] | Steve Miller Band | Abracadabra | 1982 | |
+| 140 | [Jet Airliner (Alternate Version)][140] | Steve Miller Band | Abracadabra | 1982 | |
+| 141 | [Take the Money and Run][141] | Steve Miller Band | Abracadabra | 1982 | |
+| 142 | [Dance, Dance, Dance][142] | Steve Miller Band | Abracadabra | 1982 | |
+| 143 | [Swingtown (Alternate Version)][143] | Steve Miller Band | Abracadabra | 1982 | |
+| 144 | [Winter Time][144] | Steve Miller Band | Abracadabra | 1982 | |
+| 145 | [Who Do You Love][145] | Steve Miller Band | Abracadabra | 1982 | |
+| 146 | [Abracadabra][146] | Steve Miller Band | Abracadabra | 1982 | |
+| 147 | [Macho City (Short Version)][147] | Steve Miller Band | Abracadabra | 1982 | |
+| 148 | [Bizzy's Blue Tango (Instrumental)][148] | Steve Miller Band | Abracadabra | 1982 | |
+| 149 | [Radio 1][149] | Steve Miller Band | Italian X Rays | 1984 | |
+| 150 | [Italian X Rays][150] | Steve Miller Band | Italian X Rays | 1984 | |
+| 151 | [Daybreak][151] | Steve Miller Band | Italian X Rays | 1984 | |
+| 152 | [Shangri-La][152] | Steve Miller Band | Italian X Rays | 1984 | |
+| 153 | [Who Do You Love?][153] | Steve Miller Band | Italian X Rays | 1984 | |
+| 154 | [Harmony of the Spheres 1][154] | Steve Miller Band | Italian X Rays | 1984 | |
+| 155 | [Radio 2][155] | Steve Miller Band | Italian X Rays | 1984 | |
+| 156 | [Bongo Bongo][156] | Steve Miller Band | Italian X Rays | 1984 | |
+| 157 | [Out of the Night][157] | Steve Miller Band | Italian X Rays | 1984 | |
+| 158 | [Golden Opportunity][158] | Steve Miller Band | Italian X Rays | 1984 | |
+| 159 | [The Hollywood Dream][159] | Steve Miller Band | Italian X Rays | 1984 | |
+| 160 | [One In a Million][160] | Steve Miller Band | Italian X Rays | 1984 | |
+| 161 | [Harmony of the Spheres 2][161] | Steve Miller Band | Italian X Rays | 1984 | |
+| 162 | [Nobody But You Baby][162] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 163 | [I Want to Make the World Turn Around][163] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 164 | [Slinky][164] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 165 | [Living In the 20th Century][165] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 166 | [Maelstrom][166] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 167 | [I Wanna Be Loved (But By Only You)][167] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 168 | [My Babe][168] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 169 | [Big Boss Man][169] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 170 | [Caress Me Baby][170] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 171 | [Ain't That Lovin' You Baby][171] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 172 | [Behind the Barn][172] | Steve Miller Band | Living in the 20th Century | 1986 | |
+| 173 | [Zip-A-Dee-Doo-Dah][173] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 174 | [Ya Ya][174] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 175 | [God Bless the Child][175] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 176 | [Filthy McNasty][176] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 177 | [Born to Be Blue][177] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 178 | [Mary Ann][178] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 179 | [Just a Little Bit][179] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 180 | [When Sunny Gets Blue][180] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 181 | [Willow Weep for Me][181] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 182 | [Red Top][182] | Steve Miller Band | Born 2B Blue | 1988 | |
+| 183 | [Wide River][183] | Steve Miller Band | Wide River | 1993 | |
+| 184 | [Midnight Train][184] | Steve Miller Band | Wide River | 1993 | |
+| 185 | [Blue Eyes][185] | Steve Miller Band | Wide River | 1993 | |
+| 186 | [Lost In Your Eyes][186] | Steve Miller Band | Wide River | 1993 | |
+| 187 | [Perfect World][187] | Steve Miller Band | Wide River | 1993 | |
+| 188 | [Horse and Rider][188] | Steve Miller Band | Wide River | 1993 | |
+| 189 | [Circle of Fire][189] | Steve Miller Band | Wide River | 1993 | |
+| 190 | [Conversation][190] | Steve Miller Band | Wide River | 1993 | |
+| 191 | [Cry, Cry, Cry][191] | Steve Miller Band | Wide River | 1993 | |
+| 192 | [Stranger Blues][192] | Steve Miller Band | Wide River | 1993 | |
+| 193 | [Walks Like a Lady][193] | Steve Miller Band | Wide River | 1993 | |
+| 194 | [All Your Love (I Miss Loving)][194] | Steve Miller Band | Wide River | 1993 | |
+| 195 | [Hey Yeah][195] | Steve Miller Band | Bingo! | 2010 | |
+| 196 | [Who's Been Talkin'][196] | Steve Miller Band | Bingo! | 2010 | |
+| 197 | [Don't Cha Know][197] | Steve Miller Band | Bingo! | 2010 | |
+| 198 | [Rock Me Baby][198] | Steve Miller Band | Bingo! | 2010 | |
+| 199 | [Tramp][199] | Steve Miller Band | Bingo! | 2010 | |
+| 200 | [Sweet Soul Vibe][200] | Steve Miller Band | Bingo! | 2010 | |
+| 201 | [Come On (Let the Good Times Roll)][201] | Steve Miller Band | Bingo! | 2010 | |
+| 202 | [All Your Love (I Miss Loving)][202] | Steve Miller Band | Bingo! | 2010 | |
+| 203 | [You Got Me Dizzy][203] | Steve Miller Band | Bingo! | 2010 | |
+| 204 | [Ooh Poo Pah Doo][204] | Steve Miller Band | Bingo! | 2010 | |
+| 205 | [Ain't That Loving You Baby][205] | Steve Miller Band | Bingo! | 2010 | |
+| 206 | [Further On Up the Road][206] | Steve Miller Band | Bingo! | 2010 | |
+| 207 | [Look On Yonder Wall][207] | Steve Miller Band | Bingo! | 2010 | |
+| 208 | [Drivin' Wheel][208] | Steve Miller Band | Bingo! | 2010 | |
+| 209 | [Snatch It Back and Hold It][209] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 210 | [I Got Love If You Want It][210] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 211 | [Just a Little Bit][211] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 212 | [Close Together][212] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 213 | [No More Doggin'][213] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 214 | [Pretty Thing][214] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 215 | [Can't Be Satisfied][215] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 216 | [Sweet Home Chicago][216] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 217 | [Love the Life I Live][217] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 218 | [The Walk][218] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 219 | [When Things Go Wrong (It Hurts Me Too)][219] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 220 | [I Ain't Got You][220] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 221 | [Tell Me What's the Reason][221] | Steve Miller Band | Let Your Hair Down | 2011 | |
+| 222 | [Driftin' Blues][222] | Steve Miller Band | Let Your Hair Down | 2011 | |
 
 [1]: https://music.apple.com/us/song/children-of-the-future/1443136596
 [2]: https://music.apple.com/us/song/pushed-me-to-it/1443136781
@@ -363,129 +351,120 @@ Albums: Children of the Future (1968), Sailor (1968), Brave New World (1969), Yo
 [106]: https://music.apple.com/us/song/baby-wanna-dance/1452310461
 [107]: https://music.apple.com/us/song/circle-of-love/1452310463
 [108]: https://music.apple.com/us/song/macho-city/1452310465
-[109]: https://music.apple.com/us/song/blues-with-a-feeling-live/1465327547
-[110]: https://music.apple.com/us/song/dont-let-nobody-turn-you-around-alternate-version/1465327549
-[111]: https://music.apple.com/us/song/super-shuffle-live/1465327550
-[112]: https://music.apple.com/us/song/it-hurts-me-too-feat-steve-miller-band-live-at-fillmore/1465327552
-[113]: https://music.apple.com/us/song/industrial-military-complex-hex-alternate-version/1465327553
-[114]: https://music.apple.com/us/song/living-in-the-u-s-a/1465327677
-[115]: https://music.apple.com/us/song/kow-kow-calculator-alternate-version/1465327678
-[116]: https://music.apple.com/us/song/going-to-mexico-alternate-version/1465327679
-[117]: https://music.apple.com/us/song/quicksilver-girl-alternate-version/1465327680
-[118]: https://music.apple.com/us/song/jackson-kent-blues-alternate-version/1465327681
-[119]: https://music.apple.com/us/song/crossroads-live/1465327682
-[120]: https://music.apple.com/us/song/hesitation-blues/1465327683
-[121]: https://music.apple.com/us/song/seasons-alternate-version/1465327684
-[122]: https://music.apple.com/us/song/say-wow/1465327685
-[123]: https://music.apple.com/us/song/never-kill-another-man-live-alternate-version/1465327686
-[124]: https://music.apple.com/us/song/the-gangster-is-back-live-in-hollywood-florida-1971/1465327695
-[125]: https://music.apple.com/us/song/space-cowboy-instrumental/1465327697
-[126]: https://music.apple.com/us/song/space-cowboy-live-alternate-version/1465327701
-[127]: https://music.apple.com/us/song/the-joker/1465327704
-[128]: https://music.apple.com/us/song/the-lovin-cup/1465327705
-[129]: https://music.apple.com/us/song/killing-floor/1465327736
-[130]: https://music.apple.com/us/song/evil-live-at-the-aquarius-theater-boston-1973/1465327738
-[131]: https://music.apple.com/us/song/echoplex-blues-instrumental/1465327739
-[132]: https://music.apple.com/us/song/rockn-me-alternate-version-1/1465327741
-[133]: https://music.apple.com/us/song/rockn-me-alternate-version-2/1465327743
-[134]: https://music.apple.com/us/song/taint-it-the-truth/1465327744
-[135]: https://music.apple.com/us/song/freight-train-blues/1465327750
-[136]: https://music.apple.com/us/song/true-fine-love-alternate-version/1465327751
-[137]: https://music.apple.com/us/song/the-stake-alternate-version/1465327753
-[138]: https://music.apple.com/us/song/my-babe-alternate-version/1465327754
-[139]: https://music.apple.com/us/song/thats-the-way-its-got-to-be/1465327755
-[140]: https://music.apple.com/us/song/double-trouble/1465327756
-[141]: https://music.apple.com/us/song/love-is-strange/1465327757
-[142]: https://music.apple.com/us/song/all-your-love-i-miss-loving-alternate-version/1465327758
-[143]: https://music.apple.com/us/song/i-wanna-be-loved-live/1465327759
-[144]: https://music.apple.com/us/song/fly-like-an-eagle-alternate-version/1465327762
-[145]: https://music.apple.com/us/song/space-intro/1465327764
-[146]: https://music.apple.com/us/song/fly-like-an-eagle/1465327947
-[147]: https://music.apple.com/us/song/the-window/1465327948
-[148]: https://music.apple.com/us/song/mercury-blues-alternate-version/1465327949
-[149]: https://music.apple.com/us/song/jet-airliner-alternate-version/1465327950
-[150]: https://music.apple.com/us/song/take-the-money-and-run/1465327951
-[151]: https://music.apple.com/us/song/dance-dance-dance/1465327952
-[152]: https://music.apple.com/us/song/swingtown-alternate-version/1465327953
-[153]: https://music.apple.com/us/song/winter-time/1465327956
-[154]: https://music.apple.com/us/song/who-do-you-love/1465327957
-[155]: https://music.apple.com/us/song/abracadabra/1465327959
-[156]: https://music.apple.com/us/song/macho-city-short-version/1465327961
-[157]: https://music.apple.com/us/song/take-the-money-and-run-live-alternate-version/1465327963
-[158]: https://music.apple.com/us/song/bizzys-blue-tango-instrumental/1465327971
-[159]: https://music.apple.com/us/song/lollie-lou-live/1465328072
-[160]: https://music.apple.com/us/song/lollie-lou-live/1465328079
-[161]: https://music.apple.com/us/song/radio-1/1443173949
-[162]: https://music.apple.com/us/song/italian-x-rays/1443174072
-[163]: https://music.apple.com/us/song/daybreak/1443174075
-[164]: https://music.apple.com/us/song/shangri-la/1443174076
-[165]: https://music.apple.com/us/song/who-do-you-love/1443174079
-[166]: https://music.apple.com/us/song/harmony-of-the-spheres-1/1443174082
-[167]: https://music.apple.com/us/song/radio-2/1443174083
-[168]: https://music.apple.com/us/song/bongo-bongo/1443174085
-[169]: https://music.apple.com/us/song/out-of-the-night/1443174087
-[170]: https://music.apple.com/us/song/golden-opportunity/1443174089
-[171]: https://music.apple.com/us/song/the-hollywood-dream/1443174091
-[172]: https://music.apple.com/us/song/one-in-a-million/1443174092
-[173]: https://music.apple.com/us/song/harmony-of-the-spheres-2/1443174093
-[174]: https://music.apple.com/us/song/nobody-but-you-baby/1452288417
-[175]: https://music.apple.com/us/song/i-want-to-make-the-world-turn-around/1452288445
-[176]: https://music.apple.com/us/song/slinky/1452288576
-[177]: https://music.apple.com/us/song/living-in-the-20th-century/1452288585
-[178]: https://music.apple.com/us/song/maelstrom/1452288592
-[179]: https://music.apple.com/us/song/i-wanna-be-loved-but-by-only-you/1452288840
-[180]: https://music.apple.com/us/song/my-babe/1452288856
-[181]: https://music.apple.com/us/song/big-boss-man/1452288986
-[182]: https://music.apple.com/us/song/caress-me-baby/1452288991
-[183]: https://music.apple.com/us/song/aint-that-lovin-you-baby/1452289000
-[184]: https://music.apple.com/us/song/behind-the-barn/1452289004
-[185]: https://music.apple.com/us/song/zip-a-dee-doo-dah/1443152463
-[186]: https://music.apple.com/us/song/ya-ya/1443152921
-[187]: https://music.apple.com/us/song/god-bless-the-child/1443152926
-[188]: https://music.apple.com/us/song/filthy-mcnasty/1443152929
-[189]: https://music.apple.com/us/song/born-to-be-blue/1443152934
-[190]: https://music.apple.com/us/song/mary-ann/1443152939
-[191]: https://music.apple.com/us/song/just-a-little-bit/1443152946
-[192]: https://music.apple.com/us/song/when-sunny-gets-blue/1443153193
-[193]: https://music.apple.com/us/song/willow-weep-for-me/1443153202
-[194]: https://music.apple.com/us/song/red-top/1443153210
-[195]: https://music.apple.com/us/song/wide-river/1442263449
-[196]: https://music.apple.com/us/song/midnight-train/1442263624
-[197]: https://music.apple.com/us/song/blue-eyes/1442263843
-[198]: https://music.apple.com/us/song/lost-in-your-eyes/1442263852
-[199]: https://music.apple.com/us/song/perfect-world/1442264023
-[200]: https://music.apple.com/us/song/horse-and-rider/1442264037
-[201]: https://music.apple.com/us/song/circle-of-fire/1442264049
-[202]: https://music.apple.com/us/song/conversation/1442264178
-[203]: https://music.apple.com/us/song/cry-cry-cry/1442264188
-[204]: https://music.apple.com/us/song/stranger-blues/1442264194
-[205]: https://music.apple.com/us/song/walks-like-a-lady/1442264533
-[206]: https://music.apple.com/us/song/all-your-love-i-miss-loving/1442264543
-[207]: https://music.apple.com/us/song/hey-yeah/1444039924
-[208]: https://music.apple.com/us/song/whos-been-talkin/1444039997
-[209]: https://music.apple.com/us/song/dont-cha-know/1444040001
-[210]: https://music.apple.com/us/song/rock-me-baby/1444040005
-[211]: https://music.apple.com/us/song/tramp/1444040010
-[212]: https://music.apple.com/us/song/sweet-soul-vibe/1444040014
-[213]: https://music.apple.com/us/song/come-on-let-the-good-times-roll/1444040112
-[214]: https://music.apple.com/us/song/all-your-love-i-miss-loving/1444040117
-[215]: https://music.apple.com/us/song/you-got-me-dizzy/1444040119
-[216]: https://music.apple.com/us/song/ooh-poo-pah-doo/1444040120
-[217]: https://music.apple.com/us/song/aint-that-loving-you-baby/1444040122
-[218]: https://music.apple.com/us/song/further-on-up-the-road/1444040125
-[219]: https://music.apple.com/us/song/look-on-yonder-wall/1444040128
-[220]: https://music.apple.com/us/song/drivin-wheel/1444040131
-[221]: https://music.apple.com/us/song/snatch-it-back-and-hold-it/1443816963
-[222]: https://music.apple.com/us/song/i-got-love-if-you-want-it/1443817278
-[223]: https://music.apple.com/us/song/just-a-little-bit/1443817286
-[224]: https://music.apple.com/us/song/close-together/1443817295
-[225]: https://music.apple.com/us/song/no-more-doggin/1443817482
-[226]: https://music.apple.com/us/song/pretty-thing/1443817488
-[227]: https://music.apple.com/us/song/cant-be-satisfied/1443817496
-[228]: https://music.apple.com/us/song/sweet-home-chicago/1443817500
-[229]: https://music.apple.com/us/song/love-the-life-i-live/1443817691
-[230]: https://music.apple.com/us/song/the-walk/1443817706
-[231]: https://music.apple.com/us/song/when-things-go-wrong-it-hurts-me-too/1443817720
-[232]: https://music.apple.com/us/song/i-aint-got-you/1443817785
-[233]: https://music.apple.com/us/song/tell-me-whats-the-reason/1443817791
-[234]: https://music.apple.com/us/song/driftin-blues/1443817797
+[109]: https://music.apple.com/us/song/dont-let-nobody-turn-you-around-alternate-version/1465327549
+[110]: https://music.apple.com/us/song/industrial-military-complex-hex-alternate-version/1465327553
+[111]: https://music.apple.com/us/song/living-in-the-u-s-a/1465327677
+[112]: https://music.apple.com/us/song/kow-kow-calculator-alternate-version/1465327678
+[113]: https://music.apple.com/us/song/going-to-mexico-alternate-version/1465327679
+[114]: https://music.apple.com/us/song/quicksilver-girl-alternate-version/1465327680
+[115]: https://music.apple.com/us/song/jackson-kent-blues-alternate-version/1465327681
+[116]: https://music.apple.com/us/song/hesitation-blues/1465327683
+[117]: https://music.apple.com/us/song/seasons-alternate-version/1465327684
+[118]: https://music.apple.com/us/song/say-wow/1465327685
+[119]: https://music.apple.com/us/song/space-cowboy-instrumental/1465327697
+[120]: https://music.apple.com/us/song/the-joker/1465327704
+[121]: https://music.apple.com/us/song/the-lovin-cup/1465327705
+[122]: https://music.apple.com/us/song/killing-floor/1465327736
+[123]: https://music.apple.com/us/song/echoplex-blues-instrumental/1465327739
+[124]: https://music.apple.com/us/song/rockn-me-alternate-version-1/1465327741
+[125]: https://music.apple.com/us/song/rockn-me-alternate-version-2/1465327743
+[126]: https://music.apple.com/us/song/taint-it-the-truth/1465327744
+[127]: https://music.apple.com/us/song/freight-train-blues/1465327750
+[128]: https://music.apple.com/us/song/true-fine-love-alternate-version/1465327751
+[129]: https://music.apple.com/us/song/the-stake-alternate-version/1465327753
+[130]: https://music.apple.com/us/song/my-babe-alternate-version/1465327754
+[131]: https://music.apple.com/us/song/thats-the-way-its-got-to-be/1465327755
+[132]: https://music.apple.com/us/song/double-trouble/1465327756
+[133]: https://music.apple.com/us/song/love-is-strange/1465327757
+[134]: https://music.apple.com/us/song/all-your-love-i-miss-loving-alternate-version/1465327758
+[135]: https://music.apple.com/us/song/fly-like-an-eagle-alternate-version/1465327762
+[136]: https://music.apple.com/us/song/space-intro/1465327764
+[137]: https://music.apple.com/us/song/fly-like-an-eagle/1465327947
+[138]: https://music.apple.com/us/song/the-window/1465327948
+[139]: https://music.apple.com/us/song/mercury-blues-alternate-version/1465327949
+[140]: https://music.apple.com/us/song/jet-airliner-alternate-version/1465327950
+[141]: https://music.apple.com/us/song/take-the-money-and-run/1465327951
+[142]: https://music.apple.com/us/song/dance-dance-dance/1465327952
+[143]: https://music.apple.com/us/song/swingtown-alternate-version/1465327953
+[144]: https://music.apple.com/us/song/winter-time/1465327956
+[145]: https://music.apple.com/us/song/who-do-you-love/1465327957
+[146]: https://music.apple.com/us/song/abracadabra/1465327959
+[147]: https://music.apple.com/us/song/macho-city-short-version/1465327961
+[148]: https://music.apple.com/us/song/bizzys-blue-tango-instrumental/1465327971
+[149]: https://music.apple.com/us/song/radio-1/1443173949
+[150]: https://music.apple.com/us/song/italian-x-rays/1443174072
+[151]: https://music.apple.com/us/song/daybreak/1443174075
+[152]: https://music.apple.com/us/song/shangri-la/1443174076
+[153]: https://music.apple.com/us/song/who-do-you-love/1443174079
+[154]: https://music.apple.com/us/song/harmony-of-the-spheres-1/1443174082
+[155]: https://music.apple.com/us/song/radio-2/1443174083
+[156]: https://music.apple.com/us/song/bongo-bongo/1443174085
+[157]: https://music.apple.com/us/song/out-of-the-night/1443174087
+[158]: https://music.apple.com/us/song/golden-opportunity/1443174089
+[159]: https://music.apple.com/us/song/the-hollywood-dream/1443174091
+[160]: https://music.apple.com/us/song/one-in-a-million/1443174092
+[161]: https://music.apple.com/us/song/harmony-of-the-spheres-2/1443174093
+[162]: https://music.apple.com/us/song/nobody-but-you-baby/1452288417
+[163]: https://music.apple.com/us/song/i-want-to-make-the-world-turn-around/1452288445
+[164]: https://music.apple.com/us/song/slinky/1452288576
+[165]: https://music.apple.com/us/song/living-in-the-20th-century/1452288585
+[166]: https://music.apple.com/us/song/maelstrom/1452288592
+[167]: https://music.apple.com/us/song/i-wanna-be-loved-but-by-only-you/1452288840
+[168]: https://music.apple.com/us/song/my-babe/1452288856
+[169]: https://music.apple.com/us/song/big-boss-man/1452288986
+[170]: https://music.apple.com/us/song/caress-me-baby/1452288991
+[171]: https://music.apple.com/us/song/aint-that-lovin-you-baby/1452289000
+[172]: https://music.apple.com/us/song/behind-the-barn/1452289004
+[173]: https://music.apple.com/us/song/zip-a-dee-doo-dah/1443152463
+[174]: https://music.apple.com/us/song/ya-ya/1443152921
+[175]: https://music.apple.com/us/song/god-bless-the-child/1443152926
+[176]: https://music.apple.com/us/song/filthy-mcnasty/1443152929
+[177]: https://music.apple.com/us/song/born-to-be-blue/1443152934
+[178]: https://music.apple.com/us/song/mary-ann/1443152939
+[179]: https://music.apple.com/us/song/just-a-little-bit/1443152946
+[180]: https://music.apple.com/us/song/when-sunny-gets-blue/1443153193
+[181]: https://music.apple.com/us/song/willow-weep-for-me/1443153202
+[182]: https://music.apple.com/us/song/red-top/1443153210
+[183]: https://music.apple.com/us/song/wide-river/1442263449
+[184]: https://music.apple.com/us/song/midnight-train/1442263624
+[185]: https://music.apple.com/us/song/blue-eyes/1442263843
+[186]: https://music.apple.com/us/song/lost-in-your-eyes/1442263852
+[187]: https://music.apple.com/us/song/perfect-world/1442264023
+[188]: https://music.apple.com/us/song/horse-and-rider/1442264037
+[189]: https://music.apple.com/us/song/circle-of-fire/1442264049
+[190]: https://music.apple.com/us/song/conversation/1442264178
+[191]: https://music.apple.com/us/song/cry-cry-cry/1442264188
+[192]: https://music.apple.com/us/song/stranger-blues/1442264194
+[193]: https://music.apple.com/us/song/walks-like-a-lady/1442264533
+[194]: https://music.apple.com/us/song/all-your-love-i-miss-loving/1442264543
+[195]: https://music.apple.com/us/song/hey-yeah/1444039924
+[196]: https://music.apple.com/us/song/whos-been-talkin/1444039997
+[197]: https://music.apple.com/us/song/dont-cha-know/1444040001
+[198]: https://music.apple.com/us/song/rock-me-baby/1444040005
+[199]: https://music.apple.com/us/song/tramp/1444040010
+[200]: https://music.apple.com/us/song/sweet-soul-vibe/1444040014
+[201]: https://music.apple.com/us/song/come-on-let-the-good-times-roll/1444040112
+[202]: https://music.apple.com/us/song/all-your-love-i-miss-loving/1444040117
+[203]: https://music.apple.com/us/song/you-got-me-dizzy/1444040119
+[204]: https://music.apple.com/us/song/ooh-poo-pah-doo/1444040120
+[205]: https://music.apple.com/us/song/aint-that-loving-you-baby/1444040122
+[206]: https://music.apple.com/us/song/further-on-up-the-road/1444040125
+[207]: https://music.apple.com/us/song/look-on-yonder-wall/1444040128
+[208]: https://music.apple.com/us/song/drivin-wheel/1444040131
+[209]: https://music.apple.com/us/song/snatch-it-back-and-hold-it/1443816963
+[210]: https://music.apple.com/us/song/i-got-love-if-you-want-it/1443817278
+[211]: https://music.apple.com/us/song/just-a-little-bit/1443817286
+[212]: https://music.apple.com/us/song/close-together/1443817295
+[213]: https://music.apple.com/us/song/no-more-doggin/1443817482
+[214]: https://music.apple.com/us/song/pretty-thing/1443817488
+[215]: https://music.apple.com/us/song/cant-be-satisfied/1443817496
+[216]: https://music.apple.com/us/song/sweet-home-chicago/1443817500
+[217]: https://music.apple.com/us/song/love-the-life-i-live/1443817691
+[218]: https://music.apple.com/us/song/the-walk/1443817706
+[219]: https://music.apple.com/us/song/when-things-go-wrong-it-hurts-me-too/1443817720
+[220]: https://music.apple.com/us/song/i-aint-got-you/1443817785
+[221]: https://music.apple.com/us/song/tell-me-whats-the-reason/1443817791
+[222]: https://music.apple.com/us/song/driftin-blues/1443817797
+
+
+
