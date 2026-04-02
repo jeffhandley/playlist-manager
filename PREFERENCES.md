@@ -112,6 +112,21 @@ Exclude songs that originated from Broadway stage musicals or prominent film mus
 
 ---
 
+## Studio Versions Preferred
+
+When a song is available in both a **studio recording** and a **live performance** on Apple Music, **always link to the studio recording**. Live versions should only be used when no studio alternative exists on Apple Music (e.g. a song was only ever released as a live recording).
+
+This preference applies even when the live version has explicit lyrics and the studio version is clean — studio recordings are always preferred over live performances. The preferential ordering is:
+
+1. **Studio explicit** (best)
+2. **Studio clean**
+3. **Live explicit**
+4. **Live clean** (least preferred)
+
+**Exception:** Artist catalog playlists that include dedicated live albums may retain the live tracks for completeness, but any song that also exists as a studio recording should use the studio version.
+
+---
+
 ## Explicit Versions Preferred
 
 When a song is available in both **clean (censored)** and **explicit (uncensored)** versions on Apple Music, **always link to the explicit version**. Clean versions should only be used when no explicit alternative exists on Apple Music.
