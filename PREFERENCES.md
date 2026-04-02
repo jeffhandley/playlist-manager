@@ -112,6 +112,22 @@ Exclude songs that originated from Broadway stage musicals or prominent film mus
 
 ---
 
+## Studio Versions Preferred
+
+When a song is available in both a **studio recording** and a **live performance** on Apple Music, **always link to the studio recording**. This preference applies even when the live version has explicit lyrics and the studio version is clean — studio recordings are always preferred over live performances. The preferential ordering is:
+
+1. **Studio explicit** (best)
+2. **Studio clean**
+3. **Live explicit**
+4. **Live clean** (least preferred)
+
+**When to keep live tracks:** Live performances should be kept in the following cases:
+- **No studio version exists** — If a song was only ever released as a live recording, keep the live version rather than removing the track entirely
+- **Part of a studio album** — Live tracks included as bonus tracks, B-sides, or live disc portions of a studio album release should be retained as part of the album's tracklist
+- **Artist catalog playlists** — Catalog playlists that include studio albums should retain all tracks from those albums, including any live bonus tracks that are part of the release
+
+---
+
 ## Explicit Versions Preferred
 
 When a song is available in both **clean (censored)** and **explicit (uncensored)** versions on Apple Music, **always link to the explicit version**. Clean versions should only be used when no explicit alternative exists on Apple Music.

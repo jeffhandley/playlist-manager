@@ -531,7 +531,7 @@ export async function updatePlaylistDescription(page, playlistName, description)
 // name. The sync will then create a fresh 🤖 playlist. This preserves all
 // tracks (the old "Add to Playlist" approach only copied ~100 tracks).
 // Once renamed to 🔙, the backup is immutable — never modified or deleted.
-// If a backup for today already exists, this is a no-op.
+// Supports multiple backups per day with numeric suffixes (e.g. 2026-04-01-1, 2026-04-01-2).
 export async function backupPlaylist(page, playlistName) {
   assertManaged(playlistName);
 
@@ -539,16 +539,24 @@ export async function backupPlaylist(page, playlistName) {
   const yyyy = today.getFullYear();
   const mm = String(today.getMonth() + 1).padStart(2, "0");
   const dd = String(today.getDate()).padStart(2, "0");
+  const dateStr = `${yyyy}-${mm}-${dd}`;
   const baseName = playlistName.replace(PLAYLIST_MARKER, "");
-  const backupName = `${baseName}${BACKUP_MARKER} (${yyyy}-${mm}-${dd})`;
 
-  // Check if today's backup already exists
+  // Navigate to library to find existing backups
   await page.goto(`${BASE_URL}/library/all-playlists/`, { waitUntil: "load" });
-  const existingBackup = page.getByRole('link', { name: backupName, exact: true }).first();
-  if (await waitFor(existingBackup, { timeout: 5000 })) {
-    console.log(`Backup "${backupName}" already exists. Skipping backup.\n`);
-    return true;
+
+  // Find the next available numeric suffix for today
+  let suffix = 1;
+  while (true) {
+    const candidateName = `${baseName}${BACKUP_MARKER} (${dateStr}-${suffix})`;
+    const existing = page.getByRole('link', { name: candidateName, exact: true }).first();
+    if (await waitFor(existing, { timeout: 3000 })) {
+      suffix++;
+    } else {
+      break;
+    }
   }
+  const backupName = `${baseName}${BACKUP_MARKER} (${dateStr}-${suffix})`;
 
   // Check if the managed playlist exists
   const existingPlaylist = page.getByRole('link', { name: playlistName, exact: true }).first();
