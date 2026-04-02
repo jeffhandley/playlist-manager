@@ -92,105 +92,115 @@ Albums: Black Sabbath (1970), Paranoid (1970), Master of Reality (1971), Vol. 4 
 | 70 | [Die Young][70] | Black Sabbath | Heaven and Hell | 1980 | |
 | 71 | [Walk Away][71] | Black Sabbath | Heaven and Hell | 1980 | |
 | 72 | [Lonely Is the Word][72] | Black Sabbath | Heaven and Hell | 1980 | |
-| 73 | [Lady Evil (7" Mono Edit)][73] | Black Sabbath | Heaven and Hell | 1980 | |
-| 74 | [Turn Up the Night][74] | Black Sabbath | Mob Rules | 1981 | |
-| 75 | [Voodoo][75] | Black Sabbath | Mob Rules | 1981 | |
-| 76 | [The Sign of the Southern Cross][76] | Black Sabbath | Mob Rules | 1981 | |
-| 77 | [E5150][77] | Black Sabbath | Mob Rules | 1981 | |
-| 78 | [The Mob Rules][78] | Black Sabbath | Mob Rules | 1981 | |
-| 79 | [Country Girl][79] | Black Sabbath | Mob Rules | 1981 | |
-| 80 | [Slipping Away][80] | Black Sabbath | Mob Rules | 1981 | |
-| 81 | [Falling Off the Edge of the World][81] | Black Sabbath | Mob Rules | 1981 | |
-| 82 | [Over and Over][82] | Black Sabbath | Mob Rules | 1981 | |
-| 83 | [Trashed][83] | Black Sabbath | Born Again | 1983 | |
-| 84 | [Stonehenge][84] | Black Sabbath | Born Again | 1983 | |
-| 85 | [Disturbing the Priest][85] | Black Sabbath | Born Again | 1983 | |
-| 86 | [The Dark][86] | Black Sabbath | Born Again | 1983 | |
-| 87 | [Zero the Hero][87] | Black Sabbath | Born Again | 1983 | |
-| 88 | [Digital Bitch][88] | Black Sabbath | Born Again | 1983 | |
-| 89 | [Born Again][89] | Black Sabbath | Born Again | 1983 | |
-| 90 | [Hot Line][90] | Black Sabbath | Born Again | 1983 | |
-| 91 | [Keep It Warm][91] | Black Sabbath | Born Again | 1983 | |
-| 92 | [In for the Kill][92] | Black Sabbath | Seventh Star | 1986 | |
-| 93 | [No Stranger to Love][93] | Black Sabbath | Seventh Star | 1986 | |
-| 94 | [Turn to Stone][94] | Black Sabbath | Seventh Star | 1986 | |
-| 95 | [Sphinx (The Guardian)][95] | Black Sabbath | Seventh Star | 1986 | |
-| 96 | [Seventh Star][96] | Black Sabbath | Seventh Star | 1986 | |
-| 97 | [Danger Zone][97] | Black Sabbath | Seventh Star | 1986 | |
-| 98 | [Heart Like a Wheel][98] | Black Sabbath | Seventh Star | 1986 | |
-| 99 | [Angry Heart][99] | Black Sabbath | Seventh Star | 1986 | |
-| 100 | [In Memory...][100] | Black Sabbath | Seventh Star | 1986 | |
-| 101 | [The Shining][101] | Black Sabbath | The Eternal Idol | 1987 | |
-| 102 | [Ancient Warrior][102] | Black Sabbath | The Eternal Idol | 1987 | |
-| 103 | [Hard Life to Love][103] | Black Sabbath | The Eternal Idol | 1987 | |
-| 104 | [Glory Ride][104] | Black Sabbath | The Eternal Idol | 1987 | |
-| 105 | [Born to Lose][105] | Black Sabbath | The Eternal Idol | 1987 | |
-| 106 | [Nightmare][106] | Black Sabbath | The Eternal Idol | 1987 | |
-| 107 | [Scarlet Pimpernel][107] | Black Sabbath | The Eternal Idol | 1987 | |
-| 108 | [Lost Forever][108] | Black Sabbath | The Eternal Idol | 1987 | |
-| 109 | [Eternal Idol][109] | Black Sabbath | The Eternal Idol | 1987 | |
-| 110 | [The Gates of Hell (2024 Remaster)][110] | Black Sabbath | Headless Cross | 1989 | |
-| 111 | [Headless Cross (2024 Remaster)][111] | Black Sabbath | Headless Cross | 1989 | |
-| 112 | [Devil & Daughter (2024 Remaster)][112] | Black Sabbath | Headless Cross | 1989 | |
-| 113 | [When Death Calls (2024 Remaster)][113] | Black Sabbath | Headless Cross | 1989 | |
-| 114 | [Kill In the Spirit World (2024 Remaster)][114] | Black Sabbath | Headless Cross | 1989 | |
-| 115 | [Call of the Wild (2024 Remaster)][115] | Black Sabbath | Headless Cross | 1989 | |
-| 116 | [Black Moon (2024 Remaster)][116] | Black Sabbath | Headless Cross | 1989 | |
-| 117 | [Nightwing (2024 Remaster)][117] | Black Sabbath | Headless Cross | 1989 | |
-| 118 | [Cloak and Dagger (2024 Remaster)][118] | Black Sabbath | Headless Cross | 1989 | |
-| 119 | [Anno Mundi (2024 Remaster)][119] | Black Sabbath | Tyr | 1990 | |
-| 120 | [The Law Maker (2024 Remaster)][120] | Black Sabbath | Tyr | 1990 | |
-| 121 | [Jerusalem (2024 Remaster)][121] | Black Sabbath | Tyr | 1990 | |
-| 122 | [The Sabbath Stones (2024 Remaster)][122] | Black Sabbath | Tyr | 1990 | |
-| 123 | [The Battle of Tyr (2024 Remaster)][123] | Black Sabbath | Tyr | 1990 | |
-| 124 | [Odin's Court (2024 Remaster)][124] | Black Sabbath | Tyr | 1990 | |
-| 125 | [Valhalla (2024 Remaster)][125] | Black Sabbath | Tyr | 1990 | |
-| 126 | [Feels Good to Me (2024 Remaster)][126] | Black Sabbath | Tyr | 1990 | |
-| 127 | [Heaven in Black (2024 Remaster)][127] | Black Sabbath | Tyr | 1990 | |
-| 128 | [Computer God][128] | Black Sabbath | Dehumanizer | 1992 | |
-| 129 | [After All (The Dead)][129] | Black Sabbath | Dehumanizer | 1992 | |
-| 130 | [TV Crimes][130] | Black Sabbath | Dehumanizer | 1992 | |
-| 131 | [Letters from Earth][131] | Black Sabbath | Dehumanizer | 1992 | |
-| 132 | [Master of Insanity][132] | Black Sabbath | Dehumanizer | 1992 | |
-| 133 | [Time Machine][133] | Black Sabbath | Dehumanizer | 1992 | |
-| 134 | [Sins of the Father][134] | Black Sabbath | Dehumanizer | 1992 | |
-| 135 | [Too Late][135] | Black Sabbath | Dehumanizer | 1992 | |
-| 136 | [I][136] | Black Sabbath | Dehumanizer | 1992 | |
-| 137 | [Buried Alive][137] | Black Sabbath | Dehumanizer | 1992 | |
-| 138 | [Time Machine][138] | Black Sabbath | Dehumanizer | 1992 | |
-| 139 | [I Witness (2024 Remaster)][139] | Black Sabbath | Cross Purposes | 1994 | |
-| 140 | [Cross of Thorns (2024 Remaster)][140] | Black Sabbath | Cross Purposes | 1994 | |
-| 141 | [Psychophobia (2024 Remaster)][141] | Black Sabbath | Cross Purposes | 1994 | |
-| 142 | [Virtual Death (2024 Remaster)][142] | Black Sabbath | Cross Purposes | 1994 | |
-| 143 | [Immaculate Deception (2024 Remaster)][143] | Black Sabbath | Cross Purposes | 1994 | |
-| 144 | [Dying for Love (2024 Remaster)][144] | Black Sabbath | Cross Purposes | 1994 | |
-| 145 | [Back to Eden (2024 Remaster)][145] | Black Sabbath | Cross Purposes | 1994 | |
-| 146 | [The Hand That Rocks the Cradle (2024 Remaster)][146] | Black Sabbath | Cross Purposes | 1994 | |
-| 147 | [Cardinal Sin (2024 Remaster)][147] | Black Sabbath | Cross Purposes | 1994 | |
-| 148 | [Evil Eye (2024 Remaster)][148] | Black Sabbath | Cross Purposes | 1994 | |
-| 149 | [What's the Use (2024 Remaster)][149] | Black Sabbath | Cross Purposes | 1994 | |
-| 150 | [The Illusion of Power (2024 Tony Iommi Remix)][150] | Black Sabbath | Forbidden | 1995 | |
-| 151 | [Get a Grip (2024 Tony Iommi Remix)][151] | Black Sabbath | Forbidden | 1995 | |
-| 152 | [Can't Get Close Enough (2024 Tony Iommi Remix)][152] | Black Sabbath | Forbidden | 1995 | |
-| 153 | [Shaking Off the Chains (2024 Tony Iommi Remix)][153] | Black Sabbath | Forbidden | 1995 | |
-| 154 | [I Won't Cry for You (2024 Tony Iommi Remix)][154] | Black Sabbath | Forbidden | 1995 | |
-| 155 | [Guilty as Hell (2024 Tony Iommi Remix)][155] | Black Sabbath | Forbidden | 1995 | |
-| 156 | [Sick and Tired (2024 Tony Iommi Remix)][156] | Black Sabbath | Forbidden | 1995 | |
-| 157 | [Rusty Angels (2024 Tony Iommi Remix)][157] | Black Sabbath | Forbidden | 1995 | |
-| 158 | [Forbidden (2024 Tony Iommi Remix)][158] | Black Sabbath | Forbidden | 1995 | |
-| 159 | [Kiss of Death (2024 Tony Iommi Remix)][159] | Black Sabbath | Forbidden | 1995 | |
-| 160 | [Loser Gets It All (2024 Tony Iommi Remix)][160] | Black Sabbath | Forbidden | 1995 | |
-| 161 | [End of the Beginning][161] | Black Sabbath | 13 | 2013 | |
-| 162 | [God Is Dead?][162] | Black Sabbath | 13 | 2013 | |
-| 163 | [Loner][163] | Black Sabbath | 13 | 2013 | |
-| 164 | [Zeitgeist][164] | Black Sabbath | 13 | 2013 | |
-| 165 | [Age of Reason][165] | Black Sabbath | 13 | 2013 | |
-| 166 | [Live Forever][166] | Black Sabbath | 13 | 2013 | |
-| 167 | [Damaged Soul][167] | Black Sabbath | 13 | 2013 | |
-| 168 | [Dear Father][168] | Black Sabbath | 13 | 2013 | |
-| 169 | [Methademic][169] | Black Sabbath | 13 | 2013 | |
-| 170 | [Peace of Mind][170] | Black Sabbath | 13 | 2013 | |
-| 171 | [Pariah][171] | Black Sabbath | 13 | 2013 | |
+| 73 | [Children of the Sea (Live B-Side)][73] | Black Sabbath | Heaven and Hell | 1980 | |
+| 74 | [Heaven and Hell (Live B-Side)][74] | Black Sabbath | Heaven and Hell | 1980 | |
+| 75 | [Lady Evil (7" Mono Edit)][75] | Black Sabbath | Heaven and Hell | 1980 | |
+| 76 | [Neon Knights (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][76] | Black Sabbath | Heaven and Hell | 1980 | |
+| 77 | [Children of the Sea (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][77] | Black Sabbath | Heaven and Hell | 1980 | |
+| 78 | [Heaven and Hell (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][78] | Black Sabbath | Heaven and Hell | 1980 | |
+| 79 | [Die Young (Live at Hartford Civic Center, Hartford, CT, 08/10/80)][79] | Black Sabbath | Heaven and Hell | 1980 | |
+| 80 | [E5150 (Live at Hammersmith Odeon, London, UK, 12/31/81)][80] | Black Sabbath | Heaven and Hell | 1980 | |
+| 81 | [Neon Knights (Live at Hammersmith Odeon, London, UK, 12/31/81)][81] | Black Sabbath | Heaven and Hell | 1980 | |
+| 82 | [Children of the Sea (Live at Hammersmith Odeon, London, UK, 12/31/81)][82] | Black Sabbath | Heaven and Hell | 1980 | |
+| 83 | [Heaven and Hell (Live at Hammersmith Odeon, London, UK, 12/31/81)][83] | Black Sabbath | Heaven and Hell | 1980 | |
+| 84 | [Turn Up the Night][84] | Black Sabbath | Mob Rules | 1981 | |
+| 85 | [Voodoo][85] | Black Sabbath | Mob Rules | 1981 | |
+| 86 | [The Sign of the Southern Cross][86] | Black Sabbath | Mob Rules | 1981 | |
+| 87 | [E5150][87] | Black Sabbath | Mob Rules | 1981 | |
+| 88 | [The Mob Rules][88] | Black Sabbath | Mob Rules | 1981 | |
+| 89 | [Country Girl][89] | Black Sabbath | Mob Rules | 1981 | |
+| 90 | [Slipping Away][90] | Black Sabbath | Mob Rules | 1981 | |
+| 91 | [Falling Off the Edge of the World][91] | Black Sabbath | Mob Rules | 1981 | |
+| 92 | [Over and Over][92] | Black Sabbath | Mob Rules | 1981 | |
+| 93 | [Trashed][93] | Black Sabbath | Born Again | 1983 | |
+| 94 | [Stonehenge][94] | Black Sabbath | Born Again | 1983 | |
+| 95 | [Disturbing the Priest][95] | Black Sabbath | Born Again | 1983 | |
+| 96 | [The Dark][96] | Black Sabbath | Born Again | 1983 | |
+| 97 | [Zero the Hero][97] | Black Sabbath | Born Again | 1983 | |
+| 98 | [Digital Bitch][98] | Black Sabbath | Born Again | 1983 | |
+| 99 | [Born Again][99] | Black Sabbath | Born Again | 1983 | |
+| 100 | [Hot Line][100] | Black Sabbath | Born Again | 1983 | |
+| 101 | [Keep It Warm][101] | Black Sabbath | Born Again | 1983 | |
+| 102 | [In for the Kill][102] | Black Sabbath | Seventh Star | 1986 | |
+| 103 | [No Stranger to Love][103] | Black Sabbath | Seventh Star | 1986 | |
+| 104 | [Turn to Stone][104] | Black Sabbath | Seventh Star | 1986 | |
+| 105 | [Sphinx (The Guardian)][105] | Black Sabbath | Seventh Star | 1986 | |
+| 106 | [Seventh Star][106] | Black Sabbath | Seventh Star | 1986 | |
+| 107 | [Danger Zone][107] | Black Sabbath | Seventh Star | 1986 | |
+| 108 | [Heart Like a Wheel][108] | Black Sabbath | Seventh Star | 1986 | |
+| 109 | [Angry Heart][109] | Black Sabbath | Seventh Star | 1986 | |
+| 110 | [In Memory...][110] | Black Sabbath | Seventh Star | 1986 | |
+| 111 | [The Shining][111] | Black Sabbath | The Eternal Idol | 1987 | |
+| 112 | [Ancient Warrior][112] | Black Sabbath | The Eternal Idol | 1987 | |
+| 113 | [Hard Life to Love][113] | Black Sabbath | The Eternal Idol | 1987 | |
+| 114 | [Glory Ride][114] | Black Sabbath | The Eternal Idol | 1987 | |
+| 115 | [Born to Lose][115] | Black Sabbath | The Eternal Idol | 1987 | |
+| 116 | [Nightmare][116] | Black Sabbath | The Eternal Idol | 1987 | |
+| 117 | [Scarlet Pimpernel][117] | Black Sabbath | The Eternal Idol | 1987 | |
+| 118 | [Lost Forever][118] | Black Sabbath | The Eternal Idol | 1987 | |
+| 119 | [Eternal Idol][119] | Black Sabbath | The Eternal Idol | 1987 | |
+| 120 | [The Gates of Hell (2024 Remaster)][120] | Black Sabbath | Headless Cross | 1989 | |
+| 121 | [Headless Cross (2024 Remaster)][121] | Black Sabbath | Headless Cross | 1989 | |
+| 122 | [Devil & Daughter (2024 Remaster)][122] | Black Sabbath | Headless Cross | 1989 | |
+| 123 | [When Death Calls (2024 Remaster)][123] | Black Sabbath | Headless Cross | 1989 | |
+| 124 | [Kill In the Spirit World (2024 Remaster)][124] | Black Sabbath | Headless Cross | 1989 | |
+| 125 | [Call of the Wild (2024 Remaster)][125] | Black Sabbath | Headless Cross | 1989 | |
+| 126 | [Black Moon (2024 Remaster)][126] | Black Sabbath | Headless Cross | 1989 | |
+| 127 | [Nightwing (2024 Remaster)][127] | Black Sabbath | Headless Cross | 1989 | |
+| 128 | [Cloak and Dagger (2024 Remaster)][128] | Black Sabbath | Headless Cross | 1989 | |
+| 129 | [Anno Mundi (2024 Remaster)][129] | Black Sabbath | Tyr | 1990 | |
+| 130 | [The Law Maker (2024 Remaster)][130] | Black Sabbath | Tyr | 1990 | |
+| 131 | [Jerusalem (2024 Remaster)][131] | Black Sabbath | Tyr | 1990 | |
+| 132 | [The Sabbath Stones (2024 Remaster)][132] | Black Sabbath | Tyr | 1990 | |
+| 133 | [The Battle of Tyr (2024 Remaster)][133] | Black Sabbath | Tyr | 1990 | |
+| 134 | [Odin's Court (2024 Remaster)][134] | Black Sabbath | Tyr | 1990 | |
+| 135 | [Valhalla (2024 Remaster)][135] | Black Sabbath | Tyr | 1990 | |
+| 136 | [Feels Good to Me (2024 Remaster)][136] | Black Sabbath | Tyr | 1990 | |
+| 137 | [Heaven in Black (2024 Remaster)][137] | Black Sabbath | Tyr | 1990 | |
+| 138 | [Computer God][138] | Black Sabbath | Dehumanizer | 1992 | |
+| 139 | [After All (The Dead)][139] | Black Sabbath | Dehumanizer | 1992 | |
+| 140 | [TV Crimes][140] | Black Sabbath | Dehumanizer | 1992 | |
+| 141 | [Letters from Earth][141] | Black Sabbath | Dehumanizer | 1992 | |
+| 142 | [Master of Insanity][142] | Black Sabbath | Dehumanizer | 1992 | |
+| 143 | [Time Machine][143] | Black Sabbath | Dehumanizer | 1992 | |
+| 144 | [Sins of the Father][144] | Black Sabbath | Dehumanizer | 1992 | |
+| 145 | [Too Late][145] | Black Sabbath | Dehumanizer | 1992 | |
+| 146 | [I][146] | Black Sabbath | Dehumanizer | 1992 | |
+| 147 | [Buried Alive][147] | Black Sabbath | Dehumanizer | 1992 | |
+| 148 | [Time Machine][148] | Black Sabbath | Dehumanizer | 1992 | |
+| 149 | [I Witness (2024 Remaster)][149] | Black Sabbath | Cross Purposes | 1994 | |
+| 150 | [Cross of Thorns (2024 Remaster)][150] | Black Sabbath | Cross Purposes | 1994 | |
+| 151 | [Psychophobia (2024 Remaster)][151] | Black Sabbath | Cross Purposes | 1994 | |
+| 152 | [Virtual Death (2024 Remaster)][152] | Black Sabbath | Cross Purposes | 1994 | |
+| 153 | [Immaculate Deception (2024 Remaster)][153] | Black Sabbath | Cross Purposes | 1994 | |
+| 154 | [Dying for Love (2024 Remaster)][154] | Black Sabbath | Cross Purposes | 1994 | |
+| 155 | [Back to Eden (2024 Remaster)][155] | Black Sabbath | Cross Purposes | 1994 | |
+| 156 | [The Hand That Rocks the Cradle (2024 Remaster)][156] | Black Sabbath | Cross Purposes | 1994 | |
+| 157 | [Cardinal Sin (2024 Remaster)][157] | Black Sabbath | Cross Purposes | 1994 | |
+| 158 | [Evil Eye (2024 Remaster)][158] | Black Sabbath | Cross Purposes | 1994 | |
+| 159 | [What's the Use (2024 Remaster)][159] | Black Sabbath | Cross Purposes | 1994 | |
+| 160 | [The Illusion of Power (2024 Tony Iommi Remix)][160] | Black Sabbath | Forbidden | 1995 | |
+| 161 | [Get a Grip (2024 Tony Iommi Remix)][161] | Black Sabbath | Forbidden | 1995 | |
+| 162 | [Can't Get Close Enough (2024 Tony Iommi Remix)][162] | Black Sabbath | Forbidden | 1995 | |
+| 163 | [Shaking Off the Chains (2024 Tony Iommi Remix)][163] | Black Sabbath | Forbidden | 1995 | |
+| 164 | [I Won't Cry for You (2024 Tony Iommi Remix)][164] | Black Sabbath | Forbidden | 1995 | |
+| 165 | [Guilty as Hell (2024 Tony Iommi Remix)][165] | Black Sabbath | Forbidden | 1995 | |
+| 166 | [Sick and Tired (2024 Tony Iommi Remix)][166] | Black Sabbath | Forbidden | 1995 | |
+| 167 | [Rusty Angels (2024 Tony Iommi Remix)][167] | Black Sabbath | Forbidden | 1995 | |
+| 168 | [Forbidden (2024 Tony Iommi Remix)][168] | Black Sabbath | Forbidden | 1995 | |
+| 169 | [Kiss of Death (2024 Tony Iommi Remix)][169] | Black Sabbath | Forbidden | 1995 | |
+| 170 | [Loser Gets It All (2024 Tony Iommi Remix)][170] | Black Sabbath | Forbidden | 1995 | |
+| 171 | [End of the Beginning][171] | Black Sabbath | 13 | 2013 | |
+| 172 | [God Is Dead?][172] | Black Sabbath | 13 | 2013 | |
+| 173 | [Loner][173] | Black Sabbath | 13 | 2013 | |
+| 174 | [Zeitgeist][174] | Black Sabbath | 13 | 2013 | |
+| 175 | [Age of Reason][175] | Black Sabbath | 13 | 2013 | |
+| 176 | [Live Forever][176] | Black Sabbath | 13 | 2013 | |
+| 177 | [Damaged Soul][177] | Black Sabbath | 13 | 2013 | |
+| 178 | [Dear Father][178] | Black Sabbath | 13 | 2013 | |
+| 179 | [Methademic][179] | Black Sabbath | 13 | 2013 | |
+| 180 | [Peace of Mind][180] | Black Sabbath | 13 | 2013 | |
+| 181 | [Pariah][181] | Black Sabbath | 13 | 2013 | |
 
 [1]: https://music.apple.com/us/song/black-sabbath/787645012
 [2]: https://music.apple.com/us/song/the-wizard/787645013
@@ -264,103 +274,112 @@ Albums: Black Sabbath (1970), Paranoid (1970), Master of Reality (1971), Vol. 4 
 [70]: https://music.apple.com/us/song/die-young/1547993816
 [71]: https://music.apple.com/us/song/walk-away/1547993817
 [72]: https://music.apple.com/us/song/lonely-is-the-word/1547993818
-[73]: https://music.apple.com/us/song/lady-evil-7-mono-edit/1547993821
-[74]: https://music.apple.com/us/song/turn-up-the-night/298098727
-[75]: https://music.apple.com/us/song/voodoo/298098830
-[76]: https://music.apple.com/us/song/the-sign-of-the-southern-cross/298098972
-[77]: https://music.apple.com/us/song/e5150/298098986
-[78]: https://music.apple.com/us/song/the-mob-rules/298099003
-[79]: https://music.apple.com/us/song/country-girl/298099075
-[80]: https://music.apple.com/us/song/slipping-away/298099232
-[81]: https://music.apple.com/us/song/falling-off-the-edge-of-the-world/298099262
-[82]: https://music.apple.com/us/song/over-and-over/298099308
-[83]: https://music.apple.com/us/song/trashed/40458855
-[84]: https://music.apple.com/us/song/stonehenge/40458857
-[85]: https://music.apple.com/us/song/disturbing-the-priest/40458859
-[86]: https://music.apple.com/us/song/the-dark/40458861
-[87]: https://music.apple.com/us/song/zero-the-hero/40458863
-[88]: https://music.apple.com/us/song/digital-bitch/40458865
-[89]: https://music.apple.com/us/song/born-again/40458867
-[90]: https://music.apple.com/us/song/hot-line/40458869
-[91]: https://music.apple.com/us/song/keep-it-warm/40458871
-[92]: https://music.apple.com/us/song/in-for-the-kill/59401798
-[93]: https://music.apple.com/us/song/no-stranger-to-love/59401803
-[94]: https://music.apple.com/us/song/turn-to-stone/59401807
-[95]: https://music.apple.com/us/song/sphinx-the-guardian/59401811
-[96]: https://music.apple.com/us/song/seventh-star/59401814
-[97]: https://music.apple.com/us/song/danger-zone/59401818
-[98]: https://music.apple.com/us/song/heart-like-a-wheel/59401865
-[99]: https://music.apple.com/us/song/angry-heart/59401874
-[100]: https://music.apple.com/us/song/in-memory/59401877
-[101]: https://music.apple.com/us/song/the-shining/145055318
-[102]: https://music.apple.com/us/song/ancient-warrior/145055416
-[103]: https://music.apple.com/us/song/hard-life-to-love/145055499
-[104]: https://music.apple.com/us/song/glory-ride/145055564
-[105]: https://music.apple.com/us/song/born-to-lose/145055637
-[106]: https://music.apple.com/us/song/nightmare/145055666
-[107]: https://music.apple.com/us/song/scarlet-pimpernel/145055805
-[108]: https://music.apple.com/us/song/lost-forever/145055815
-[109]: https://music.apple.com/us/song/eternal-idol/145055888
-[110]: https://music.apple.com/us/song/the-gates-of-hell-2024-remaster/1747287784
-[111]: https://music.apple.com/us/song/headless-cross-2024-remaster/1747287785
-[112]: https://music.apple.com/us/song/devil-daughter-2024-remaster/1747287789
-[113]: https://music.apple.com/us/song/when-death-calls-2024-remaster/1747287790
-[114]: https://music.apple.com/us/song/kill-in-the-spirit-world-2024-remaster/1747287791
-[115]: https://music.apple.com/us/song/call-of-the-wild-2024-remaster/1747287792
-[116]: https://music.apple.com/us/song/black-moon-2024-remaster/1747287793
-[117]: https://music.apple.com/us/song/nightwing-2024-remaster/1747287794
-[118]: https://music.apple.com/us/song/cloak-and-dagger-2024-remaster/1747287795
-[119]: https://music.apple.com/us/song/anno-mundi-2024-remaster/1748883042
-[120]: https://music.apple.com/us/song/the-law-maker-2024-remaster/1748883265
-[121]: https://music.apple.com/us/song/jerusalem-2024-remaster/1748883277
-[122]: https://music.apple.com/us/song/the-sabbath-stones-2024-remaster/1748883451
-[123]: https://music.apple.com/us/song/the-battle-of-tyr-2024-remaster/1748883679
-[124]: https://music.apple.com/us/song/odins-court-2024-remaster/1748883683
-[125]: https://music.apple.com/us/song/valhalla-2024-remaster/1748883689
-[126]: https://music.apple.com/us/song/feels-good-to-me-2024-remaster/1748883703
-[127]: https://music.apple.com/us/song/heaven-in-black-2024-remaster/1748884019
-[128]: https://music.apple.com/us/song/computer-god/298104147
-[129]: https://music.apple.com/us/song/after-all-the-dead/298104269
-[130]: https://music.apple.com/us/song/tv-crimes/298104290
-[131]: https://music.apple.com/us/song/letters-from-earth/298104303
-[132]: https://music.apple.com/us/song/master-of-insanity/298104321
-[133]: https://music.apple.com/us/song/time-machine/298104338
-[134]: https://music.apple.com/us/song/sins-of-the-father/298104501
-[135]: https://music.apple.com/us/song/too-late/298104563
-[136]: https://music.apple.com/us/song/i/298104576
-[137]: https://music.apple.com/us/song/buried-alive/298104588
-[138]: https://music.apple.com/us/song/time-machine/298104597
-[139]: https://music.apple.com/us/song/i-witness-2024-remaster/1747285171
-[140]: https://music.apple.com/us/song/cross-of-thorns-2024-remaster/1747285172
-[141]: https://music.apple.com/us/song/psychophobia-2024-remaster/1747285173
-[142]: https://music.apple.com/us/song/virtual-death-2024-remaster/1747285175
-[143]: https://music.apple.com/us/song/immaculate-deception-2024-remaster/1747285177
-[144]: https://music.apple.com/us/song/dying-for-love-2024-remaster/1747285178
-[145]: https://music.apple.com/us/song/back-to-eden-2024-remaster/1747285179
-[146]: https://music.apple.com/us/song/the-hand-that-rocks-the-cradle-2024-remaster/1747285180
-[147]: https://music.apple.com/us/song/cardinal-sin-2024-remaster/1747285181
-[148]: https://music.apple.com/us/song/evil-eye-2024-remaster/1747285182
-[149]: https://music.apple.com/us/song/whats-the-use-2024-remaster/1747285432
-[150]: https://music.apple.com/us/song/the-illusion-of-power-2024-tony-iommi-remix/1748882837
-[151]: https://music.apple.com/us/song/get-a-grip-2024-tony-iommi-remix/1748883211
-[152]: https://music.apple.com/us/song/cant-get-close-enough-2024-tony-iommi-remix/1748883413
-[153]: https://music.apple.com/us/song/shaking-off-the-chains-2024-tony-iommi-remix/1748883427
-[154]: https://music.apple.com/us/song/i-wont-cry-for-you-2024-tony-iommi-remix/1748883433
-[155]: https://music.apple.com/us/song/guilty-as-hell-2024-tony-iommi-remix/1748883437
-[156]: https://music.apple.com/us/song/sick-and-tired-2024-tony-iommi-remix/1748883750
-[157]: https://music.apple.com/us/song/rusty-angels-2024-tony-iommi-remix/1748883763
-[158]: https://music.apple.com/us/song/forbidden-2024-tony-iommi-remix/1748883766
-[159]: https://music.apple.com/us/song/kiss-of-death-2024-tony-iommi-remix/1748884130
-[160]: https://music.apple.com/us/song/loser-gets-it-all-2024-tony-iommi-remix/1748884154
-[161]: https://music.apple.com/us/song/end-of-the-beginning/1422699816
-[162]: https://music.apple.com/us/song/god-is-dead/1422699818
-[163]: https://music.apple.com/us/song/loner/1422699819
-[164]: https://music.apple.com/us/song/zeitgeist/1422700212
-[165]: https://music.apple.com/us/song/age-of-reason/1422700213
-[166]: https://music.apple.com/us/song/live-forever/1422700227
-[167]: https://music.apple.com/us/song/damaged-soul/1422700231
-[168]: https://music.apple.com/us/song/dear-father/1422700235
-[169]: https://music.apple.com/us/song/methademic/1422700239
-[170]: https://music.apple.com/us/song/peace-of-mind/1422700548
-[171]: https://music.apple.com/us/song/pariah/1422700559
-
+[73]: https://music.apple.com/us/song/children-of-the-sea-live-b-side/1547993819
+[74]: https://music.apple.com/us/song/heaven-and-hell-live-b-side/1547993820
+[75]: https://music.apple.com/us/song/lady-evil-7-mono-edit/1547993821
+[76]: https://music.apple.com/us/song/neon-knights-live-at-hartford-civic-center-hartford/1547993822
+[77]: https://music.apple.com/us/song/children-of-the-sea-live-at-hartford-civic/1547993823
+[78]: https://music.apple.com/us/song/heaven-and-hell-live-at-hartford-civic-center/1547993824
+[79]: https://music.apple.com/us/song/die-young-live-at-hartford-civic-center-hartford-ct-08-10-80/1547993825
+[80]: https://music.apple.com/us/song/e5150-live-at-hammersmith-odeon-london-uk-12-31-81/1547994186
+[81]: https://music.apple.com/us/song/neon-knights-live-at-hammersmith-odeon-london-uk-12-31-81/1547994187
+[82]: https://music.apple.com/us/song/children-of-the-sea-live-at-hammersmith-odeon-london/1547994188
+[83]: https://music.apple.com/us/song/heaven-and-hell-live-at-hammersmith-odeon-london-uk-12-31-81/1547994189
+[84]: https://music.apple.com/us/song/turn-up-the-night/298098727
+[85]: https://music.apple.com/us/song/voodoo/298098830
+[86]: https://music.apple.com/us/song/the-sign-of-the-southern-cross/298098972
+[87]: https://music.apple.com/us/song/e5150/298098986
+[88]: https://music.apple.com/us/song/the-mob-rules/298099003
+[89]: https://music.apple.com/us/song/country-girl/298099075
+[90]: https://music.apple.com/us/song/slipping-away/298099232
+[91]: https://music.apple.com/us/song/falling-off-the-edge-of-the-world/298099262
+[92]: https://music.apple.com/us/song/over-and-over/298099308
+[93]: https://music.apple.com/us/song/trashed/40458855
+[94]: https://music.apple.com/us/song/stonehenge/40458857
+[95]: https://music.apple.com/us/song/disturbing-the-priest/40458859
+[96]: https://music.apple.com/us/song/the-dark/40458861
+[97]: https://music.apple.com/us/song/zero-the-hero/40458863
+[98]: https://music.apple.com/us/song/digital-bitch/40458865
+[99]: https://music.apple.com/us/song/born-again/40458867
+[100]: https://music.apple.com/us/song/hot-line/40458869
+[101]: https://music.apple.com/us/song/keep-it-warm/40458871
+[102]: https://music.apple.com/us/song/in-for-the-kill/59401798
+[103]: https://music.apple.com/us/song/no-stranger-to-love/59401803
+[104]: https://music.apple.com/us/song/turn-to-stone/59401807
+[105]: https://music.apple.com/us/song/sphinx-the-guardian/59401811
+[106]: https://music.apple.com/us/song/seventh-star/59401814
+[107]: https://music.apple.com/us/song/danger-zone/59401818
+[108]: https://music.apple.com/us/song/heart-like-a-wheel/59401865
+[109]: https://music.apple.com/us/song/angry-heart/59401874
+[110]: https://music.apple.com/us/song/in-memory/59401877
+[111]: https://music.apple.com/us/song/the-shining/145055318
+[112]: https://music.apple.com/us/song/ancient-warrior/145055416
+[113]: https://music.apple.com/us/song/hard-life-to-love/145055499
+[114]: https://music.apple.com/us/song/glory-ride/145055564
+[115]: https://music.apple.com/us/song/born-to-lose/145055637
+[116]: https://music.apple.com/us/song/nightmare/145055666
+[117]: https://music.apple.com/us/song/scarlet-pimpernel/145055805
+[118]: https://music.apple.com/us/song/lost-forever/145055815
+[119]: https://music.apple.com/us/song/eternal-idol/145055888
+[120]: https://music.apple.com/us/song/the-gates-of-hell-2024-remaster/1747287784
+[121]: https://music.apple.com/us/song/headless-cross-2024-remaster/1747287785
+[122]: https://music.apple.com/us/song/devil-daughter-2024-remaster/1747287789
+[123]: https://music.apple.com/us/song/when-death-calls-2024-remaster/1747287790
+[124]: https://music.apple.com/us/song/kill-in-the-spirit-world-2024-remaster/1747287791
+[125]: https://music.apple.com/us/song/call-of-the-wild-2024-remaster/1747287792
+[126]: https://music.apple.com/us/song/black-moon-2024-remaster/1747287793
+[127]: https://music.apple.com/us/song/nightwing-2024-remaster/1747287794
+[128]: https://music.apple.com/us/song/cloak-and-dagger-2024-remaster/1747287795
+[129]: https://music.apple.com/us/song/anno-mundi-2024-remaster/1748883042
+[130]: https://music.apple.com/us/song/the-law-maker-2024-remaster/1748883265
+[131]: https://music.apple.com/us/song/jerusalem-2024-remaster/1748883277
+[132]: https://music.apple.com/us/song/the-sabbath-stones-2024-remaster/1748883451
+[133]: https://music.apple.com/us/song/the-battle-of-tyr-2024-remaster/1748883679
+[134]: https://music.apple.com/us/song/odins-court-2024-remaster/1748883683
+[135]: https://music.apple.com/us/song/valhalla-2024-remaster/1748883689
+[136]: https://music.apple.com/us/song/feels-good-to-me-2024-remaster/1748883703
+[137]: https://music.apple.com/us/song/heaven-in-black-2024-remaster/1748884019
+[138]: https://music.apple.com/us/song/computer-god/298104147
+[139]: https://music.apple.com/us/song/after-all-the-dead/298104269
+[140]: https://music.apple.com/us/song/tv-crimes/298104290
+[141]: https://music.apple.com/us/song/letters-from-earth/298104303
+[142]: https://music.apple.com/us/song/master-of-insanity/298104321
+[143]: https://music.apple.com/us/song/time-machine/298104338
+[144]: https://music.apple.com/us/song/sins-of-the-father/298104501
+[145]: https://music.apple.com/us/song/too-late/298104563
+[146]: https://music.apple.com/us/song/i/298104576
+[147]: https://music.apple.com/us/song/buried-alive/298104588
+[148]: https://music.apple.com/us/song/time-machine/298104597
+[149]: https://music.apple.com/us/song/i-witness-2024-remaster/1747285171
+[150]: https://music.apple.com/us/song/cross-of-thorns-2024-remaster/1747285172
+[151]: https://music.apple.com/us/song/psychophobia-2024-remaster/1747285173
+[152]: https://music.apple.com/us/song/virtual-death-2024-remaster/1747285175
+[153]: https://music.apple.com/us/song/immaculate-deception-2024-remaster/1747285177
+[154]: https://music.apple.com/us/song/dying-for-love-2024-remaster/1747285178
+[155]: https://music.apple.com/us/song/back-to-eden-2024-remaster/1747285179
+[156]: https://music.apple.com/us/song/the-hand-that-rocks-the-cradle-2024-remaster/1747285180
+[157]: https://music.apple.com/us/song/cardinal-sin-2024-remaster/1747285181
+[158]: https://music.apple.com/us/song/evil-eye-2024-remaster/1747285182
+[159]: https://music.apple.com/us/song/whats-the-use-2024-remaster/1747285432
+[160]: https://music.apple.com/us/song/the-illusion-of-power-2024-tony-iommi-remix/1748882837
+[161]: https://music.apple.com/us/song/get-a-grip-2024-tony-iommi-remix/1748883211
+[162]: https://music.apple.com/us/song/cant-get-close-enough-2024-tony-iommi-remix/1748883413
+[163]: https://music.apple.com/us/song/shaking-off-the-chains-2024-tony-iommi-remix/1748883427
+[164]: https://music.apple.com/us/song/i-wont-cry-for-you-2024-tony-iommi-remix/1748883433
+[165]: https://music.apple.com/us/song/guilty-as-hell-2024-tony-iommi-remix/1748883437
+[166]: https://music.apple.com/us/song/sick-and-tired-2024-tony-iommi-remix/1748883750
+[167]: https://music.apple.com/us/song/rusty-angels-2024-tony-iommi-remix/1748883763
+[168]: https://music.apple.com/us/song/forbidden-2024-tony-iommi-remix/1748883766
+[169]: https://music.apple.com/us/song/kiss-of-death-2024-tony-iommi-remix/1748884130
+[170]: https://music.apple.com/us/song/loser-gets-it-all-2024-tony-iommi-remix/1748884154
+[171]: https://music.apple.com/us/song/end-of-the-beginning/1422699816
+[172]: https://music.apple.com/us/song/god-is-dead/1422699818
+[173]: https://music.apple.com/us/song/loner/1422699819
+[174]: https://music.apple.com/us/song/zeitgeist/1422700212
+[175]: https://music.apple.com/us/song/age-of-reason/1422700213
+[176]: https://music.apple.com/us/song/live-forever/1422700227
+[177]: https://music.apple.com/us/song/damaged-soul/1422700231
+[178]: https://music.apple.com/us/song/dear-father/1422700235
+[179]: https://music.apple.com/us/song/methademic/1422700239
+[180]: https://music.apple.com/us/song/peace-of-mind/1422700548
+[181]: https://music.apple.com/us/song/pariah/1422700559

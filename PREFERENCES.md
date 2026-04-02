@@ -121,9 +121,10 @@ When a song is available in both a **studio recording** and a **live performance
 3. **Live explicit**
 4. **Live clean** (least preferred)
 
-**When no studio version exists:** If a song was only ever released as a live recording (no studio alternative exists on Apple Music), **keep the live version** rather than removing the track entirely. A live recording is always better than omitting the song.
-
-**Artist catalog playlists:** Catalog playlists that include dedicated live albums may retain the live tracks for completeness, but any song that also exists as a studio recording should use the studio version.
+**When to keep live tracks:** Live performances should be kept in the following cases:
+- **No studio version exists** — If a song was only ever released as a live recording, keep the live version rather than removing the track entirely
+- **Part of a studio album** — Live tracks included as bonus tracks, B-sides, or live disc portions of a studio album release should be retained as part of the album's tracklist
+- **Artist catalog playlists** — Catalog playlists that include studio albums should retain all tracks from those albums, including any live bonus tracks that are part of the release
 
 ---
 
