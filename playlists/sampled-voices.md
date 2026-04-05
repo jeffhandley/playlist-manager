@@ -39,7 +39,7 @@ Songs that weave spoken word into music — sampling lectures, speeches, intervi
 | 33 | [That's God][33] | Akira the Don & Jordan B. Peterson | JBPWAVE: Paradise | 2019 | Peterson lecture on divinity and consciousness |
 | 34 | [From Suffering][34] | Akira the Don & David Goggins | Goggins | 2019 | Goggins on mental toughness and growth |
 | 35 | [Accountability Mirror][35] | Akira the Don & David Goggins | Goggins | 2019 | Goggins on confronting personal weakness |
-| 36 | [The Purpose of Wealth Is Freedom][36] | Akira the Don & naval ravikant | How to Get Rich: Vol. 1 | 2019 | Naval Ravikant on wealth and leverage |
+| 36 | [The Purpose of Wealth Is Freedom][36] | Akira the Don & Naval Ravikant | How to Get Rich: Vol. 1 | 2019 | Naval Ravikant on wealth and leverage |
 | 37 | [Come Together][37] | Nox Vahn & Marsh | Come Together / Naturish - EP | 2020 | Alan Watts "A Listening Meditation" |
 | 38 | [An Apple Pie from Scratch (feat. Carl Sagan)][38] | Akira the Don | Meaningwave Masterpieces II | 2020 | Sagan's "Cosmos" lecture on the universe |
 | 39 | [Self Control][39] | Akira the Don & Marcus Aurelius | Meditations, Vol. 1 | 2020 | Stoic philosophy from Aurelius' Meditations |
