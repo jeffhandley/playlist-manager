@@ -1,6 +1,6 @@
 # Nine Inch Nails
 
-Complete Nine Inch Nails discography organized in chronological order. Includes studio albums, EPs, and soundtrack singles. Excludes Ghosts albums (instrumental/ambient), live albums, remixes, and compilations.
+Complete Nine Inch Nails discography organized in chronological order. Includes studio albums, EPs, soundtrack singles, and the Nine Inch Noize collaboration with Boys Noize. Excludes Ghosts albums (instrumental/ambient), live albums, remixes, and compilations.
 
 ## Playlist Instructions
 
@@ -136,6 +136,18 @@ Complete Nine Inch Nails discography organized in chronological order. Includes 
 | 116 | [God Break Down the Door][116] | Nine Inch Nails | Bad Witch | 2018 |  |
 | 117 | [I'm Not from This World][117] | Nine Inch Nails | Bad Witch | 2018 |  |
 | 118 | [Over and Out][118] | Nine Inch Nails | Bad Witch | 2018 |  |
+| 119 | [Intro (Nine Inch Noize Version)][119] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 120 | [Vessel (Nine Inch Noize Version)][120] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 121 | [She's Gone Away (Nine Inch Noize Version)][121] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 122 | [Heresy (Nine Inch Noize Version)][122] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 | feat. Mariqueen Maandig |
+| 123 | [Parasite (Nine Inch Noize Version)][123] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 | How to Destroy Angels cover |
+| 124 | [Copy of a (Nine Inch Noize Version)][124] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 125 | [Me, I'm Not (Nine Inch Noize Version)][125] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 126 | [Closer (Nine Inch Noize Version)][126] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 127 | [The Warning (Nine Inch Noize Version)][127] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 128 | [Memorabilia (Nine Inch Noize Version)][128] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 | Soft Cell cover |
+| 129 | [Came Back Haunted (Nine Inch Noize Version)][129] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
+| 130 | [As Alive As You Need Me To Be (Nine Inch Noize Version)][130] | Nine Inch Nails & Boys Noize | Nine Inch Noize | 2026 |  |
 
 [1]: https://music.apple.com/us/song/head-like-a-hole/1440941002
 [2]: https://music.apple.com/us/song/terrible-lie/1440941063
@@ -255,3 +267,15 @@ Complete Nine Inch Nails discography organized in chronological order. Includes 
 [116]: https://music.apple.com/us/song/god-break-down-the-door/1847482596
 [117]: https://music.apple.com/us/song/im-not-from-this-world/1847482599
 [118]: https://music.apple.com/us/song/over-and-out/1847482600
+[119]: https://music.apple.com/us/song/intro-nine-inch-noize-version/1893171322
+[120]: https://music.apple.com/us/song/vessel-nine-inch-noize-version/1893171323
+[121]: https://music.apple.com/us/song/shes-gone-away-nine-inch-noize-version/1893171324
+[122]: https://music.apple.com/us/song/heresy-nine-inch-noize-version/1893171325
+[123]: https://music.apple.com/us/song/parasite-nine-inch-noize-version/1893171327
+[124]: https://music.apple.com/us/song/copy-of-a-nine-inch-noize-version/1893171328
+[125]: https://music.apple.com/us/song/me-im-not-nine-inch-noize-version/1893171329
+[126]: https://music.apple.com/us/song/closer-nine-inch-noize-version/1893171330
+[127]: https://music.apple.com/us/song/the-warning-nine-inch-noize-version/1893171332
+[128]: https://music.apple.com/us/song/memorabilia-nine-inch-noize-version/1893171334
+[129]: https://music.apple.com/us/song/came-back-haunted-nine-inch-noize-version/1893171396
+[130]: https://music.apple.com/us/song/as-alive-as-you-need-me-to-be-nine-inch-noize-version/1893171397
