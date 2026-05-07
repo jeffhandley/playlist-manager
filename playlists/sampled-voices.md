@@ -109,6 +109,9 @@ Songs that weave spoken word into music — sampling lectures, speeches, intervi
 | 103 | [It Hit Me][103] | Charlotte Adigéry & Bolis Pupul | Topical Dancer | 2022 | Speech-driven electroclash commentary |
 | 104 | [Phantom Regret by Jim][104] | The Weeknd | Dawn FM | 2022 | Jim Carrey narrated philosophical poem |
 | 105 | [Sticky][105] | Drake | Honestly, Nevermind | 2022 | Virgil Abloh Columbia GSAPP lecture |
+| 106 | [Culture Is Not Your Friend][106] | Akira the Don & Terence McKenna | CULTURE IS NOT YOUR FRIEND - EP | 2026 | McKenna on rejecting cultural conditioning |
+| 107 | [Weirder and Weirder (feat. Terence McKenna)][107] | Akira the Don & Terence McKenna | CULTURE IS NOT YOUR FRIEND - EP | 2026 | McKenna on the increasing strangeness of reality |
+| 108 | [Don't Worry (feat. Terence McKenna)][108] | Akira the Don & Terence McKenna | CULTURE IS NOT YOUR FRIEND - EP | 2026 | McKenna on surrendering anxiety |
 
 [1]: https://music.apple.com/us/song/7-oclock-news-silent-night/1467438725
 [2]: https://music.apple.com/us/song/revolution-9/1441134482
@@ -215,3 +218,6 @@ Songs that weave spoken word into music — sampling lectures, speeches, intervi
 [103]: https://music.apple.com/us/song/it-hit-me/1587362091
 [104]: https://music.apple.com/us/song/phantom-regret-by-jim/1603171973
 [105]: https://music.apple.com/us/song/sticky/1630221827
+[106]: https://music.apple.com/us/song/culture-is-not-your-friend/1893759726
+[107]: https://music.apple.com/us/song/weirder-and-weirder-feat-terence-mckenna/1893759734
+[108]: https://music.apple.com/us/song/dont-worry-feat-terence-mckenna/1893759736
