@@ -11,6 +11,9 @@ The following individual songs should **never** be added to any playlist (unless
 - **"What It's Like"** by Everlast
   - Reason: User preference
 
+- **"Semi-Charmed Life"** by Third Eye Blind
+  - Reason: User preference
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):
@@ -18,6 +21,12 @@ The following artists should **never** be added to any playlist (unless explicit
 - **Smash Mouth**
   - Reason: User preference
   - Note: Existing tracks may remain in playlists created before this preference was documented
+
+- **Nickelback**
+  - Reason: User preference
+
+- **Sublime**
+  - Reason: User preference
 
 ## Genre & Style Exclusions
 
