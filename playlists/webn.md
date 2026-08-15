@@ -343,30 +343,31 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | 313 | [Still Waiting][313] | Sum 41 | Does This Look Infected? | 2002 | popular catalog addition |
 | 314 | [B.Y.O.B.][314] | System Of A Down | Mezmerize | 2005 | popular catalog addition |
 | 315 | [Chop Suey!][315] | System Of A Down | Toxicity | 2001 | popular catalog addition |
-| 316 | [Dreams (Remastered 2026)][316] | The Cranberries | Everybody Else Is Doing It, So Why Can't We? (Remastered 2026) | 1993 | popular catalog addition |
-| 317 | [Linger (Remastered 2026)][317] | The Cranberries | Everybody Else Is Doing It, So Why Can't We? (Remastered 2026) | 1993 | popular catalog addition |
-| 318 | [Come Out and Play (Keep 'Em Separated)][318] | The Offspring | Smash | 1994 | popular catalog addition |
-| 319 | [Pretty Fly (For a White Guy)][319] | The Offspring | Americana | 1998 | popular catalog addition |
-| 320 | [(I Can't Get No) Satisfaction][320] | The Rolling Stones | Forty Licks | 1965 | popular catalog addition |
-| 321 | [Gimme Shelter (Remastered 2019)][321] | The Rolling Stones | Let It Bleed (Remastered 2019) | 1969 | popular catalog addition |
-| 322 | [1979 (Remastered 2012)][322] | The Smashing Pumpkins | Mellon Collie And The Infinite Sadness (2012 Remastered) | 1995 | popular catalog addition |
-| 323 | [Today][323] | The Smashing Pumpkins | Siamese Dream | 1993 | popular catalog addition |
-| 324 | [CHOKE][324] | The Warning | CHOKE - Single | 2021 | popular catalog addition |
-| 325 | [MONEY][325] | The Warning | MONEY - Single | 2022 | popular catalog addition |
-| 326 | [Fell In Love With a Girl][326] | The White Stripes | White Blood Cells | 2001 | popular catalog addition |
-| 327 | [Icky Thump][327] | The White Stripes | Icky Thump | 2007 | popular catalog addition |
-| 328 | [Closer To the Edge][328] | Thirty Seconds to Mars | This Is War | 2009 | popular catalog addition |
-| 329 | [From Yesterday][329] | Thirty Seconds to Mars | A Beautiful Lie | 2005 | popular catalog addition |
-| 330 | [I Hate Everything About You][330] | Three Days Grace | Three Days Grace (Expanded Edition) | 2003 | popular catalog addition |
-| 331 | [Riot][331] | Three Days Grace | One-X (Deluxe Edition) | 2006 | popular catalog addition |
-| 332 | [American Girl][332] | Tom Petty | The Best of Everything: The Definitive Career Spanning Hits Collection 1976-2016 | 1976 | popular catalog addition |
-| 333 | [Mary Jane's Last Dance][333] | Tom Petty | The Best of Everything: The Definitive Career Spanning Hits Collection 1976-2016 | 1993 | popular catalog addition |
-| 334 | [Open Up Your Eyes][334] | Tonic | Lemon Parade | 1996 | popular catalog addition |
-| 335 | [You Wanted More][335] | Tonic | Sugar | 1999 | popular catalog addition |
-| 336 | [Forty Six & 2][336] | TOOL | Ænima | 1996 | popular catalog addition |
-| 337 | [Schism][337] | TOOL | Lateralus | 2001 | popular catalog addition |
-| 338 | [Heathens][338] | twenty one pilots | Suicide Squad: The Album | 2016 | popular catalog addition |
-| 339 | [Ride][339] | twenty one pilots | Blurryface | 2015 | popular catalog addition |
+| 316 | [Spiders][316] | System Of A Down | System Of A Down | 1998 | popular catalog addition |
+| 317 | [Dreams (Remastered 2026)][317] | The Cranberries | Everybody Else Is Doing It, So Why Can't We? (Remastered 2026) | 1993 | popular catalog addition |
+| 318 | [Linger (Remastered 2026)][318] | The Cranberries | Everybody Else Is Doing It, So Why Can't We? (Remastered 2026) | 1993 | popular catalog addition |
+| 319 | [Come Out and Play (Keep 'Em Separated)][319] | The Offspring | Smash | 1994 | popular catalog addition |
+| 320 | [Pretty Fly (For a White Guy)][320] | The Offspring | Americana | 1998 | popular catalog addition |
+| 321 | [(I Can't Get No) Satisfaction][321] | The Rolling Stones | Forty Licks | 1965 | popular catalog addition |
+| 322 | [Gimme Shelter (Remastered 2019)][322] | The Rolling Stones | Let It Bleed (Remastered 2019) | 1969 | popular catalog addition |
+| 323 | [1979 (Remastered 2012)][323] | The Smashing Pumpkins | Mellon Collie And The Infinite Sadness (2012 Remastered) | 1995 | popular catalog addition |
+| 324 | [Today][324] | The Smashing Pumpkins | Siamese Dream | 1993 | popular catalog addition |
+| 325 | [CHOKE][325] | The Warning | CHOKE - Single | 2021 | popular catalog addition |
+| 326 | [MONEY][326] | The Warning | MONEY - Single | 2022 | popular catalog addition |
+| 327 | [Fell In Love With a Girl][327] | The White Stripes | White Blood Cells | 2001 | popular catalog addition |
+| 328 | [Icky Thump][328] | The White Stripes | Icky Thump | 2007 | popular catalog addition |
+| 329 | [Closer To the Edge][329] | Thirty Seconds to Mars | This Is War | 2009 | popular catalog addition |
+| 330 | [From Yesterday][330] | Thirty Seconds to Mars | A Beautiful Lie | 2005 | popular catalog addition |
+| 331 | [I Hate Everything About You][331] | Three Days Grace | Three Days Grace (Expanded Edition) | 2003 | popular catalog addition |
+| 332 | [Riot][332] | Three Days Grace | One-X (Deluxe Edition) | 2006 | popular catalog addition |
+| 333 | [American Girl][333] | Tom Petty | The Best of Everything: The Definitive Career Spanning Hits Collection 1976-2016 | 1976 | popular catalog addition |
+| 334 | [Mary Jane's Last Dance][334] | Tom Petty | The Best of Everything: The Definitive Career Spanning Hits Collection 1976-2016 | 1993 | popular catalog addition |
+| 335 | [Open Up Your Eyes][335] | Tonic | Lemon Parade | 1996 | popular catalog addition |
+| 336 | [You Wanted More][336] | Tonic | Sugar | 1999 | popular catalog addition |
+| 337 | [Forty Six & 2][337] | TOOL | Ænima | 1996 | popular catalog addition |
+| 338 | [Schism][338] | TOOL | Lateralus | 2001 | popular catalog addition |
+| 339 | [Heathens][339] | twenty one pilots | Suicide Squad: The Album | 2016 | popular catalog addition |
+| 340 | [Ride][340] | twenty one pilots | Blurryface | 2015 | popular catalog addition |
 
 [1]: https://music.apple.com/us/song/voices-in-my-head/1622461652
 [2]: https://music.apple.com/us/song/awaken/1771475246
@@ -683,27 +684,28 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [313]: https://music.apple.com/us/song/still-waiting/1440665404
 [314]: https://music.apple.com/us/song/b-y-o-b/187472354
 [315]: https://music.apple.com/us/song/chop-suey/273714640
-[316]: https://music.apple.com/us/song/dreams-remastered-2026/6765559422
-[317]: https://music.apple.com/us/song/linger-remastered-2026/6765559429
-[318]: https://music.apple.com/us/song/come-out-and-play-keep-em-separated/1485034810
-[319]: https://music.apple.com/us/song/pretty-fly-for-a-white-guy/1440881518
-[320]: https://music.apple.com/us/song/i-can-t-get-no-satisfaction/1706514941
-[321]: https://music.apple.com/us/song/gimme-shelter-remastered-2019/1500642840
-[322]: https://music.apple.com/us/song/1979-remastered-2012/721224621
-[323]: https://music.apple.com/us/song/today/721207666
-[324]: https://music.apple.com/us/song/choke/1565468402
-[325]: https://music.apple.com/us/song/money/1614722179
-[326]: https://music.apple.com/us/song/fell-in-love-with-a-girl/1533513365
-[327]: https://music.apple.com/us/song/icky-thump/1533513465
-[328]: https://music.apple.com/us/song/closer-to-the-edge/1440839706
-[329]: https://music.apple.com/us/song/from-yesterday/1440839345
-[330]: https://music.apple.com/us/song/i-hate-everything-about-you/269975544
-[331]: https://music.apple.com/us/song/riot/266222076
-[332]: https://music.apple.com/us/song/american-girl/1465207805
-[333]: https://music.apple.com/us/song/mary-jane-s-last-dance/1465207045
-[334]: https://music.apple.com/us/song/open-up-your-eyes/1440911509
-[335]: https://music.apple.com/us/song/you-wanted-more/1443797582
-[336]: https://music.apple.com/us/song/forty-six-2/1474185342
-[337]: https://music.apple.com/us/song/schism/1474185654
-[338]: https://music.apple.com/us/song/heathens/1125281487
-[339]: https://music.apple.com/us/song/ride/974485805
+[316]: https://music.apple.com/us/song/spiders/1810760513
+[317]: https://music.apple.com/us/song/dreams-remastered-2026/6765559422
+[318]: https://music.apple.com/us/song/linger-remastered-2026/6765559429
+[319]: https://music.apple.com/us/song/come-out-and-play-keep-em-separated/1485034810
+[320]: https://music.apple.com/us/song/pretty-fly-for-a-white-guy/1440881518
+[321]: https://music.apple.com/us/song/i-can-t-get-no-satisfaction/1706514941
+[322]: https://music.apple.com/us/song/gimme-shelter-remastered-2019/1500642840
+[323]: https://music.apple.com/us/song/1979-remastered-2012/721224621
+[324]: https://music.apple.com/us/song/today/721207666
+[325]: https://music.apple.com/us/song/choke/1565468402
+[326]: https://music.apple.com/us/song/money/1614722179
+[327]: https://music.apple.com/us/song/fell-in-love-with-a-girl/1533513365
+[328]: https://music.apple.com/us/song/icky-thump/1533513465
+[329]: https://music.apple.com/us/song/closer-to-the-edge/1440839706
+[330]: https://music.apple.com/us/song/from-yesterday/1440839345
+[331]: https://music.apple.com/us/song/i-hate-everything-about-you/269975544
+[332]: https://music.apple.com/us/song/riot/266222076
+[333]: https://music.apple.com/us/song/american-girl/1465207805
+[334]: https://music.apple.com/us/song/mary-jane-s-last-dance/1465207045
+[335]: https://music.apple.com/us/song/open-up-your-eyes/1440911509
+[336]: https://music.apple.com/us/song/you-wanted-more/1443797582
+[337]: https://music.apple.com/us/song/forty-six-2/1474185342
+[338]: https://music.apple.com/us/song/schism/1474185654
+[339]: https://music.apple.com/us/song/heathens/1125281487
+[340]: https://music.apple.com/us/song/ride/974485805
