@@ -48,6 +48,7 @@ export async function listPlaylists() {
           id: p.id,
           name: p.attributes?.name || "",
           description: p.attributes?.description?.standard || "",
+          dateAdded: p.attributes?.dateAdded || "",
         });
       }
     }
@@ -58,12 +59,30 @@ export async function listPlaylists() {
 }
 
 /**
+ * Find all library playlists with an exact name, newest first.
+ *
+ * The Apple Music API cannot delete or rename library playlists, so duplicate
+ * managed playlists sharing the same name can accumulate over time. Callers
+ * should generally operate on the newest match and treat the rest as stale
+ * copies to be cleaned up out-of-band (Music app or browser sync skill).
+ *
+ * Returns an array of { id, name, description, dateAdded } sorted by dateAdded
+ * descending (newest first); empty if none match.
+ */
+export async function findPlaylists(name) {
+  const all = await listPlaylists();
+  return all
+    .filter((p) => p.name === name)
+    .sort((a, b) => (b.dateAdded || "").localeCompare(a.dateAdded || ""));
+}
+
+/**
  * Find a library playlist by exact name.
- * Returns { id, name, description } or null.
+ * Returns the NEWEST match (by dateAdded) or null.
  */
 export async function findPlaylist(name) {
-  const all = await listPlaylists();
-  return all.find((p) => p.name === name) || null;
+  const matches = await findPlaylists(name);
+  return matches[0] || null;
 }
 
 /**

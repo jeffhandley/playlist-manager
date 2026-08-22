@@ -85,18 +85,28 @@ node .github/skills/apple-music-api/sync.mjs playlists/<name>.md --rename-from="
 The script:
 1. Parses the playlist name from the `# heading` and tracks from the markdown table
 2. **Appends the 🤖 emoji** to the playlist name — all managed playlists are suffixed with this marker
-3. **Creates a daily backup** before any sync operation (see Backups below)
-4. Resolves all track IDs from Apple Music URLs in the markdown (or falls back to catalog search)
-5. Creates a fresh playlist and adds all tracks in the correct order
-6. Reports any tracks that couldn't be found or added
+3. Resolves all track IDs from Apple Music URLs in the markdown (or falls back to catalog search)
+4. **Skips work if nothing changed** — if the newest managed playlist was built from the same tracks (matched via the `[sync:<id>]` fingerprint stamped in its description), the run is a no-op
+5. Otherwise **backs up** the current version (see Backups below), then creates a fresh playlist and adds all tracks in order
+6. Stamps the new playlist's description with `Synced <ISO> • N tracks [sync:<id>]` so the newest copy is identifiable
+7. Reports any tracks that couldn't be found or added
 
 **Playlist safety:** The script will only ever modify playlists that end with the 🤖 suffix. User-created playlists without this marker are never touched.
 
+### Duplicate handling (important API limitation)
+
+The Apple Music API supports only **creating** a library playlist and **adding tracks** — it **cannot delete or rename** a library playlist, and it cannot replace/remove tracks (all return HTTP 401). Because a content change is applied by creating a *fresh* playlist, the superseded copy **cannot be removed via the API** and remains in your library with the same name.
+
+To keep this manageable:
+- The newest copy is always identifiable via the `Synced … [sync:<id>]` stamp in its description, and `findPlaylist` always operates on the newest (`dateAdded`) match.
+- Unchanged syncs are skipped entirely (fingerprint match), so duplicates do **not** accumulate on no-op runs. A genuine track-list change still produces one new copy.
+- **Removing stale duplicates requires the browser-based `apple-music-sync` skill or manual deletion in the Music app** — it cannot be automated through the API.
+
 ### Backups
 
-Before every sync, the script creates a backup by **renaming** the existing 🤖 playlist to `<name> 🔙 (yyyy-MM-dd)`. The sync then creates a fresh 🤖 playlist from scratch.
+When the track list changes, the script backs up the current 🤖 playlist to `<name> 🔙 (yyyy-MM-dd-N)` (a copy, with an incrementing suffix for multiple backups per day), then creates the fresh 🤖 playlist. No backup is taken on a no-op sync.
 
-**⚠️ Backups are immutable.** Once created, a backup must **NEVER** be modified, renamed, or deleted by automation. The `assertManaged` guard will throw an error if any operation attempts to touch a playlist containing the 🔙 marker. Only one backup per playlist per day is created; if today's backup already exists, it is skipped.
+**⚠️ Backups are immutable.** Once created, a backup must **NEVER** be modified, renamed, or deleted by automation. The `assertManaged` guard will throw an error if any operation attempts to touch a playlist containing the 🔙 marker.
 
 ## Workflow
 
