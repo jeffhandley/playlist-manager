@@ -1,5 +1,11 @@
 // Apple Music playlist operations via the REST API
-// Handles playlist CRUD, track management, and backup logic.
+// Handles playlist creation, track management, and duplicate-aware lookup.
+//
+// NOTE: The Apple Music API only supports creating library playlists and adding
+// tracks. It cannot delete or rename a library playlist, or remove/replace
+// tracks (all return HTTP 401). Callers therefore create a new numbered copy on
+// change and treat older copies as stale — cleanup is done out-of-band (the
+// browser sync skill or manually in the Music app).
 
 import { apiFetch, searchCatalog } from "./api.mjs";
 
@@ -16,7 +22,9 @@ export function managedName(name) {
 }
 
 export function isManaged(name) {
-  return name.endsWith(PLAYLIST_MARKER);
+  // A managed playlist is the base name (e.g. "WEBN 🤖") or a numbered variant
+  // ("WEBN 🤖 (2)"), so match the marker anywhere rather than only at the end.
+  return name.includes(PLAYLIST_MARKER);
 }
 
 export function isBackup(name) {
@@ -25,7 +33,7 @@ export function isBackup(name) {
 
 function assertManaged(name) {
   if (!isManaged(name)) {
-    throw new Error(`Refusing to modify "${name}" — only playlists ending with "${PLAYLIST_MARKER}" are managed.`);
+    throw new Error(`Refusing to modify "${name}" — only playlists containing "${PLAYLIST_MARKER}" are managed.`);
   }
   if (isBackup(name)) {
     throw new Error(`Refusing to modify backup "${name}" — backups are immutable.`);
@@ -83,6 +91,40 @@ export async function findPlaylists(name) {
 export async function findPlaylist(name) {
   const matches = await findPlaylists(name);
   return matches[0] || null;
+}
+
+/**
+ * Find the "managed family" for a base name: the base itself (e.g. "WEBN 🤖")
+ * and any numbered variants ("WEBN 🤖 (2)"). The Apple Music API cannot delete
+ * or rename playlists, so when a synced track list changes we create a new
+ * numbered copy rather than mutating the old one; this returns all copies,
+ * newest first (by dateAdded).
+ */
+export async function findManagedPlaylists(baseName) {
+  const re = new RegExp(`^${escapeRegExp(baseName)}( \\(\\d+\\))?$`);
+  const all = await listPlaylists();
+  return all
+    .filter((p) => re.test(p.name))
+    .sort((a, b) => (b.dateAdded || "").localeCompare(a.dateAdded || ""));
+}
+
+/**
+ * Given a base name and the existing family member names, return the name to
+ * use for a new copy: the clean base name if none exist yet, otherwise
+ * "<base> (<maxSuffix + 1>)". The base name counts as suffix 0.
+ */
+export function nextManagedName(baseName, existingNames) {
+  const suffixRe = new RegExp(`^${escapeRegExp(baseName)} \\((\\d+)\\)$`);
+  let maxSuffix = -1;
+  for (const name of existingNames) {
+    if (name === baseName) {
+      maxSuffix = Math.max(maxSuffix, 0);
+    } else {
+      const m = name.match(suffixRe);
+      if (m) maxSuffix = Math.max(maxSuffix, parseInt(m[1], 10));
+    }
+  }
+  return maxSuffix < 0 ? baseName : `${baseName} (${maxSuffix + 1})`;
 }
 
 /**
@@ -166,92 +208,6 @@ export async function addTracksToPlaylist(playlistId, catalogSongIds) {
       body,
     });
   }
-}
-
-/**
- * Rename a library playlist (used for backup).
- * Note: Apple Music API may not support PATCH for rename.
- * If PATCH fails, we fall back to create-new + re-add approach.
- */
-async function tryRenamePlaylist(playlistId, newName) {
-  try {
-    await apiFetch(`/v1/me/library/playlists/${playlistId}`, {
-      method: "PATCH",
-      body: { attributes: { name: newName } },
-    });
-    return true;
-  } catch {
-    return false;
-  }
-}
-
-/**
- * Back up a managed playlist before sync.
- * Renames it to "<name> 🔙 (yyyy-MM-dd-N)" where N is a numeric suffix.
- * Supports multiple backups per day by incrementing the suffix.
- */
-export async function backupPlaylist(playlistName) {
-  assertManaged(playlistName);
-
-  const today = new Date().toISOString().slice(0, 10);
-  const baseName = playlistName.replace(PLAYLIST_MARKER, "");
-
-  // Find the next available backup name with numeric suffix
-  const allPlaylists = await listPlaylists();
-  const todayPattern = new RegExp(`^${escapeRegExp(baseName)}\\s*${escapeRegExp(BACKUP_MARKER)}\\s*\\(${escapeRegExp(today)}-(\\d+)\\)$`);
-  let maxSuffix = 0;
-  for (const p of allPlaylists) {
-    const match = p.name.match(todayPattern);
-    if (match) {
-      maxSuffix = Math.max(maxSuffix, parseInt(match[1], 10));
-    }
-  }
-  const suffix = maxSuffix + 1;
-  const backupName = `${baseName}${BACKUP_MARKER} (${today}-${suffix})`;
-
-  // Find the current playlist
-  const playlist = await findPlaylist(playlistName);
-  if (!playlist) {
-    console.log(`  No existing playlist "${playlistName}" to back up`);
-    return;
-  }
-
-  // Try PATCH rename first
-  const renamed = await tryRenamePlaylist(playlist.id, backupName);
-  if (renamed) {
-    console.log(`  Backed up: "${playlistName}" → "${backupName}"`);
-    return;
-  }
-
-  // Fallback: create a new backup playlist and copy tracks
-  console.log(`  PATCH rename not supported — copying tracks to backup`);
-  const tracks = await readPlaylistTracks(playlistName);
-  if (!tracks || tracks.length === 0) {
-    console.log(`  No tracks to back up`);
-    return;
-  }
-
-  const { data } = await apiFetch("/v1/me/library/playlists", {
-    method: "POST",
-    body: {
-      attributes: {
-        name: backupName,
-        description: playlist.description || "",
-      },
-    },
-  });
-
-  const backupId = data?.data?.[0]?.id;
-  if (!backupId) {
-    console.log(`  Warning: could not create backup playlist`);
-    return;
-  }
-
-  const catalogIds = tracks.map((t) => t.catalogId).filter(Boolean);
-  if (catalogIds.length > 0) {
-    await addTracksToPlaylist(backupId, catalogIds);
-  }
-  console.log(`  Backed up ${catalogIds.length} tracks to "${backupName}"`);
 }
 
 /**

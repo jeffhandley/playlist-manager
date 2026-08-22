@@ -16,10 +16,10 @@ import { parsePlaylistMarkdown } from "../apple-music-sync/parser.mjs";
 import { searchCatalog } from "./api.mjs";
 import {
   managedName,
-  findPlaylists,
+  findManagedPlaylists,
+  nextManagedName,
   createPlaylist,
   addTracksToPlaylist,
-  backupPlaylist,
   resolveTrackId,
   extractSongId,
 } from "./playlist.mjs";
@@ -28,17 +28,11 @@ async function main() {
   const args = process.argv.slice(2);
   const filePath = args.find((a) => !a.startsWith("--"));
   const libraryOnly = args.includes("--library-only");
-  const renameFrom = args
-    .find((a) => a.startsWith("--rename-from="))
-    ?.split("=")
-    .slice(1)
-    .join("=");
 
   if (!filePath || !existsSync(filePath)) {
     console.error(
-      "Usage: node sync.mjs <playlist.md> [--library-only] [--rename-from=NAME]\n" +
+      "Usage: node sync.mjs <playlist.md> [--library-only]\n" +
         "  --library-only         Only add tracks to library, don't manage the playlist\n" +
-        "  --rename-from=NAME     Rename existing playlist from NAME to the markdown heading\n" +
         (filePath ? `\nError: ${filePath} not found` : "")
     );
     process.exit(1);
@@ -62,7 +56,6 @@ async function main() {
   console.log(`Source:   ${filePath}`);
   console.log(`Tracks:   ${tracks.length}`);
   if (libraryOnly) console.log(`Mode:     Library only (no playlist management)`);
-  if (renameFrom) console.log(`Mode:     Rename from "${managedName(renameFrom)}"`);
   console.log("");
 
   // Phase 1: Resolve all track IDs
@@ -145,46 +138,49 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
   const newIds = resolvedTracks.map((t) => t.songId);
   const fingerprint = trackFingerprint(newIds);
 
-  // Find the newest existing managed playlist. The Apple Music API cannot
-  // delete or rename playlists, so same-named duplicates may already exist —
-  // always compare against (and supersede) the most recent one.
-  const matches = await findPlaylists(playlistName);
-  const existing = matches[0] || null;
-  if (matches.length > 1) {
-    console.log(
-      `  Note: ${matches.length} playlists named "${playlistName}" exist. ` +
-        `Using the newest; older duplicates must be removed via the Music app or the browser sync skill.`
-    );
-  }
+  // The Apple Music API cannot delete or rename library playlists, so we never
+  // mutate an existing copy. Instead we look at the whole "managed family" for
+  // this base name (e.g. "WEBN 🤖" plus any "WEBN 🤖 (N)" numbered copies) and
+  // compare against the newest one.
+  const family = await findManagedPlaylists(playlistName);
+  const newest = family[0] || null;
 
-  // Short-circuit BEFORE taking a backup: if the newest playlist was built from
-  // the same track list, do nothing. We compare a fingerprint we stamped into
-  // the description rather than the library tracks, because Apple stores each
-  // added song under its own playParams.catalogId, which routinely differs from
-  // the catalog song id we added — making a direct id comparison unreliable and
-  // causing a needless recreate (and a new duplicate) on every run.
-  if (existing) {
-    const existingFingerprint = parseFingerprint(existing.description);
+  // Short-circuit: if the newest copy was built from the same track list, do
+  // nothing. We compare a fingerprint we stamped into the description rather
+  // than the library tracks, because Apple stores each added song under its own
+  // playParams.catalogId, which routinely differs from the catalog song id we
+  // added — making a direct id comparison unreliable and causing a needless
+  // recreate (and a new duplicate) on every run.
+  if (newest) {
+    const existingFingerprint = parseFingerprint(newest.description);
     if (existingFingerprint && existingFingerprint === fingerprint) {
       console.log(
-        `Playlist "${playlistName}" is already in sync (${newIds.length} tracks, id:${fingerprint}). Nothing to do.`
+        `Playlist "${newest.name}" is already in sync (${newIds.length} tracks, id:${fingerprint}). Nothing to do.`
       );
       return;
     }
   }
 
-  // Contents changed (or no playlist yet). Back up the current version, then
-  // create a fresh playlist. NOTE: the API cannot delete the superseded copy,
-  // so it remains and must be cleaned up out-of-band (Music app / browser sync
-  // skill). The stamped description below makes the newest copy identifiable.
-  if (existing) {
-    await backupPlaylist(playlistName);
-    console.log(`Recreating playlist "${playlistName}" with ${resolvedTracks.length} tracks...`);
-  } else {
-    console.log(`Creating playlist "${playlistName}" with ${resolvedTracks.length} tracks...`);
-  }
+  // Contents changed (or no playlist yet). Create a NEW copy — the API cannot
+  // update or delete the old one. The first copy gets the clean base name;
+  // later copies are numbered "<base> (N)" so the newest is always identifiable.
+  // Superseded copies remain until cleaned up out-of-band (Music app / browser
+  // sync skill); the ISO stamp at the start of the description also disambiguates.
+  const targetName = nextManagedName(
+    playlistName,
+    family.map((p) => p.name)
+  );
 
-  const playlistId = await createPlaylist(playlistName, {
+  if (family.length > 0) {
+    console.log(
+      `  ${family.length} existing "${playlistName}" playlist(s) found — the API cannot update them.\n` +
+        `  Creating a new copy "${targetName}". After syncing, delete the older copies in the\n` +
+        `  Music app and rename "${targetName}" to drop its "(N)" suffix.`
+    );
+  }
+  console.log(`Creating playlist "${targetName}" with ${resolvedTracks.length} tracks...`);
+
+  const playlistId = await createPlaylist(targetName, {
     description: buildDescription(description, newIds),
   });
 
@@ -213,7 +209,7 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
     }
   }
 
-  console.log(`\nDone! ${totalAdded} track(s) added to "${playlistName}".`);
+  console.log(`\nDone! ${totalAdded} track(s) added to "${targetName}".`);
 }
 
 /**
@@ -236,14 +232,15 @@ function parseFingerprint(description) {
 }
 
 /**
- * Build the playlist description, appending a sync stamp and a machine-readable
- * fingerprint. The stamp makes the newest copy identifiable in the Apple Music
- * UI (the API cannot delete or rename superseded duplicates); the [sync:<id>]
- * marker lets the next run detect a no-op and skip recreating the playlist.
+ * Build the playlist description. The ISO sync timestamp and track count are
+ * placed FIRST so the newest copy is obvious in the Apple Music UI (the API
+ * cannot delete or rename superseded duplicates). A machine-readable
+ * [sync:<id>] fingerprint is appended to the stamp so the next run can detect a
+ * no-op and skip recreating the playlist.
  */
 function buildDescription(baseDescription, ids) {
   const stamp = `Synced ${new Date().toISOString()} • ${ids.length} tracks [sync:${trackFingerprint(ids)}]`;
-  return baseDescription ? `${baseDescription}\n\n${stamp}` : stamp;
+  return baseDescription ? `${stamp}\n\n${baseDescription}` : stamp;
 }
 
 /**
