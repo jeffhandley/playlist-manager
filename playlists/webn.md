@@ -331,7 +331,7 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | 301 | [Breaking the Habit][301] | LINKIN PARK | Meteora | 2003 | WEBN play history 2021–2026; 2 sampled plays |
 | 302 | [Specter][302] | Bad Omens | Specter - Single | 2025 | WEBN play history 2025; 2 sampled plays |
 | 303 | [Bored][303] | Return to Dust | Speak Like the Dead - EP | 2025 | WEBN play history 2025; 2 sampled plays |
-| 304 | [I Refuse (feat. Maria Brink) [2025 VERSION]][304] | Five Finger Death Punch | BEST OF (Volume 1) | 2025 | archived WEBN top songs 2025; 2 snapshots |
+| 304 | [I Refuse (feat. Maria Brink) (2025 VERSION)][304] | Five Finger Death Punch | BEST OF (Volume 1) | 2025 | archived WEBN top songs 2025; 2 snapshots |
 | 305 | [FREEFALL][305] | NOTHING MORE | CARNAL | 2024 | archived WEBN top songs 2025; 2 snapshots |
 | 306 | [Apologies][306] | Three Days Grace | Alienation | 2025 | archived WEBN top songs 2025; 2 snapshots |
 | 307 | [Water Song / Janie's Got a Gun][307] | Aerosmith | Pump | 1989 | WEBN play history 2025; 2 sampled plays |
@@ -404,8 +404,8 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | 374 | [The Spell][374] | Mammoth | The End | 2025 | archived WEBN top songs 2026; 1 snapshot |
 | 375 | [Searchlight][375] | Shinedown | Searchlight - Single | 2025 | archived WEBN top songs 2026; 1 snapshot |
 | 376 | [Caramel][376] | Sleep Token | Even In Arcadia | 2025 | archived WEBN top songs 2026; 1 snapshot |
-| 377 | [The End (feat. BABYMETAL) [2025 VERSION]][377] | Five Finger Death Punch | BEST OF (Volume 2) | 2025 | archived WEBN top songs 2025; 1 snapshot |
-| 378 | [My Only Angel (feat. Steve Martin) [Desert Road Version]][378] | Aerosmith & YUNGBLUD | My Only Angel (Desert Road Version) [feat. Steve Martin] - Single | 2025 | WEBN play history 2025; 1 sampled play |
+| 377 | [The End (feat. BABYMETAL) (2025 VERSION)][377] | Five Finger Death Punch | BEST OF (Volume 2) | 2025 | archived WEBN top songs 2025; 1 snapshot |
+| 378 | [My Only Angel (feat. Steve Martin) (Desert Road Version)][378] | Aerosmith & YUNGBLUD | My Only Angel (Desert Road Version) [feat. Steve Martin] - Single | 2025 | WEBN play history 2025; 1 sampled play |
 | 379 | [Asking For A Friend][379] | Foo Fighters | Asking For A Friend - Single | 2025 | WEBN play history 2025; 1 sampled play |
 | 380 | [As Alive As You Need Me To Be][380] | Nine Inch Nails | TRON: Ares (Original Motion Picture Soundtrack) | 2025 | WEBN play history 2025; 1 sampled play |
 | 381 | [my mind is a mountain][381] | Deftones | private music | 2025 | WEBN play history 2025; 1 sampled play |
