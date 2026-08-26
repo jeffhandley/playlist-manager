@@ -100,9 +100,9 @@ export async function findPlaylist(name) {
  * numbered copy rather than mutating the old one; this returns all copies,
  * newest first (by dateAdded).
  */
-export async function findManagedPlaylists(baseName) {
+export async function findManagedPlaylists(baseName, playlists) {
   const re = new RegExp(`^${escapeRegExp(baseName)}( \\(\\d+\\))?$`);
-  const all = await listPlaylists();
+  const all = playlists || (await listPlaylists());
   return all
     .filter((p) => re.test(p.name))
     .sort((a, b) => (b.dateAdded || "").localeCompare(a.dateAdded || ""));

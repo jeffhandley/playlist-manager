@@ -7,6 +7,7 @@ import { getCatalogSong } from "./api.mjs";
 import {
   extractSongId,
   findManagedPlaylists,
+  listPlaylists,
   managedName,
   normalizeToSongUrl,
   readPlaylistTracksById,
@@ -14,6 +15,7 @@ import {
 
 const PLAYLISTS_DIR = "playlists";
 const PREFERENCES_FILE = "PREFERENCES.md";
+const REMOTE_LOAD_CONCURRENCY = 6;
 
 function normalize(value) {
   return (value || "")
@@ -299,8 +301,23 @@ export async function reconcile({
   const comparisons = [];
   const skipped = [];
 
-  for (const document of selected) {
-    const remoteTracks = await loadRemotePlaylist(document);
+  const remotePlaylists = new Array(selected.length);
+  let nextPlaylist = 0;
+  async function loadRemotePlaylists() {
+    while (nextPlaylist < selected.length) {
+      const index = nextPlaylist++;
+      remotePlaylists[index] = await loadRemotePlaylist(selected[index]);
+    }
+  }
+  await Promise.all(
+    Array.from(
+      { length: Math.min(REMOTE_LOAD_CONCURRENCY, selected.length) },
+      loadRemotePlaylists
+    )
+  );
+
+  for (const [index, document] of selected.entries()) {
+    const remoteTracks = remotePlaylists[index];
     if (remoteTracks === null) {
       skipped.push(document.filePath);
       continue;
@@ -362,8 +379,8 @@ export async function reconcile({
   };
 }
 
-async function loadAppleMusicPlaylist(document) {
-  const family = await findManagedPlaylists(managedName(document.name));
+async function loadAppleMusicPlaylist(document, playlists) {
+  const family = await findManagedPlaylists(managedName(document.name), playlists);
   const newest = family[0];
   if (!newest) return null;
   return readPlaylistTracksById(newest.id);
@@ -375,7 +392,11 @@ async function main() {
   const playlist = playlistIndex >= 0 ? args[playlistIndex + 1] : null;
   if (playlistIndex >= 0 && !playlist) throw new Error("--playlist requires a value");
 
-  const result = await reconcile({ playlist, loadRemotePlaylist: loadAppleMusicPlaylist });
+  const playlists = await listPlaylists();
+  const result = await reconcile({
+    playlist,
+    loadRemotePlaylist: (document) => loadAppleMusicPlaylist(document, playlists),
+  });
   console.log(JSON.stringify(result, null, 2));
 }
 
