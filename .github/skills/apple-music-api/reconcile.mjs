@@ -29,6 +29,20 @@ function semanticKey(track) {
   return `${normalize(track.song || track.name)}\0${normalize(track.artist || track.artistName)}`;
 }
 
+function looseSemanticKey(track) {
+  const title = track.song || track.name || "";
+  const baseTitle = title
+    .replace(
+      /\s*[\[(][^\])]*(?:remaster(?:ed)?|version|mix|edit|mono|stereo|anniversary|deluxe)[^\])]*[\])]/gi,
+      ""
+    )
+    .replace(
+      /\s*[-–—]\s*(?:\d{4}\s+)?(?:remaster(?:ed)?|version|mix|edit|mono|stereo|anniversary|deluxe).*$/gi,
+      ""
+    );
+  return `${normalize(baseTitle)}\0${normalize(track.artist || track.artistName)}`;
+}
+
 function trackId(track) {
   return track.catalogId || extractSongId(track.url) || null;
 }
@@ -145,10 +159,17 @@ function takeMatch(localTracks, used, remoteTrack) {
   }
 
   const remoteSemanticKey = semanticKey(remoteTrack);
-  const index = localTracks.findIndex(
+  let index = localTracks.findIndex(
     (track, candidate) =>
       !used.has(candidate) && semanticKey(track) === remoteSemanticKey
   );
+  if (index < 0) {
+    const remoteLooseKey = looseSemanticKey(remoteTrack);
+    index = localTracks.findIndex(
+      (track, candidate) =>
+        !used.has(candidate) && looseSemanticKey(track) === remoteLooseKey
+    );
+  }
   if (index >= 0) used.add(index);
   return index;
 }
@@ -213,9 +234,13 @@ export async function comparePlaylist(localTracks, remoteTracks) {
   };
 }
 
-function isRemoved(track, removedIds, removedSemanticKeys) {
+function isRemoved(track, removedIds, removedSemanticKeys, removedLooseSemanticKeys) {
   const id = trackId(track);
-  return (id && removedIds.has(id)) || removedSemanticKeys.has(semanticKey(track));
+  return (
+    (id && removedIds.has(id)) ||
+    removedSemanticKeys.has(semanticKey(track)) ||
+    removedLooseSemanticKeys.has(looseSemanticKey(track))
+  );
 }
 
 export function addPreferenceExclusions(content, removedTracks) {
@@ -289,6 +314,7 @@ export async function reconcile({
   const removedTracks = comparisons.flatMap(({ comparison }) => comparison.removed);
   const removedIds = new Set(removedTracks.map(trackId).filter(Boolean));
   const removedSemanticKeys = new Set(removedTracks.map(semanticKey));
+  const removedLooseSemanticKeys = new Set(removedTracks.map(looseSemanticKey));
   const comparisonByPath = new Map(
     comparisons.map(({ document, comparison }) => [document.filePath, comparison])
   );
@@ -298,7 +324,13 @@ export async function reconcile({
     const comparison = comparisonByPath.get(document.filePath);
     const candidateTracks = comparison ? comparison.ordered : document.tracks;
     const retainedTracks = candidateTracks.filter(
-      (track) => !isRemoved(track, removedIds, removedSemanticKeys)
+      (track) =>
+        !isRemoved(
+          track,
+          removedIds,
+          removedSemanticKeys,
+          removedLooseSemanticKeys
+        )
     );
     const tracksChanged =
       retainedTracks.length !== document.tracks.length ||

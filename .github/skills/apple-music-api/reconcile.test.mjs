@@ -5,6 +5,7 @@ import { join } from "node:path";
 import test from "node:test";
 import {
   addPreferenceExclusions,
+  comparePlaylist,
   parsePlaylistDocument,
   reconcile,
   renderPlaylistDocument,
@@ -47,6 +48,29 @@ test("preference exclusions are idempotent", () => {
 
   assert.equal((updated.match(/Removed Song/g) || []).length, 1);
   assert.equal(addPreferenceExclusions(updated, [track]), updated);
+});
+
+test("comparison tolerates library ID and remastered-title differences", async () => {
+  const local = {
+    song: "Little Things",
+    artist: "Bush",
+    album: "Sixteen Stone",
+    year: "1994",
+    note: "",
+    url: "https://music.apple.com/us/song/little-things-remastered/111",
+  };
+  const result = await comparePlaylist([local], [
+    {
+      catalogId: "999",
+      name: "Little Things (Remastered)",
+      artistName: "Bush",
+      albumName: "Sixteen Stone",
+    },
+  ]);
+
+  assert.deepEqual(result.ordered, [local]);
+  assert.equal(result.additions, 0);
+  assert.deepEqual(result.removed, []);
 });
 
 test("reconciliation adds to the scanned playlist and removes globally", async () => {
