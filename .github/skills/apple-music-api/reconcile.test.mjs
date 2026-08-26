@@ -73,6 +73,27 @@ test("comparison tolerates library ID and remastered-title differences", async (
   assert.deepEqual(result.removed, []);
 });
 
+test("comparison keeps materially different versions distinct", async () => {
+  const local = {
+    song: "Example",
+    artist: "Artist",
+    url: "https://music.apple.com/us/song/example/111",
+  };
+  const result = await comparePlaylist([local], [
+    {
+      catalogId: "999",
+      name: "Example (Live Version)",
+      artistName: "Artist",
+      albumName: "Live",
+      releaseDate: "2024-01-01",
+      url: "https://music.apple.com/us/song/example-live-version/999",
+    },
+  ]);
+
+  assert.equal(result.additions, 1);
+  assert.deepEqual(result.removed, [local]);
+});
+
 test("reconciliation adds to the scanned playlist and removes globally", async () => {
   const root = mkdtempSync(join(tmpdir(), "reconcile-all-"));
   const playlists = join(root, "playlists");

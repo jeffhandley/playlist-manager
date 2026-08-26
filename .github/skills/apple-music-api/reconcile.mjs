@@ -33,11 +33,11 @@ function looseSemanticKey(track) {
   const title = track.song || track.name || "";
   const baseTitle = title
     .replace(
-      /\s*[\[(][^\])]*(?:remaster(?:ed)?|version|mix|edit|mono|stereo|anniversary|deluxe)[^\])]*[\])]/gi,
+      /\s*[\[(][^\])]*(?:remaster(?:ed)?|mono|stereo|anniversary|deluxe)[^\])]*[\])]/gi,
       ""
     )
     .replace(
-      /\s*[-–—]\s*(?:\d{4}\s+)?(?:remaster(?:ed)?|version|mix|edit|mono|stereo|anniversary|deluxe).*$/gi,
+      /\s*[-–—]\s*(?:\d{4}\s+)?(?:remaster(?:ed)?|mono|stereo|anniversary|deluxe).*$/gi,
       ""
     );
   return `${normalize(baseTitle)}\0${normalize(track.artist || track.artistName)}`;
