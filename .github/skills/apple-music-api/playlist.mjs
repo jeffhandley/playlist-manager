@@ -134,9 +134,15 @@ export function nextManagedName(baseName, existingNames) {
 export async function readPlaylistTracks(playlistName) {
   const playlist = await findPlaylist(playlistName);
   if (!playlist) return null;
+  return readPlaylistTracksById(playlist.id);
+}
 
+/**
+ * Get all tracks in a library playlist by playlist ID. Handles pagination.
+ */
+export async function readPlaylistTracksById(playlistId) {
   const tracks = [];
-  let url = `/v1/me/library/playlists/${playlist.id}/tracks?limit=100`;
+  let url = `/v1/me/library/playlists/${playlistId}/tracks?limit=100`;
 
   while (url) {
     const { data } = await apiFetch(url);
@@ -148,6 +154,8 @@ export async function readPlaylistTracks(playlistName) {
           name: t.attributes?.name || "",
           artistName: t.attributes?.artistName || "",
           albumName: t.attributes?.albumName || "",
+          releaseDate: t.attributes?.releaseDate || "",
+          url: t.attributes?.url || "",
         });
       }
     }
