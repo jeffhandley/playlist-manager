@@ -28,7 +28,6 @@ tools:
   bash:
     - "git status"
     - "git diff:*"
-    - "node --test .github/skills/apple-music-api/reconcile.test.mjs"
 mcp-scripts:
   reconcile-apple-music:
     description: Reconcile Apple Music playlist contents into repository markdown files
@@ -51,6 +50,10 @@ mcp-scripts:
       APPLE_MUSIC_PRIVATE_KEY: ${{ secrets.APPLE_MUSIC_PRIVATE_KEY }}
       APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
     timeout: 1800
+  test-reconciliation:
+    description: Run the Apple Music reconciliation test suite
+    run: node --test .github/skills/apple-music-api/reconcile.test.mjs
+    timeout: 120
 steps:
   - name: Set up Node.js
     uses: actions/setup-node@v7
@@ -103,7 +106,7 @@ Follow these steps in order:
    - Added songs belong only in the scanned playlist and must have Apple Music `/song/` permalinks.
    - If there are no changes, emit a noop summary and stop.
 
-4. Run `node --test .github/skills/apple-music-api/reconcile.test.mjs`.
+4. Call the `test-reconciliation` tool exactly once.
    - If tests fail, do not create or update a pull request. Report the failure.
 
 5. Publish exactly one maintenance update.
