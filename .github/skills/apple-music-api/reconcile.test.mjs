@@ -140,3 +140,40 @@ test("reconciliation adds to the scanned playlist and removes globally", async (
   assert.doesNotMatch(other, /Remove Me/);
   assert.match(preferences, /\*\*"Remove Me"\*\* by Artist B/);
 });
+
+test("reconciliation loads remote playlists concurrently with a bounded limit", async () => {
+  const root = mkdtempSync(join(tmpdir(), "reconcile-concurrent-"));
+  const playlists = join(root, "playlists");
+  mkdirSync(playlists);
+  for (let index = 0; index < 8; index++) {
+    writeFileSync(
+      join(playlists, `mix-${index}.md`),
+      PLAYLIST.replace("# Test Mix", `# Mix ${index}`)
+    );
+  }
+  writeFileSync(
+    join(root, "PREFERENCES.md"),
+    "# Playlist Preferences\n\n## Blocked Songs\n\n## Blocked Artists\n"
+  );
+
+  let active = 0;
+  let maximumActive = 0;
+  const result = await reconcile({
+    root,
+    loadRemotePlaylist: async (document) => {
+      active++;
+      maximumActive = Math.max(maximumActive, active);
+      await new Promise((resolve) => setTimeout(resolve, 10));
+      active--;
+      return document.tracks.map((track) => ({
+        catalogId: track.url.split("/").pop(),
+        name: track.song,
+        artistName: track.artist,
+        albumName: track.album,
+      }));
+    },
+  });
+
+  assert.equal(result.scanned, 8);
+  assert.equal(maximumActive, 6);
+});
