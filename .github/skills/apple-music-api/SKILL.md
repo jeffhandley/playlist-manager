@@ -85,7 +85,7 @@ The script:
 3. Resolves all track IDs from Apple Music URLs in the markdown (or falls back to catalog search)
 4. **Skips work if nothing changed** — reads the existing Apple Music playlist and compares its tracks, in order, with the markdown playlist
 5. Otherwise **creates a new copy** (the API cannot update an existing one). The first copy uses the clean name `<name> 🤖`; later copies are numbered `<name> 🤖 (N)` so the newest is always identifiable
-6. Stamps the new copy's description with `Synced <ISO> • N tracks` **at the beginning**, so the sync date, track count, and newest copy are obvious at a glance
+6. Stamps the new copy's description with `Synced <ISO>` **at the beginning**, so the sync date and newest copy are obvious at a glance; it never adds a track count
 7. Reports any tracks that couldn't be found or added
 
 **Playlist safety:** The script will only ever create/modify playlists that contain the 🤖 marker. User-created playlists without this marker are never touched.
@@ -98,7 +98,8 @@ To keep this manageable, the script uses **numbered copies** instead of mutating
 - The first sync creates a clean `<name> 🤖`.
 - Each subsequent content change creates the next number in the family: `<name> 🤖 (1)`, `<name> 🤖 (2)`, … The highest number is always the newest.
 - Unchanged syncs are skipped after comparing the actual ordered Apple Music tracks, so numbered copies do **not** accumulate on no-op runs — only a genuine track-list change adds one.
-- The `Synced <ISO> • N tracks` stamp at the **start** of the description confirms which copy is newest.
+- The `Synced <ISO>` stamp at the **start** of the description confirms which copy is newest.
+- Playlist descriptions must never include track counts because manual additions and removals would make them stale.
 
 **Cleaning up:** After a change produces a numbered copy, tidy up manually in the Apple Music app (or via the browser-based `apple-music-sync` skill):
 1. Delete the older copies in the family (the lower/plain-named ones).

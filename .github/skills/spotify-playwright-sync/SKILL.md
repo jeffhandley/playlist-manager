@@ -150,7 +150,7 @@ The managed playlist name is the playlist name from Phase 1 with ` 🤖` appende
 2. A new playlist will be created with a default name (e.g., "My Playlist #1")
 3. To rename: click the **playlist title heading** on the playlist page — this opens the **"Edit details"** dialog
 4. In the dialog, clear the **"Name"** field and type the managed playlist name: `{name} 🤖`
-5. Fill in the **"Description"** field with the playlist description from Phase 1
+5. Fill in the **"Description"** field with the playlist description from Phase 1. Never add a track count to the description; manual additions and removals would make it stale.
 6. Click **"Save"** to confirm
 
 ---

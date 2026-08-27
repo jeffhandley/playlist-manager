@@ -55,9 +55,10 @@ test("matching descriptions do not hide remote track changes", async () => {
   assert.equal(unchanged, false);
 });
 
-test("playlist descriptions contain informational sync details only", () => {
-  const description = buildDescription("Mix", localTracks.length);
-  assert.match(description, /2 tracks/);
+test("playlist descriptions omit track counts", () => {
+  const description = buildDescription("Mix");
+  assert.match(description, /^Synced \d{4}-\d{2}-\d{2}T/);
+  assert.doesNotMatch(description, /\b\d+ tracks?\b/i);
   assert.doesNotMatch(description, /\[sync:/);
   assert.match(description, /\n\nMix$/);
 });

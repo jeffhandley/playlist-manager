@@ -102,6 +102,7 @@ Follow these steps in order:
 
 3. Inspect `git status` and `git diff`.
    - Only `playlists/*.md` and `PREFERENCES.md` may be changed.
+   - Preserve playlist descriptions exactly; never add track counts to them.
    - Removed songs must be absent from every playlist and listed once under `PREFERENCES.md` Blocked Songs.
    - Added songs belong only in the scanned playlist and must have Apple Music `/song/` permalinks.
    - If there are no changes, emit a noop summary and stop.

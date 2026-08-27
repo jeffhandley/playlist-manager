@@ -173,7 +173,7 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
   console.log(`Creating playlist "${targetName}" with ${resolvedTracks.length} tracks...`);
 
   const playlistId = await createPlaylist(targetName, {
-    description: buildDescription(description, resolvedTracks.length),
+    description: buildDescription(description),
   });
 
   // Add all tracks in order
@@ -205,12 +205,13 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
 }
 
 /**
- * Build the playlist description. The ISO sync timestamp and track count are
- * placed FIRST so the newest copy is obvious in the Apple Music UI (the API
- * cannot delete or rename superseded duplicates).
+ * Build the playlist description. The ISO sync timestamp is placed first so the
+ * newest copy is obvious in the Apple Music UI (the API cannot delete or rename
+ * superseded duplicates). Track counts are intentionally omitted because they
+ * become stale when tracks are manually added or removed.
  */
-export function buildDescription(baseDescription, trackCount) {
-  const stamp = `Synced ${new Date().toISOString()} • ${trackCount} tracks`;
+export function buildDescription(baseDescription) {
+  const stamp = `Synced ${new Date().toISOString()}`;
   return baseDescription ? `${stamp}\n\n${baseDescription}` : stamp;
 }
 

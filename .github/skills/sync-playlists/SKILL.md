@@ -58,6 +58,7 @@ The following secrets must be configured in the repository:
 ## Notes
 
 - Syncing is done via the Apple Music REST API (`.github/skills/apple-music-api/sync.mjs`), not browser automation
+- Syncing must never add track counts to playlist descriptions; counts become stale after manual track changes
 - Each playlist is backed up before sync (renamed with 🔙 marker)
 - Playlists are suffixed with 🤖 in Apple Music — the markdown heading should NOT include this marker
 - The sync workflow also runs automatically when playlist files are pushed to `main`
