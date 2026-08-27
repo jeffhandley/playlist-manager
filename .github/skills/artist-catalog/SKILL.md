@@ -93,7 +93,7 @@ Include playlist instructions:
 
 ### Ordering
 
-- Tracks are ordered by album release date, then by track number within each album
+- Tracks are ordered by album release date, then by their order on each album
 - Albums from different artists are interleaved chronologically
 - Do not shuffle — the chronological album order is intentional
 
@@ -102,17 +102,19 @@ Include playlist instructions:
 - Sync adds tracks **album-at-a-time** — navigating to each album page and adding all tracks to the playlist in sequence
 - This is faster and more reliable than individual song lookups
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Track Title][1] | Artist A | Album Name | Year | |
-| 2 | [Track Title][2] | Artist A | Album Name | Year | |
-| 3 | [Track Title][3] | Artist B | Album Name | Year | |
+| Song | Artist | Album | Year | Note |
+|---|---|---|---|---|
+| [Track Title][e79bc585e6] | Artist A | Album Name | Year | |
+| [Track Title][472f76576d] | Artist A | Album Name | Year | |
+| [Track Title][20890c4440] | Artist B | Album Name | Year | |
 ```
 
-Use footnote-style link references for Apple Music permalinks:
+Use `trackReference` from `.github/skills/shared/playlist-format.mjs` to create
+stable 10-character URL-hash link labels:
 ```
-[1]: https://music.apple.com/us/song/slug/id
-[2]: https://music.apple.com/us/song/slug/id
+[e79bc585e6]: https://music.apple.com/us/song/slug/id
+[472f76576d]: https://music.apple.com/us/song/other-slug/other-id
+[20890c4440]: https://music.apple.com/us/song/third-slug/third-id
 ```
 
 ### Phase 6: Sync to Apple Music

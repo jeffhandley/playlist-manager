@@ -16,6 +16,7 @@ import { join } from "path";
 import { getCatalogSong, searchCatalog } from "./api.mjs";
 import { extractSongId, normalizeToSongUrl } from "./playlist.mjs";
 import { parsePlaylistMarkdown } from "../apple-music-sync/parser.mjs";
+import { trackReference } from "../shared/playlist-format.mjs";
 
 async function main() {
   const args = process.argv.slice(2);
@@ -98,7 +99,7 @@ async function validateFile(filePath) {
     // Normalize /album/ URLs to /song/ format when possible
     const normalized = normalizeToSongUrl(track.url);
     if (normalized !== track.url) {
-      content = content.replace(track.url, normalized);
+      content = replaceTrackReference(content, track.url, normalized);
       track.url = normalized;
       modified = true;
     }
@@ -146,20 +147,27 @@ async function validateFile(filePath) {
       const newUrl = `https://music.apple.com/us/song/${slug}/${newId}`;
 
       // Replace the old URL in the file content
-      content = content.replace(track.url, newUrl);
+      content = replaceTrackReference(content, track.url, newUrl);
       corrected++;
       modified = true;
       console.log(`         ✓ Corrected → ${newUrl}`);
     } else {
-      // Remove the broken link reference — convert [Song][N] to plain Song
-      // Find the link ref number for this URL
-      const refMatch = content.match(new RegExp(`^\\[(\\d+)\\]:\\s*${escapeRegex(track.url)}\\s*$`, "m"));
+      // Remove the broken link reference and leave the song title as plain text.
+      const refMatch = content.match(
+        new RegExp(`^\\[([a-z0-9_-]+)\\]:\\s*${escapeRegex(track.url)}\\s*$`, "im")
+      );
       if (refMatch) {
-        const refNum = refMatch[1];
+        const reference = refMatch[1];
         // Remove the reference definition line
-        content = content.replace(new RegExp(`^\\[${refNum}\\]:\\s*${escapeRegex(track.url)}\\s*\\n?`, "m"), "");
-        // Convert [Song Title][N] to Song Title in the table
-        content = content.replace(new RegExp(`\\[([^\\]]+)\\]\\[${refNum}\\]`), "$1");
+        content = content.replace(
+          new RegExp(`^\\[${reference}\\]:\\s*${escapeRegex(track.url)}\\s*\\n?`, "m"),
+          ""
+        );
+        // Convert linked song titles to plain text.
+        content = content.replace(
+          new RegExp(`\\[([^\\]]+)\\]\\[${reference}\\]`, "g"),
+          "$1"
+        );
         modified = true;
       }
       removed++;
@@ -176,6 +184,19 @@ async function validateFile(filePath) {
 
 function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function replaceTrackReference(content, oldUrl, newUrl) {
+  const definition = content.match(
+    new RegExp(`^\\[([a-z0-9_-]+)\\]:\\s*${escapeRegex(oldUrl)}\\s*$`, "im")
+  );
+  if (!definition) return content.replace(oldUrl, newUrl);
+
+  const oldReference = definition[1];
+  const newReference = trackReference(newUrl);
+  return content
+    .replace(new RegExp(`\\[${oldReference}\\]`, "g"), `[${newReference}]`)
+    .replace(oldUrl, newUrl);
 }
 
 main().catch((err) => {

@@ -19,10 +19,10 @@ export function parsePlaylistMarkdown(filePath) {
     }
   }
 
-  // Parse footnote-style link references: [N]: https://...
+  // Parse footnote-style link references.
   const linkRefs = {};
   for (const line of content.split("\n")) {
-    const refMatch = line.match(/^\[(\d+)\]:\s*(.+)$/);
+    const refMatch = line.match(/^\[([a-z0-9_-]+)\]:\s*(.+)$/i);
     if (refMatch) {
       linkRefs[refMatch[1]] = refMatch[2].trim();
     }
@@ -30,18 +30,26 @@ export function parsePlaylistMarkdown(filePath) {
 
   const tracks = [];
   for (const line of content.split("\n")) {
-    const match = line.match(
-      /^\|\s*(\d+)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*.*\|$/
-    );
-    if (match) {
-      const num = match[1].trim();
-      let song = match[2].trim();
-      const artist = match[3].trim();
-      const album = match[4].trim();
+    const cells = line
+      .trim()
+      .replace(/^\|/, "")
+      .replace(/\|$/, "")
+      .split("|")
+      .map((cell) => cell.trim());
+    const offset = /^\d+$/.test(cells[0]) ? 1 : 0;
+    if (
+      cells[0] !== "#" &&
+      cells.length >= offset + 5 &&
+      cells[offset] !== "Song" &&
+      !/^[-:]+$/.test(cells[offset])
+    ) {
+      let song = cells[offset];
+      const artist = cells[offset + 1];
+      const album = cells[offset + 2];
 
-      // Extract song name from markdown link: [Song Title][N] or [Song Title](url)
+      // Extract song name from markdown reference or inline link.
       let url = null;
-      const linkRefMatch = song.match(/^\[(.+?)\]\[(\d+)\]$/);
+      const linkRefMatch = song.match(/^\[(.+?)\]\[([a-z0-9_-]+)\]$/i);
       const inlineLinkMatch = song.match(/^\[(.+?)\]\((.+?)\)$/);
 
       if (linkRefMatch) {

@@ -81,20 +81,24 @@ Do not proceed until the user confirms.
 
 ### Phase 6: Save the Playlist
 
-Save the playlist as a markdown file in the `playlists/` folder. Use a table format with footnote-style link references for Apple Music permalinks:
+Save the playlist as a markdown file in the `playlists/` folder. Use a numberless
+table so track additions and removals remain easy to review. Generate each
+footnote-style link label from its URL with `trackReference` in
+`.github/skills/shared/playlist-format.mjs`; labels must never depend on row
+position.
 
 ```markdown
 # Playlist Name
 
 Brief description of the playlist.
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Song Title][1] | Artist Name | Album Name | 2024 | Brief note |
-| 2 | [Song Title][2] | Artist Name | Album Name | 2024 | Brief note |
+| Song | Artist | Album | Year | Note |
+|---|---|---|---|---|
+| [Song Title][b9e57d33ae] | Artist Name | Album Name | 2024 | Brief note |
+| [Another Song][0ed9c28660] | Artist Name | Album Name | 2024 | Brief note |
 
-[1]: https://music.apple.com/us/song/song-slug/123456789
-[2]: https://music.apple.com/us/song/song-slug/987654321
+[b9e57d33ae]: https://music.apple.com/us/song/song-slug/123456789
+[0ed9c28660]: https://music.apple.com/us/song/another-song/987654321
 ```
 
 Songs without a verified Apple Music permalink should be listed without a link reference.
