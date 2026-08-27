@@ -115,5 +115,6 @@ If no changes were made, report: "All playlist URLs are valid!"
 
 - The API method is faster and more reliable than web scraping
 - API credentials are typically available in CI/CD environments but may not be available locally
+- URL validation must preserve playlist descriptions and must never add track counts to them
 - Always create a PR for review before merging validation fixes
 - The validation script is at `.github/skills/apple-music-api/validate-urls.mjs`

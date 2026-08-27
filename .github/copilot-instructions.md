@@ -31,6 +31,11 @@ labels with `trackReference` from
 `.github/skills/shared/playlist-format.mjs`; never use row positions or sequence
 numbers as labels.
 
+Playlist descriptions must remain true when tracks are manually added or
+removed. **Never include a track count in a playlist description.** Track counts
+may be reported in logs, status messages, and validation results, but must not be
+written to markdown descriptions or streaming-service description fields.
+
 ```markdown
 # Playlist Name
 

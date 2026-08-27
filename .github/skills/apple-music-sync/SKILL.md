@@ -48,6 +48,10 @@ The script:
 7. If the playlist exists, compares current order to the markdown and fixes any mismatches by deleting out-of-sync tracks and re-adding them in the correct order
 8. Reports any tracks that couldn't be found or added
 
+Playlist descriptions are copied from the markdown source without adding a track
+count. Never write a track count into a description; manual additions and
+removals would make it stale.
+
 **Playlist safety:** The script will only ever modify playlists that end with the 🤖 suffix. User-created playlists without this marker are never touched.
 
 ### Backups

@@ -65,6 +65,8 @@ Record each track with: song title, artist, album name, year, and the individual
 ### Phase 5: Save the Playlist
 
 Save the playlist as a markdown file in the `playlists/` folder.
+Descriptions may summarize the catalog and its date range, but must never include
+a track count because manual additions and removals would make it stale.
 
 **Single artist:**
 ```markdown

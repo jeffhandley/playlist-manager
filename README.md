@@ -9,6 +9,10 @@ A GitHub Copilot skill for creating and managing music playlists. Describe the m
 - **Streaming Service Integration** — syncs playlists to Apple Music via the web player, and to Spotify via the Playwright MCP server
 - **Playlist Archive** — finalized playlists are saved as markdown in the `playlists/` folder
 
+Playlist descriptions intentionally omit track counts so they stay accurate when
+tracks are manually added or removed. Counts may appear in sync logs and status
+output, but are never written into playlist descriptions.
+
 ## Getting Started
 
 This repo includes two [GitHub Copilot skills](.github/skills/) that work together:

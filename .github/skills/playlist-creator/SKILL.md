@@ -34,6 +34,10 @@ Ask the user to describe what they want. Gather details such as:
 
 If the user provides a brief description, that's sufficient to get started. You do not need every detail before proceeding.
 
+Keep the saved description independent of the current playlist size. Never put a
+track count in the playlist description; counts become stale when tracks are
+manually added or removed.
+
 ### Phase 2: Search for Songs
 
 Use web search to find songs that match the user's description. Search for:
@@ -90,7 +94,7 @@ position.
 ```markdown
 # Playlist Name
 
-Brief description of the playlist.
+Brief description of the playlist, without a track count.
 
 | Song | Artist | Album | Year | Note |
 |---|---|---|---|---|
