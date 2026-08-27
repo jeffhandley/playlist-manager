@@ -14,6 +14,21 @@ The following individual songs should **never** be added to any playlist (unless
 - **"Semi-Charmed Life"** by Third Eye Blind
   - Reason: User preference
 
+- **"She Hates Me"** by Puddle of Mudd
+  - Reason: Removed from an Apple Music playlist
+
+- **"Landmines"** by Sum 41
+  - Reason: Removed from an Apple Music playlist
+
+- **"Make It All Right"** by The Offspring
+  - Reason: Removed from an Apple Music playlist
+
+- **"Why Don't You Get a Job"** by The Offspring
+  - Reason: Removed from an Apple Music playlist
+
+- **"Pretty Fly (For a White Guy)"** by The Offspring
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):
