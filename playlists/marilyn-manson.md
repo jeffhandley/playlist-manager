@@ -13,7 +13,7 @@ Complete studio discography for Marilyn Manson, organized by album in chronologi
 
 ### Ordering
 
-- Tracks are ordered by album release date, then by track number within each album
+- Tracks are ordered by album release date, then by their order on each album
 - Do not shuffle — the chronological album order is intentional
 
 ### Sync Strategy
@@ -23,302 +23,302 @@ Complete studio discography for Marilyn Manson, organized by album in chronologi
 
 ## Tracks
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Prelude (The Family Trip)][1] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 2 | [Cake and Sodomy][2] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 3 | [Lunchbox][3] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 4 | [Organ Grinder][4] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 5 | [Cyclops][5] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 6 | [Dope Hat][6] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 7 | [Get Your Gunn][7] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 8 | [Wrapped In Plastic][8] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 9 | [Dogma][9] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 10 | [Sweet Tooth][10] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 11 | [Snake Eyes and Sissies][11] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 12 | [My Monkey][12] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 13 | [Misery Machine][13] | Marilyn Manson | Portrait of an American Family | 1994 | |
-| 14 | [Irresponsible Hate Anthem][14] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 15 | [The Beautiful People][15] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 16 | [Dried Up, Tied and Dead to the World][16] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 17 | [Tourniquet][17] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 18 | [Little Horn][18] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 19 | [Cryptorchid][19] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 20 | [Deformography][20] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 21 | [Wormboy][21] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 22 | [Mister Superstar][22] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 23 | [Angel with the Scabbed Wings][23] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 24 | [Kinderfeld][24] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 25 | [Antichrist Superstar][25] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 26 | [1996][26] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 27 | [Minute of Decay][27] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 28 | [The Reflecting God][28] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 29 | [Man That You Fear][29] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 30 | [Untitled][30] | Marilyn Manson | Antichrist Superstar | 1996 | |
-| 31 | [Great Big White World][31] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 32 | [The Dope Show][32] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 33 | [Mechanical Animals][33] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 34 | [Rock Is Dead][34] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 35 | [Disassociative][35] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 36 | [The Speed of Pain][36] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 37 | [Posthuman][37] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 38 | [I Want to Disappear][38] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 39 | [I Don't Like the Drugs (But the Drugs Like Me)][39] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 40 | [New Model No. 15][40] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 41 | [User Friendly][41] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 42 | [Fundamentally Loathsome][42] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 43 | [The Last Day On Earth][43] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 44 | [Coma White][44] | Marilyn Manson | Mechanical Animals | 1998 | |
-| 45 | [GodEatGod][45] | Marilyn Manson | Holy Wood | 2000 | |
-| 46 | [The Love Song][46] | Marilyn Manson | Holy Wood | 2000 | |
-| 47 | [The Fight Song][47] | Marilyn Manson | Holy Wood | 2000 | |
-| 48 | [Disposable Teens][48] | Marilyn Manson | Holy Wood | 2000 | |
-| 49 | [Target Audience (Narcissus Narcosis)][49] | Marilyn Manson | Holy Wood | 2000 | |
-| 50 | ["President Dead"][50] | Marilyn Manson | Holy Wood | 2000 | |
-| 51 | [In the Shadow of the Valley of Death][51] | Marilyn Manson | Holy Wood | 2000 | |
-| 52 | [Cruci-Fiction In Space][52] | Marilyn Manson | Holy Wood | 2000 | |
-| 53 | [A Place In the Dirt][53] | Marilyn Manson | Holy Wood | 2000 | |
-| 54 | [The Nobodies][54] | Marilyn Manson | Holy Wood | 2000 | |
-| 55 | [The Death Song][55] | Marilyn Manson | Holy Wood | 2000 | |
-| 56 | [Lamb of God][56] | Marilyn Manson | Holy Wood | 2000 | |
-| 57 | [Born Again][57] | Marilyn Manson | Holy Wood | 2000 | |
-| 58 | [Burning Flag][58] | Marilyn Manson | Holy Wood | 2000 | |
-| 59 | [Coma Black][59] | Marilyn Manson | Holy Wood | 2000 | |
-| 60 | [Valentine's Day][60] | Marilyn Manson | Holy Wood | 2000 | |
-| 61 | [The Fall of Adam][61] | Marilyn Manson | Holy Wood | 2000 | |
-| 62 | [King Kill 33º][62] | Marilyn Manson | Holy Wood | 2000 | |
-| 63 | [Count to Six and Die (The Vacuum of Infinite Space Encompassing)][63] | Marilyn Manson | Holy Wood | 2000 | |
-| 64 | [Thaeter][64] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 65 | [This Is the New Shit][65] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 66 | [mOBSCENE][66] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 67 | [Doll-Dagga Buzz-Buzz Ziggety-Zag][67] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 68 | [Use Your Fist and Not Your Mouth][68] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 69 | [The Golden Age of Grotesque][69] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 70 | [(s)AINT][70] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 71 | [Ka-Boom Ka-Boom][71] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 72 | [Slutgarden][72] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 73 | [Spade][73] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 74 | [Para-Noir][74] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 75 | [The Bright Young Things][75] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 76 | [Better of Two Evils][76] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 77 | [Vodevil][77] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 78 | [Obsequy (The Death of Art)][78] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
-| 79 | [If I Was Your Vampire][79] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 80 | [Putting Holes In Happiness][80] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 81 | [The Red Carpet Grave][81] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 82 | [They Said That Hell's Not Hot][82] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 83 | [Just a Car Crash Away][83] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 84 | [Heart-Shaped Glasses (When the Heart Guides the Hand)][84] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 85 | [Evidence][85] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 86 | [Are You the Rabbit?][86] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 87 | [Mutilation Is the Most Sincere Form of Flattery][87] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 88 | [You and Me and the Devil Makes 3][88] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 89 | [Eat Me, Drink Me][89] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
-| 90 | [Devour][90] | Marilyn Manson | The High End of Low | 2009 | |
-| 91 | [Pretty As a ($)][91] | Marilyn Manson | The High End of Low | 2009 | |
-| 92 | [Leave a Scar][92] | Marilyn Manson | The High End of Low | 2009 | |
-| 93 | [Four Rusted Horses][93] | Marilyn Manson | The High End of Low | 2009 | |
-| 94 | [Arma-Goddamn-M\*\*\*\*\*\*\*\*\*\*n-Geddon][94] | Marilyn Manson | The High End of Low | 2009 | |
-| 95 | [Blank and White][95] | Marilyn Manson | The High End of Low | 2009 | |
-| 96 | [Running to the Edge of the World][96] | Marilyn Manson | The High End of Low | 2009 | |
-| 97 | [I Want to Kill You Like They Do In the Movies][97] | Marilyn Manson | The High End of Low | 2009 | |
-| 98 | [WOW][98] | Marilyn Manson | The High End of Low | 2009 | |
-| 99 | [Wight Spider][99] | Marilyn Manson | The High End of Low | 2009 | |
-| 100 | [Unkillable Monster][100] | Marilyn Manson | The High End of Low | 2009 | |
-| 101 | [We're from America][101] | Marilyn Manson | The High End of Low | 2009 | |
-| 102 | [I Have to Look Up Just to See Hell][102] | Marilyn Manson | The High End of Low | 2009 | |
-| 103 | [Into the Fire][103] | Marilyn Manson | The High End of Low | 2009 | |
-| 104 | [15][104] | Marilyn Manson | The High End of Low | 2009 | |
-| 105 | [Hey, Cruel World...][105] | Marilyn Manson | Born Villain | 2012 | |
-| 106 | [No Reflection][106] | Marilyn Manson | Born Villain | 2012 | |
-| 107 | [Pistol Whipped][107] | Marilyn Manson | Born Villain | 2012 | |
-| 108 | [Overneath the Path of Misery][108] | Marilyn Manson | Born Villain | 2012 | |
-| 109 | [Slo-Mo-Tion][109] | Marilyn Manson | Born Villain | 2012 | |
-| 110 | [The Gardener][110] | Marilyn Manson | Born Villain | 2012 | |
-| 111 | [The Flowers of Evil][111] | Marilyn Manson | Born Villain | 2012 | |
-| 112 | [Children of Cain][112] | Marilyn Manson | Born Villain | 2012 | |
-| 113 | [Disengaged][113] | Marilyn Manson | Born Villain | 2012 | |
-| 114 | [Lay Down Your Goddamn Arms][114] | Marilyn Manson | Born Villain | 2012 | |
-| 115 | [Murderers Are Getting Prettier Every Day][115] | Marilyn Manson | Born Villain | 2012 | |
-| 116 | [Born Villain][116] | Marilyn Manson | Born Villain | 2012 | |
-| 117 | [Breaking the Same Old Ground][117] | Marilyn Manson | Born Villain | 2012 | |
-| 118 | [You're So Vain][118] | Marilyn Manson | Born Villain | 2012 | |
-| 119 | [Killing Strangers][119] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 120 | [Deep Six][120] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 121 | [Third Day of a Seven Day Binge][121] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 122 | [The Mephistopheles of Los Angeles][122] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 123 | [Warship My Wreck][123] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 124 | [Slave Only Dreams to Be King][124] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 125 | [The Devil Beneath My Feet][125] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 126 | [Birds of Hell Awaiting][126] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 127 | [Cupid Carries a Gun][127] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 128 | [Odds of Even][128] | Marilyn Manson | The Pale Emperor | 2015 | |
-| 129 | [Revelation #12][129] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 130 | [Tattooed In Reverse][130] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 131 | [We Know Where You F\*\*\*\*\*g Live][131] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 132 | [Say10][132] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 133 | [Kill4Me][133] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 134 | [Saturnalia][134] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 135 | [Jesus Crisis][135] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 136 | [Blood Honey][136] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 137 | [Heaven Upside Down][137] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 138 | [Threats of Romance][138] | Marilyn Manson | Heaven Upside Down | 2017 | |
-| 139 | [RED BLACK AND BLUE][139] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 140 | [WE ARE CHAOS][140] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 141 | [DON'T CHASE THE DEAD][141] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 142 | [PAINT YOU WITH MY LOVE][142] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 143 | [HALF-WAY & ONE STEP FORWARD][143] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 144 | [INFINITE DARKNESS][144] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 145 | [PERFUME][145] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 146 | [KEEP MY HEAD TOGETHER][146] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 147 | [SOLVE COAGULA][147] | Marilyn Manson | WE ARE CHAOS | 2020 | |
-| 148 | [BROKEN NEEDLE][148] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| Song | Artist | Album | Year | Note |
+|------|--------|-------|------|------|
+| [Prelude (The Family Trip)][c2d9c161ee] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Cake and Sodomy][ba001711f3] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Lunchbox][1ff3be425d] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Organ Grinder][7f05e7763b] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Cyclops][5e0f6d9a28] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Dope Hat][c847dac0d1] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Get Your Gunn][87487ccd05] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Wrapped In Plastic][8d5ca84e54] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Dogma][7acbd3ad50] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Sweet Tooth][9fab20b382] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Snake Eyes and Sissies][fc9c5c9031] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [My Monkey][f49a459502] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Misery Machine][c1a4e9e373] | Marilyn Manson | Portrait of an American Family | 1994 | |
+| [Irresponsible Hate Anthem][d608eaf24e] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [The Beautiful People][b35f5750a2] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Dried Up, Tied and Dead to the World][a51e8c564e] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Tourniquet][5a3b2e36ad] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Little Horn][e4731d63a7] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Cryptorchid][bffee6d177] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Deformography][d18d7560b6] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Wormboy][4f2b1ba5e9] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Mister Superstar][866d5de8ee] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Angel with the Scabbed Wings][77f21462fb] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Kinderfeld][664361a27f] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Antichrist Superstar][e307915ec6] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [1996][8904e7c84c] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Minute of Decay][7dfbb8a6dd] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [The Reflecting God][19ad68dfc4] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Man That You Fear][19877c88cc] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Untitled][cb1e28256c] | Marilyn Manson | Antichrist Superstar | 1996 | |
+| [Great Big White World][14adbea3b9] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [The Dope Show][23b912ada0] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [Mechanical Animals][3b6f62dbca] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [Rock Is Dead][aa1f90573e] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [Disassociative][e3f93d0324] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [The Speed of Pain][6d2d8f0c7d] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [Posthuman][e9d1189364] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [I Want to Disappear][7e3b346d37] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [I Don't Like the Drugs (But the Drugs Like Me)][c132752e32] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [New Model No. 15][2c0f8be88b] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [User Friendly][b5028e6481] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [Fundamentally Loathsome][6cc7e67fa3] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [The Last Day On Earth][596037106b] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [Coma White][61b200d8a2] | Marilyn Manson | Mechanical Animals | 1998 | |
+| [GodEatGod][c58a096d65] | Marilyn Manson | Holy Wood | 2000 | |
+| [The Love Song][5bda0511a2] | Marilyn Manson | Holy Wood | 2000 | |
+| [The Fight Song][d6441c46cd] | Marilyn Manson | Holy Wood | 2000 | |
+| [Disposable Teens][d4ff3cc6ab] | Marilyn Manson | Holy Wood | 2000 | |
+| [Target Audience (Narcissus Narcosis)][7d6b88f779] | Marilyn Manson | Holy Wood | 2000 | |
+| ["President Dead"][f09d023cd1] | Marilyn Manson | Holy Wood | 2000 | |
+| [In the Shadow of the Valley of Death][bcc00b1e88] | Marilyn Manson | Holy Wood | 2000 | |
+| [Cruci-Fiction In Space][8f53319532] | Marilyn Manson | Holy Wood | 2000 | |
+| [A Place In the Dirt][250f4b5010] | Marilyn Manson | Holy Wood | 2000 | |
+| [The Nobodies][5c1d183878] | Marilyn Manson | Holy Wood | 2000 | |
+| [The Death Song][085f3aff4d] | Marilyn Manson | Holy Wood | 2000 | |
+| [Lamb of God][0e01d82d11] | Marilyn Manson | Holy Wood | 2000 | |
+| [Born Again][ba7b42b410] | Marilyn Manson | Holy Wood | 2000 | |
+| [Burning Flag][21566a99f8] | Marilyn Manson | Holy Wood | 2000 | |
+| [Coma Black][993e3c973a] | Marilyn Manson | Holy Wood | 2000 | |
+| [Valentine's Day][2cab69cab6] | Marilyn Manson | Holy Wood | 2000 | |
+| [The Fall of Adam][215e9ccac3] | Marilyn Manson | Holy Wood | 2000 | |
+| [King Kill 33º][fdc8eda26d] | Marilyn Manson | Holy Wood | 2000 | |
+| [Count to Six and Die (The Vacuum of Infinite Space Encompassing)][39050836d5] | Marilyn Manson | Holy Wood | 2000 | |
+| [Thaeter][89b1cc9a7d] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [This Is the New Shit][6228a20693] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [mOBSCENE][db41b665b2] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Doll-Dagga Buzz-Buzz Ziggety-Zag][4d7cc379a4] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Use Your Fist and Not Your Mouth][02fec50ea1] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [The Golden Age of Grotesque][7bf4305a4b] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [(s)AINT][2aa3e02f6a] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Ka-Boom Ka-Boom][e5ac1e83c5] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Slutgarden][1b4d06e00e] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Spade][02a8f91a4a] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Para-Noir][668f5b1031] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [The Bright Young Things][3d5898798e] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Better of Two Evils][6462817211] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Vodevil][840bf262f3] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [Obsequy (The Death of Art)][fb45c62157] | Marilyn Manson | The Golden Age of Grotesque | 2003 | |
+| [If I Was Your Vampire][2db9bff12b] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Putting Holes In Happiness][746cf056ac] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [The Red Carpet Grave][9e32c0d135] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [They Said That Hell's Not Hot][2645318b30] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Just a Car Crash Away][61cd6e184c] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Heart-Shaped Glasses (When the Heart Guides the Hand)][402c8939e7] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Evidence][05ac4e9f24] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Are You the Rabbit?][64748894d5] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Mutilation Is the Most Sincere Form of Flattery][234b301a95] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [You and Me and the Devil Makes 3][bcf6eed954] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Eat Me, Drink Me][76102cbc6f] | Marilyn Manson | Eat Me, Drink Me | 2007 | |
+| [Devour][7893c25527] | Marilyn Manson | The High End of Low | 2009 | |
+| [Pretty As a ($)][95ea1f05d0] | Marilyn Manson | The High End of Low | 2009 | |
+| [Leave a Scar][dc48f51090] | Marilyn Manson | The High End of Low | 2009 | |
+| [Four Rusted Horses][a89d39ec56] | Marilyn Manson | The High End of Low | 2009 | |
+| [Arma-Goddamn-M\*\*\*\*\*\*\*\*\*\*n-Geddon][e20d7c4e1a] | Marilyn Manson | The High End of Low | 2009 | |
+| [Blank and White][98a14e6c22] | Marilyn Manson | The High End of Low | 2009 | |
+| [Running to the Edge of the World][29aba36718] | Marilyn Manson | The High End of Low | 2009 | |
+| [I Want to Kill You Like They Do In the Movies][9ac42bf721] | Marilyn Manson | The High End of Low | 2009 | |
+| [WOW][de8e9573fc] | Marilyn Manson | The High End of Low | 2009 | |
+| [Wight Spider][a174d2d92c] | Marilyn Manson | The High End of Low | 2009 | |
+| [Unkillable Monster][1e6c72fc1a] | Marilyn Manson | The High End of Low | 2009 | |
+| [We're from America][54266f7400] | Marilyn Manson | The High End of Low | 2009 | |
+| [I Have to Look Up Just to See Hell][dfd672178d] | Marilyn Manson | The High End of Low | 2009 | |
+| [Into the Fire][2b6f4600e6] | Marilyn Manson | The High End of Low | 2009 | |
+| [15][ff31093744] | Marilyn Manson | The High End of Low | 2009 | |
+| [Hey, Cruel World...][9acc486e69] | Marilyn Manson | Born Villain | 2012 | |
+| [No Reflection][572a367024] | Marilyn Manson | Born Villain | 2012 | |
+| [Pistol Whipped][65d1f3fe2e] | Marilyn Manson | Born Villain | 2012 | |
+| [Overneath the Path of Misery][3b762999f2] | Marilyn Manson | Born Villain | 2012 | |
+| [Slo-Mo-Tion][d352c2e39c] | Marilyn Manson | Born Villain | 2012 | |
+| [The Gardener][83e403d793] | Marilyn Manson | Born Villain | 2012 | |
+| [The Flowers of Evil][1e26baa25f] | Marilyn Manson | Born Villain | 2012 | |
+| [Children of Cain][ae42a94939] | Marilyn Manson | Born Villain | 2012 | |
+| [Disengaged][fb7f282412] | Marilyn Manson | Born Villain | 2012 | |
+| [Lay Down Your Goddamn Arms][946cd884bc] | Marilyn Manson | Born Villain | 2012 | |
+| [Murderers Are Getting Prettier Every Day][22a6a7209a] | Marilyn Manson | Born Villain | 2012 | |
+| [Born Villain][4f5e76bab7] | Marilyn Manson | Born Villain | 2012 | |
+| [Breaking the Same Old Ground][e9db9feb06] | Marilyn Manson | Born Villain | 2012 | |
+| [You're So Vain][b947b576b6] | Marilyn Manson | Born Villain | 2012 | |
+| [Killing Strangers][997bf43da8] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Deep Six][a0dcce5d2e] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Third Day of a Seven Day Binge][6e54cb2a1a] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [The Mephistopheles of Los Angeles][36c340fe3c] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Warship My Wreck][d577ba03db] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Slave Only Dreams to Be King][298ea4f4dd] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [The Devil Beneath My Feet][c6f2c85e45] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Birds of Hell Awaiting][97bf128f5d] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Cupid Carries a Gun][53ede473a4] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Odds of Even][342b063bbb] | Marilyn Manson | The Pale Emperor | 2015 | |
+| [Revelation #12][54af5938e7] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Tattooed In Reverse][050cf30850] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [We Know Where You F\*\*\*\*\*g Live][f6f326642d] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Say10][bf65713823] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Kill4Me][2bbe4ea567] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Saturnalia][54dc536bcd] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Jesus Crisis][edac7781dc] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Blood Honey][68bd74b4f9] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Heaven Upside Down][30fa957cd7] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [Threats of Romance][9a3236c486] | Marilyn Manson | Heaven Upside Down | 2017 | |
+| [RED BLACK AND BLUE][d78b928e17] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [WE ARE CHAOS][528b0468b3] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [DON'T CHASE THE DEAD][3b12291bb5] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [PAINT YOU WITH MY LOVE][180bb30974] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [HALF-WAY & ONE STEP FORWARD][7570af4928] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [INFINITE DARKNESS][bda1715b80] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [PERFUME][67e69c1b30] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [KEEP MY HEAD TOGETHER][b72eb7699f] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [SOLVE COAGULA][ce37e2aed8] | Marilyn Manson | WE ARE CHAOS | 2020 | |
+| [BROKEN NEEDLE][b4ef941831] | Marilyn Manson | WE ARE CHAOS | 2020 | |
 
-[1]: https://music.apple.com/us/song/prelude-the-family-trip/1440867182
-[2]: https://music.apple.com/us/song/cake-and-sodomy/1440867431
-[3]: https://music.apple.com/us/song/lunchbox/1440867436
-[4]: https://music.apple.com/us/song/organ-grinder/1440867440
-[5]: https://music.apple.com/us/song/cyclops/1440867441
-[6]: https://music.apple.com/us/song/dope-hat/1440867444
-[7]: https://music.apple.com/us/song/get-your-gunn/1440867446
-[8]: https://music.apple.com/us/song/wrapped-in-plastic/1440867450
-[9]: https://music.apple.com/us/song/dogma/1440867458
-[10]: https://music.apple.com/us/song/sweet-tooth/1440867799
-[11]: https://music.apple.com/us/song/snake-eyes-and-sissies/1440867808
-[12]: https://music.apple.com/us/song/my-monkey/1440867816
-[13]: https://music.apple.com/us/song/misery-machine/1440867971
-[14]: https://music.apple.com/us/song/irresponsible-hate-anthem/1440804354
-[15]: https://music.apple.com/us/song/the-beautiful-people/1440804361
-[16]: https://music.apple.com/us/song/dried-up-tied-and-dead-to-the-world/1440804366
-[17]: https://music.apple.com/us/song/tourniquet/1440804368
-[18]: https://music.apple.com/us/song/little-horn/1440804435
-[19]: https://music.apple.com/us/song/cryptorchid/1440804437
-[20]: https://music.apple.com/us/song/deformography/1440804438
-[21]: https://music.apple.com/us/song/wormboy/1440804442
-[22]: https://music.apple.com/us/song/mister-superstar/1440804445
-[23]: https://music.apple.com/us/song/angel-with-the-scabbed-wings/1440804446
-[24]: https://music.apple.com/us/song/kinderfeld/1440804450
-[25]: https://music.apple.com/us/song/antichrist-superstar/1440804454
-[26]: https://music.apple.com/us/song/1996/1440804456
-[27]: https://music.apple.com/us/song/minute-of-decay/1440804460
-[28]: https://music.apple.com/us/song/the-reflecting-god/1440804584
-[29]: https://music.apple.com/us/song/man-that-you-fear/1440804589
-[30]: https://music.apple.com/us/song/untitled/1440804594
-[31]: https://music.apple.com/us/song/great-big-white-world/1440738178
-[32]: https://music.apple.com/us/song/the-dope-show/1440738180
-[33]: https://music.apple.com/us/song/mechanical-animals/1440738181
-[34]: https://music.apple.com/us/song/rock-is-dead/1440738183
-[35]: https://music.apple.com/us/song/disassociative/1440738184
-[36]: https://music.apple.com/us/song/the-speed-of-pain/1440738186
-[37]: https://music.apple.com/us/song/posthuman/1440738190
-[38]: https://music.apple.com/us/song/i-want-to-disappear/1440738401
-[39]: https://music.apple.com/us/song/i-dont-like-the-drugs-but-the-drugs-like-me/1440738403
-[40]: https://music.apple.com/us/song/new-model-no-15/1440738405
-[41]: https://music.apple.com/us/song/user-friendly/1440738406
-[42]: https://music.apple.com/us/song/fundamentally-loathsome/1440738408
-[43]: https://music.apple.com/us/song/the-last-day-on-earth/1440738410
-[44]: https://music.apple.com/us/song/coma-white/1440738413
-[45]: https://music.apple.com/us/song/godeatgod/1440906483
-[46]: https://music.apple.com/us/song/the-love-song/1440906484
-[47]: https://music.apple.com/us/song/the-fight-song/1440906485
-[48]: https://music.apple.com/us/song/disposable-teens/1440906486
-[49]: https://music.apple.com/us/song/target-audience-narcissus-narcosis/1440906487
-[50]: https://music.apple.com/us/song/president-dead/1440906490
-[51]: https://music.apple.com/us/song/in-the-shadow-of-the-valley-of-death/1440906882
-[52]: https://music.apple.com/us/song/cruci-fiction-in-space/1440906884
-[53]: https://music.apple.com/us/song/a-place-in-the-dirt/1440906885
-[54]: https://music.apple.com/us/song/the-nobodies/1440906886
-[55]: https://music.apple.com/us/song/the-death-song/1440906887
-[56]: https://music.apple.com/us/song/lamb-of-god/1440906888
-[57]: https://music.apple.com/us/song/born-again/1440906890
-[58]: https://music.apple.com/us/song/burning-flag/1440906893
-[59]: https://music.apple.com/us/song/coma-black/1440906894
-[60]: https://music.apple.com/us/song/valentines-day/1440906896
-[61]: https://music.apple.com/us/song/the-fall-of-adam/1440906898
-[62]: https://music.apple.com/us/song/king-kill-33%C2%BA/1440906902
-[63]: https://music.apple.com/us/song/count-to-six-and-die-the-vacuum-of/1440906906
-[64]: https://music.apple.com/us/song/thaeter/1440773538
-[65]: https://music.apple.com/us/song/this-is-the-new-shit/1440773542
-[66]: https://music.apple.com/us/song/mobscene/1440773544
-[67]: https://music.apple.com/us/song/doll-dagga-buzz-buzz-ziggety-zag/1440773546
-[68]: https://music.apple.com/us/song/use-your-fist-and-not-your-mouth/1440773548
-[69]: https://music.apple.com/us/song/the-golden-age-of-grotesque/1440773550
-[70]: https://music.apple.com/us/song/s-aint/1440773551
-[71]: https://music.apple.com/us/song/ka-boom-ka-boom/1440773554
-[72]: https://music.apple.com/us/song/slutgarden/1440773556
-[73]: https://music.apple.com/us/song/spade/1440773558
-[74]: https://music.apple.com/us/song/para-noir/1440773559
-[75]: https://music.apple.com/us/song/the-bright-young-things/1440773922
-[76]: https://music.apple.com/us/song/better-of-two-evils/1440773926
-[77]: https://music.apple.com/us/song/vodevil/1440773928
-[78]: https://music.apple.com/us/song/obsequy-the-death-of-art/1440773931
-[79]: https://music.apple.com/us/song/if-i-was-your-vampire/1440725303
-[80]: https://music.apple.com/us/song/putting-holes-in-happiness/1440725306
-[81]: https://music.apple.com/us/song/the-red-carpet-grave/1440725308
-[82]: https://music.apple.com/us/song/they-said-that-hells-not-hot/1440725311
-[83]: https://music.apple.com/us/song/just-a-car-crash-away/1440725312
-[84]: https://music.apple.com/us/song/heart-shaped-glasses-when-the-heart-guides-the-hand/1440725313
-[85]: https://music.apple.com/us/song/evidence/1440725314
-[86]: https://music.apple.com/us/song/are-you-the-rabbit/1440725315
-[87]: https://music.apple.com/us/song/mutilation-is-the-most-sincere-form-of-flattery/1440725317
-[88]: https://music.apple.com/us/song/you-and-me-and-the-devil-makes-3/1440725319
-[89]: https://music.apple.com/us/song/eat-me-drink-me/1440725682
-[90]: https://music.apple.com/us/song/devour/1443565342
-[91]: https://music.apple.com/us/song/pretty-as-a-%24/1443565357
-[92]: https://music.apple.com/us/song/leave-a-scar/1443565485
-[93]: https://music.apple.com/us/song/four-rusted-horses/1443565489
-[94]: https://music.apple.com/us/song/arma-goddamn-m-n-geddon/1443565494
-[95]: https://music.apple.com/us/song/blank-and-white/1443565502
-[96]: https://music.apple.com/us/song/running-to-the-edge-of-the-world/1443565506
-[97]: https://music.apple.com/us/song/i-want-to-kill-you-like-they-do-in-the-movies/1443565862
-[98]: https://music.apple.com/us/song/wow/1443565910
-[99]: https://music.apple.com/us/song/wight-spider/1443565922
-[100]: https://music.apple.com/us/song/unkillable-monster/1443566055
-[101]: https://music.apple.com/us/song/were-from-america/1443566062
-[102]: https://music.apple.com/us/song/i-have-to-look-up-just-to-see-hell/1443566066
-[103]: https://music.apple.com/us/song/into-the-fire/1443566074
-[104]: https://music.apple.com/us/song/15/1443566236
-[105]: https://music.apple.com/us/song/hey-cruel-world/1876653046
-[106]: https://music.apple.com/us/song/no-reflection/1876653050
-[107]: https://music.apple.com/us/song/pistol-whipped/1876653053
-[108]: https://music.apple.com/us/song/overneath-the-path-of-misery/1876653059
-[109]: https://music.apple.com/us/song/slo-mo-tion/1876677171
-[110]: https://music.apple.com/us/song/the-gardener/1876653062
-[111]: https://music.apple.com/us/song/the-flowers-of-evil/1876653068
-[112]: https://music.apple.com/us/song/children-of-cain/1876653071
-[113]: https://music.apple.com/us/song/disengaged/1876653282
-[114]: https://music.apple.com/us/song/lay-down-your-goddamn-arms/1876653288
-[115]: https://music.apple.com/us/song/murderers-are-getting-prettier-every-day/1876653292
-[116]: https://music.apple.com/us/song/born-villain/1876653293
-[117]: https://music.apple.com/us/song/breaking-the-same-old-ground/1876653294
-[118]: https://music.apple.com/us/song/you-re-so-vain/1876653303
-[119]: https://music.apple.com/us/song/killing-strangers/1876189655
-[120]: https://music.apple.com/us/song/deep-six/1876189657
-[121]: https://music.apple.com/us/song/third-day-of-a-seven-day-binge/1876189662
-[122]: https://music.apple.com/us/song/the-mephistopheles-of-los-angeles/1876189845
-[123]: https://music.apple.com/us/song/warship-my-wreck/1876189846
-[124]: https://music.apple.com/us/song/slave-only-dreams-to-be-king/1876189860
-[125]: https://music.apple.com/us/song/the-devil-beneath-my-feet/1876189866
-[126]: https://music.apple.com/us/song/birds-of-hell-awaiting/1876189869
-[127]: https://music.apple.com/us/song/cupid-carries-a-gun/1876321237
-[128]: https://music.apple.com/us/song/odds-of-even/1876190057
-[129]: https://music.apple.com/us/song/revelation-12/1440944046
-[130]: https://music.apple.com/us/song/tattooed-in-reverse/1440944208
-[131]: https://music.apple.com/us/song/we-know-where-you-f-g-live/1440944214
-[132]: https://music.apple.com/us/song/say10/1440944222
-[133]: https://music.apple.com/us/song/kill4me/1440944324
-[134]: https://music.apple.com/us/song/saturnalia/1440944335
-[135]: https://music.apple.com/us/song/jesus-crisis/1440944343
-[136]: https://music.apple.com/us/song/blood-honey/1440944349
-[137]: https://music.apple.com/us/song/heaven-upside-down/1440944446
-[138]: https://music.apple.com/us/song/threats-of-romance/1440944454
-[139]: https://music.apple.com/us/song/red-black-and-blue/1521762334
-[140]: https://music.apple.com/us/song/we-are-chaos/1521762696
-[141]: https://music.apple.com/us/song/dont-chase-the-dead/1521762697
-[142]: https://music.apple.com/us/song/paint-you-with-my-love/1521762698
-[143]: https://music.apple.com/us/song/half-way-one-step-forward/1521762699
-[144]: https://music.apple.com/us/song/infinite-darkness/1521762700
-[145]: https://music.apple.com/us/song/perfume/1521762701
-[146]: https://music.apple.com/us/song/keep-my-head-together/1521762702
-[147]: https://music.apple.com/us/song/solve-coagula/1521762703
-[148]: https://music.apple.com/us/song/broken-needle/1521762705
+[c2d9c161ee]: https://music.apple.com/us/song/prelude-the-family-trip/1440867182
+[ba001711f3]: https://music.apple.com/us/song/cake-and-sodomy/1440867431
+[1ff3be425d]: https://music.apple.com/us/song/lunchbox/1440867436
+[7f05e7763b]: https://music.apple.com/us/song/organ-grinder/1440867440
+[5e0f6d9a28]: https://music.apple.com/us/song/cyclops/1440867441
+[c847dac0d1]: https://music.apple.com/us/song/dope-hat/1440867444
+[87487ccd05]: https://music.apple.com/us/song/get-your-gunn/1440867446
+[8d5ca84e54]: https://music.apple.com/us/song/wrapped-in-plastic/1440867450
+[7acbd3ad50]: https://music.apple.com/us/song/dogma/1440867458
+[9fab20b382]: https://music.apple.com/us/song/sweet-tooth/1440867799
+[fc9c5c9031]: https://music.apple.com/us/song/snake-eyes-and-sissies/1440867808
+[f49a459502]: https://music.apple.com/us/song/my-monkey/1440867816
+[c1a4e9e373]: https://music.apple.com/us/song/misery-machine/1440867971
+[d608eaf24e]: https://music.apple.com/us/song/irresponsible-hate-anthem/1440804354
+[b35f5750a2]: https://music.apple.com/us/song/the-beautiful-people/1440804361
+[a51e8c564e]: https://music.apple.com/us/song/dried-up-tied-and-dead-to-the-world/1440804366
+[5a3b2e36ad]: https://music.apple.com/us/song/tourniquet/1440804368
+[e4731d63a7]: https://music.apple.com/us/song/little-horn/1440804435
+[bffee6d177]: https://music.apple.com/us/song/cryptorchid/1440804437
+[d18d7560b6]: https://music.apple.com/us/song/deformography/1440804438
+[4f2b1ba5e9]: https://music.apple.com/us/song/wormboy/1440804442
+[866d5de8ee]: https://music.apple.com/us/song/mister-superstar/1440804445
+[77f21462fb]: https://music.apple.com/us/song/angel-with-the-scabbed-wings/1440804446
+[664361a27f]: https://music.apple.com/us/song/kinderfeld/1440804450
+[e307915ec6]: https://music.apple.com/us/song/antichrist-superstar/1440804454
+[8904e7c84c]: https://music.apple.com/us/song/1996/1440804456
+[7dfbb8a6dd]: https://music.apple.com/us/song/minute-of-decay/1440804460
+[19ad68dfc4]: https://music.apple.com/us/song/the-reflecting-god/1440804584
+[19877c88cc]: https://music.apple.com/us/song/man-that-you-fear/1440804589
+[cb1e28256c]: https://music.apple.com/us/song/untitled/1440804594
+[14adbea3b9]: https://music.apple.com/us/song/great-big-white-world/1440738178
+[23b912ada0]: https://music.apple.com/us/song/the-dope-show/1440738180
+[3b6f62dbca]: https://music.apple.com/us/song/mechanical-animals/1440738181
+[aa1f90573e]: https://music.apple.com/us/song/rock-is-dead/1440738183
+[e3f93d0324]: https://music.apple.com/us/song/disassociative/1440738184
+[6d2d8f0c7d]: https://music.apple.com/us/song/the-speed-of-pain/1440738186
+[e9d1189364]: https://music.apple.com/us/song/posthuman/1440738190
+[7e3b346d37]: https://music.apple.com/us/song/i-want-to-disappear/1440738401
+[c132752e32]: https://music.apple.com/us/song/i-dont-like-the-drugs-but-the-drugs-like-me/1440738403
+[2c0f8be88b]: https://music.apple.com/us/song/new-model-no-15/1440738405
+[b5028e6481]: https://music.apple.com/us/song/user-friendly/1440738406
+[6cc7e67fa3]: https://music.apple.com/us/song/fundamentally-loathsome/1440738408
+[596037106b]: https://music.apple.com/us/song/the-last-day-on-earth/1440738410
+[61b200d8a2]: https://music.apple.com/us/song/coma-white/1440738413
+[c58a096d65]: https://music.apple.com/us/song/godeatgod/1440906483
+[5bda0511a2]: https://music.apple.com/us/song/the-love-song/1440906484
+[d6441c46cd]: https://music.apple.com/us/song/the-fight-song/1440906485
+[d4ff3cc6ab]: https://music.apple.com/us/song/disposable-teens/1440906486
+[7d6b88f779]: https://music.apple.com/us/song/target-audience-narcissus-narcosis/1440906487
+[f09d023cd1]: https://music.apple.com/us/song/president-dead/1440906490
+[bcc00b1e88]: https://music.apple.com/us/song/in-the-shadow-of-the-valley-of-death/1440906882
+[8f53319532]: https://music.apple.com/us/song/cruci-fiction-in-space/1440906884
+[250f4b5010]: https://music.apple.com/us/song/a-place-in-the-dirt/1440906885
+[5c1d183878]: https://music.apple.com/us/song/the-nobodies/1440906886
+[085f3aff4d]: https://music.apple.com/us/song/the-death-song/1440906887
+[0e01d82d11]: https://music.apple.com/us/song/lamb-of-god/1440906888
+[ba7b42b410]: https://music.apple.com/us/song/born-again/1440906890
+[21566a99f8]: https://music.apple.com/us/song/burning-flag/1440906893
+[993e3c973a]: https://music.apple.com/us/song/coma-black/1440906894
+[2cab69cab6]: https://music.apple.com/us/song/valentines-day/1440906896
+[215e9ccac3]: https://music.apple.com/us/song/the-fall-of-adam/1440906898
+[fdc8eda26d]: https://music.apple.com/us/song/king-kill-33%C2%BA/1440906902
+[39050836d5]: https://music.apple.com/us/song/count-to-six-and-die-the-vacuum-of/1440906906
+[89b1cc9a7d]: https://music.apple.com/us/song/thaeter/1440773538
+[6228a20693]: https://music.apple.com/us/song/this-is-the-new-shit/1440773542
+[db41b665b2]: https://music.apple.com/us/song/mobscene/1440773544
+[4d7cc379a4]: https://music.apple.com/us/song/doll-dagga-buzz-buzz-ziggety-zag/1440773546
+[02fec50ea1]: https://music.apple.com/us/song/use-your-fist-and-not-your-mouth/1440773548
+[7bf4305a4b]: https://music.apple.com/us/song/the-golden-age-of-grotesque/1440773550
+[2aa3e02f6a]: https://music.apple.com/us/song/s-aint/1440773551
+[e5ac1e83c5]: https://music.apple.com/us/song/ka-boom-ka-boom/1440773554
+[1b4d06e00e]: https://music.apple.com/us/song/slutgarden/1440773556
+[02a8f91a4a]: https://music.apple.com/us/song/spade/1440773558
+[668f5b1031]: https://music.apple.com/us/song/para-noir/1440773559
+[3d5898798e]: https://music.apple.com/us/song/the-bright-young-things/1440773922
+[6462817211]: https://music.apple.com/us/song/better-of-two-evils/1440773926
+[840bf262f3]: https://music.apple.com/us/song/vodevil/1440773928
+[fb45c62157]: https://music.apple.com/us/song/obsequy-the-death-of-art/1440773931
+[2db9bff12b]: https://music.apple.com/us/song/if-i-was-your-vampire/1440725303
+[746cf056ac]: https://music.apple.com/us/song/putting-holes-in-happiness/1440725306
+[9e32c0d135]: https://music.apple.com/us/song/the-red-carpet-grave/1440725308
+[2645318b30]: https://music.apple.com/us/song/they-said-that-hells-not-hot/1440725311
+[61cd6e184c]: https://music.apple.com/us/song/just-a-car-crash-away/1440725312
+[402c8939e7]: https://music.apple.com/us/song/heart-shaped-glasses-when-the-heart-guides-the-hand/1440725313
+[05ac4e9f24]: https://music.apple.com/us/song/evidence/1440725314
+[64748894d5]: https://music.apple.com/us/song/are-you-the-rabbit/1440725315
+[234b301a95]: https://music.apple.com/us/song/mutilation-is-the-most-sincere-form-of-flattery/1440725317
+[bcf6eed954]: https://music.apple.com/us/song/you-and-me-and-the-devil-makes-3/1440725319
+[76102cbc6f]: https://music.apple.com/us/song/eat-me-drink-me/1440725682
+[7893c25527]: https://music.apple.com/us/song/devour/1443565342
+[95ea1f05d0]: https://music.apple.com/us/song/pretty-as-a-%24/1443565357
+[dc48f51090]: https://music.apple.com/us/song/leave-a-scar/1443565485
+[a89d39ec56]: https://music.apple.com/us/song/four-rusted-horses/1443565489
+[e20d7c4e1a]: https://music.apple.com/us/song/arma-goddamn-m-n-geddon/1443565494
+[98a14e6c22]: https://music.apple.com/us/song/blank-and-white/1443565502
+[29aba36718]: https://music.apple.com/us/song/running-to-the-edge-of-the-world/1443565506
+[9ac42bf721]: https://music.apple.com/us/song/i-want-to-kill-you-like-they-do-in-the-movies/1443565862
+[de8e9573fc]: https://music.apple.com/us/song/wow/1443565910
+[a174d2d92c]: https://music.apple.com/us/song/wight-spider/1443565922
+[1e6c72fc1a]: https://music.apple.com/us/song/unkillable-monster/1443566055
+[54266f7400]: https://music.apple.com/us/song/were-from-america/1443566062
+[dfd672178d]: https://music.apple.com/us/song/i-have-to-look-up-just-to-see-hell/1443566066
+[2b6f4600e6]: https://music.apple.com/us/song/into-the-fire/1443566074
+[ff31093744]: https://music.apple.com/us/song/15/1443566236
+[9acc486e69]: https://music.apple.com/us/song/hey-cruel-world/1876653046
+[572a367024]: https://music.apple.com/us/song/no-reflection/1876653050
+[65d1f3fe2e]: https://music.apple.com/us/song/pistol-whipped/1876653053
+[3b762999f2]: https://music.apple.com/us/song/overneath-the-path-of-misery/1876653059
+[d352c2e39c]: https://music.apple.com/us/song/slo-mo-tion/1876677171
+[83e403d793]: https://music.apple.com/us/song/the-gardener/1876653062
+[1e26baa25f]: https://music.apple.com/us/song/the-flowers-of-evil/1876653068
+[ae42a94939]: https://music.apple.com/us/song/children-of-cain/1876653071
+[fb7f282412]: https://music.apple.com/us/song/disengaged/1876653282
+[946cd884bc]: https://music.apple.com/us/song/lay-down-your-goddamn-arms/1876653288
+[22a6a7209a]: https://music.apple.com/us/song/murderers-are-getting-prettier-every-day/1876653292
+[4f5e76bab7]: https://music.apple.com/us/song/born-villain/1876653293
+[e9db9feb06]: https://music.apple.com/us/song/breaking-the-same-old-ground/1876653294
+[b947b576b6]: https://music.apple.com/us/song/you-re-so-vain/1876653303
+[997bf43da8]: https://music.apple.com/us/song/killing-strangers/1876189655
+[a0dcce5d2e]: https://music.apple.com/us/song/deep-six/1876189657
+[6e54cb2a1a]: https://music.apple.com/us/song/third-day-of-a-seven-day-binge/1876189662
+[36c340fe3c]: https://music.apple.com/us/song/the-mephistopheles-of-los-angeles/1876189845
+[d577ba03db]: https://music.apple.com/us/song/warship-my-wreck/1876189846
+[298ea4f4dd]: https://music.apple.com/us/song/slave-only-dreams-to-be-king/1876189860
+[c6f2c85e45]: https://music.apple.com/us/song/the-devil-beneath-my-feet/1876189866
+[97bf128f5d]: https://music.apple.com/us/song/birds-of-hell-awaiting/1876189869
+[53ede473a4]: https://music.apple.com/us/song/cupid-carries-a-gun/1876321237
+[342b063bbb]: https://music.apple.com/us/song/odds-of-even/1876190057
+[54af5938e7]: https://music.apple.com/us/song/revelation-12/1440944046
+[050cf30850]: https://music.apple.com/us/song/tattooed-in-reverse/1440944208
+[f6f326642d]: https://music.apple.com/us/song/we-know-where-you-f-g-live/1440944214
+[bf65713823]: https://music.apple.com/us/song/say10/1440944222
+[2bbe4ea567]: https://music.apple.com/us/song/kill4me/1440944324
+[54dc536bcd]: https://music.apple.com/us/song/saturnalia/1440944335
+[edac7781dc]: https://music.apple.com/us/song/jesus-crisis/1440944343
+[68bd74b4f9]: https://music.apple.com/us/song/blood-honey/1440944349
+[30fa957cd7]: https://music.apple.com/us/song/heaven-upside-down/1440944446
+[9a3236c486]: https://music.apple.com/us/song/threats-of-romance/1440944454
+[d78b928e17]: https://music.apple.com/us/song/red-black-and-blue/1521762334
+[528b0468b3]: https://music.apple.com/us/song/we-are-chaos/1521762696
+[3b12291bb5]: https://music.apple.com/us/song/dont-chase-the-dead/1521762697
+[180bb30974]: https://music.apple.com/us/song/paint-you-with-my-love/1521762698
+[7570af4928]: https://music.apple.com/us/song/half-way-one-step-forward/1521762699
+[bda1715b80]: https://music.apple.com/us/song/infinite-darkness/1521762700
+[67e69c1b30]: https://music.apple.com/us/song/perfume/1521762701
+[b72eb7699f]: https://music.apple.com/us/song/keep-my-head-together/1521762702
+[ce37e2aed8]: https://music.apple.com/us/song/solve-coagula/1521762703
+[b4ef941831]: https://music.apple.com/us/song/broken-needle/1521762705

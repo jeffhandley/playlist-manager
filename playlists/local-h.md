@@ -13,7 +13,7 @@ Complete studio discography for Local H, organized by album in chronological ord
 
 ### Ordering
 
-- Tracks are ordered by album release date, then by track number within each album
+- Tracks are ordered by album release date, then by their order on each album
 - Do not shuffle — the chronological album order is intentional
 
 ### Sync Strategy
@@ -21,248 +21,248 @@ Complete studio discography for Local H, organized by album in chronological ord
 - Sync adds tracks **album-at-a-time** — navigating to each album page and adding all tracks to the playlist in sequence
 - This is faster and more reliable than individual song lookups
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Feed][1] | Local H | Ham Fisted | 1995 | |
-| 2 | [Cynic][2] | Local H | Ham Fisted | 1995 | |
-| 3 | [Mayonnaise and Malaise][3] | Local H | Ham Fisted | 1995 | |
-| 4 | [User][4] | Local H | Ham Fisted | 1995 | |
-| 5 | [Manipulator][5] | Local H | Ham Fisted | 1995 | |
-| 6 | [Bag of Hammers][6] | Local H | Ham Fisted | 1995 | |
-| 7 | [Scott-Rock][7] | Local H | Ham Fisted | 1995 | |
-| 8 | [Sports Bar][8] | Local H | Ham Fisted | 1995 | |
-| 9 | [Chicago Fanphair '93][9] | Local H | Ham Fisted | 1995 | |
-| 10 | [Strict-9][10] | Local H | Ham Fisted | 1995 | |
-| 11 | [Skid Marks][11] | Local H | Ham Fisted | 1995 | |
-| 12 | [Grrrlfriend][12] | Local H | Ham Fisted | 1995 | |
-| 13 | [Manifest Density, Pt. 1][13] | Local H | As Good as Dead | 1996 | |
-| 14 | [High-Fiving MF][14] | Local H | As Good as Dead | 1996 | |
-| 15 | [Bound for the Floor][15] | Local H | As Good as Dead | 1996 | |
-| 16 | [Lovey Dovey][16] | Local H | As Good as Dead | 1996 | |
-| 17 | [I Saw What You Did and I Know Who You Are][17] | Local H | As Good as Dead | 1996 | |
-| 18 | [No Problem][18] | Local H | As Good as Dead | 1996 | |
-| 19 | [Nothing Special][19] | Local H | As Good as Dead | 1996 | |
-| 20 | [Eddie Vedder][20] | Local H | As Good as Dead | 1996 | |
-| 21 | [Back in the Day][21] | Local H | As Good as Dead | 1996 | |
-| 22 | [Freeze-Dried (F) Lies][22] | Local H | As Good as Dead | 1996 | |
-| 23 | [Fritz's Corner][23] | Local H | As Good as Dead | 1996 | |
-| 24 | [O.K.][24] | Local H | As Good as Dead | 1996 | |
-| 25 | [Manifest Density, Pt. 2][25] | Local H | As Good as Dead | 1996 | |
-| 26 | [All-Right (Oh, Yeah)][26] | Local H | Pack Up the Cats | 1998 | |
-| 27 | ["Cha!" Said the Kitty][27] | Local H | Pack Up the Cats | 1998 | |
-| 28 | [Lucky][28] | Local H | Pack Up the Cats | 1998 | |
-| 29 | [Hit the Skids Or: How I Learned to Stop Worrying and Love the Rock][29] | Local H | Pack Up the Cats | 1998 | |
-| 30 | [500,000 Scovilles][30] | Local H | Pack Up the Cats | 1998 | |
-| 31 | [What Can I Tell You?][31] | Local H | Pack Up the Cats | 1998 | |
-| 32 | [Fine and Good][32] | Local H | Pack Up the Cats | 1998 | |
-| 33 | [Lead Pipe Cinch][33] | Local H | Pack Up the Cats | 1998 | |
-| 34 | [Cool Magnet][34] | Local H | Pack Up the Cats | 1998 | |
-| 35 | [She Hates My Job][35] | Local H | Pack Up the Cats | 1998 | |
-| 36 | [Stoney][36] | Local H | Pack Up the Cats | 1998 | |
-| 37 | [Laminate Man][37] | Local H | Pack Up the Cats | 1998 | |
-| 38 | [All the Kids Are Right][38] | Local H | Pack Up the Cats | 1998 | |
-| 39 | [Deep Cut][39] | Local H | Pack Up the Cats | 1998 | |
-| 40 | [Lucky Time][40] | Local H | Pack Up the Cats | 1998 | |
-| 41 | [Hands on the Bible][41] | Local H | Here Comes the Zoo | 2002 | |
-| 42 | [Half-Life][42] | Local H | Here Comes the Zoo | 2002 | |
-| 43 | [Son of "Cha!"][43] | Local H | Here Comes the Zoo | 2002 | |
-| 44 | [Fifth Ave. Crazy][44] | Local H | Here Comes the Zoo | 2002 | |
-| 45 | [(Baby Wants To) Tame Me][45] | Local H | Here Comes the Zoo | 2002 | |
-| 46 | [Rock & Roll Professionals][46] | Local H | Here Comes the Zoo | 2002 | |
-| 47 | [Keep Your Girlfriend][47] | Local H | Here Comes the Zoo | 2002 | |
-| 48 | [Creature Comforted][48] | Local H | Here Comes the Zoo | 2002 | |
-| 49 | [Bryn-Mawr Stomp][49] | Local H | Here Comes the Zoo | 2002 | |
-| 50 | [What Would You Have Me Do?][50] | Local H | Here Comes the Zoo | 2002 | |
-| 51 | [Where Are They Now?][51] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 52 | [Everyone Alive][52] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 53 | [California Songs][53] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 54 | [Dick Jones][54] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 55 | [Money On The Dresser][55] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 56 | [P.J. Soles][56] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 57 | [How's The Weather Down There?][57] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 58 | [Buffalo Trace][58] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 59 | [Heaven On The Way Down][59] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 60 | [Hey, Rita][60] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 61 | [Heavy Metal Bakesale][61] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 62 | [Mellowed][62] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 63 | [That's What They All Say][63] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 64 | [Halcyon Days (Where Were You Then)][64] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
-| 65 | January: The One With 'Kid' | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 66 | February: Michelle Again | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 67 | March: BMW Man | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 68 | April: White Belt Boys | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 69 | May: The Summer of Boats | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 70 | June: Taxi-Cabs | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 71 | July: 24 Hour Break-up Session | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 72 | August: Jesus Christ! Did You See the Size of That Sperm Whale | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 73 | September: Simple Pleas | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 74 | October: Machine Shed Wrestling | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 75 | November: Blur | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 76 | December: Hand To Mouth | Local H | 12 Angry Months | 2008 | Not on Apple Music |
-| 77 | [Waves][65] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 78 | [Cold Manor][66] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 79 | [Night Flight To Paris][67] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 80 | [They Saved Reagan's Brain][68] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 81 | [Blue Line][69] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 82 | [Another February][70] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 83 | [Say the Word][71] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 84 | [Cold and Mannered][72] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 85 | [Trash Fire Bummers][73] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 86 | [Feed a Fever][74] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 87 | [Here Come Ol' Laptop][75] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 88 | [Look Who's Walking On Four Legs Again][76] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 89 | [Ruling Kind][77] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 90 | [Limit Your Change][78] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 91 | [Paddy Considine][79] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 92 | [Sad History][80] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 93 | [Waves Again][81] | Local H | Hallelujah! I'm a Bum | 2012 | |
-| 94 | [The Last Picture Show in Zion][82] | Local H | Hey, Killer | 2015 | |
-| 95 | [City of Knives][83] | Local H | Hey, Killer | 2015 | |
-| 96 | [Freshly F****d][84] | Local H | Hey, Killer | 2015 | |
-| 97 | [Gig Bag Road][85] | Local H | Hey, Killer | 2015 | |
-| 98 | [The Misanthrope][86] | Local H | Hey, Killer | 2015 | |
-| 99 | [One of Us][87] | Local H | Hey, Killer | 2015 | |
-| 100 | [Leon and the Game of Skin][88] | Local H | Hey, Killer | 2015 | |
-| 101 | [Mansplainer][89] | Local H | Hey, Killer | 2015 | |
-| 102 | [Age Group Champion][90] | Local H | Hey, Killer | 2015 | |
-| 103 | [John the Baptist Blues][91] | Local H | Hey, Killer | 2015 | |
-| 104 | [I Am a Salt Mine][92] | Local H | Hey, Killer | 2015 | |
-| 105 | [Patrick Bateman][93] | Local H | LIFERS | 2020 | |
-| 106 | [Hold That Thought][94] | Local H | LIFERS | 2020 | |
-| 107 | [High, Wide And Stupid][95] | Local H | LIFERS | 2020 | |
-| 108 | [Turn The Bow][96] | Local H | LIFERS | 2020 | |
-| 109 | [Winter Western][97] | Local H | LIFERS | 2020 | |
-| 110 | [Beyond The Valley Of Snakes][98] | Local H | LIFERS | 2020 | |
-| 111 | [Sunday Best][99] | Local H | LIFERS | 2020 | |
-| 112 | [Demon Dreams][100] | Local H | LIFERS | 2020 | |
-| 113 | [Farrah][101] | Local H | LIFERS | 2020 | |
-| 114 | [Defy And Surrender][102] | Local H | LIFERS | 2020 | |
-| 115 | [Innocents][103] | Local H | LIFERS | 2020 | |
-| 116 | [Feed (Refisted)][104] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 117 | [Cynic (Refisted)][105] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 118 | [Mayonnaise and Malaise (Refisted)][106] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 119 | [User (Refisted)][107] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 120 | [Sports Bar (Refisted)][108] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 121 | [Manipulator (Refisted)][109] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 122 | [Bag of Hammers (Refisted)][110] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 123 | [Chicago Fanphair '23 (Refisted)][111] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 124 | [Scott - Rock (Refisted)][112] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 125 | [Strict - 9 (Refisted)][113] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 126 | [Skid Marks (Refisted) (feat. Sincere Engineer)][114] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
-| 127 | [Grrrlfriend (Refisted)][115] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| Song | Artist | Album | Year | Note |
+|------|--------|-------|------|------|
+| [Feed][1dafbda8b3] | Local H | Ham Fisted | 1995 | |
+| [Cynic][e61543a962] | Local H | Ham Fisted | 1995 | |
+| [Mayonnaise and Malaise][7ca13cffe4] | Local H | Ham Fisted | 1995 | |
+| [User][e6042e5bf1] | Local H | Ham Fisted | 1995 | |
+| [Manipulator][870e68dd2b] | Local H | Ham Fisted | 1995 | |
+| [Bag of Hammers][4bee033baa] | Local H | Ham Fisted | 1995 | |
+| [Scott-Rock][1cd6b33475] | Local H | Ham Fisted | 1995 | |
+| [Sports Bar][bc1f98391d] | Local H | Ham Fisted | 1995 | |
+| [Chicago Fanphair '93][9655dd511f] | Local H | Ham Fisted | 1995 | |
+| [Strict-9][8bb68d18a0] | Local H | Ham Fisted | 1995 | |
+| [Skid Marks][001f5c2730] | Local H | Ham Fisted | 1995 | |
+| [Grrrlfriend][2f7e020173] | Local H | Ham Fisted | 1995 | |
+| [Manifest Density, Pt. 1][2434adf9b2] | Local H | As Good as Dead | 1996 | |
+| [High-Fiving MF][7ef667a6b3] | Local H | As Good as Dead | 1996 | |
+| [Bound for the Floor][9f0116ef70] | Local H | As Good as Dead | 1996 | |
+| [Lovey Dovey][568afc438e] | Local H | As Good as Dead | 1996 | |
+| [I Saw What You Did and I Know Who You Are][026e81c45a] | Local H | As Good as Dead | 1996 | |
+| [No Problem][7c9b18027f] | Local H | As Good as Dead | 1996 | |
+| [Nothing Special][60c9d0a12a] | Local H | As Good as Dead | 1996 | |
+| [Eddie Vedder][89a40c3ead] | Local H | As Good as Dead | 1996 | |
+| [Back in the Day][e6a79c4bd0] | Local H | As Good as Dead | 1996 | |
+| [Freeze-Dried (F) Lies][9e52ea3d8a] | Local H | As Good as Dead | 1996 | |
+| [Fritz's Corner][eb5cbb3d3a] | Local H | As Good as Dead | 1996 | |
+| [O.K.][60401238cc] | Local H | As Good as Dead | 1996 | |
+| [Manifest Density, Pt. 2][d4bf63fcb9] | Local H | As Good as Dead | 1996 | |
+| [All-Right (Oh, Yeah)][01e44bfe55] | Local H | Pack Up the Cats | 1998 | |
+| ["Cha!" Said the Kitty][139b52401e] | Local H | Pack Up the Cats | 1998 | |
+| [Lucky][1135fafeaa] | Local H | Pack Up the Cats | 1998 | |
+| [Hit the Skids Or: How I Learned to Stop Worrying and Love the Rock][a7e76c0b66] | Local H | Pack Up the Cats | 1998 | |
+| [500,000 Scovilles][4ca36e3d47] | Local H | Pack Up the Cats | 1998 | |
+| [What Can I Tell You?][32d7ed5129] | Local H | Pack Up the Cats | 1998 | |
+| [Fine and Good][57c9a0faa2] | Local H | Pack Up the Cats | 1998 | |
+| [Lead Pipe Cinch][a03fbbd901] | Local H | Pack Up the Cats | 1998 | |
+| [Cool Magnet][108a3e3a2c] | Local H | Pack Up the Cats | 1998 | |
+| [She Hates My Job][676795603b] | Local H | Pack Up the Cats | 1998 | |
+| [Stoney][51a9de1437] | Local H | Pack Up the Cats | 1998 | |
+| [Laminate Man][c9cc6c386f] | Local H | Pack Up the Cats | 1998 | |
+| [All the Kids Are Right][af2143c6c9] | Local H | Pack Up the Cats | 1998 | |
+| [Deep Cut][916d959eb3] | Local H | Pack Up the Cats | 1998 | |
+| [Lucky Time][9729cd9889] | Local H | Pack Up the Cats | 1998 | |
+| [Hands on the Bible][9e4db5946e] | Local H | Here Comes the Zoo | 2002 | |
+| [Half-Life][8479ad14c7] | Local H | Here Comes the Zoo | 2002 | |
+| [Son of "Cha!"][082cb02734] | Local H | Here Comes the Zoo | 2002 | |
+| [Fifth Ave. Crazy][aae286247b] | Local H | Here Comes the Zoo | 2002 | |
+| [(Baby Wants To) Tame Me][8a953158b4] | Local H | Here Comes the Zoo | 2002 | |
+| [Rock & Roll Professionals][87aabfeaf7] | Local H | Here Comes the Zoo | 2002 | |
+| [Keep Your Girlfriend][22704e2b7f] | Local H | Here Comes the Zoo | 2002 | |
+| [Creature Comforted][0a8e90a11b] | Local H | Here Comes the Zoo | 2002 | |
+| [Bryn-Mawr Stomp][5cef17fc43] | Local H | Here Comes the Zoo | 2002 | |
+| [What Would You Have Me Do?][ae505bf47c] | Local H | Here Comes the Zoo | 2002 | |
+| [Where Are They Now?][3fde3c6968] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Everyone Alive][4cd4cb9eed] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [California Songs][a3fb7059a6] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Dick Jones][58147c2ae0] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Money On The Dresser][a8f33ffa23] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [P.J. Soles][d7634b7110] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [How's The Weather Down There?][db579baaae] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Buffalo Trace][81cc8f6d57] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Heaven On The Way Down][46c453e6f6] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Hey, Rita][7ece666b18] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Heavy Metal Bakesale][38fe5c279f] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Mellowed][3a8b9a7cb6] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [That's What They All Say][38d21c5975] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| [Halcyon Days (Where Were You Then)][84b5d0f3aa] | Local H | Whatever Happened to P.J. Soles? | 2004 | |
+| January: The One With 'Kid' | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| February: Michelle Again | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| March: BMW Man | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| April: White Belt Boys | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| May: The Summer of Boats | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| June: Taxi-Cabs | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| July: 24 Hour Break-up Session | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| August: Jesus Christ! Did You See the Size of That Sperm Whale | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| September: Simple Pleas | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| October: Machine Shed Wrestling | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| November: Blur | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| December: Hand To Mouth | Local H | 12 Angry Months | 2008 | Not on Apple Music |
+| [Waves][41161de35f] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Cold Manor][134dbdb56c] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Night Flight To Paris][14f42259ea] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [They Saved Reagan's Brain][233f11675a] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Blue Line][66eb4209aa] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Another February][e969906743] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Say the Word][d18b662cb1] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Cold and Mannered][5476e578db] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Trash Fire Bummers][ece763d098] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Feed a Fever][f2736dc1aa] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Here Come Ol' Laptop][e78e939c4a] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Look Who's Walking On Four Legs Again][bbe5f35e73] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Ruling Kind][bc37cf4e73] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Limit Your Change][c8d4f6d453] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Paddy Considine][3804438da5] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Sad History][6fba489fd8] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [Waves Again][138285a16c] | Local H | Hallelujah! I'm a Bum | 2012 | |
+| [The Last Picture Show in Zion][d168099d50] | Local H | Hey, Killer | 2015 | |
+| [City of Knives][69e5033fcf] | Local H | Hey, Killer | 2015 | |
+| [Freshly F****d][f34b2be509] | Local H | Hey, Killer | 2015 | |
+| [Gig Bag Road][cffcad09d9] | Local H | Hey, Killer | 2015 | |
+| [The Misanthrope][7bacf68972] | Local H | Hey, Killer | 2015 | |
+| [One of Us][21eabf1b85] | Local H | Hey, Killer | 2015 | |
+| [Leon and the Game of Skin][a958f18651] | Local H | Hey, Killer | 2015 | |
+| [Mansplainer][14ed913b03] | Local H | Hey, Killer | 2015 | |
+| [Age Group Champion][90682f1809] | Local H | Hey, Killer | 2015 | |
+| [John the Baptist Blues][30f9e94122] | Local H | Hey, Killer | 2015 | |
+| [I Am a Salt Mine][6d34fc289c] | Local H | Hey, Killer | 2015 | |
+| [Patrick Bateman][4925d00641] | Local H | LIFERS | 2020 | |
+| [Hold That Thought][5cde7ef617] | Local H | LIFERS | 2020 | |
+| [High, Wide And Stupid][822e61cad0] | Local H | LIFERS | 2020 | |
+| [Turn The Bow][f5aff01b04] | Local H | LIFERS | 2020 | |
+| [Winter Western][cda02e84a8] | Local H | LIFERS | 2020 | |
+| [Beyond The Valley Of Snakes][86c61a84ff] | Local H | LIFERS | 2020 | |
+| [Sunday Best][3e101532ed] | Local H | LIFERS | 2020 | |
+| [Demon Dreams][5b78c8e0b2] | Local H | LIFERS | 2020 | |
+| [Farrah][fbc26b6af0] | Local H | LIFERS | 2020 | |
+| [Defy And Surrender][20c56b2833] | Local H | LIFERS | 2020 | |
+| [Innocents][28f1941647] | Local H | LIFERS | 2020 | |
+| [Feed (Refisted)][c396fc397f] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Cynic (Refisted)][e0fcd94773] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Mayonnaise and Malaise (Refisted)][7126aa5137] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [User (Refisted)][3f978b543b] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Sports Bar (Refisted)][d6e6ee169f] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Manipulator (Refisted)][3ee989db5e] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Bag of Hammers (Refisted)][79173e2f59] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Chicago Fanphair '23 (Refisted)][6c59001a81] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Scott - Rock (Refisted)][a8fc7fa7df] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Strict - 9 (Refisted)][9ed5c95802] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Skid Marks (Refisted) (feat. Sincere Engineer)][953d21e534] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
+| [Grrrlfriend (Refisted)][d67436db45] | Local H | Refisted | 2025 | Re-recording of Ham Fisted |
 
-[1]: https://music.apple.com/us/song/feed/1443729054
-[2]: https://music.apple.com/us/song/cynic/1443729057
-[3]: https://music.apple.com/us/song/mayonnaise-and-malaise/1443729060
-[4]: https://music.apple.com/us/song/user/1443729062
-[5]: https://music.apple.com/us/song/manipulator/1443729063
-[6]: https://music.apple.com/us/song/bag-of-hammers/1443729065
-[7]: https://music.apple.com/us/song/scott-rock/1443729066
-[8]: https://music.apple.com/us/song/sports-bar/1443729068
-[9]: https://music.apple.com/us/song/chicago-fanphair-93/1443729069
-[10]: https://music.apple.com/us/song/strict-9/1443729612
-[11]: https://music.apple.com/us/song/skid-marks/1443729613
-[12]: https://music.apple.com/us/song/grrrlfriend/1443729616
-[13]: https://music.apple.com/us/song/manifest-density-pt-1/1440922510
-[14]: https://music.apple.com/us/song/high-fiving-mf/1440922703
-[15]: https://music.apple.com/us/song/bound-for-the-floor/1440922708
-[16]: https://music.apple.com/us/song/lovey-dovey/1440922714
-[17]: https://music.apple.com/us/song/i-saw-what-you-did-and-i-know-who-you-are/1440922718
-[18]: https://music.apple.com/us/song/no-problem/1440922879
-[19]: https://music.apple.com/us/song/nothing-special/1440922884
-[20]: https://music.apple.com/us/song/eddie-vedder/1440923144
-[21]: https://music.apple.com/us/song/back-in-the-day/1440923150
-[22]: https://music.apple.com/us/song/freeze-dried-f-lies/1440923155
-[23]: https://music.apple.com/us/song/fritzs-corner/1440923294
-[24]: https://music.apple.com/us/song/o-k/1440923312
-[25]: https://music.apple.com/us/song/manifest-density-pt-2/1440923384
-[26]: https://music.apple.com/us/song/all-right-oh-yeah/1443784584
-[27]: https://music.apple.com/us/song/cha-said-the-kitty/1443784586
-[28]: https://music.apple.com/us/song/lucky/1443784587
-[29]: https://music.apple.com/us/song/hit-the-skids-or-how-i-learned-to-stop-worrying-and/1443784589
-[30]: https://music.apple.com/us/song/500-000-scovilles/1443784591
-[31]: https://music.apple.com/us/song/what-can-i-tell-you/1443784592
-[32]: https://music.apple.com/us/song/fine-and-good/1443784593
-[33]: https://music.apple.com/us/song/lead-pipe-cinch/1443784595
-[34]: https://music.apple.com/us/song/cool-magnet/1443784596
-[35]: https://music.apple.com/us/song/she-hates-my-job/1443784597
-[36]: https://music.apple.com/us/song/stoney/1443784600
-[37]: https://music.apple.com/us/song/laminate-man/1443784813
-[38]: https://music.apple.com/us/song/all-the-kids-are-right/1443784814
-[39]: https://music.apple.com/us/song/deep-cut/1443784816
-[40]: https://music.apple.com/us/song/lucky-time/1443784817
-[41]: https://music.apple.com/us/song/hands-on-the-bible/1503666203
-[42]: https://music.apple.com/us/song/half-life/1503666206
-[43]: https://music.apple.com/us/song/son-of-cha/1503666207
-[44]: https://music.apple.com/us/song/fifth-ave-crazy/1503666208
-[45]: https://music.apple.com/us/song/baby-wants-to-tame-me/1503666209
-[46]: https://music.apple.com/us/song/rock-roll-professionals/1503666211
-[47]: https://music.apple.com/us/song/keep-your-girlfriend/1503666637
-[48]: https://music.apple.com/us/song/creature-comforted/1503666642
-[49]: https://music.apple.com/us/song/bryn-mawr-stomp/1503666644
-[50]: https://music.apple.com/us/song/what-would-you-have-me-do/1503666647
-[51]: https://music.apple.com/us/song/where-are-they-now/368596194
-[52]: https://music.apple.com/us/song/everyone-alive/368596197
-[53]: https://music.apple.com/us/song/california-songs/368596199
-[54]: https://music.apple.com/us/song/dick-jones/368596220
-[55]: https://music.apple.com/us/song/money-on-the-dresser/368596221
-[56]: https://music.apple.com/us/song/p-j-soles/368596222
-[57]: https://music.apple.com/us/song/hows-the-weather-down-there/368596236
-[58]: https://music.apple.com/us/song/buffalo-trace/368596244
-[59]: https://music.apple.com/us/song/heaven-on-the-way-down/368596245
-[60]: https://music.apple.com/us/song/hey-rita/368596248
-[61]: https://music.apple.com/us/song/heavy-metal-bakesale/368596250
-[62]: https://music.apple.com/us/song/mellowed/368596252
-[63]: https://music.apple.com/us/song/thats-what-they-all-say/368596256
-[64]: https://music.apple.com/us/song/halcyon-days-where-were-you-then/368596264
-[65]: https://music.apple.com/us/song/waves/1741201556
-[66]: https://music.apple.com/us/song/cold-manor/1741201557
-[67]: https://music.apple.com/us/song/night-flight-to-paris/1741201558
-[68]: https://music.apple.com/us/song/they-saved-reagans-brain/1741201559
-[69]: https://music.apple.com/us/song/blue-line/1741201560
-[70]: https://music.apple.com/us/song/another-february/1741201561
-[71]: https://music.apple.com/us/song/say-the-word/1741201562
-[72]: https://music.apple.com/us/song/cold-and-mannered/1741201563
-[73]: https://music.apple.com/us/song/trash-fire-bummers/1741201564
-[74]: https://music.apple.com/us/song/feed-a-fever/1741201567
-[75]: https://music.apple.com/us/song/here-come-ol-laptop/1741201568
-[76]: https://music.apple.com/us/song/look-whos-walking-on-four-legs-again/1741201569
-[77]: https://music.apple.com/us/song/ruling-kind/1741201570
-[78]: https://music.apple.com/us/song/limit-your-change/1741201571
-[79]: https://music.apple.com/us/song/paddy-considine/1741201572
-[80]: https://music.apple.com/us/song/sad-history/1741201573
-[81]: https://music.apple.com/us/song/waves-again/1741201574
-[82]: https://music.apple.com/us/song/the-last-picture-show-in-zion/982958632
-[83]: https://music.apple.com/us/song/city-of-knives/982958633
-[84]: https://music.apple.com/us/song/freshly-f-d/982958634
-[85]: https://music.apple.com/us/song/gig-bag-road/982958635
-[86]: https://music.apple.com/us/song/the-misanthrope/982958636
-[87]: https://music.apple.com/us/song/one-of-us/982958637
-[88]: https://music.apple.com/us/song/leon-and-the-game-of-skin/982958638
-[89]: https://music.apple.com/us/song/mansplainer/982958639
-[90]: https://music.apple.com/us/song/age-group-champion/982958640
-[91]: https://music.apple.com/us/song/john-the-baptist-blues/982958641
-[92]: https://music.apple.com/us/song/i-am-a-salt-mine/982958642
-[93]: https://music.apple.com/us/song/patrick-bateman/1849338608
-[94]: https://music.apple.com/us/song/hold-that-thought/1849338609
-[95]: https://music.apple.com/us/song/high-wide-and-stupid/1849338610
-[96]: https://music.apple.com/us/song/turn-the-bow/1849338611
-[97]: https://music.apple.com/us/song/winter-western/1849338612
-[98]: https://music.apple.com/us/song/beyond-the-valley-of-snakes/1849338613
-[99]: https://music.apple.com/us/song/sunday-best/1849338614
-[100]: https://music.apple.com/us/song/demon-dreams/1849338615
-[101]: https://music.apple.com/us/song/farrah/1849338617
-[102]: https://music.apple.com/us/song/defy-and-surrender/1849339008
-[103]: https://music.apple.com/us/song/innocents/1849339009
-[104]: https://music.apple.com/us/song/feed-refisted-refisted/1834214441
-[105]: https://music.apple.com/us/song/cynic-refisted-refisted/1834214509
-[106]: https://music.apple.com/us/song/mayonnaise-and-malaise-refisted-refisted/1834214510
-[107]: https://music.apple.com/us/song/user-refisted-refisted/1834214512
-[108]: https://music.apple.com/us/song/sports-bar-refisted-refisted/1834214514
-[109]: https://music.apple.com/us/song/manipulator-refisted-refisted/1834214516
-[110]: https://music.apple.com/us/song/bag-of-hammers-refisted-refisted/1834214518
-[111]: https://music.apple.com/us/song/chicago-fanphair-23-refisted-refisted/1834214519
-[112]: https://music.apple.com/us/song/scott-rock-refisted-refisted/1834214521
-[113]: https://music.apple.com/us/song/strict-9-refisted-refisted/1834214523
-[114]: https://music.apple.com/us/song/skid-marks-refisted-feat-sincere-engineer-refisted/1834214525
-[115]: https://music.apple.com/us/song/grrrlfriend-refisted-refisted/1834214528
+[1dafbda8b3]: https://music.apple.com/us/song/feed/1443729054
+[e61543a962]: https://music.apple.com/us/song/cynic/1443729057
+[7ca13cffe4]: https://music.apple.com/us/song/mayonnaise-and-malaise/1443729060
+[e6042e5bf1]: https://music.apple.com/us/song/user/1443729062
+[870e68dd2b]: https://music.apple.com/us/song/manipulator/1443729063
+[4bee033baa]: https://music.apple.com/us/song/bag-of-hammers/1443729065
+[1cd6b33475]: https://music.apple.com/us/song/scott-rock/1443729066
+[bc1f98391d]: https://music.apple.com/us/song/sports-bar/1443729068
+[9655dd511f]: https://music.apple.com/us/song/chicago-fanphair-93/1443729069
+[8bb68d18a0]: https://music.apple.com/us/song/strict-9/1443729612
+[001f5c2730]: https://music.apple.com/us/song/skid-marks/1443729613
+[2f7e020173]: https://music.apple.com/us/song/grrrlfriend/1443729616
+[2434adf9b2]: https://music.apple.com/us/song/manifest-density-pt-1/1440922510
+[7ef667a6b3]: https://music.apple.com/us/song/high-fiving-mf/1440922703
+[9f0116ef70]: https://music.apple.com/us/song/bound-for-the-floor/1440922708
+[568afc438e]: https://music.apple.com/us/song/lovey-dovey/1440922714
+[026e81c45a]: https://music.apple.com/us/song/i-saw-what-you-did-and-i-know-who-you-are/1440922718
+[7c9b18027f]: https://music.apple.com/us/song/no-problem/1440922879
+[60c9d0a12a]: https://music.apple.com/us/song/nothing-special/1440922884
+[89a40c3ead]: https://music.apple.com/us/song/eddie-vedder/1440923144
+[e6a79c4bd0]: https://music.apple.com/us/song/back-in-the-day/1440923150
+[9e52ea3d8a]: https://music.apple.com/us/song/freeze-dried-f-lies/1440923155
+[eb5cbb3d3a]: https://music.apple.com/us/song/fritzs-corner/1440923294
+[60401238cc]: https://music.apple.com/us/song/o-k/1440923312
+[d4bf63fcb9]: https://music.apple.com/us/song/manifest-density-pt-2/1440923384
+[01e44bfe55]: https://music.apple.com/us/song/all-right-oh-yeah/1443784584
+[139b52401e]: https://music.apple.com/us/song/cha-said-the-kitty/1443784586
+[1135fafeaa]: https://music.apple.com/us/song/lucky/1443784587
+[a7e76c0b66]: https://music.apple.com/us/song/hit-the-skids-or-how-i-learned-to-stop-worrying-and/1443784589
+[4ca36e3d47]: https://music.apple.com/us/song/500-000-scovilles/1443784591
+[32d7ed5129]: https://music.apple.com/us/song/what-can-i-tell-you/1443784592
+[57c9a0faa2]: https://music.apple.com/us/song/fine-and-good/1443784593
+[a03fbbd901]: https://music.apple.com/us/song/lead-pipe-cinch/1443784595
+[108a3e3a2c]: https://music.apple.com/us/song/cool-magnet/1443784596
+[676795603b]: https://music.apple.com/us/song/she-hates-my-job/1443784597
+[51a9de1437]: https://music.apple.com/us/song/stoney/1443784600
+[c9cc6c386f]: https://music.apple.com/us/song/laminate-man/1443784813
+[af2143c6c9]: https://music.apple.com/us/song/all-the-kids-are-right/1443784814
+[916d959eb3]: https://music.apple.com/us/song/deep-cut/1443784816
+[9729cd9889]: https://music.apple.com/us/song/lucky-time/1443784817
+[9e4db5946e]: https://music.apple.com/us/song/hands-on-the-bible/1503666203
+[8479ad14c7]: https://music.apple.com/us/song/half-life/1503666206
+[082cb02734]: https://music.apple.com/us/song/son-of-cha/1503666207
+[aae286247b]: https://music.apple.com/us/song/fifth-ave-crazy/1503666208
+[8a953158b4]: https://music.apple.com/us/song/baby-wants-to-tame-me/1503666209
+[87aabfeaf7]: https://music.apple.com/us/song/rock-roll-professionals/1503666211
+[22704e2b7f]: https://music.apple.com/us/song/keep-your-girlfriend/1503666637
+[0a8e90a11b]: https://music.apple.com/us/song/creature-comforted/1503666642
+[5cef17fc43]: https://music.apple.com/us/song/bryn-mawr-stomp/1503666644
+[ae505bf47c]: https://music.apple.com/us/song/what-would-you-have-me-do/1503666647
+[3fde3c6968]: https://music.apple.com/us/song/where-are-they-now/368596194
+[4cd4cb9eed]: https://music.apple.com/us/song/everyone-alive/368596197
+[a3fb7059a6]: https://music.apple.com/us/song/california-songs/368596199
+[58147c2ae0]: https://music.apple.com/us/song/dick-jones/368596220
+[a8f33ffa23]: https://music.apple.com/us/song/money-on-the-dresser/368596221
+[d7634b7110]: https://music.apple.com/us/song/p-j-soles/368596222
+[db579baaae]: https://music.apple.com/us/song/hows-the-weather-down-there/368596236
+[81cc8f6d57]: https://music.apple.com/us/song/buffalo-trace/368596244
+[46c453e6f6]: https://music.apple.com/us/song/heaven-on-the-way-down/368596245
+[7ece666b18]: https://music.apple.com/us/song/hey-rita/368596248
+[38fe5c279f]: https://music.apple.com/us/song/heavy-metal-bakesale/368596250
+[3a8b9a7cb6]: https://music.apple.com/us/song/mellowed/368596252
+[38d21c5975]: https://music.apple.com/us/song/thats-what-they-all-say/368596256
+[84b5d0f3aa]: https://music.apple.com/us/song/halcyon-days-where-were-you-then/368596264
+[41161de35f]: https://music.apple.com/us/song/waves/1741201556
+[134dbdb56c]: https://music.apple.com/us/song/cold-manor/1741201557
+[14f42259ea]: https://music.apple.com/us/song/night-flight-to-paris/1741201558
+[233f11675a]: https://music.apple.com/us/song/they-saved-reagans-brain/1741201559
+[66eb4209aa]: https://music.apple.com/us/song/blue-line/1741201560
+[e969906743]: https://music.apple.com/us/song/another-february/1741201561
+[d18b662cb1]: https://music.apple.com/us/song/say-the-word/1741201562
+[5476e578db]: https://music.apple.com/us/song/cold-and-mannered/1741201563
+[ece763d098]: https://music.apple.com/us/song/trash-fire-bummers/1741201564
+[f2736dc1aa]: https://music.apple.com/us/song/feed-a-fever/1741201567
+[e78e939c4a]: https://music.apple.com/us/song/here-come-ol-laptop/1741201568
+[bbe5f35e73]: https://music.apple.com/us/song/look-whos-walking-on-four-legs-again/1741201569
+[bc37cf4e73]: https://music.apple.com/us/song/ruling-kind/1741201570
+[c8d4f6d453]: https://music.apple.com/us/song/limit-your-change/1741201571
+[3804438da5]: https://music.apple.com/us/song/paddy-considine/1741201572
+[6fba489fd8]: https://music.apple.com/us/song/sad-history/1741201573
+[138285a16c]: https://music.apple.com/us/song/waves-again/1741201574
+[d168099d50]: https://music.apple.com/us/song/the-last-picture-show-in-zion/982958632
+[69e5033fcf]: https://music.apple.com/us/song/city-of-knives/982958633
+[f34b2be509]: https://music.apple.com/us/song/freshly-f-d/982958634
+[cffcad09d9]: https://music.apple.com/us/song/gig-bag-road/982958635
+[7bacf68972]: https://music.apple.com/us/song/the-misanthrope/982958636
+[21eabf1b85]: https://music.apple.com/us/song/one-of-us/982958637
+[a958f18651]: https://music.apple.com/us/song/leon-and-the-game-of-skin/982958638
+[14ed913b03]: https://music.apple.com/us/song/mansplainer/982958639
+[90682f1809]: https://music.apple.com/us/song/age-group-champion/982958640
+[30f9e94122]: https://music.apple.com/us/song/john-the-baptist-blues/982958641
+[6d34fc289c]: https://music.apple.com/us/song/i-am-a-salt-mine/982958642
+[4925d00641]: https://music.apple.com/us/song/patrick-bateman/1849338608
+[5cde7ef617]: https://music.apple.com/us/song/hold-that-thought/1849338609
+[822e61cad0]: https://music.apple.com/us/song/high-wide-and-stupid/1849338610
+[f5aff01b04]: https://music.apple.com/us/song/turn-the-bow/1849338611
+[cda02e84a8]: https://music.apple.com/us/song/winter-western/1849338612
+[86c61a84ff]: https://music.apple.com/us/song/beyond-the-valley-of-snakes/1849338613
+[3e101532ed]: https://music.apple.com/us/song/sunday-best/1849338614
+[5b78c8e0b2]: https://music.apple.com/us/song/demon-dreams/1849338615
+[fbc26b6af0]: https://music.apple.com/us/song/farrah/1849338617
+[20c56b2833]: https://music.apple.com/us/song/defy-and-surrender/1849339008
+[28f1941647]: https://music.apple.com/us/song/innocents/1849339009
+[c396fc397f]: https://music.apple.com/us/song/feed-refisted-refisted/1834214441
+[e0fcd94773]: https://music.apple.com/us/song/cynic-refisted-refisted/1834214509
+[7126aa5137]: https://music.apple.com/us/song/mayonnaise-and-malaise-refisted-refisted/1834214510
+[3f978b543b]: https://music.apple.com/us/song/user-refisted-refisted/1834214512
+[d6e6ee169f]: https://music.apple.com/us/song/sports-bar-refisted-refisted/1834214514
+[3ee989db5e]: https://music.apple.com/us/song/manipulator-refisted-refisted/1834214516
+[79173e2f59]: https://music.apple.com/us/song/bag-of-hammers-refisted-refisted/1834214518
+[6c59001a81]: https://music.apple.com/us/song/chicago-fanphair-23-refisted-refisted/1834214519
+[a8fc7fa7df]: https://music.apple.com/us/song/scott-rock-refisted-refisted/1834214521
+[9ed5c95802]: https://music.apple.com/us/song/strict-9-refisted-refisted/1834214523
+[953d21e534]: https://music.apple.com/us/song/skid-marks-refisted-feat-sincere-engineer-refisted/1834214525
+[d67436db45]: https://music.apple.com/us/song/grrrlfriend-refisted-refisted/1834214528

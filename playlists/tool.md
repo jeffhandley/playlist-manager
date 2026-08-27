@@ -13,7 +13,7 @@ Complete studio discography for TOOL, organized by album in chronological order.
 
 ### Ordering
 
-- Tracks are ordered by album release date, then by track number within each album
+- Tracks are ordered by album release date, then by their order on each album
 - Do not shuffle — the chronological album order is intentional
 
 ### Sync Strategy
@@ -23,136 +23,136 @@ Complete studio discography for TOOL, organized by album in chronological order.
 
 ## Tracks
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Sweat][1] | TOOL | Opiate (EP) | 1992 | |
-| 2 | [Hush][2] | TOOL | Opiate (EP) | 1992 | |
-| 3 | [Part of Me][3] | TOOL | Opiate (EP) | 1992 | |
-| 4 | [Cold and Ugly (Live)][4] | TOOL | Opiate (EP) | 1992 | |
-| 5 | [Jerk-Off (Live)][5] | TOOL | Opiate (EP) | 1992 | |
-| 6 | [Opiate][6] | TOOL | Opiate (EP) | 1992 | |
-| 7 | [Intolerance][7] | TOOL | Undertow | 1993 | |
-| 8 | [Prison Sex][8] | TOOL | Undertow | 1993 | |
-| 9 | [Sober][9] | TOOL | Undertow | 1993 | |
-| 10 | [Bottom][10] | TOOL | Undertow | 1993 | |
-| 11 | [Crawl Away][11] | TOOL | Undertow | 1993 | |
-| 12 | [Swamp Song][12] | TOOL | Undertow | 1993 | |
-| 13 | [Undertow][13] | TOOL | Undertow | 1993 | |
-| 14 | [4°][14] | TOOL | Undertow | 1993 | |
-| 15 | [Flood][15] | TOOL | Undertow | 1993 | |
-| 16 | [Disgustipated][16] | TOOL | Undertow | 1993 | |
-| 17 | [Stinkfist][17] | TOOL | Ænima | 1996 | |
-| 18 | [Eulogy][18] | TOOL | Ænima | 1996 | |
-| 19 | [H.][19] | TOOL | Ænima | 1996 | |
-| 20 | [Useful Idiot][20] | TOOL | Ænima | 1996 | |
-| 21 | [Forty Six & 2][21] | TOOL | Ænima | 1996 | |
-| 22 | [Message To Harry Manback][22] | TOOL | Ænima | 1996 | |
-| 23 | [Hooker With A Penis][23] | TOOL | Ænima | 1996 | |
-| 24 | [Intermission][24] | TOOL | Ænima | 1996 | |
-| 25 | [Jimmy][25] | TOOL | Ænima | 1996 | |
-| 26 | [Die Eier von Satan][26] | TOOL | Ænima | 1996 | |
-| 27 | [Pushit][27] | TOOL | Ænima | 1996 | |
-| 28 | [Cesaro Summability][28] | TOOL | Ænima | 1996 | |
-| 29 | [Ænema][29] | TOOL | Ænima | 1996 | |
-| 30 | [(-) Ions][30] | TOOL | Ænima | 1996 | |
-| 31 | [Third Eye][31] | TOOL | Ænima | 1996 | |
-| 32 | [The Grudge][32] | TOOL | Lateralus | 2001 | |
-| 33 | [Eon Blue Apocalypse][33] | TOOL | Lateralus | 2001 | |
-| 34 | [The Patient][34] | TOOL | Lateralus | 2001 | |
-| 35 | [Mantra][35] | TOOL | Lateralus | 2001 | |
-| 36 | [Schism][36] | TOOL | Lateralus | 2001 | |
-| 37 | [Parabol][37] | TOOL | Lateralus | 2001 | |
-| 38 | [Parabola][38] | TOOL | Lateralus | 2001 | |
-| 39 | [Ticks & Leeches][39] | TOOL | Lateralus | 2001 | |
-| 40 | [Lateralus][40] | TOOL | Lateralus | 2001 | |
-| 41 | [Disposition][41] | TOOL | Lateralus | 2001 | |
-| 42 | [Reflection][42] | TOOL | Lateralus | 2001 | |
-| 43 | [Triad][43] | TOOL | Lateralus | 2001 | |
-| 44 | [Faaip De Oiad][44] | TOOL | Lateralus | 2001 | |
-| 45 | [Vicarious][45] | TOOL | 10,000 Days | 2006 | |
-| 46 | [Jambi][46] | TOOL | 10,000 Days | 2006 | |
-| 47 | [Wings for Marie, Pt. 1][47] | TOOL | 10,000 Days | 2006 | |
-| 48 | [10,000 Days (Wings, Pt. 2)][48] | TOOL | 10,000 Days | 2006 | |
-| 49 | [The Pot][49] | TOOL | 10,000 Days | 2006 | |
-| 50 | [Lipan Conjuring][50] | TOOL | 10,000 Days | 2006 | |
-| 51 | [Lost Keys (Blame Hofmann)][51] | TOOL | 10,000 Days | 2006 | |
-| 52 | [Rosetta Stoned][52] | TOOL | 10,000 Days | 2006 | |
-| 53 | [Intension][53] | TOOL | 10,000 Days | 2006 | |
-| 54 | [Right In Two][54] | TOOL | 10,000 Days | 2006 | |
-| 55 | [Viginti Tres][55] | TOOL | 10,000 Days | 2006 | |
-| 56 | [Fear Inoculum][56] | TOOL | Fear Inoculum | 2019 | |
-| 57 | [Pneuma][57] | TOOL | Fear Inoculum | 2019 | |
-| 58 | [Litanie contre la Peur][58] | TOOL | Fear Inoculum | 2019 | |
-| 59 | [Invincible][59] | TOOL | Fear Inoculum | 2019 | |
-| 60 | [Legion Inoculant][60] | TOOL | Fear Inoculum | 2019 | |
-| 61 | [Descending][61] | TOOL | Fear Inoculum | 2019 | |
-| 62 | [Culling Voices][62] | TOOL | Fear Inoculum | 2019 | |
-| 63 | [Chocolate Chip Trip][63] | TOOL | Fear Inoculum | 2019 | |
-| 64 | [7empest][64] | TOOL | Fear Inoculum | 2019 | |
-| 65 | [Mockingbeat][65] | TOOL | Fear Inoculum | 2019 | |
+| Song | Artist | Album | Year | Note |
+|------|--------|-------|------|------|
+| [Sweat][11843bf690] | TOOL | Opiate (EP) | 1992 | |
+| [Hush][550cf36b04] | TOOL | Opiate (EP) | 1992 | |
+| [Part of Me][2ba7bf3a73] | TOOL | Opiate (EP) | 1992 | |
+| [Cold and Ugly (Live)][207c273f80] | TOOL | Opiate (EP) | 1992 | |
+| [Jerk-Off (Live)][4287c612b4] | TOOL | Opiate (EP) | 1992 | |
+| [Opiate][fd730f424b] | TOOL | Opiate (EP) | 1992 | |
+| [Intolerance][2c589a5a4a] | TOOL | Undertow | 1993 | |
+| [Prison Sex][ee9810e95d] | TOOL | Undertow | 1993 | |
+| [Sober][b012ad61a3] | TOOL | Undertow | 1993 | |
+| [Bottom][fa2dd4729d] | TOOL | Undertow | 1993 | |
+| [Crawl Away][b7aaff7389] | TOOL | Undertow | 1993 | |
+| [Swamp Song][710a1e22df] | TOOL | Undertow | 1993 | |
+| [Undertow][1f1846a1f2] | TOOL | Undertow | 1993 | |
+| [4°][927403e23a] | TOOL | Undertow | 1993 | |
+| [Flood][4e367c2b5d] | TOOL | Undertow | 1993 | |
+| [Disgustipated][ab5d2dfcba] | TOOL | Undertow | 1993 | |
+| [Stinkfist][4d57bcce6f] | TOOL | Ænima | 1996 | |
+| [Eulogy][9d1b784656] | TOOL | Ænima | 1996 | |
+| [H.][83a59f6bac] | TOOL | Ænima | 1996 | |
+| [Useful Idiot][ab1a4746ba] | TOOL | Ænima | 1996 | |
+| [Forty Six & 2][4e7b1da1f9] | TOOL | Ænima | 1996 | |
+| [Message To Harry Manback][0d3e43c35d] | TOOL | Ænima | 1996 | |
+| [Hooker With A Penis][4bafb7feab] | TOOL | Ænima | 1996 | |
+| [Intermission][683f90af59] | TOOL | Ænima | 1996 | |
+| [Jimmy][438eae6f6a] | TOOL | Ænima | 1996 | |
+| [Die Eier von Satan][1a4ac48ffe] | TOOL | Ænima | 1996 | |
+| [Pushit][d68e554ee1] | TOOL | Ænima | 1996 | |
+| [Cesaro Summability][2757cc9c0b] | TOOL | Ænima | 1996 | |
+| [Ænema][ec57085ea2] | TOOL | Ænima | 1996 | |
+| [(-) Ions][675ef55280] | TOOL | Ænima | 1996 | |
+| [Third Eye][194ec3cf27] | TOOL | Ænima | 1996 | |
+| [The Grudge][5f14e848c7] | TOOL | Lateralus | 2001 | |
+| [Eon Blue Apocalypse][78d25f4777] | TOOL | Lateralus | 2001 | |
+| [The Patient][d292facfb7] | TOOL | Lateralus | 2001 | |
+| [Mantra][15657c9292] | TOOL | Lateralus | 2001 | |
+| [Schism][a4b8e0f38c] | TOOL | Lateralus | 2001 | |
+| [Parabol][d384962bd8] | TOOL | Lateralus | 2001 | |
+| [Parabola][dec73e880a] | TOOL | Lateralus | 2001 | |
+| [Ticks & Leeches][a0e64554ce] | TOOL | Lateralus | 2001 | |
+| [Lateralus][46b22ed88a] | TOOL | Lateralus | 2001 | |
+| [Disposition][658d36f733] | TOOL | Lateralus | 2001 | |
+| [Reflection][34150f4a0b] | TOOL | Lateralus | 2001 | |
+| [Triad][800bf7b3a3] | TOOL | Lateralus | 2001 | |
+| [Faaip De Oiad][5a75875159] | TOOL | Lateralus | 2001 | |
+| [Vicarious][28cb01fb28] | TOOL | 10,000 Days | 2006 | |
+| [Jambi][14a26123e6] | TOOL | 10,000 Days | 2006 | |
+| [Wings for Marie, Pt. 1][7921e12d45] | TOOL | 10,000 Days | 2006 | |
+| [10,000 Days (Wings, Pt. 2)][10c676055f] | TOOL | 10,000 Days | 2006 | |
+| [The Pot][a19b5fe428] | TOOL | 10,000 Days | 2006 | |
+| [Lipan Conjuring][2bb673c894] | TOOL | 10,000 Days | 2006 | |
+| [Lost Keys (Blame Hofmann)][ed6ea2a803] | TOOL | 10,000 Days | 2006 | |
+| [Rosetta Stoned][6d571c2619] | TOOL | 10,000 Days | 2006 | |
+| [Intension][ea95b7a78f] | TOOL | 10,000 Days | 2006 | |
+| [Right In Two][1ad03ecfee] | TOOL | 10,000 Days | 2006 | |
+| [Viginti Tres][0ab144c5d3] | TOOL | 10,000 Days | 2006 | |
+| [Fear Inoculum][c040b5e177] | TOOL | Fear Inoculum | 2019 | |
+| [Pneuma][72fbfe261a] | TOOL | Fear Inoculum | 2019 | |
+| [Litanie contre la Peur][def117dd9b] | TOOL | Fear Inoculum | 2019 | |
+| [Invincible][dbcced4eb7] | TOOL | Fear Inoculum | 2019 | |
+| [Legion Inoculant][5af1b5a468] | TOOL | Fear Inoculum | 2019 | |
+| [Descending][8064a7c54a] | TOOL | Fear Inoculum | 2019 | |
+| [Culling Voices][e3fddddac2] | TOOL | Fear Inoculum | 2019 | |
+| [Chocolate Chip Trip][93a0177383] | TOOL | Fear Inoculum | 2019 | |
+| [7empest][2fd8f7b6ad] | TOOL | Fear Inoculum | 2019 | |
+| [Mockingbeat][7d33446cf4] | TOOL | Fear Inoculum | 2019 | |
 
-[1]: https://music.apple.com/us/song/sweat/1474180613
-[2]: https://music.apple.com/us/song/hush/1474180827
-[3]: https://music.apple.com/us/song/part-of-me/1474180835
-[4]: https://music.apple.com/us/song/cold-and-ugly-live/1474180842
-[5]: https://music.apple.com/us/song/jerk-off-live/1474180847
-[6]: https://music.apple.com/us/song/opiate/1474180853
-[7]: https://music.apple.com/us/song/intolerance/1474185288
-[8]: https://music.apple.com/us/song/prison-sex/1474185294
-[9]: https://music.apple.com/us/song/sober/1474185453
-[10]: https://music.apple.com/us/song/bottom/1474185458
-[11]: https://music.apple.com/us/song/crawl-away/1474185463
-[12]: https://music.apple.com/us/song/swamp-song/1474185466
-[13]: https://music.apple.com/us/song/undertow/1474185467
-[14]: https://music.apple.com/us/song/4/1474185540
-[15]: https://music.apple.com/us/song/flood/1474185541
-[16]: https://music.apple.com/us/song/disgustipated/1474185542
-[17]: https://music.apple.com/us/song/stinkfist/1474185338
-[18]: https://music.apple.com/us/song/eulogy/1474185339
-[19]: https://music.apple.com/us/song/h/1474185340
-[20]: https://music.apple.com/us/song/useful-idiot/1474185341
-[21]: https://music.apple.com/us/song/forty-six-2/1474185342
-[22]: https://music.apple.com/us/song/message-to-harry-manback/1474185344
-[23]: https://music.apple.com/us/song/hooker-with-a-penis/1474185345
-[24]: https://music.apple.com/us/song/intermission/1474185346
-[25]: https://music.apple.com/us/song/jimmy/1474185348
-[26]: https://music.apple.com/us/song/die-eier-von-satan/1474185349
-[27]: https://music.apple.com/us/song/pushit/1474185352
-[28]: https://music.apple.com/us/song/cesaro-summability/1474185353
-[29]: https://music.apple.com/us/song/%C3%A6nema/1474185354
-[30]: https://music.apple.com/us/song/ions/1474185355
-[31]: https://music.apple.com/us/song/third-eye/1474185477
-[32]: https://music.apple.com/us/song/the-grudge/1474185636
-[33]: https://music.apple.com/us/song/eon-blue-apocalypse/1474185645
-[34]: https://music.apple.com/us/song/the-patient/1474185650
-[35]: https://music.apple.com/us/song/mantra/1474185653
-[36]: https://music.apple.com/us/song/schism/1474185654
-[37]: https://music.apple.com/us/song/parabol/1474185837
-[38]: https://music.apple.com/us/song/parabola/1474185842
-[39]: https://music.apple.com/us/song/ticks-leeches/1474185844
-[40]: https://music.apple.com/us/song/lateralus/1474185845
-[41]: https://music.apple.com/us/song/disposition/1474185846
-[42]: https://music.apple.com/us/song/reflection/1474185848
-[43]: https://music.apple.com/us/song/triad/1474185853
-[44]: https://music.apple.com/us/song/faaip-de-oiad/1474185855
-[45]: https://music.apple.com/us/song/vicarious/1474250658
-[46]: https://music.apple.com/us/song/jambi/1474250846
-[47]: https://music.apple.com/us/song/wings-for-marie-pt-1/1474250849
-[48]: https://music.apple.com/us/song/10-000-days-wings-pt-2/1474250852
-[49]: https://music.apple.com/us/song/the-pot/1474250856
-[50]: https://music.apple.com/us/song/lipan-conjuring/1474250863
-[51]: https://music.apple.com/us/song/lost-keys-blame-hofmann/1474250866
-[52]: https://music.apple.com/us/song/rosetta-stoned/1474250871
-[53]: https://music.apple.com/us/song/intension/1474250873
-[54]: https://music.apple.com/us/song/right-in-two/1474250875
-[55]: https://music.apple.com/us/song/viginti-tres/1474250996
-[56]: https://music.apple.com/us/song/fear-inoculum/1475686698
-[57]: https://music.apple.com/us/song/pneuma/1475686700
-[58]: https://music.apple.com/us/song/litanie-contre-la-peur/1475687047
-[59]: https://music.apple.com/us/song/invincible/1475687049
-[60]: https://music.apple.com/us/song/legion-inoculant/1475687055
-[61]: https://music.apple.com/us/song/descending/1475687061
-[62]: https://music.apple.com/us/song/culling-voices/1475687062
-[63]: https://music.apple.com/us/song/chocolate-chip-trip/1475687195
-[64]: https://music.apple.com/us/song/7empest/1475687200
-[65]: https://music.apple.com/us/song/mockingbeat/1475687208
+[11843bf690]: https://music.apple.com/us/song/sweat/1474180613
+[550cf36b04]: https://music.apple.com/us/song/hush/1474180827
+[2ba7bf3a73]: https://music.apple.com/us/song/part-of-me/1474180835
+[207c273f80]: https://music.apple.com/us/song/cold-and-ugly-live/1474180842
+[4287c612b4]: https://music.apple.com/us/song/jerk-off-live/1474180847
+[fd730f424b]: https://music.apple.com/us/song/opiate/1474180853
+[2c589a5a4a]: https://music.apple.com/us/song/intolerance/1474185288
+[ee9810e95d]: https://music.apple.com/us/song/prison-sex/1474185294
+[b012ad61a3]: https://music.apple.com/us/song/sober/1474185453
+[fa2dd4729d]: https://music.apple.com/us/song/bottom/1474185458
+[b7aaff7389]: https://music.apple.com/us/song/crawl-away/1474185463
+[710a1e22df]: https://music.apple.com/us/song/swamp-song/1474185466
+[1f1846a1f2]: https://music.apple.com/us/song/undertow/1474185467
+[927403e23a]: https://music.apple.com/us/song/4/1474185540
+[4e367c2b5d]: https://music.apple.com/us/song/flood/1474185541
+[ab5d2dfcba]: https://music.apple.com/us/song/disgustipated/1474185542
+[4d57bcce6f]: https://music.apple.com/us/song/stinkfist/1474185338
+[9d1b784656]: https://music.apple.com/us/song/eulogy/1474185339
+[83a59f6bac]: https://music.apple.com/us/song/h/1474185340
+[ab1a4746ba]: https://music.apple.com/us/song/useful-idiot/1474185341
+[4e7b1da1f9]: https://music.apple.com/us/song/forty-six-2/1474185342
+[0d3e43c35d]: https://music.apple.com/us/song/message-to-harry-manback/1474185344
+[4bafb7feab]: https://music.apple.com/us/song/hooker-with-a-penis/1474185345
+[683f90af59]: https://music.apple.com/us/song/intermission/1474185346
+[438eae6f6a]: https://music.apple.com/us/song/jimmy/1474185348
+[1a4ac48ffe]: https://music.apple.com/us/song/die-eier-von-satan/1474185349
+[d68e554ee1]: https://music.apple.com/us/song/pushit/1474185352
+[2757cc9c0b]: https://music.apple.com/us/song/cesaro-summability/1474185353
+[ec57085ea2]: https://music.apple.com/us/song/%C3%A6nema/1474185354
+[675ef55280]: https://music.apple.com/us/song/ions/1474185355
+[194ec3cf27]: https://music.apple.com/us/song/third-eye/1474185477
+[5f14e848c7]: https://music.apple.com/us/song/the-grudge/1474185636
+[78d25f4777]: https://music.apple.com/us/song/eon-blue-apocalypse/1474185645
+[d292facfb7]: https://music.apple.com/us/song/the-patient/1474185650
+[15657c9292]: https://music.apple.com/us/song/mantra/1474185653
+[a4b8e0f38c]: https://music.apple.com/us/song/schism/1474185654
+[d384962bd8]: https://music.apple.com/us/song/parabol/1474185837
+[dec73e880a]: https://music.apple.com/us/song/parabola/1474185842
+[a0e64554ce]: https://music.apple.com/us/song/ticks-leeches/1474185844
+[46b22ed88a]: https://music.apple.com/us/song/lateralus/1474185845
+[658d36f733]: https://music.apple.com/us/song/disposition/1474185846
+[34150f4a0b]: https://music.apple.com/us/song/reflection/1474185848
+[800bf7b3a3]: https://music.apple.com/us/song/triad/1474185853
+[5a75875159]: https://music.apple.com/us/song/faaip-de-oiad/1474185855
+[28cb01fb28]: https://music.apple.com/us/song/vicarious/1474250658
+[14a26123e6]: https://music.apple.com/us/song/jambi/1474250846
+[7921e12d45]: https://music.apple.com/us/song/wings-for-marie-pt-1/1474250849
+[10c676055f]: https://music.apple.com/us/song/10-000-days-wings-pt-2/1474250852
+[a19b5fe428]: https://music.apple.com/us/song/the-pot/1474250856
+[2bb673c894]: https://music.apple.com/us/song/lipan-conjuring/1474250863
+[ed6ea2a803]: https://music.apple.com/us/song/lost-keys-blame-hofmann/1474250866
+[6d571c2619]: https://music.apple.com/us/song/rosetta-stoned/1474250871
+[ea95b7a78f]: https://music.apple.com/us/song/intension/1474250873
+[1ad03ecfee]: https://music.apple.com/us/song/right-in-two/1474250875
+[0ab144c5d3]: https://music.apple.com/us/song/viginti-tres/1474250996
+[c040b5e177]: https://music.apple.com/us/song/fear-inoculum/1475686698
+[72fbfe261a]: https://music.apple.com/us/song/pneuma/1475686700
+[def117dd9b]: https://music.apple.com/us/song/litanie-contre-la-peur/1475687047
+[dbcced4eb7]: https://music.apple.com/us/song/invincible/1475687049
+[5af1b5a468]: https://music.apple.com/us/song/legion-inoculant/1475687055
+[8064a7c54a]: https://music.apple.com/us/song/descending/1475687061
+[e3fddddac2]: https://music.apple.com/us/song/culling-voices/1475687062
+[93a0177383]: https://music.apple.com/us/song/chocolate-chip-trip/1475687195
+[2fd8f7b6ad]: https://music.apple.com/us/song/7empest/1475687200
+[7d33446cf4]: https://music.apple.com/us/song/mockingbeat/1475687208
