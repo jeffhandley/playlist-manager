@@ -4,6 +4,7 @@ import { readdirSync, readFileSync, writeFileSync } from "fs";
 import { basename, join, resolve } from "path";
 import { fileURLToPath } from "url";
 import { getCatalogSong } from "./api.mjs";
+import { trackReference } from "../shared/playlist-format.mjs";
 import {
   extractSongId,
   findManagedPlaylists,
@@ -59,7 +60,7 @@ function splitTableRow(line) {
 }
 
 function parseSongCell(cell, references) {
-  const referenceLink = cell.match(/^\[(.+)]\[(\d+)]$/);
+  const referenceLink = cell.match(/^\[(.+)]\[([a-z0-9_-]+)]$/i);
   if (referenceLink) {
     return { song: referenceLink[1], url: references.get(referenceLink[2]) || null };
   }
@@ -80,36 +81,60 @@ export function parsePlaylistDocument(filePath) {
 
   const references = new Map();
   for (const line of lines) {
-    const match = line.match(/^\[(\d+)]:\s*(\S+)\s*$/);
+    const match = line.match(/^\[([a-z0-9_-]+)]:\s*(\S+)\s*$/i);
     if (match) references.set(match[1], match[2]);
   }
 
-  const tableStart = lines.findIndex((line) => /^\|\s*#\s*\|\s*Song\s*\|/i.test(line));
+  const tableStart = lines.findIndex((line) => /^\|\s*(?:#\s*\|\s*)?Song\s*\|/i.test(line));
   if (tableStart < 0 || tableStart + 1 >= lines.length) {
     throw new Error(`No playlist table found in ${filePath}`);
   }
 
+  const headerCells = splitTableRow(lines[tableStart]);
+  const numbered = headerCells[0] === "#";
+  const offset = numbered ? 1 : 0;
   let tableEnd = tableStart + 2;
-  while (tableEnd < lines.length && /^\|\s*\d+\s*\|/.test(lines[tableEnd])) {
+  while (tableEnd < lines.length && /^\|/.test(lines[tableEnd])) {
     tableEnd++;
   }
 
   const tracks = [];
+  const decorations = [];
+  let pendingDecorations = [];
   for (const line of lines.slice(tableStart + 2, tableEnd)) {
     const cells = splitTableRow(line);
-    if (cells.length < 6) throw new Error(`Unsupported playlist row in ${filePath}: ${line}`);
-    const linkedSong = parseSongCell(cells[1], references);
-    tracks.push({
+    if (cells.length < offset + 5) throw new Error(`Unsupported playlist row in ${filePath}: ${line}`);
+    if (!cells[offset]) {
+      pendingDecorations.push(line);
+      continue;
+    }
+    const linkedSong = parseSongCell(cells[offset], references);
+    const track = {
       song: linkedSong.song,
-      artist: cells[2],
-      album: cells[3],
-      year: cells[4],
-      note: cells.slice(5).join(" | "),
+      artist: cells[offset + 1],
+      album: cells[offset + 2],
+      year: cells[offset + 3],
+      note: cells.slice(offset + 4).join(" | "),
       url: linkedSong.url,
-    });
+    };
+    for (const decoration of pendingDecorations) {
+      decorations.push({ line: decoration, before: track, originalIndex: tracks.length });
+    }
+    pendingDecorations = [];
+    tracks.push(track);
   }
 
-  return { filePath, name, lines, tableStart, tableEnd, tracks };
+  return {
+    filePath,
+    name,
+    lines,
+    tableStart,
+    tableEnd,
+    headerCells,
+    tracks,
+    decorations,
+    trailingDecorations: pendingDecorations,
+  };
 }
 
 function escapeCell(value) {
@@ -117,25 +142,52 @@ function escapeCell(value) {
 }
 
 export function renderPlaylistDocument(document, tracks) {
-  const rows = tracks.map((track, index) => {
-    const number = index + 1;
-    const song = track.url ? `[${escapeCell(track.song)}][${number}]` : escapeCell(track.song);
-    return `| ${number} | ${song} | ${escapeCell(track.artist)} | ${escapeCell(track.album)} | ${escapeCell(track.year)} | ${escapeCell(track.note)} |`;
+  const decorationsByIndex = new Map();
+  for (const decoration of document.decorations) {
+    let target = tracks.indexOf(decoration.before);
+    if (target < 0) {
+      target = tracks.findIndex((track) => {
+        const originalIndex = document.tracks.indexOf(track);
+        return originalIndex > decoration.originalIndex;
+      });
+    }
+    if (target < 0) target = tracks.length;
+    const lines = decorationsByIndex.get(target) || [];
+    lines.push(decoration.line);
+    decorationsByIndex.set(target, lines);
+  }
+
+  const rows = tracks.flatMap((track, index) => {
+    const reference = track.url ? trackReference(track.url) : null;
+    const song = reference
+      ? `[${escapeCell(track.song)}][${reference}]`
+      : escapeCell(track.song);
+    return [
+      ...(decorationsByIndex.get(index) || []),
+      `| ${song} | ${escapeCell(track.artist)} | ${escapeCell(track.album)} | ${escapeCell(track.year)} | ${escapeCell(track.note)} |`,
+    ];
   });
+  rows.push(...(decorationsByIndex.get(tracks.length) || []), ...document.trailingDecorations);
   const references = tracks
-    .map((track, index) => (track.url ? `[${index + 1}]: ${track.url}` : null))
+    .map((track) => (track.url ? `[${trackReference(track.url)}]: ${track.url}` : null))
     .filter(Boolean);
 
-  const prefix = document.lines.slice(0, document.tableStart + 2);
+  const headings = document.headerCells[0] === "#" ? document.headerCells.slice(1) : document.headerCells;
+  const prefix = [
+    ...document.lines.slice(0, document.tableStart),
+    `| ${headings.join(" | ")} |`,
+    `|${headings.map(() => "---").join("|")}|`,
+  ];
   const suffix = document.lines.slice(document.tableEnd);
-  const firstReference = suffix.findIndex((line) => /^\[\d+]:\s*\S+/.test(line));
-  const suffixWithoutReferences = suffix.filter((line) => !/^\[\d+]:\s*\S+/.test(line));
+  const referencePattern = /^\[[a-z0-9_-]+]:\s*\S+/i;
+  const firstReference = suffix.findIndex((line) => referencePattern.test(line));
+  const suffixWithoutReferences = suffix.filter((line) => !referencePattern.test(line));
   const insertionIndex =
     firstReference < 0
       ? suffixWithoutReferences.length
       : suffix
           .slice(0, firstReference)
-          .filter((line) => !/^\[\d+]:\s*\S+/.test(line)).length;
+          .filter((line) => !referencePattern.test(line)).length;
 
   const renderedSuffix = [...suffixWithoutReferences];
   if (references.length > 0) {

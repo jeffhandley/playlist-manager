@@ -11,7 +11,6 @@
 //   APPLE_MUSIC_USER_TOKEN    — Music User Token
 
 import { existsSync } from "fs";
-import { createHash } from "crypto";
 import { parsePlaylistMarkdown } from "../apple-music-sync/parser.mjs";
 import { searchCatalog } from "./api.mjs";
 import {
@@ -22,7 +21,10 @@ import {
   addTracksToPlaylist,
   resolveTrackId,
   extractSongId,
+  readPlaylistTracksById,
 } from "./playlist.mjs";
+import { resolve } from "path";
+import { fileURLToPath } from "url";
 
 async function main() {
   const args = process.argv.slice(2);
@@ -135,9 +137,6 @@ async function syncLibraryOnly(resolvedTracks) {
 }
 
 async function syncPlaylist(resolvedTracks, playlistName, description) {
-  const newIds = resolvedTracks.map((t) => t.songId);
-  const fingerprint = trackFingerprint(newIds);
-
   // The Apple Music API cannot delete or rename library playlists, so we never
   // mutate an existing copy. Instead we look at the whole "managed family" for
   // this base name (e.g. "WEBN 🤖" plus any "WEBN 🤖 (N)" numbered copies) and
@@ -145,20 +144,13 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
   const family = await findManagedPlaylists(playlistName);
   const newest = family[0] || null;
 
-  // Short-circuit: if the newest copy was built from the same track list, do
-  // nothing. We compare a fingerprint we stamped into the description rather
-  // than the library tracks, because Apple stores each added song under its own
-  // playParams.catalogId, which routinely differs from the catalog song id we
-  // added — making a direct id comparison unreliable and causing a needless
-  // recreate (and a new duplicate) on every run.
-  if (newest) {
-    const existingFingerprint = parseFingerprint(newest.description);
-    if (existingFingerprint && existingFingerprint === fingerprint) {
-      console.log(
-        `Playlist "${newest.name}" is already in sync (${newIds.length} tracks, id:${fingerprint}). Nothing to do.`
-      );
-      return;
-    }
+  // Always compare the actual ordered Apple Music tracks. Descriptions are
+  // informational and must not determine whether sync work is required.
+  if (newest && (await isPlaylistUnchanged(newest, resolvedTracks))) {
+    console.log(
+      `Playlist "${newest.name}" is already in sync (${resolvedTracks.length} tracks). Nothing to do.`
+    );
+    return;
   }
 
   // Contents changed (or no playlist yet). Create a NEW copy — the API cannot
@@ -181,7 +173,7 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
   console.log(`Creating playlist "${targetName}" with ${resolvedTracks.length} tracks...`);
 
   const playlistId = await createPlaylist(targetName, {
-    description: buildDescription(description, newIds),
+    description: buildDescription(description, resolvedTracks.length),
   });
 
   // Add all tracks in order
@@ -213,33 +205,12 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
 }
 
 /**
- * Compute a stable, short fingerprint of the intended track-id sequence.
- * Order-sensitive: reordering the playlist changes the fingerprint.
- */
-function trackFingerprint(ids) {
-  return createHash("sha1").update(ids.join(",")).digest("hex").slice(0, 12);
-}
-
-const FINGERPRINT_RE = /\[sync:([0-9a-f]{6,})\]/;
-
-/**
- * Extract a previously-stamped fingerprint from a playlist description.
- * Returns the hex fingerprint or null if none is present.
- */
-function parseFingerprint(description) {
-  const m = (description || "").match(FINGERPRINT_RE);
-  return m ? m[1] : null;
-}
-
-/**
  * Build the playlist description. The ISO sync timestamp and track count are
  * placed FIRST so the newest copy is obvious in the Apple Music UI (the API
- * cannot delete or rename superseded duplicates). A machine-readable
- * [sync:<id>] fingerprint is appended to the stamp so the next run can detect a
- * no-op and skip recreating the playlist.
+ * cannot delete or rename superseded duplicates).
  */
-function buildDescription(baseDescription, ids) {
-  const stamp = `Synced ${new Date().toISOString()} • ${ids.length} tracks [sync:${trackFingerprint(ids)}]`;
+export function buildDescription(baseDescription, trackCount) {
+  const stamp = `Synced ${new Date().toISOString()} • ${trackCount} tracks`;
   return baseDescription ? `${stamp}\n\n${baseDescription}` : stamp;
 }
 
@@ -267,7 +238,53 @@ function groupByAlbum(tracks) {
   return albums;
 }
 
-main().catch((err) => {
-  console.error("Error:", err.message);
-  process.exit(1);
-});
+function normalizeTrackValue(value) {
+  return (value || "")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function semanticTrackKey(track) {
+  const title = (track.song || track.name || "")
+    .replace(
+      /\s*[\[(][^\])]*(?:remaster(?:ed)?|mono|stereo|anniversary|deluxe)[^\])]*[\])]/gi,
+      ""
+    )
+    .replace(
+      /\s*[-–—]\s*(?:\d{4}\s+)?(?:remaster(?:ed)?|mono|stereo|anniversary|deluxe).*$/gi,
+      ""
+    );
+  return `${normalizeTrackValue(title)}\0${normalizeTrackValue(
+    track.artist || track.artistName
+  )}`;
+}
+
+export function playlistTracksMatch(localTracks, remoteTracks) {
+  if (!remoteTracks || localTracks.length !== remoteTracks.length) return false;
+  return localTracks.every((local, index) => {
+    const remote = remoteTracks[index];
+    const localId = local.songId || extractSongId(local.url);
+    if (localId && remote.catalogId && localId === remote.catalogId) return true;
+    return semanticTrackKey(local) === semanticTrackKey(remote);
+  });
+}
+
+export async function isPlaylistUnchanged(
+  playlist,
+  resolvedTracks,
+  loadTracks = readPlaylistTracksById
+) {
+  const remoteTracks = await loadTracks(playlist.id);
+  return playlistTracksMatch(resolvedTracks, remoteTracks);
+}
+
+if (resolve(process.argv[1] || "") === fileURLToPath(import.meta.url)) {
+  main().catch((err) => {
+    console.error("Error:", err.message);
+    process.exit(1);
+  });
+}

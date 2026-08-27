@@ -15,7 +15,7 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 
 ### Ordering
 
-- Tracks are ordered by album release date, then by track number within each album
+- Tracks are ordered by album release date, then by their order on each album
 - Albums from all artists are interleaved chronologically
 - Focus on timeless hits and their full albums
 - Do not shuffle — the chronological album order is intentional
@@ -26,416 +26,416 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 - Full albums for iconic releases; selected hits for other artists
 - No duplicate songs — if a song appears on a later re-recording, only the original is included
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Man in the Box][1] | Alice in Chains | Facelift | 1990 |  |
-| 2 | [Smells Like Teen Spirit][2] | Nirvana | Nevermind | 1991 |  |
-| 3 | [In Bloom][3] | Nirvana | Nevermind | 1991 |  |
-| 4 | [Come as You Are][4] | Nirvana | Nevermind | 1991 |  |
-| 5 | [Breed][5] | Nirvana | Nevermind | 1991 |  |
-| 6 | [Lithium][6] | Nirvana | Nevermind | 1991 |  |
-| 7 | [Polly][7] | Nirvana | Nevermind | 1991 |  |
-| 8 | [Territorial Pissings][8] | Nirvana | Nevermind | 1991 |  |
-| 9 | [Drain You][9] | Nirvana | Nevermind | 1991 |  |
-| 10 | [Lounge Act][10] | Nirvana | Nevermind | 1991 |  |
-| 11 | [Stay Away][11] | Nirvana | Nevermind | 1991 |  |
-| 12 | [On a Plain][12] | Nirvana | Nevermind | 1991 |  |
-| 13 | [Something in the Way][13] | Nirvana | Nevermind | 1991 |  |
-| 14 | [Even Flow][14] | Pearl Jam | Ten | 1991 |  |
-| 15 | [Alive][15] | Pearl Jam | Ten | 1991 |  |
-| 16 | [Once][16] | Pearl Jam | Ten | 1991 |  |
-| 17 | [Why Go][17] | Pearl Jam | Ten | 1991 |  |
-| 18 | [Black][18] | Pearl Jam | Ten | 1991 |  |
-| 19 | [Jeremy][19] | Pearl Jam | Ten | 1991 |  |
-| 20 | [Oceans][20] | Pearl Jam | Ten | 1991 |  |
-| 21 | [Porch][21] | Pearl Jam | Ten | 1991 |  |
-| 22 | [Garden][22] | Pearl Jam | Ten | 1991 |  |
-| 23 | [Deep][23] | Pearl Jam | Ten | 1991 |  |
-| 24 | [Release][24] | Pearl Jam | Ten | 1991 |  |
-| 25 | [Enter Sandman][25] | Metallica | Metallica | 1991 |  |
-| 26 | [Them Bones][26] | Alice in Chains | Dirt | 1992 |  |
-| 27 | [Dam That River][27] | Alice in Chains | Dirt | 1992 |  |
-| 28 | [Rooster][28] | Alice in Chains | Dirt | 1992 |  |
-| 29 | [Would?][29] | Alice in Chains | Dirt | 1992 |  |
-| 30 | [Killing in the Name][30] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
-| 31 | [Bombtrack][31] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
-| 32 | [No Rain][32] | Blind Melon | Blind Melon | 1992 |  |
-| 33 | [Bullet in the Head][33] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
-| 34 | [Know Your Enemy][34] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
-| 35 | [Wake Up][35] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
-| 36 | [Freedom][36] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
-| 37 | [Creep][37] | Radiohead | Pablo Honey | 1993 |  |
-| 38 | [Anyone Can Play Guitar][38] | Radiohead | Pablo Honey | 1993 |  |
-| 39 | [Heart-Shaped Box][39] | Nirvana | In Utero | 1993 |  |
-| 40 | [Rape Me][40] | Nirvana | In Utero | 1993 |  |
-| 41 | [Frances Farmer Will Have Her Revenge on Seattle][41] | Nirvana | In Utero | 1993 |  |
-| 42 | [Dumb][42] | Nirvana | In Utero | 1993 |  |
-| 43 | [Very Ape][43] | Nirvana | In Utero | 1993 |  |
-| 44 | [Milk It][44] | Nirvana | In Utero | 1993 |  |
-| 45 | [Pennyroyal Tea][45] | Nirvana | In Utero | 1993 |  |
-| 46 | [Radio Friendly Unit Shifter][46] | Nirvana | In Utero | 1993 |  |
-| 47 | [tourette's][47] | Nirvana | In Utero | 1993 |  |
-| 48 | [All Apologies][48] | Nirvana | In Utero | 1993 |  |
-| 49 | [Plush][49] | Stone Temple Pilots | Core | 1993 |  |
-| 50 | [Creep][50] | Stone Temple Pilots | Core | 1993 |  |
-| 51 | [Wicked Garden][51] | Stone Temple Pilots | Core | 1993 |  |
-| 52 | [Sex Type Thing][52] | Stone Temple Pilots | Core | 1993 |  |
-| 53 | [Fell on Black Days][53] | Soundgarden | Superunknown | 1994 |  |
-| 54 | [Black Hole Sun][54] | Soundgarden | Superunknown | 1994 |  |
-| 55 | [Spoonman][55] | Soundgarden | Superunknown | 1994 |  |
-| 56 | [Limo Wreck][56] | Soundgarden | Superunknown | 1994 |  |
-| 57 | [The Day I Tried to Live][57] | Soundgarden | Superunknown | 1994 |  |
-| 58 | [Kickstand][58] | Soundgarden | Superunknown | 1994 |  |
-| 59 | [Fresh Tendrils][59] | Soundgarden | Superunknown | 1994 |  |
-| 60 | [4th of July][60] | Soundgarden | Superunknown | 1994 |  |
-| 61 | [Half][61] | Soundgarden | Superunknown | 1994 |  |
-| 62 | [Like Suicide][62] | Soundgarden | Superunknown | 1994 |  |
-| 63 | [She Likes Surprises][63] | Soundgarden | Superunknown | 1994 |  |
-| 64 | [Head Down][64] | Soundgarden | Superunknown | 1994 |  |
-| 65 | [My Wave][65] | Soundgarden | Superunknown | 1994 |  |
-| 66 | [Come Out and Play][66] | The Offspring | Smash | 1994 |  |
-| 67 | [Self Esteem][67] | The Offspring | Smash | 1994 |  |
-| 68 | [Gotta Get Away][68] | The Offspring | Smash | 1994 |  |
-| 69 | [Zombie][69] | The Cranberries | No Need to Argue | 1994 |  |
-| 70 | [Ode to My Family][70] | The Cranberries | No Need to Argue | 1994 |  |
-| 71 | [Loser][71] | Beck | Mellow Gold | 1994 |  |
-| 72 | [Plowed][72] | Sponge | Rotting Piñata | 1994 |  |
-| 73 | [Molly (16 Candles Down the Drain)][73] | Sponge | Rotting Piñata | 1994 |  |
-| 74 | [How Soon Is Now?][74] | Love Spit Love | How Soon Is Now? - Single | 1994 |  |
-| 75 | [Hey Man Nice Shot][75] | Filter | Short Bus | 1995 |  |
-| 76 | [This Is a Call][76] | Foo Fighters | Foo Fighters | 1995 |  |
-| 77 | [I'll Stick Around][77] | Foo Fighters | Foo Fighters | 1995 |  |
-| 78 | [Big Me][78] | Foo Fighters | Foo Fighters | 1995 |  |
-| 79 | [Alone + Easy Target][79] | Foo Fighters | Foo Fighters | 1995 |  |
-| 80 | [Good Grief][80] | Foo Fighters | Foo Fighters | 1995 |  |
-| 81 | [Floaty][81] | Foo Fighters | Foo Fighters | 1995 |  |
-| 82 | [Weenie Beenie][82] | Foo Fighters | Foo Fighters | 1995 |  |
-| 83 | [Oh, George][83] | Foo Fighters | Foo Fighters | 1995 |  |
-| 84 | [For All the Cows][84] | Foo Fighters | Foo Fighters | 1995 |  |
-| 85 | [X-Static][85] | Foo Fighters | Foo Fighters | 1995 |  |
-| 86 | [Wattershed][86] | Foo Fighters | Foo Fighters | 1995 |  |
-| 87 | [Exhale][87] | Foo Fighters | Foo Fighters | 1995 |  |
-| 88 | [Interstate Love Song][88] | Stone Temple Pilots | Purple | 1995 |  |
-| 89 | [Vasoline][89] | Stone Temple Pilots | Purple | 1995 |  |
-| 90 | [Lounge Fly][90] | Stone Temple Pilots | Purple | 1995 |  |
-| 91 | [Still Frame][91] | Stone Temple Pilots | Purple | 1995 |  |
-| 92 | [Army Ants][92] | Stone Temple Pilots | Purple | 1995 |  |
-| 93 | [Kitchenware & Candybars][93] | Stone Temple Pilots | Purple | 1995 |  |
-| 94 | [Silvergun Superman][94] | Stone Temple Pilots | Purple | 1995 |  |
-| 95 | [Big Empty][95] | Stone Temple Pilots | Purple | 1995 |  |
-| 96 | [Unglued][96] | Stone Temple Pilots | Purple | 1995 |  |
-| 97 | [Glide][97] | Stone Temple Pilots | Purple | 1995 |  |
-| 98 | [And So I Know][98] | Stone Temple Pilots | Purple | 1995 |  |
-| 99 | [I Got Id][99] | Pearl Jam | Merkin Ball | 1995 |  |
-| 100 | [Far Behind][100] | Candlebox | Candlebox | 1995 |  |
-| 101 | [You][101] | Candlebox | Candlebox | 1995 |  |
-| 102 | [Change][102] | Candlebox | Candlebox | 1995 |  |
-| 103 | [Everything Zen][103] | Bush | Sixteen Stone | 1995 |  |
-| 104 | [Machinehead][104] | Bush | Sixteen Stone | 1995 |  |
-| 105 | [Little Things][105] | Bush | Sixteen Stone | 1995 |  |
-| 106 | [Comedown][106] | Bush | Sixteen Stone | 1995 |  |
-| 107 | [Body][107] | Bush | Sixteen Stone | 1995 |  |
-| 108 | [Monkey][108] | Bush | Sixteen Stone | 1995 |  |
-| 109 | [Glycerine][109] | Bush | Sixteen Stone | 1995 |  |
-| 110 | [Alien][110] | Bush | Sixteen Stone | 1995 |  |
-| 111 | [X-Girlfriend][111] | Bush | Sixteen Stone | 1995 |  |
-| 112 | [Testosterone][112] | Bush | Sixteen Stone | 1995 |  |
-| 113 | [Selling the Drama][113] | Live | Throwing Copper | 1995 |  |
-| 114 | [I Alone][114] | Live | Throwing Copper | 1995 |  |
-| 115 | [Iris][115] | Live | Throwing Copper | 1995 |  |
-| 116 | [Lightning Crashes][116] | Live | Throwing Copper | 1995 |  |
-| 117 | [All Over You][117] | Live | Throwing Copper | 1995 |  |
-| 118 | [Shit Towne][118] | Live | Throwing Copper | 1995 |  |
-| 119 | [T.B.D.][119] | Live | Throwing Copper | 1995 |  |
-| 120 | [Stage][120] | Live | Throwing Copper | 1995 |  |
-| 121 | [Waitress][121] | Live | Throwing Copper | 1995 |  |
-| 122 | [Pillar of Davidson][122] | Live | Throwing Copper | 1995 |  |
-| 123 | [White, Discussion][123] | Live | Throwing Copper | 1995 |  |
-| 124 | [Horse][124] | Live | Throwing Copper | 1995 |  |
-| 125 | [Top][125] | Live | Throwing Copper | 1995 |  |
-| 126 | [Dam at Otter Creek][126] | Live | Throwing Copper | 1995 |  |
-| 127 | [Stupid Girl][127] | Garbage | Garbage | 1995 |  |
-| 128 | [Only Happy When It Rains][128] | Garbage | Garbage | 1995 |  |
-| 129 | [Queer][129] | Garbage | Garbage | 1995 |  |
-| 130 | [Vow][130] | Garbage | Garbage | 1995 |  |
-| 131 | [1979][131] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 132 | [Tonight, Tonight][132] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 133 | [Bullet with Butterfly Wings][133] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 134 | [To Forgive][134] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 135 | [Zero][135] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 136 | [Here Is No Why][136] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 137 | [Porcelina of the Vast Oceans][137] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 138 | [Take Me Down][138] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 139 | [Jellybelly][139] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 140 | [Thru the Eyes of Ruby][140] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 141 | [Stumbleine][141] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 142 | [X.Y.U.][142] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 143 | [We Only Come Out at Night][143] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 144 | [Where Boys Fear to Tread][144] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 145 | [Bodies][145] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 146 | [Thirty-Three][146] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 147 | [In the Arms of Sleep][147] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 148 | [Muzzle][148] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 149 | [Galapagos][149] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 150 | [Tales of a Scorched Earth][150] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 151 | [Farewell and Goodnight][151] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
-| 152 | [Dose][152] | Filter | Short Bus | 1995 |  |
-| 153 | [Spent][153] | Filter | Short Bus | 1995 |  |
-| 154 | [1996][154] | Marilyn Manson | Antichrist Superstar | 1996 |  |
-| 155 | [The Beautiful People][155] | Marilyn Manson | Antichrist Superstar | 1996 |  |
-| 156 | [Tourniquet][156] | Marilyn Manson | Antichrist Superstar | 1996 |  |
-| 157 | [Counting Blue Cars][157] | Dishwalla | Pet Your Friends | 1996 |  |
-| 158 | [The Freshmen][158] | The Verve Pipe | Villains | 1996 |  |
-| 159 | [The Distance][159] | Cake | Fashion Nugget | 1996 |  |
-| 160 | [6 Underground][160] | Sneaker Pimps | Becoming X | 1996 |  |
-| 161 | [Criminal][161] | Fiona Apple | Tidal | 1996 |  |
-| 162 | [Santa Monica][162] | Everclear | Sparkle and Fade | 1996 |  |
-| 163 | [Heartspark Dollarsign][163] | Everclear | Sparkle and Fade | 1996 |  |
-| 164 | [Good][164] | Better Than Ezra | Deluxe | 1996 |  |
-| 165 | [In the Meantime][165] | Spacehog | Resident Alien | 1996 |  |
-| 166 | [Bulls on Parade][166] | Rage Against the Machine | Evil Empire | 1996 |  |
-| 167 | [People of the Sun][167] | Rage Against the Machine | Evil Empire | 1996 |  |
-| 168 | [Down Rodeo][168] | Rage Against the Machine | Evil Empire | 1996 |  |
-| 169 | [Lakini's Juice][169] | Live | Secret Samadhi | 1997 |  |
-| 170 | [Rattlesnake][170] | Live | Secret Samadhi | 1997 |  |
-| 171 | [Turn My Head][171] | Live | Secret Samadhi | 1997 |  |
-| 172 | [Semi-Charmed Life][172] | Third Eye Blind | Third Eye Blind | 1997 |  |
-| 173 | [How's It Going to Be][173] | Third Eye Blind | Third Eye Blind | 1997 |  |
-| 174 | [Graduate][174] | Third Eye Blind | Third Eye Blind | 1997 |  |
-| 175 | [Bittersweet Symphony][175] | The Verve | Urban Hymns | 1997 |  |
-| 176 | [The Drugs Don't Work][176] | The Verve | Urban Hymns | 1997 |  |
-| 177 | [Song 2][177] | Blur | Blur | 1997 |  |
-| 178 | [Closing Time][178] | Semisonic | Feeling Strangely Fine | 1997 |  |
-| 179 | [Karma Police][179] | Radiohead | OK Computer | 1997 |  |
-| 180 | [Paranoid Android][180] | Radiohead | OK Computer | 1997 |  |
-| 181 | [Sex and Candy][181] | Marcy Playground | Marcy Playground | 1997 |  |
-| 182 | [Flagpole Sitta][182] | Harvey Danger | Where Have All the Merrymakers Gone? | 1997 |  |
-| 183 | [My Hero][183] | Foo Fighters | The Colour and the Shape | 1997 |  |
-| 184 | [Monkey Wrench][184] | Foo Fighters | The Colour and the Shape | 1997 |  |
-| 185 | [Everlong][185] | Foo Fighters | The Colour and the Shape | 1997 |  |
-| 186 | [The Way][186] | Fastball | All the Pain Money Can Buy | 1998 |  |
-| 187 | [Fire Water Burn][187] | Bloodhound Gang | One Fierce Beer Coaster | 1998 |  |
-| 188 | [Push][188] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
-| 189 | [3 AM][189] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
-| 190 | [Iris][190] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
-| 191 | [Slide][191] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
-| 192 | [Torn][192] | Natalie Imbruglia | Left of the Middle | 1998 |  |
-| 193 | [Inside Out][193] | Eve 6 | Eve 6 | 1998 |  |
-| 194 | [Celebrity Skin][194] | Hole | Celebrity Skin | 1998 |  |
-| 195 | [Malibu][195] | Hole | Celebrity Skin | 1998 |  |
-| 196 | [Push It][196] | Garbage | Version 2.0 | 1998 |  |
-| 197 | [I Think I'm Paranoid][197] | Garbage | Version 2.0 | 1998 |  |
-| 198 | [Special][198] | Garbage | Version 2.0 | 1998 |  |
-| 199 | [My Own Worst Enemy][199] | Lit | A Place in the Sun | 1999 |  |
-| 200 | [Steal My Sunshine][200] | Len | You Can't Stop the Bum Rush | 1999 |  |
-| 201 | [Last Kiss][201] | Pearl Jam | Last Kiss (Single) | 1999 |  |
-| 202 | [Shimmer][202] | Fuel | Sunburn | 1999 |  |
-| 203 | [Learn to Fly][203] | Foo Fighters | There Is Nothing Left to Lose | 1999 |  |
-| 204 | [Welcome to the Fold][204] | Filter | Title of Record | 1999 |  |
-| 205 | [Take a Picture][205] | Filter | Title of Record | 1999 |  |
+| Song | Artist | Album | Year | Note |
+|------|--------|-------|------|------|
+| [Man in the Box][05e6399891] | Alice in Chains | Facelift | 1990 |  |
+| [Smells Like Teen Spirit][99b172d954] | Nirvana | Nevermind | 1991 |  |
+| [In Bloom][2ec909ff2c] | Nirvana | Nevermind | 1991 |  |
+| [Come as You Are][8b670ffb20] | Nirvana | Nevermind | 1991 |  |
+| [Breed][160bc38612] | Nirvana | Nevermind | 1991 |  |
+| [Lithium][c574f313f4] | Nirvana | Nevermind | 1991 |  |
+| [Polly][434b88fbb0] | Nirvana | Nevermind | 1991 |  |
+| [Territorial Pissings][28fc7f34db] | Nirvana | Nevermind | 1991 |  |
+| [Drain You][02293080bb] | Nirvana | Nevermind | 1991 |  |
+| [Lounge Act][76f6a08077] | Nirvana | Nevermind | 1991 |  |
+| [Stay Away][66ab6897bc] | Nirvana | Nevermind | 1991 |  |
+| [On a Plain][fb2226579a] | Nirvana | Nevermind | 1991 |  |
+| [Something in the Way][90cd1aadb0] | Nirvana | Nevermind | 1991 |  |
+| [Even Flow][573cd16dd4] | Pearl Jam | Ten | 1991 |  |
+| [Alive][20fcab6820] | Pearl Jam | Ten | 1991 |  |
+| [Once][e17b7eb43b] | Pearl Jam | Ten | 1991 |  |
+| [Why Go][7f0926dd3a] | Pearl Jam | Ten | 1991 |  |
+| [Black][9fcd744324] | Pearl Jam | Ten | 1991 |  |
+| [Jeremy][1c90e10fdc] | Pearl Jam | Ten | 1991 |  |
+| [Oceans][04666e1e05] | Pearl Jam | Ten | 1991 |  |
+| [Porch][a41e3bc3de] | Pearl Jam | Ten | 1991 |  |
+| [Garden][4e7a941832] | Pearl Jam | Ten | 1991 |  |
+| [Deep][8506ecadac] | Pearl Jam | Ten | 1991 |  |
+| [Release][f3646e97a3] | Pearl Jam | Ten | 1991 |  |
+| [Enter Sandman][7c924f0372] | Metallica | Metallica | 1991 |  |
+| [Them Bones][ca10889f61] | Alice in Chains | Dirt | 1992 |  |
+| [Dam That River][547d56c0e7] | Alice in Chains | Dirt | 1992 |  |
+| [Rooster][9829bc87e1] | Alice in Chains | Dirt | 1992 |  |
+| [Would?][81be661a13] | Alice in Chains | Dirt | 1992 |  |
+| [Killing in the Name][77a5d10883] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
+| [Bombtrack][67bbf77c88] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
+| [No Rain][a03e3200bd] | Blind Melon | Blind Melon | 1992 |  |
+| [Bullet in the Head][efbbadd353] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
+| [Know Your Enemy][5c83e8a5b0] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
+| [Wake Up][a9dc9700c2] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
+| [Freedom][72d681562d] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
+| [Creep][5324f422e7] | Radiohead | Pablo Honey | 1993 |  |
+| [Anyone Can Play Guitar][1bf2be6a93] | Radiohead | Pablo Honey | 1993 |  |
+| [Heart-Shaped Box][78c95c0607] | Nirvana | In Utero | 1993 |  |
+| [Rape Me][4a0e1e0649] | Nirvana | In Utero | 1993 |  |
+| [Frances Farmer Will Have Her Revenge on Seattle][4f6b746813] | Nirvana | In Utero | 1993 |  |
+| [Dumb][dccb2680fd] | Nirvana | In Utero | 1993 |  |
+| [Very Ape][e6eabe0027] | Nirvana | In Utero | 1993 |  |
+| [Milk It][f1a1ff8a58] | Nirvana | In Utero | 1993 |  |
+| [Pennyroyal Tea][470f1ff72d] | Nirvana | In Utero | 1993 |  |
+| [Radio Friendly Unit Shifter][d640643467] | Nirvana | In Utero | 1993 |  |
+| [tourette's][5f84716036] | Nirvana | In Utero | 1993 |  |
+| [All Apologies][8f9d587875] | Nirvana | In Utero | 1993 |  |
+| [Plush][eb69e8042b] | Stone Temple Pilots | Core | 1993 |  |
+| [Creep][98e84f4b6c] | Stone Temple Pilots | Core | 1993 |  |
+| [Wicked Garden][9d831ceaa3] | Stone Temple Pilots | Core | 1993 |  |
+| [Sex Type Thing][688df6838b] | Stone Temple Pilots | Core | 1993 |  |
+| [Fell on Black Days][1e7295db6d] | Soundgarden | Superunknown | 1994 |  |
+| [Black Hole Sun][6b2a6b4ae1] | Soundgarden | Superunknown | 1994 |  |
+| [Spoonman][d8799bfa4f] | Soundgarden | Superunknown | 1994 |  |
+| [Limo Wreck][7e7fe724dd] | Soundgarden | Superunknown | 1994 |  |
+| [The Day I Tried to Live][d6b8891c0d] | Soundgarden | Superunknown | 1994 |  |
+| [Kickstand][c6d77d5a5a] | Soundgarden | Superunknown | 1994 |  |
+| [Fresh Tendrils][3d729b9bd3] | Soundgarden | Superunknown | 1994 |  |
+| [4th of July][24b29738dd] | Soundgarden | Superunknown | 1994 |  |
+| [Half][92dbea2180] | Soundgarden | Superunknown | 1994 |  |
+| [Like Suicide][bf05d8e928] | Soundgarden | Superunknown | 1994 |  |
+| [She Likes Surprises][6bdb637ac5] | Soundgarden | Superunknown | 1994 |  |
+| [Head Down][b755c95fb4] | Soundgarden | Superunknown | 1994 |  |
+| [My Wave][1ef9ef10c9] | Soundgarden | Superunknown | 1994 |  |
+| [Come Out and Play][74aa58e41e] | The Offspring | Smash | 1994 |  |
+| [Self Esteem][c013866f82] | The Offspring | Smash | 1994 |  |
+| [Gotta Get Away][d8050fdaa7] | The Offspring | Smash | 1994 |  |
+| [Zombie][2834b9b713] | The Cranberries | No Need to Argue | 1994 |  |
+| [Ode to My Family][22c958919c] | The Cranberries | No Need to Argue | 1994 |  |
+| [Loser][3a42aa81e0] | Beck | Mellow Gold | 1994 |  |
+| [Plowed][d5edac2b7c] | Sponge | Rotting Piñata | 1994 |  |
+| [Molly (16 Candles Down the Drain)][6cb0df4974] | Sponge | Rotting Piñata | 1994 |  |
+| [How Soon Is Now?][10116107c2] | Love Spit Love | How Soon Is Now? - Single | 1994 |  |
+| [Hey Man Nice Shot][8bc337fa3e] | Filter | Short Bus | 1995 |  |
+| [This Is a Call][9f945e5845] | Foo Fighters | Foo Fighters | 1995 |  |
+| [I'll Stick Around][f3663c5f39] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Big Me][de88a31d2a] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Alone + Easy Target][bfb39cbfe2] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Good Grief][fa5386b08f] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Floaty][d37df79abf] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Weenie Beenie][6996ef3620] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Oh, George][33042c3d6e] | Foo Fighters | Foo Fighters | 1995 |  |
+| [For All the Cows][b40342076c] | Foo Fighters | Foo Fighters | 1995 |  |
+| [X-Static][47c04d2f1e] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Wattershed][6e9b25ce58] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Exhale][c0088972e8] | Foo Fighters | Foo Fighters | 1995 |  |
+| [Interstate Love Song][d5a966f807] | Stone Temple Pilots | Purple | 1995 |  |
+| [Vasoline][daeb5a7231] | Stone Temple Pilots | Purple | 1995 |  |
+| [Lounge Fly][92ca9dc00d] | Stone Temple Pilots | Purple | 1995 |  |
+| [Still Frame][fc6ee127d7] | Stone Temple Pilots | Purple | 1995 |  |
+| [Army Ants][c0a755da00] | Stone Temple Pilots | Purple | 1995 |  |
+| [Kitchenware & Candybars][6cd0b38dd2] | Stone Temple Pilots | Purple | 1995 |  |
+| [Silvergun Superman][203c29ceac] | Stone Temple Pilots | Purple | 1995 |  |
+| [Big Empty][d772fe3e29] | Stone Temple Pilots | Purple | 1995 |  |
+| [Unglued][65ae0642ad] | Stone Temple Pilots | Purple | 1995 |  |
+| [Glide][5a0144bbcb] | Stone Temple Pilots | Purple | 1995 |  |
+| [And So I Know][fc59dd4750] | Stone Temple Pilots | Purple | 1995 |  |
+| [I Got Id][c21da3b4df] | Pearl Jam | Merkin Ball | 1995 |  |
+| [Far Behind][90cae68d16] | Candlebox | Candlebox | 1995 |  |
+| [You][da6e92501a] | Candlebox | Candlebox | 1995 |  |
+| [Change][51e84185d8] | Candlebox | Candlebox | 1995 |  |
+| [Everything Zen][75c20cd572] | Bush | Sixteen Stone | 1995 |  |
+| [Machinehead][3c1810e69b] | Bush | Sixteen Stone | 1995 |  |
+| [Little Things][21969824e7] | Bush | Sixteen Stone | 1995 |  |
+| [Comedown][4605dedba5] | Bush | Sixteen Stone | 1995 |  |
+| [Body][d57ee46010] | Bush | Sixteen Stone | 1995 |  |
+| [Monkey][96c2205487] | Bush | Sixteen Stone | 1995 |  |
+| [Glycerine][19564292d2] | Bush | Sixteen Stone | 1995 |  |
+| [Alien][7265b9b3e9] | Bush | Sixteen Stone | 1995 |  |
+| [X-Girlfriend][eaf1be9512] | Bush | Sixteen Stone | 1995 |  |
+| [Testosterone][0cc454fb56] | Bush | Sixteen Stone | 1995 |  |
+| [Selling the Drama][a5de4f2436] | Live | Throwing Copper | 1995 |  |
+| [I Alone][8811d07bb1] | Live | Throwing Copper | 1995 |  |
+| [Iris][a8934faf85] | Live | Throwing Copper | 1995 |  |
+| [Lightning Crashes][d18a69a01b] | Live | Throwing Copper | 1995 |  |
+| [All Over You][9ccb1c410e] | Live | Throwing Copper | 1995 |  |
+| [Shit Towne][5dc27c21c4] | Live | Throwing Copper | 1995 |  |
+| [T.B.D.][8b65882de7] | Live | Throwing Copper | 1995 |  |
+| [Stage][81958602ac] | Live | Throwing Copper | 1995 |  |
+| [Waitress][366ed29d42] | Live | Throwing Copper | 1995 |  |
+| [Pillar of Davidson][9467a5ecb3] | Live | Throwing Copper | 1995 |  |
+| [White, Discussion][aa74174b7b] | Live | Throwing Copper | 1995 |  |
+| [Horse][3f97568f3e] | Live | Throwing Copper | 1995 |  |
+| [Top][cf6b3739af] | Live | Throwing Copper | 1995 |  |
+| [Dam at Otter Creek][26e9b1a60e] | Live | Throwing Copper | 1995 |  |
+| [Stupid Girl][efd8bbe483] | Garbage | Garbage | 1995 |  |
+| [Only Happy When It Rains][f9a8c915cb] | Garbage | Garbage | 1995 |  |
+| [Queer][ad885bf7f9] | Garbage | Garbage | 1995 |  |
+| [Vow][8d8f87fa1f] | Garbage | Garbage | 1995 |  |
+| [1979][d38bff402e] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Tonight, Tonight][26264cf266] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Bullet with Butterfly Wings][55b3361c24] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [To Forgive][73743f19c2] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Zero][90d6d3ca22] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Here Is No Why][5854771ac3] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Porcelina of the Vast Oceans][2b33d2d4d9] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Take Me Down][94db69ef21] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Jellybelly][b364eecc2e] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Thru the Eyes of Ruby][0527d0acf5] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Stumbleine][261b0533c9] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [X.Y.U.][0ab85b9025] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [We Only Come Out at Night][0ab0b7ea26] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Where Boys Fear to Tread][1475e828bb] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Bodies][b1b177fd6c] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Thirty-Three][0f3151d658] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [In the Arms of Sleep][4a9e092e04] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Muzzle][3d4e8bf678] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Galapagos][63490274ba] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Tales of a Scorched Earth][0ddd16132e] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Farewell and Goodnight][8251c967a6] | The Smashing Pumpkins | Mellon Collie and the Infinite Sadness | 1995 |  |
+| [Dose][7baeef8d39] | Filter | Short Bus | 1995 |  |
+| [Spent][ddf414ada4] | Filter | Short Bus | 1995 |  |
+| [1996][16b450a74b] | Marilyn Manson | Antichrist Superstar | 1996 |  |
+| [The Beautiful People][1dee203d5d] | Marilyn Manson | Antichrist Superstar | 1996 |  |
+| [Tourniquet][b63bf59ab0] | Marilyn Manson | Antichrist Superstar | 1996 |  |
+| [Counting Blue Cars][fd65afd42c] | Dishwalla | Pet Your Friends | 1996 |  |
+| [The Freshmen][ed68d2b242] | The Verve Pipe | Villains | 1996 |  |
+| [The Distance][66d987a02e] | Cake | Fashion Nugget | 1996 |  |
+| [6 Underground][9531dd53b5] | Sneaker Pimps | Becoming X | 1996 |  |
+| [Criminal][8409e776b6] | Fiona Apple | Tidal | 1996 |  |
+| [Santa Monica][4f074caf54] | Everclear | Sparkle and Fade | 1996 |  |
+| [Heartspark Dollarsign][6b331a7b4d] | Everclear | Sparkle and Fade | 1996 |  |
+| [Good][36045fb1e5] | Better Than Ezra | Deluxe | 1996 |  |
+| [In the Meantime][6cc5b1bf20] | Spacehog | Resident Alien | 1996 |  |
+| [Bulls on Parade][a3f4237d6b] | Rage Against the Machine | Evil Empire | 1996 |  |
+| [People of the Sun][70ff278609] | Rage Against the Machine | Evil Empire | 1996 |  |
+| [Down Rodeo][9335228812] | Rage Against the Machine | Evil Empire | 1996 |  |
+| [Lakini's Juice][ebd6c042ea] | Live | Secret Samadhi | 1997 |  |
+| [Rattlesnake][bd3516f468] | Live | Secret Samadhi | 1997 |  |
+| [Turn My Head][b7a7a6baf3] | Live | Secret Samadhi | 1997 |  |
+| [Semi-Charmed Life][8bfd1f3029] | Third Eye Blind | Third Eye Blind | 1997 |  |
+| [How's It Going to Be][945aee79aa] | Third Eye Blind | Third Eye Blind | 1997 |  |
+| [Graduate][32416e0d59] | Third Eye Blind | Third Eye Blind | 1997 |  |
+| [Bittersweet Symphony][e9628dd5f6] | The Verve | Urban Hymns | 1997 |  |
+| [The Drugs Don't Work][36bd9b5bd1] | The Verve | Urban Hymns | 1997 |  |
+| [Song 2][9a83cf0e5a] | Blur | Blur | 1997 |  |
+| [Closing Time][3d22f2a473] | Semisonic | Feeling Strangely Fine | 1997 |  |
+| [Karma Police][4a215c1d8a] | Radiohead | OK Computer | 1997 |  |
+| [Paranoid Android][8f87d04666] | Radiohead | OK Computer | 1997 |  |
+| [Sex and Candy][7060abef96] | Marcy Playground | Marcy Playground | 1997 |  |
+| [Flagpole Sitta][815a30b848] | Harvey Danger | Where Have All the Merrymakers Gone? | 1997 |  |
+| [My Hero][a67b27b3a7] | Foo Fighters | The Colour and the Shape | 1997 |  |
+| [Monkey Wrench][632df118f8] | Foo Fighters | The Colour and the Shape | 1997 |  |
+| [Everlong][91c1186ac9] | Foo Fighters | The Colour and the Shape | 1997 |  |
+| [The Way][ea044aada8] | Fastball | All the Pain Money Can Buy | 1998 |  |
+| [Fire Water Burn][e684be116a] | Bloodhound Gang | One Fierce Beer Coaster | 1998 |  |
+| [Push][af668d509c] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
+| [3 AM][6f2433aca8] | Matchbox Twenty | Yourself or Someone Like You | 1998 |  |
+| [Iris][388b1c5434] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
+| [Slide][f760a3713d] | Goo Goo Dolls | Dizzy Up the Girl | 1998 |  |
+| [Torn][93f90e0eef] | Natalie Imbruglia | Left of the Middle | 1998 |  |
+| [Inside Out][84ecd4e029] | Eve 6 | Eve 6 | 1998 |  |
+| [Celebrity Skin][c9b84b4ae5] | Hole | Celebrity Skin | 1998 |  |
+| [Malibu][b998d85e08] | Hole | Celebrity Skin | 1998 |  |
+| [Push It][228b0d9bf8] | Garbage | Version 2.0 | 1998 |  |
+| [I Think I'm Paranoid][a194716885] | Garbage | Version 2.0 | 1998 |  |
+| [Special][81a29cce4e] | Garbage | Version 2.0 | 1998 |  |
+| [My Own Worst Enemy][18eabb19bf] | Lit | A Place in the Sun | 1999 |  |
+| [Steal My Sunshine][8fa5b8773a] | Len | You Can't Stop the Bum Rush | 1999 |  |
+| [Last Kiss][ea757f53f8] | Pearl Jam | Last Kiss (Single) | 1999 |  |
+| [Shimmer][2878e8d63d] | Fuel | Sunburn | 1999 |  |
+| [Learn to Fly][cdb61f42d1] | Foo Fighters | There Is Nothing Left to Lose | 1999 |  |
+| [Welcome to the Fold][de1256f713] | Filter | Title of Record | 1999 |  |
+| [Take a Picture][b9068a817d] | Filter | Title of Record | 1999 |  |
 
-[1]: https://music.apple.com/us/song/man-in-the-box/1440806588
-[2]: https://music.apple.com/us/song/smells-like-teen-spirit/1440783625
-[3]: https://music.apple.com/us/song/in-bloom/1440783633
-[4]: https://music.apple.com/us/song/come-as-you-are/1440783636
-[5]: https://music.apple.com/us/song/breed/1440783620
-[6]: https://music.apple.com/us/song/lithium/1440783764
-[7]: https://music.apple.com/us/song/polly/1440783767
-[8]: https://music.apple.com/us/song/territorial-pissings/1440783772
-[9]: https://music.apple.com/us/song/drain-you/1440783624
-[10]: https://music.apple.com/us/song/lounge-act/1440783625
-[11]: https://music.apple.com/us/song/stay-away/1440783783
-[12]: https://music.apple.com/us/song/on-a-plain/1440783786
-[13]: https://music.apple.com/us/song/something-in-the-way/1440783790
-[14]: https://music.apple.com/us/song/even-flow/425465318
-[15]: https://music.apple.com/us/song/alive/425465319
-[16]: https://music.apple.com/us/song/once/425465308
-[17]: https://music.apple.com/us/song/why-go/425465336
-[18]: https://music.apple.com/us/song/black/425465351
-[19]: https://music.apple.com/us/song/jeremy/425465353
-[20]: https://music.apple.com/us/song/oceans/425465354
-[21]: https://music.apple.com/us/song/porch/425465357
-[22]: https://music.apple.com/us/song/garden/425465363
-[23]: https://music.apple.com/us/song/deep/425465387
-[24]: https://music.apple.com/us/song/release/425465392
-[25]: https://music.apple.com/us/song/enter-sandman/574040075
-[26]: https://music.apple.com/us/song/them-bones/157316531
-[27]: https://music.apple.com/us/song/dam-that-river/1440861546
-[28]: https://music.apple.com/us/song/rooster/157317003
-[29]: https://music.apple.com/us/song/would/157317248
-[30]: https://music.apple.com/us/song/killing-in-the-name/578028952
-[31]: https://music.apple.com/us/song/bombtrack/1440784970
-[32]: https://music.apple.com/us/song/no-rain/725821929
-[33]: https://music.apple.com/us/song/bullet-in-the-head/191451018
-[34]: https://music.apple.com/us/song/know-your-enemy/1440784976
-[35]: https://music.apple.com/us/song/wake-up/1440784980
-[36]: https://music.apple.com/us/song/freedom/578028976
-[37]: https://music.apple.com/us/song/creep/1097862231
-[38]: https://music.apple.com/us/song/anyone-can-play-guitar/1097863582
-[39]: https://music.apple.com/us/song/heart-shaped-box/1440859107
-[40]: https://music.apple.com/us/song/rape-me/1440783956
-[41]: https://music.apple.com/us/song/frances-farmer-will-have-her-revenge-on-seattle/1440783957
-[42]: https://music.apple.com/us/song/dumb/1440859361
-[43]: https://music.apple.com/us/song/very-ape/1440859386
-[44]: https://music.apple.com/us/song/milk-it/1440859484
-[45]: https://music.apple.com/us/song/pennyroyal-tea/1440859494
-[46]: https://music.apple.com/us/song/radio-friendly-unit-shifter/1440783962
-[47]: https://music.apple.com/us/song/tourettes/1440783963
-[48]: https://music.apple.com/us/song/all-apologies/1440783964
-[49]: https://music.apple.com/us/song/plush/3631541
-[50]: https://music.apple.com/us/song/creep/3631572
-[51]: https://music.apple.com/us/song/wicked-garden/3631553
-[52]: https://music.apple.com/us/song/sex-type-thing/1263219666
-[53]: https://music.apple.com/us/song/fell-on-black-days/1440811476
-[54]: https://music.apple.com/us/song/black-hole-sun/1440855436
-[55]: https://music.apple.com/us/song/spoonman/1440811873
-[56]: https://music.apple.com/us/song/limo-wreck/1440811885
-[57]: https://music.apple.com/us/song/the-day-i-tried-to-live/1440855441
-[58]: https://music.apple.com/us/song/kickstand/1440811899
-[59]: https://music.apple.com/us/song/fresh-tendrils/1440812205
-[60]: https://music.apple.com/us/song/4th-of-july/1440812213
-[61]: https://music.apple.com/us/song/half/1440812222
-[62]: https://music.apple.com/us/song/like-suicide/1440812230
-[63]: https://music.apple.com/us/song/she-likes-surprises/1440855454
-[64]: https://music.apple.com/us/song/head-down/1440811679
-[65]: https://music.apple.com/us/song/my-wave/1440811467
-[66]: https://music.apple.com/us/song/come-out-and-play/1856263393
-[67]: https://music.apple.com/us/song/self-esteem/1485034811
-[68]: https://music.apple.com/us/song/gotta-get-away/1440878597
-[69]: https://music.apple.com/us/song/zombie/1440735264
-[70]: https://music.apple.com/us/song/ode-to-my-family/1440735267
-[71]: https://music.apple.com/us/song/loser/1440636710
-[72]: https://music.apple.com/us/song/plowed/1443998773
-[73]: https://music.apple.com/us/song/molly-16-candles-down-the-drain-single-mix/1675381334
-[74]: https://music.apple.com/us/song/how-soon-is-now/203941925
-[75]: https://music.apple.com/us/song/hey-man-nice-shot/1576793811
-[76]: https://music.apple.com/us/song/this-is-a-call/1440897013
-[77]: https://music.apple.com/us/song/ill-stick-around/1440897015
-[78]: https://music.apple.com/us/song/big-me/258512160
-[79]: https://music.apple.com/us/song/alone-easy-target/258512171
-[80]: https://music.apple.com/us/song/good-grief/1440897021
-[81]: https://music.apple.com/us/song/floaty/258512275
-[82]: https://music.apple.com/us/song/weenie-beenie/1440897025
-[83]: https://music.apple.com/us/song/oh-george/1440897027
-[84]: https://music.apple.com/us/song/for-all-the-cows/1440897029
-[85]: https://music.apple.com/us/song/x-static/258512345
-[86]: https://music.apple.com/us/song/wattershed/1440897033
-[87]: https://music.apple.com/us/song/exhale/1440897035
-[88]: https://music.apple.com/us/song/interstate-love-song/3631594
-[89]: https://music.apple.com/us/song/vasoline/1466652602
-[90]: https://music.apple.com/us/song/lounge-fly/1466652604
-[91]: https://music.apple.com/us/song/still-remains/1466652607
-[92]: https://music.apple.com/us/song/army-ants/1466652615
-[93]: https://music.apple.com/us/song/kitchenware-candybars/1715665112
-[94]: https://music.apple.com/us/song/silvergun-superman/1466652610
-[95]: https://music.apple.com/us/song/big-empty/1466652611
-[96]: https://music.apple.com/us/song/unglued/1466652613
-[97]: https://music.apple.com/us/song/glide/300205984
-[98]: https://music.apple.com/us/song/and-so-i-know/302229319
-[99]: https://music.apple.com/us/song/i-got-id/688731242
-[100]: https://music.apple.com/us/song/far-behind/1443109951
-[101]: https://music.apple.com/us/song/you/1443109953
-[102]: https://music.apple.com/us/song/change/1443109955
-[103]: https://music.apple.com/us/song/everything-zen/1707602646
-[104]: https://music.apple.com/us/song/machinehead/1707602653
-[105]: https://music.apple.com/us/song/little-things-remastered/1440946051
-[106]: https://music.apple.com/us/song/comedown/1707602649
-[107]: https://music.apple.com/us/song/body/1440712611
-[108]: https://music.apple.com/us/song/monkey/1440712613
-[109]: https://music.apple.com/us/song/glycerine/1440712615
-[110]: https://music.apple.com/us/song/alien/1440712617
-[111]: https://music.apple.com/us/song/x-girlfriend/1440712619
-[112]: https://music.apple.com/us/song/testosterone/1440712621
-[113]: https://music.apple.com/us/song/selling-the-drama/1440486994
-[114]: https://music.apple.com/us/song/i-alone/1440486999
-[115]: https://music.apple.com/us/song/iris/1440487000
-[116]: https://music.apple.com/us/song/lightning-crashes/1440487152
-[117]: https://music.apple.com/us/song/all-over-you/1464575222
-[118]: https://music.apple.com/us/song/shit-towne/1440487161
-[119]: https://music.apple.com/us/song/t-b-d/1464575229
-[120]: https://music.apple.com/us/song/stage/1440487163
-[121]: https://music.apple.com/us/song/waitress/1440487164
-[122]: https://music.apple.com/us/song/pillar-of-davidson/1443025541
-[123]: https://music.apple.com/us/song/white-discussion/1440487167
-[124]: https://music.apple.com/us/song/horse-hidden-track/1440487168
-[125]: https://music.apple.com/us/song/top-live/1467413735
-[126]: https://music.apple.com/us/song/the-dam-at-otter-creek/1440486988
-[127]: https://music.apple.com/us/song/stupid-girl/1443188901
-[128]: https://music.apple.com/us/song/only-happy-when-it-rains/1443188892
-[129]: https://music.apple.com/us/song/queer/1440827323
-[130]: https://music.apple.com/us/song/vow/1440827333
-[131]: https://music.apple.com/us/song/1979/1455510933
-[132]: https://music.apple.com/us/song/tonight-tonight/1440855768
-[133]: https://music.apple.com/us/song/bullet-with-butterfly-wings/1440855770
-[134]: https://music.apple.com/us/song/to-forgive-remastered-2012/721224462
-[135]: https://music.apple.com/us/song/zero/1433795887
-[136]: https://music.apple.com/us/song/here-is-no-why/1455510870
-[137]: https://music.apple.com/us/song/porcelina-of-the-vast-oceans/1455510891
-[138]: https://music.apple.com/us/song/take-me-down/1440855780
-[139]: https://music.apple.com/us/song/jellybelly/1440855782
-[140]: https://music.apple.com/us/song/thru-the-eyes-of-ruby/1440855784
-[141]: https://music.apple.com/us/song/stumbleine/1440855786
-[142]: https://music.apple.com/us/song/x-y-u/1455510938
-[143]: https://music.apple.com/us/song/we-only-come-out-at-night/1455510940
-[144]: https://music.apple.com/us/song/where-boys-fear-to-tread/1440855792
-[145]: https://music.apple.com/us/song/bodies/1455510894
-[146]: https://music.apple.com/us/song/thirty-three/1455510930
-[147]: https://music.apple.com/us/song/in-the-arms-of-sleep/1455510932
-[148]: https://music.apple.com/us/song/muzzle/1440855800
-[149]: https://music.apple.com/us/song/galapagos/1440855802
-[150]: https://music.apple.com/us/song/tales-of-a-scorched-earth/1440855804
-[151]: https://music.apple.com/us/song/farewell-and-goodnight/1440855806
-[152]: https://music.apple.com/us/song/dose/1576793813
-[153]: https://music.apple.com/us/song/spent/1576793821
-[154]: https://music.apple.com/us/song/1996/1440841756
-[155]: https://music.apple.com/us/song/the-beautiful-people/1440747194
-[156]: https://music.apple.com/us/song/tourniquet/1440747085
-[157]: https://music.apple.com/us/song/counting-blue-cars/1443076977
-[158]: https://music.apple.com/us/song/the-freshmen/1440885791
-[159]: https://music.apple.com/us/song/the-distance/254347756
-[160]: https://music.apple.com/us/song/6-underground/1479614890
-[161]: https://music.apple.com/us/song/criminal/1440784064
-[162]: https://music.apple.com/us/song/santa-monica/1440803615
-[163]: https://music.apple.com/us/song/heartspark-dollarsign/1440803617
-[164]: https://music.apple.com/us/song/good/1440716925
-[165]: https://music.apple.com/us/song/in-the-meantime/1440775611
-[166]: https://music.apple.com/us/song/bulls-on-parade/390538384
-[167]: https://music.apple.com/us/song/people-of-the-sun/1440855549
-[168]: https://music.apple.com/us/song/down-rodeo/1440855553
-[169]: https://music.apple.com/us/song/lakini-s-juice/1440753336
-[170]: https://music.apple.com/us/song/rattlesnake/1440753065
-[171]: https://music.apple.com/us/song/turn-my-head/1443025555
-[172]: https://music.apple.com/us/song/semi-charmed-life/164394654
-[173]: https://music.apple.com/us/song/how-s-it-going-to-be/271978750
-[174]: https://music.apple.com/us/song/graduate/271978749
-[175]: https://music.apple.com/us/song/bitter-sweet-symphony/1443258189
-[176]: https://music.apple.com/us/song/the-drugs-don-t-work/1440885225
-[177]: https://music.apple.com/us/song/song-2/1764544820
-[178]: https://music.apple.com/us/song/closing-time/1443912092
-[179]: https://music.apple.com/us/song/karma-police/1097861836
-[180]: https://music.apple.com/us/song/paranoid-android/1097861770
-[181]: https://music.apple.com/us/song/sex-and-candy/1518392883
-[182]: https://music.apple.com/us/song/flagpole-sitta/1440923493
-[183]: https://music.apple.com/us/song/my-hero/362133488
-[184]: https://music.apple.com/us/song/monkey-wrench/362133453
-[185]: https://music.apple.com/us/song/everlong/362133505
-[186]: https://music.apple.com/us/song/the-way/1440905488
-[187]: https://music.apple.com/us/song/fire-water-burn/328320815
-[188]: https://music.apple.com/us/song/push/580695853
-[189]: https://music.apple.com/us/song/3-am/1440852667
-[190]: https://music.apple.com/us/song/iris/1440798585
-[191]: https://music.apple.com/us/song/slide/1109658194
-[192]: https://music.apple.com/us/song/torn/286006506
-[193]: https://music.apple.com/us/song/inside-out/258626806
-[194]: https://music.apple.com/us/song/celebrity-skin/1440848431
-[195]: https://music.apple.com/us/song/malibu/1440848433
-[196]: https://music.apple.com/us/song/push-it/1440877969
-[197]: https://music.apple.com/us/song/i-think-im-paranoid/1440877971
-[198]: https://music.apple.com/us/song/special/1440877973
-[199]: https://music.apple.com/us/song/my-own-worst-enemy/258611995
-[200]: https://music.apple.com/us/song/steal-my-sunshine/459816208
-[201]: https://music.apple.com/us/song/last-kiss/1826659460
-[202]: https://music.apple.com/us/song/shimmer/158719348
-[203]: https://music.apple.com/us/song/learn-to-fly/1440896761
-[204]: https://music.apple.com/us/song/welcome-to-the-fold/1576792359
-[205]: https://music.apple.com/us/song/take-a-picture/1576792367
+[05e6399891]: https://music.apple.com/us/song/man-in-the-box/1440806588
+[99b172d954]: https://music.apple.com/us/song/smells-like-teen-spirit/1440783625
+[2ec909ff2c]: https://music.apple.com/us/song/in-bloom/1440783633
+[8b670ffb20]: https://music.apple.com/us/song/come-as-you-are/1440783636
+[160bc38612]: https://music.apple.com/us/song/breed/1440783620
+[c574f313f4]: https://music.apple.com/us/song/lithium/1440783764
+[434b88fbb0]: https://music.apple.com/us/song/polly/1440783767
+[28fc7f34db]: https://music.apple.com/us/song/territorial-pissings/1440783772
+[02293080bb]: https://music.apple.com/us/song/drain-you/1440783624
+[76f6a08077]: https://music.apple.com/us/song/lounge-act/1440783625
+[66ab6897bc]: https://music.apple.com/us/song/stay-away/1440783783
+[fb2226579a]: https://music.apple.com/us/song/on-a-plain/1440783786
+[90cd1aadb0]: https://music.apple.com/us/song/something-in-the-way/1440783790
+[573cd16dd4]: https://music.apple.com/us/song/even-flow/425465318
+[20fcab6820]: https://music.apple.com/us/song/alive/425465319
+[e17b7eb43b]: https://music.apple.com/us/song/once/425465308
+[7f0926dd3a]: https://music.apple.com/us/song/why-go/425465336
+[9fcd744324]: https://music.apple.com/us/song/black/425465351
+[1c90e10fdc]: https://music.apple.com/us/song/jeremy/425465353
+[04666e1e05]: https://music.apple.com/us/song/oceans/425465354
+[a41e3bc3de]: https://music.apple.com/us/song/porch/425465357
+[4e7a941832]: https://music.apple.com/us/song/garden/425465363
+[8506ecadac]: https://music.apple.com/us/song/deep/425465387
+[f3646e97a3]: https://music.apple.com/us/song/release/425465392
+[7c924f0372]: https://music.apple.com/us/song/enter-sandman/574040075
+[ca10889f61]: https://music.apple.com/us/song/them-bones/157316531
+[547d56c0e7]: https://music.apple.com/us/song/dam-that-river/1440861546
+[9829bc87e1]: https://music.apple.com/us/song/rooster/157317003
+[81be661a13]: https://music.apple.com/us/song/would/157317248
+[77a5d10883]: https://music.apple.com/us/song/killing-in-the-name/578028952
+[67bbf77c88]: https://music.apple.com/us/song/bombtrack/1440784970
+[a03e3200bd]: https://music.apple.com/us/song/no-rain/725821929
+[efbbadd353]: https://music.apple.com/us/song/bullet-in-the-head/191451018
+[5c83e8a5b0]: https://music.apple.com/us/song/know-your-enemy/1440784976
+[a9dc9700c2]: https://music.apple.com/us/song/wake-up/1440784980
+[72d681562d]: https://music.apple.com/us/song/freedom/578028976
+[5324f422e7]: https://music.apple.com/us/song/creep/1097862231
+[1bf2be6a93]: https://music.apple.com/us/song/anyone-can-play-guitar/1097863582
+[78c95c0607]: https://music.apple.com/us/song/heart-shaped-box/1440859107
+[4a0e1e0649]: https://music.apple.com/us/song/rape-me/1440783956
+[4f6b746813]: https://music.apple.com/us/song/frances-farmer-will-have-her-revenge-on-seattle/1440783957
+[dccb2680fd]: https://music.apple.com/us/song/dumb/1440859361
+[e6eabe0027]: https://music.apple.com/us/song/very-ape/1440859386
+[f1a1ff8a58]: https://music.apple.com/us/song/milk-it/1440859484
+[470f1ff72d]: https://music.apple.com/us/song/pennyroyal-tea/1440859494
+[d640643467]: https://music.apple.com/us/song/radio-friendly-unit-shifter/1440783962
+[5f84716036]: https://music.apple.com/us/song/tourettes/1440783963
+[8f9d587875]: https://music.apple.com/us/song/all-apologies/1440783964
+[eb69e8042b]: https://music.apple.com/us/song/plush/3631541
+[98e84f4b6c]: https://music.apple.com/us/song/creep/3631572
+[9d831ceaa3]: https://music.apple.com/us/song/wicked-garden/3631553
+[688df6838b]: https://music.apple.com/us/song/sex-type-thing/1263219666
+[1e7295db6d]: https://music.apple.com/us/song/fell-on-black-days/1440811476
+[6b2a6b4ae1]: https://music.apple.com/us/song/black-hole-sun/1440855436
+[d8799bfa4f]: https://music.apple.com/us/song/spoonman/1440811873
+[7e7fe724dd]: https://music.apple.com/us/song/limo-wreck/1440811885
+[d6b8891c0d]: https://music.apple.com/us/song/the-day-i-tried-to-live/1440855441
+[c6d77d5a5a]: https://music.apple.com/us/song/kickstand/1440811899
+[3d729b9bd3]: https://music.apple.com/us/song/fresh-tendrils/1440812205
+[24b29738dd]: https://music.apple.com/us/song/4th-of-july/1440812213
+[92dbea2180]: https://music.apple.com/us/song/half/1440812222
+[bf05d8e928]: https://music.apple.com/us/song/like-suicide/1440812230
+[6bdb637ac5]: https://music.apple.com/us/song/she-likes-surprises/1440855454
+[b755c95fb4]: https://music.apple.com/us/song/head-down/1440811679
+[1ef9ef10c9]: https://music.apple.com/us/song/my-wave/1440811467
+[74aa58e41e]: https://music.apple.com/us/song/come-out-and-play/1856263393
+[c013866f82]: https://music.apple.com/us/song/self-esteem/1485034811
+[d8050fdaa7]: https://music.apple.com/us/song/gotta-get-away/1440878597
+[2834b9b713]: https://music.apple.com/us/song/zombie/1440735264
+[22c958919c]: https://music.apple.com/us/song/ode-to-my-family/1440735267
+[3a42aa81e0]: https://music.apple.com/us/song/loser/1440636710
+[d5edac2b7c]: https://music.apple.com/us/song/plowed/1443998773
+[6cb0df4974]: https://music.apple.com/us/song/molly-16-candles-down-the-drain-single-mix/1675381334
+[10116107c2]: https://music.apple.com/us/song/how-soon-is-now/203941925
+[8bc337fa3e]: https://music.apple.com/us/song/hey-man-nice-shot/1576793811
+[9f945e5845]: https://music.apple.com/us/song/this-is-a-call/1440897013
+[f3663c5f39]: https://music.apple.com/us/song/ill-stick-around/1440897015
+[de88a31d2a]: https://music.apple.com/us/song/big-me/258512160
+[bfb39cbfe2]: https://music.apple.com/us/song/alone-easy-target/258512171
+[fa5386b08f]: https://music.apple.com/us/song/good-grief/1440897021
+[d37df79abf]: https://music.apple.com/us/song/floaty/258512275
+[6996ef3620]: https://music.apple.com/us/song/weenie-beenie/1440897025
+[33042c3d6e]: https://music.apple.com/us/song/oh-george/1440897027
+[b40342076c]: https://music.apple.com/us/song/for-all-the-cows/1440897029
+[47c04d2f1e]: https://music.apple.com/us/song/x-static/258512345
+[6e9b25ce58]: https://music.apple.com/us/song/wattershed/1440897033
+[c0088972e8]: https://music.apple.com/us/song/exhale/1440897035
+[d5a966f807]: https://music.apple.com/us/song/interstate-love-song/3631594
+[daeb5a7231]: https://music.apple.com/us/song/vasoline/1466652602
+[92ca9dc00d]: https://music.apple.com/us/song/lounge-fly/1466652604
+[fc6ee127d7]: https://music.apple.com/us/song/still-remains/1466652607
+[c0a755da00]: https://music.apple.com/us/song/army-ants/1466652615
+[6cd0b38dd2]: https://music.apple.com/us/song/kitchenware-candybars/1715665112
+[203c29ceac]: https://music.apple.com/us/song/silvergun-superman/1466652610
+[d772fe3e29]: https://music.apple.com/us/song/big-empty/1466652611
+[65ae0642ad]: https://music.apple.com/us/song/unglued/1466652613
+[5a0144bbcb]: https://music.apple.com/us/song/glide/300205984
+[fc59dd4750]: https://music.apple.com/us/song/and-so-i-know/302229319
+[c21da3b4df]: https://music.apple.com/us/song/i-got-id/688731242
+[90cae68d16]: https://music.apple.com/us/song/far-behind/1443109951
+[da6e92501a]: https://music.apple.com/us/song/you/1443109953
+[51e84185d8]: https://music.apple.com/us/song/change/1443109955
+[75c20cd572]: https://music.apple.com/us/song/everything-zen/1707602646
+[3c1810e69b]: https://music.apple.com/us/song/machinehead/1707602653
+[21969824e7]: https://music.apple.com/us/song/little-things-remastered/1440946051
+[4605dedba5]: https://music.apple.com/us/song/comedown/1707602649
+[d57ee46010]: https://music.apple.com/us/song/body/1440712611
+[96c2205487]: https://music.apple.com/us/song/monkey/1440712613
+[19564292d2]: https://music.apple.com/us/song/glycerine/1440712615
+[7265b9b3e9]: https://music.apple.com/us/song/alien/1440712617
+[eaf1be9512]: https://music.apple.com/us/song/x-girlfriend/1440712619
+[0cc454fb56]: https://music.apple.com/us/song/testosterone/1440712621
+[a5de4f2436]: https://music.apple.com/us/song/selling-the-drama/1440486994
+[8811d07bb1]: https://music.apple.com/us/song/i-alone/1440486999
+[a8934faf85]: https://music.apple.com/us/song/iris/1440487000
+[d18a69a01b]: https://music.apple.com/us/song/lightning-crashes/1440487152
+[9ccb1c410e]: https://music.apple.com/us/song/all-over-you/1464575222
+[5dc27c21c4]: https://music.apple.com/us/song/shit-towne/1440487161
+[8b65882de7]: https://music.apple.com/us/song/t-b-d/1464575229
+[81958602ac]: https://music.apple.com/us/song/stage/1440487163
+[366ed29d42]: https://music.apple.com/us/song/waitress/1440487164
+[9467a5ecb3]: https://music.apple.com/us/song/pillar-of-davidson/1443025541
+[aa74174b7b]: https://music.apple.com/us/song/white-discussion/1440487167
+[3f97568f3e]: https://music.apple.com/us/song/horse-hidden-track/1440487168
+[cf6b3739af]: https://music.apple.com/us/song/top-live/1467413735
+[26e9b1a60e]: https://music.apple.com/us/song/the-dam-at-otter-creek/1440486988
+[efd8bbe483]: https://music.apple.com/us/song/stupid-girl/1443188901
+[f9a8c915cb]: https://music.apple.com/us/song/only-happy-when-it-rains/1443188892
+[ad885bf7f9]: https://music.apple.com/us/song/queer/1440827323
+[8d8f87fa1f]: https://music.apple.com/us/song/vow/1440827333
+[d38bff402e]: https://music.apple.com/us/song/1979/1455510933
+[26264cf266]: https://music.apple.com/us/song/tonight-tonight/1440855768
+[55b3361c24]: https://music.apple.com/us/song/bullet-with-butterfly-wings/1440855770
+[73743f19c2]: https://music.apple.com/us/song/to-forgive-remastered-2012/721224462
+[90d6d3ca22]: https://music.apple.com/us/song/zero/1433795887
+[5854771ac3]: https://music.apple.com/us/song/here-is-no-why/1455510870
+[2b33d2d4d9]: https://music.apple.com/us/song/porcelina-of-the-vast-oceans/1455510891
+[94db69ef21]: https://music.apple.com/us/song/take-me-down/1440855780
+[b364eecc2e]: https://music.apple.com/us/song/jellybelly/1440855782
+[0527d0acf5]: https://music.apple.com/us/song/thru-the-eyes-of-ruby/1440855784
+[261b0533c9]: https://music.apple.com/us/song/stumbleine/1440855786
+[0ab85b9025]: https://music.apple.com/us/song/x-y-u/1455510938
+[0ab0b7ea26]: https://music.apple.com/us/song/we-only-come-out-at-night/1455510940
+[1475e828bb]: https://music.apple.com/us/song/where-boys-fear-to-tread/1440855792
+[b1b177fd6c]: https://music.apple.com/us/song/bodies/1455510894
+[0f3151d658]: https://music.apple.com/us/song/thirty-three/1455510930
+[4a9e092e04]: https://music.apple.com/us/song/in-the-arms-of-sleep/1455510932
+[3d4e8bf678]: https://music.apple.com/us/song/muzzle/1440855800
+[63490274ba]: https://music.apple.com/us/song/galapagos/1440855802
+[0ddd16132e]: https://music.apple.com/us/song/tales-of-a-scorched-earth/1440855804
+[8251c967a6]: https://music.apple.com/us/song/farewell-and-goodnight/1440855806
+[7baeef8d39]: https://music.apple.com/us/song/dose/1576793813
+[ddf414ada4]: https://music.apple.com/us/song/spent/1576793821
+[16b450a74b]: https://music.apple.com/us/song/1996/1440841756
+[1dee203d5d]: https://music.apple.com/us/song/the-beautiful-people/1440747194
+[b63bf59ab0]: https://music.apple.com/us/song/tourniquet/1440747085
+[fd65afd42c]: https://music.apple.com/us/song/counting-blue-cars/1443076977
+[ed68d2b242]: https://music.apple.com/us/song/the-freshmen/1440885791
+[66d987a02e]: https://music.apple.com/us/song/the-distance/254347756
+[9531dd53b5]: https://music.apple.com/us/song/6-underground/1479614890
+[8409e776b6]: https://music.apple.com/us/song/criminal/1440784064
+[4f074caf54]: https://music.apple.com/us/song/santa-monica/1440803615
+[6b331a7b4d]: https://music.apple.com/us/song/heartspark-dollarsign/1440803617
+[36045fb1e5]: https://music.apple.com/us/song/good/1440716925
+[6cc5b1bf20]: https://music.apple.com/us/song/in-the-meantime/1440775611
+[a3f4237d6b]: https://music.apple.com/us/song/bulls-on-parade/390538384
+[70ff278609]: https://music.apple.com/us/song/people-of-the-sun/1440855549
+[9335228812]: https://music.apple.com/us/song/down-rodeo/1440855553
+[ebd6c042ea]: https://music.apple.com/us/song/lakini-s-juice/1440753336
+[bd3516f468]: https://music.apple.com/us/song/rattlesnake/1440753065
+[b7a7a6baf3]: https://music.apple.com/us/song/turn-my-head/1443025555
+[8bfd1f3029]: https://music.apple.com/us/song/semi-charmed-life/164394654
+[945aee79aa]: https://music.apple.com/us/song/how-s-it-going-to-be/271978750
+[32416e0d59]: https://music.apple.com/us/song/graduate/271978749
+[e9628dd5f6]: https://music.apple.com/us/song/bitter-sweet-symphony/1443258189
+[36bd9b5bd1]: https://music.apple.com/us/song/the-drugs-don-t-work/1440885225
+[9a83cf0e5a]: https://music.apple.com/us/song/song-2/1764544820
+[3d22f2a473]: https://music.apple.com/us/song/closing-time/1443912092
+[4a215c1d8a]: https://music.apple.com/us/song/karma-police/1097861836
+[8f87d04666]: https://music.apple.com/us/song/paranoid-android/1097861770
+[7060abef96]: https://music.apple.com/us/song/sex-and-candy/1518392883
+[815a30b848]: https://music.apple.com/us/song/flagpole-sitta/1440923493
+[a67b27b3a7]: https://music.apple.com/us/song/my-hero/362133488
+[632df118f8]: https://music.apple.com/us/song/monkey-wrench/362133453
+[91c1186ac9]: https://music.apple.com/us/song/everlong/362133505
+[ea044aada8]: https://music.apple.com/us/song/the-way/1440905488
+[e684be116a]: https://music.apple.com/us/song/fire-water-burn/328320815
+[af668d509c]: https://music.apple.com/us/song/push/580695853
+[6f2433aca8]: https://music.apple.com/us/song/3-am/1440852667
+[388b1c5434]: https://music.apple.com/us/song/iris/1440798585
+[f760a3713d]: https://music.apple.com/us/song/slide/1109658194
+[93f90e0eef]: https://music.apple.com/us/song/torn/286006506
+[84ecd4e029]: https://music.apple.com/us/song/inside-out/258626806
+[c9b84b4ae5]: https://music.apple.com/us/song/celebrity-skin/1440848431
+[b998d85e08]: https://music.apple.com/us/song/malibu/1440848433
+[228b0d9bf8]: https://music.apple.com/us/song/push-it/1440877969
+[a194716885]: https://music.apple.com/us/song/i-think-im-paranoid/1440877971
+[81a29cce4e]: https://music.apple.com/us/song/special/1440877973
+[18eabb19bf]: https://music.apple.com/us/song/my-own-worst-enemy/258611995
+[8fa5b8773a]: https://music.apple.com/us/song/steal-my-sunshine/459816208
+[ea757f53f8]: https://music.apple.com/us/song/last-kiss/1826659460
+[2878e8d63d]: https://music.apple.com/us/song/shimmer/158719348
+[cdb61f42d1]: https://music.apple.com/us/song/learn-to-fly/1440896761
+[de1256f713]: https://music.apple.com/us/song/welcome-to-the-fold/1576792359
+[b9068a817d]: https://music.apple.com/us/song/take-a-picture/1576792367

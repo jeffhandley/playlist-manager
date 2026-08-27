@@ -24,20 +24,25 @@ For complete artist discography playlists, use the **artist-catalog** skill (`.g
 
 ## Playlist File Format
 
-Playlists use markdown tables with footnote-style link references:
+Playlists use numberless markdown tables so adding or removing a track produces a
+small, reviewable diff. Link reference labels are the first 10 hexadecimal
+characters of the SHA-256 hash of the exact Apple Music URL. Always generate
+labels with `trackReference` from
+`.github/skills/shared/playlist-format.mjs`; never use row positions or sequence
+numbers as labels.
 
 ```markdown
 # Playlist Name
 
 Description of the playlist.
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Song Title][1] | Artist Name | Album Name | 2024 | |
-| 2 | [Song Title][2] | Artist Name | Album Name | 2024 | |
+| Song | Artist | Album | Year | Note |
+|---|---|---|---|---|
+| [Song Title][b9e57d33ae] | Artist Name | Album Name | 2024 | |
+| [Another Song][0ed9c28660] | Artist Name | Album Name | 2024 | |
 
-[1]: https://music.apple.com/us/song/song-slug/123456789
-[2]: https://music.apple.com/us/song/song-slug/987654321
+[b9e57d33ae]: https://music.apple.com/us/song/song-slug/123456789
+[0ed9c28660]: https://music.apple.com/us/song/another-song/987654321
 ```
 
 ## PR Workflow

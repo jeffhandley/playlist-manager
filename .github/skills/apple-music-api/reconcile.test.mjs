@@ -15,25 +15,42 @@ const PLAYLIST = `# Test Mix
 
 A test playlist.
 
-| # | Song | Artist | Album | Year | Note |
-|---|------|--------|-------|------|------|
-| 1 | [Keep Me][1] | Artist A | First | 2020 | favorite |
-| 2 | [Remove Me][2] | Artist B | Second | 2021 |  |
+| Song | Artist | Album | Year | Note |
+|---|---|---|---|---|
+| [Keep Me][fb42700ac9] | Artist A | First | 2020 | favorite |
+| [Remove Me][8776049ffe] | Artist B | Second | 2021 |  |
 
-[1]: https://music.apple.com/us/song/keep-me/111
-[2]: https://music.apple.com/us/song/remove-me/222
+[fb42700ac9]: https://music.apple.com/us/song/keep-me/111
+[8776049ffe]: https://music.apple.com/us/song/remove-me/222
 `;
 
-test("playlist rendering renumbers rows and references", () => {
+test("playlist rendering keeps numberless rows and stable references", () => {
   const directory = mkdtempSync(join(tmpdir(), "reconcile-render-"));
   const file = join(directory, "playlist.md");
   writeFileSync(file, PLAYLIST);
   const document = parsePlaylistDocument(file);
   const rendered = renderPlaylistDocument(document, [document.tracks[1]]);
 
-  assert.match(rendered, /\| 1 \| \[Remove Me]\[1] \|/);
-  assert.match(rendered, /^\[1]: .*\/222$/m);
-  assert.doesNotMatch(rendered, /^\[2]:/m);
+  assert.match(rendered, /\| \[Remove Me]\[8776049ffe] \|/);
+  assert.match(rendered, /^\[8776049ffe]: .*\/222$/m);
+  assert.doesNotMatch(rendered, /fb42700ac9/);
+});
+
+test("playlist rendering preserves grouping rows", () => {
+  const directory = mkdtempSync(join(tmpdir(), "reconcile-groups-"));
+  const file = join(directory, "playlist.md");
+  writeFileSync(
+    file,
+    PLAYLIST.replace(
+      "| [Keep Me][fb42700ac9]",
+      "| | | | **2020** | |\n| [Keep Me][fb42700ac9]"
+    )
+  );
+  const document = parsePlaylistDocument(file);
+  const rendered = renderPlaylistDocument(document, document.tracks);
+
+  assert.equal(document.tracks.length, 2);
+  assert.match(rendered, /\| \| \| \| \*\*2020\*\* \| \|\n\| \[Keep Me]/);
 });
 
 test("preference exclusions are idempotent", () => {

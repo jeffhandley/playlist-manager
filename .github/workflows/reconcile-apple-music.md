@@ -51,8 +51,8 @@ mcp-scripts:
       APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
     timeout: 1800
   test-reconciliation:
-    description: Run the Apple Music reconciliation test suite
-    run: node --test .github/skills/apple-music-api/reconcile.test.mjs
+    description: Run the playlist format and Apple Music reconciliation test suites
+    run: node --test .github/skills/apple-music-api/reconcile.test.mjs .github/skills/apple-music-api/sync.test.mjs .github/skills/apple-music-sync/parser.test.mjs .github/skills/shared/playlist-format.test.mjs
     timeout: 120
 steps:
   - name: Set up Node.js
