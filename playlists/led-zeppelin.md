@@ -19,102 +19,101 @@ Albums: Led Zeppelin (1969), Led Zeppelin II (1969), Led Zeppelin III (1970), Le
 - Do not shuffle — the chronological album order is intentional
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
-| [Black Dog][3b7615da43] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [Rock and Roll][fc56977bc8] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [The Battle of Evermore][280b160789] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [Stairway to Heaven][78771c168d] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [Misty Mountain Hop][1ac2b23713] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [Four Sticks][a17c99a8fb] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [Going to California][a474393ac5] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [When the Levee Breaks][192ded5642] | Led Zeppelin | Led Zeppelin | 1969 | |
-| [Whole Lotta Love][0597535a1c] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [What Is and What Should Never Be][ba2dab194b] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [The Lemon Song][57dea6bc49] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [Thank You][6116a50f00] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [Heartbreaker][7b334d2418] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [Living Loving Maid (She's Just a Woman)][fe06a7f71b] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [Ramble On][a1b6c818e6] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [Moby Dick][34a8b99093] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [Bring It On Home][5ac40daa75] | Led Zeppelin | Led Zeppelin II | 1969 | |
-| [Immigrant Song][cd3d20bd10] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Friends][7e001de033] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Celebration Day][580a57577a] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Since I've Been Loving You][a7415d9ad8] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Out On the Tiles][03891e6778] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Gallows Pole][8466d74cfb] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Tangerine][450887297a] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [That's the Way][f1c5c2ce4c] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Bron-Y-Aur Stomp][a2fe6dc524] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Hats Off to (Roy) Harper][317e3c5247] | Led Zeppelin | Led Zeppelin III | 1970 | |
-| [Black Dog][3b7615da43] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [Rock and Roll][fc56977bc8] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [The Battle of Evermore][280b160789] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [Stairway to Heaven][78771c168d] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [Misty Mountain Hop][1ac2b23713] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [Four Sticks][a17c99a8fb] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [Going to California][a474393ac5] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [When the Levee Breaks][192ded5642] | Led Zeppelin | Led Zeppelin IV | 1971 | |
-| [The Song Remains the Same][9a5bc34c6a] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [The Rain Song][06c50fd794] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [Over the Hills and Far Away][606a381c18] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [The Crunge][9d0b00f8fd] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [Dancing Days][34ee46575a] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [D'yer Mak'er][9e99fec8eb] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [No Quarter][5b0fb577a3] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [The Ocean][f1a0c62a86] | Led Zeppelin | Houses of the Holy | 1973 | |
-| [Custard Pie][f903b6a490] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [The Rover][49487a2c4d] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [In My Time of Dying][a9700a39d2] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Houses of the Holy][8691596c55] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Trampled Under Foot][8751ff19cd] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Kashmir][edc0fbf7c4] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [In the Light][e00a3b0e08] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Bron-Yr-Aur][8b0242b91f] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Down By the Seaside][2ec2cf789e] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Ten Years Gone][d6da6f45a5] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Night Flight][53f460def4] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [The Wanton Song][157abfc3b2] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Boogie With Stu][34bf46d8ed] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Black Country Woman][114008c37e] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Sick Again][6cf0ece2e6] | Led Zeppelin | Physical Graffiti | 1975 | |
-| [Achilles Last Stand (Remaster)][cb9f768420] | Led Zeppelin | Presence | 1976 | |
-| [For Your Life (Remaster)][af03b0786f] | Led Zeppelin | Presence | 1976 | |
-| [Royal Orleans (Remaster)][346fe59de8] | Led Zeppelin | Presence | 1976 | |
-| [Nobody's Fault but Mine (Remaster)][c65fa63a6c] | Led Zeppelin | Presence | 1976 | |
-| [Candy Store Rock (Remaster)][be2da071b0] | Led Zeppelin | Presence | 1976 | |
-| [Hots on for Nowhere (Remaster)][5d666bf308] | Led Zeppelin | Presence | 1976 | |
-| [Tea for One (Remaster)][fef4de2510] | Led Zeppelin | Presence | 1976 | |
-| [In the Evening][f01f8092e6] | Led Zeppelin | In Through the Out Door | 1979 | |
-| [South Bound Saurez][a243c9ed23] | Led Zeppelin | In Through the Out Door | 1979 | |
-| [Fool In the Rain][0257b5057a] | Led Zeppelin | In Through the Out Door | 1979 | |
-| [Hot Dog][ce2ed39775] | Led Zeppelin | In Through the Out Door | 1979 | |
-| [Carouselambra][e02c140846] | Led Zeppelin | In Through the Out Door | 1979 | |
-| [All My Love][c735c28d18] | Led Zeppelin | In Through the Out Door | 1979 | |
-| [I'm Gonna Crawl][e0183f8505] | Led Zeppelin | In Through the Out Door | 1979 | |
-| [We're Gonna Groove][08cf3e2493] | Led Zeppelin | Coda | 1982 | |
-| [Poor Tom][2b8f92b376] | Led Zeppelin | Coda | 1982 | |
-| [I Can't Quit You Baby (Sound Check Version)][4c4ab3b767] | Led Zeppelin | Coda | 1982 | |
-| [Walter's Walk][561cba3a2a] | Led Zeppelin | Coda | 1982 | |
-| [Ozone Baby][ad2aa5d200] | Led Zeppelin | Coda | 1982 | |
-| [Darlene][2a2f1b9104] | Led Zeppelin | Coda | 1982 | |
-| [Bonzo's Montreux][683ad843bd] | Led Zeppelin | Coda | 1982 | |
-| [Wearing and Tearing][1f1760360b] | Led Zeppelin | Coda | 1982 | |
-| [We're Gonna Groove (Alternate Mix)][a539ec0ef5] | Led Zeppelin | Coda | 1982 | |
-| [If It Keeps On Raining (Rough Mix)][dbf5d83c11] | Led Zeppelin | Coda | 1982 | |
-| [Bonzo's Montreux (Mix Construction In Progress)][73d565fab7] | Led Zeppelin | Coda | 1982 | |
-| [Baby Come On Home][9f183632fe] | Led Zeppelin | Coda | 1982 | |
-| [Sugar Mama (Mix)][784ae39aff] | Led Zeppelin | Coda | 1982 | |
-| [Poor Tom (Instrumental Mix)][c4ae3e5c7e] | Led Zeppelin | Coda | 1982 | |
-| [Travelling Riverside Blues (BBC Session)][6667713100] | Led Zeppelin | Coda | 1982 | |
-| [Hey, Hey, What Can I Do][04883e8731] | Led Zeppelin | Coda | 1982 | |
-| [Four Hands (Four Sticks) [Bombay Orchestra]][8f286120ec] | Led Zeppelin | Coda | 1982 | |
-| [Friends (Bombay Orchestra)][9823ce8720] | Led Zeppelin | Coda | 1982 | |
-| [St. Tristan's Sword (Rough Mix)][6e8c8ead63] | Led Zeppelin | Coda | 1982 | |
-| [Desire (The Wanton Song) [Rough Mix]][a4c3d574f1] | Led Zeppelin | Coda | 1982 | |
-| [Bring It On Home (Rough Mix)][ea2254de3d] | Led Zeppelin | Coda | 1982 | |
-| [Walter's Walk (Rough Mix)][be69ff6d69] | Led Zeppelin | Coda | 1982 | |
-| [Everybody Makes It Through (In the Light) [Rough Mix]][9dc3ec8534] | Led Zeppelin | Coda | 1982 | |
+|---|---|---|---|---|
+| [Black Dog][3b7615da43] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [Rock and Roll][fc56977bc8] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [The Battle of Evermore][280b160789] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [Stairway to Heaven][78771c168d] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [Misty Mountain Hop][1ac2b23713] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [Four Sticks][a17c99a8fb] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [Going to California][a474393ac5] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [When the Levee Breaks][192ded5642] | Led Zeppelin | Led Zeppelin | 1969 |  |
+| [Whole Lotta Love][0597535a1c] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [What Is and What Should Never Be][ba2dab194b] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [The Lemon Song][57dea6bc49] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Thank You][6116a50f00] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Heartbreaker][7b334d2418] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Living Loving Maid (She's Just a Woman)][fe06a7f71b] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Ramble On][a1b6c818e6] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Moby Dick][34a8b99093] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Bring It On Home][5ac40daa75] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Friends][7e001de033] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Celebration Day][580a57577a] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Since I've Been Loving You][a7415d9ad8] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Out On the Tiles][03891e6778] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Gallows Pole][8466d74cfb] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Tangerine][450887297a] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [That's the Way][f1c5c2ce4c] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Bron-Y-Aur Stomp][a2fe6dc524] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Hats Off to (Roy) Harper][317e3c5247] | Led Zeppelin | Led Zeppelin III | 1970 |  |
+| [Black Dog][3b7615da43] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [Rock and Roll][fc56977bc8] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [The Battle of Evermore][280b160789] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [Stairway to Heaven][78771c168d] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [Misty Mountain Hop][1ac2b23713] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [Four Sticks][a17c99a8fb] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [Going to California][a474393ac5] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [When the Levee Breaks][192ded5642] | Led Zeppelin | Led Zeppelin IV | 1971 |  |
+| [The Song Remains the Same][9a5bc34c6a] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [The Rain Song][06c50fd794] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [Over the Hills and Far Away][606a381c18] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [The Crunge][9d0b00f8fd] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [Dancing Days][34ee46575a] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [D'yer Mak'er][9e99fec8eb] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [No Quarter][5b0fb577a3] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [The Ocean][f1a0c62a86] | Led Zeppelin | Houses of the Holy | 1973 |  |
+| [Custard Pie][f903b6a490] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [The Rover][49487a2c4d] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [In My Time of Dying][a9700a39d2] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Houses of the Holy][8691596c55] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Trampled Under Foot][8751ff19cd] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Kashmir][edc0fbf7c4] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [In the Light][e00a3b0e08] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Bron-Yr-Aur][8b0242b91f] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Down By the Seaside][2ec2cf789e] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Ten Years Gone][d6da6f45a5] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Night Flight][53f460def4] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [The Wanton Song][157abfc3b2] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Boogie With Stu][34bf46d8ed] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Black Country Woman][114008c37e] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Sick Again][6cf0ece2e6] | Led Zeppelin | Physical Graffiti | 1975 |  |
+| [Achilles Last Stand (Remaster)][cb9f768420] | Led Zeppelin | Presence | 1976 |  |
+| [For Your Life (Remaster)][af03b0786f] | Led Zeppelin | Presence | 1976 |  |
+| [Royal Orleans (Remaster)][346fe59de8] | Led Zeppelin | Presence | 1976 |  |
+| [Nobody's Fault but Mine (Remaster)][c65fa63a6c] | Led Zeppelin | Presence | 1976 |  |
+| [Candy Store Rock (Remaster)][be2da071b0] | Led Zeppelin | Presence | 1976 |  |
+| [Hots on for Nowhere (Remaster)][5d666bf308] | Led Zeppelin | Presence | 1976 |  |
+| [Tea for One (Remaster)][fef4de2510] | Led Zeppelin | Presence | 1976 |  |
+| [In the Evening][f01f8092e6] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| [South Bound Saurez][a243c9ed23] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| [Fool In the Rain][0257b5057a] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| [Hot Dog][ce2ed39775] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| [Carouselambra][e02c140846] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| [All My Love][c735c28d18] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| [I'm Gonna Crawl][e0183f8505] | Led Zeppelin | In Through the Out Door | 1979 |  |
+| [We're Gonna Groove][08cf3e2493] | Led Zeppelin | Coda | 1982 |  |
+| [Poor Tom][2b8f92b376] | Led Zeppelin | Coda | 1982 |  |
+| [I Can't Quit You Baby (Sound Check Version)][4c4ab3b767] | Led Zeppelin | Coda | 1982 |  |
+| [Walter's Walk][561cba3a2a] | Led Zeppelin | Coda | 1982 |  |
+| [Ozone Baby][ad2aa5d200] | Led Zeppelin | Coda | 1982 |  |
+| [Darlene][2a2f1b9104] | Led Zeppelin | Coda | 1982 |  |
+| [Bonzo's Montreux][683ad843bd] | Led Zeppelin | Coda | 1982 |  |
+| [Wearing and Tearing][1f1760360b] | Led Zeppelin | Coda | 1982 |  |
+| [We're Gonna Groove (Alternate Mix)][a539ec0ef5] | Led Zeppelin | Coda | 1982 |  |
+| [If It Keeps On Raining (Rough Mix)][dbf5d83c11] | Led Zeppelin | Coda | 1982 |  |
+| [Bonzo's Montreux (Mix Construction In Progress)][73d565fab7] | Led Zeppelin | Coda | 1982 |  |
+| [Baby Come On Home][9f183632fe] | Led Zeppelin | Coda | 1982 |  |
+| [Sugar Mama (Mix)][784ae39aff] | Led Zeppelin | Coda | 1982 |  |
+| [Poor Tom (Instrumental Mix)][c4ae3e5c7e] | Led Zeppelin | Coda | 1982 |  |
+| [Travelling Riverside Blues (BBC Session)][6667713100] | Led Zeppelin | Coda | 1982 |  |
+| [Hey, Hey, What Can I Do][04883e8731] | Led Zeppelin | Coda | 1982 |  |
+| [Four Hands (Four Sticks) [Bombay Orchestra]][8f286120ec] | Led Zeppelin | Coda | 1982 |  |
+| [Friends (Bombay Orchestra)][9823ce8720] | Led Zeppelin | Coda | 1982 |  |
+| [St. Tristan's Sword (Rough Mix)][6e8c8ead63] | Led Zeppelin | Coda | 1982 |  |
+| [Desire (The Wanton Song) [Rough Mix]][a4c3d574f1] | Led Zeppelin | Coda | 1982 |  |
+| [Bring It On Home (Rough Mix)][ea2254de3d] | Led Zeppelin | Coda | 1982 |  |
+| [Walter's Walk (Rough Mix)][be69ff6d69] | Led Zeppelin | Coda | 1982 |  |
+| [Everybody Makes It Through (In the Light) [Rough Mix]][9dc3ec8534] | Led Zeppelin | Coda | 1982 |  |
 
 [3b7615da43]: https://music.apple.com/us/song/black-dog/580708177
 [fc56977bc8]: https://music.apple.com/us/song/rock-and-roll/580708178
@@ -133,7 +132,6 @@ Albums: Led Zeppelin (1969), Led Zeppelin II (1969), Led Zeppelin III (1970), Le
 [a1b6c818e6]: https://music.apple.com/us/song/ramble-on/580708477
 [34a8b99093]: https://music.apple.com/us/song/moby-dick/580708478
 [5ac40daa75]: https://music.apple.com/us/song/bring-it-on-home/580708479
-[cd3d20bd10]: https://music.apple.com/us/song/immigrant-song/580708280
 [7e001de033]: https://music.apple.com/us/song/friends/580708282
 [580a57577a]: https://music.apple.com/us/song/celebration-day/580708283
 [a7415d9ad8]: https://music.apple.com/us/song/since-ive-been-loving-you/580708284
@@ -143,6 +141,14 @@ Albums: Led Zeppelin (1969), Led Zeppelin II (1969), Led Zeppelin III (1970), Le
 [f1c5c2ce4c]: https://music.apple.com/us/song/thats-the-way/580708329
 [a2fe6dc524]: https://music.apple.com/us/song/bron-y-aur-stomp/580708330
 [317e3c5247]: https://music.apple.com/us/song/hats-off-to-roy-harper/580708331
+[3b7615da43]: https://music.apple.com/us/song/black-dog/580708177
+[fc56977bc8]: https://music.apple.com/us/song/rock-and-roll/580708178
+[280b160789]: https://music.apple.com/us/song/the-battle-of-evermore/580708179
+[78771c168d]: https://music.apple.com/us/song/stairway-to-heaven/580708180
+[1ac2b23713]: https://music.apple.com/us/song/misty-mountain-hop/580708181
+[a17c99a8fb]: https://music.apple.com/us/song/four-sticks/580708182
+[a474393ac5]: https://music.apple.com/us/song/going-to-california/580708183
+[192ded5642]: https://music.apple.com/us/song/when-the-levee-breaks/580708184
 [9a5bc34c6a]: https://music.apple.com/us/song/the-song-remains-the-same/580707917
 [06c50fd794]: https://music.apple.com/us/song/the-rain-song/580707918
 [606a381c18]: https://music.apple.com/us/song/over-the-hills-and-far-away/580707919

@@ -3,7 +3,7 @@
 Political and social commentary songs spanning six decades, from Vietnam-era protest anthems to modern political folk and hip-hop. No time bounds - features classic rock, punk, hip-hop, and contemporary artists addressing progressive vs. conservative culture clashes, war, civil rights, and social justice.
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | [My Generation][a7876e8505] | The Who | My Generation | 1965 | Youth rebellion anthem |
 | [For What It's Worth][6bbc4eb964] | Buffalo Springfield | Buffalo Springfield | 1967 | Sunset Strip protests |
 | [The Unknown Soldier][f09d4e10a7] | The Doors | Waiting for the Sun | 1968 | Vietnam War protest |
@@ -24,8 +24,6 @@ Political and social commentary songs spanning six decades, from Vietnam-era pro
 | [Zombie][2834b9b713] | The Cranberries | No Need to Argue | 1994 | Northern Ireland conflict |
 | [Bulls on Parade][a3f4237d6b] | Rage Against the Machine | Evil Empire | 1996 | Military-industrial complex |
 | [American Idiot][272233efc3] | Green Day | American Idiot | 2004 | Political disillusionment |
-| [Holiday][389c9238c4] | Green Day | American Idiot | 2004 | Anti-war commentary |
-| [Formation][fa80db119c] | Beyoncé | Lemonade | 2016 | Black pride/police brutality |
 | [This Is America][76f9c7645f] | Childish Gambino | This Is America - Single | 2018 | Gun violence and racism |
 | [War Isn't Murder][cbdda7e62b] | Jesse Welles | Hells Welles | 2024 | Anti-war Gaza critique |
 | [Join Ice][87c801dede] | Jesse Welles | No Kings - Single | 2025 | Immigration enforcement satire |
@@ -50,8 +48,6 @@ Political and social commentary songs spanning six decades, from Vietnam-era pro
 [2834b9b713]: https://music.apple.com/us/song/zombie/1440735264
 [a3f4237d6b]: https://music.apple.com/us/song/bulls-on-parade/390538384
 [272233efc3]: https://music.apple.com/us/song/american-idiot/207192732
-[389c9238c4]: https://music.apple.com/us/song/holiday/1161539205
-[fa80db119c]: https://music.apple.com/us/song/formation/1460430757
 [76f9c7645f]: https://music.apple.com/us/song/this-is-america/1379046390
 [cbdda7e62b]: https://music.apple.com/us/song/war-isnt-murder/1753983982
 [87c801dede]: https://music.apple.com/us/song/join-ice/1844851758

@@ -3,7 +3,7 @@
 A curated journey through the first half of the decade that redefined how we discover, share, and experience music. Born in pandemic lockdowns and propelled by TikTok virality, streaming-first releases, and genre-blurring creativity, the 2020s gave us disco-pop revivals, country-rap crossovers, K-pop's global takeover, and the rise of bedroom-produced hits. From Olivia Rodrigo's heartbreak anthems to Kendrick Lamar's cultural statements, this playlist captures the era's restless creative energy. Organized chronologically with 2–3 standout hits per month, spanning January 2020 through mid-2025.
 
 | Song | Artist | Month | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | | | | **2020** | |
 | [Circles][97289731c8] | Post Malone | Jan | 2020 | Melancholy pop perfection |
 | [Before You Go][c78e91e4b9] | Lewis Capaldi | Jan | 2020 | Heartbreak anthem went global |
@@ -40,7 +40,6 @@ A curated journey through the first half of the decade that redefined how we dis
 | [Calling My Phone][913a90f8d6] | Lil Tjay ft. 6LACK | Feb | 2021 | Haunting melodic rap anthem of longing peaked at #3 |
 | [Peaches][7877c73d6b] | Justin Bieber | Mar | 2021 | Breezy R&B collaboration hit |
 | [Up][1d75f2da29] | Cardi B | Mar | 2021 | High-energy hip-hop banger |
-| [MONTERO (Call Me by Your Name)][d6770a50cc] | Lil Nas X | Apr | 2021 | Boundary-pushing cultural moment |
 | [deja vu][8ed93b2f12] | Olivia Rodrigo | Apr | 2021 | Jealousy anthem with pop bite |
 | [Kiss Me More][662bf53ecf] | Doja Cat | May | 2021 | Flirty pop-funk summer jam |
 | [good 4 u][eaa78a42cb] | Olivia Rodrigo | May | 2021 | Pop-punk rage anthem breakout |
@@ -99,7 +98,6 @@ A curated journey through the first half of the decade that redefined how we dis
 | [Cruel Summer][6ecb685c11] | Taylor Swift | Jun | 2023 | Eras Tour belated chart-topper |
 | [Dance the Night][97c63b8b7b] | Dua Lipa | Jun | 2023 | Barbie movie dance anthem |
 | [Vampire][4f9c3a9933] | Olivia Rodrigo | Jul | 2023 | GUTS lead single rock edge |
-| [Seven][2950d42bc5] | Jung Kook | Jul | 2023 | K-pop solo debut smash |
 | [Paint the Town Red][333c1d1b85] | Doja Cat | Aug | 2023 | Rap reinvention number one hit |
 | [Rush][1d651abc62] | Troye Sivan | Aug | 2023 | Euphoric dance-pop anthem |
 | [What Was I Made For?][6b6ac37233] | Billie Eilish | Sep | 2023 | Barbie existential ballad beauty |
@@ -125,7 +123,6 @@ A curated journey through the first half of the decade that redefined how we dis
 | [Espresso][f6e59bc424] | Sabrina Carpenter | Jun | 2024 | Song of the summer earworm |
 | [A Bar Song (Tipsy)][438b05ebb6] | Shaboozey | Jul | 2024 | Record-tying nineteen weeks at one |
 | [Please Please Please][dc672d7bc6] | Sabrina Carpenter | Jul | 2024 | Back-to-back Carpenter domination |
-| [Nasty][b1f23d7b0a] | Tinashe | Jul | 2024 | R&B comeback viral sensation |
 | [Birds of a Feather][6ac966323e] | Billie Eilish | Aug | 2024 | Hit Me Hard and Soft gem |
 | [Good Luck, Babe!][9a6772c27a] | Chappell Roan | Aug | 2024 | Queer pop anthem breakout year |
 | [Taste][036e89f985] | Sabrina Carpenter | Sep | 2024 | Short n Sweet pop perfection |
@@ -181,7 +178,6 @@ A curated journey through the first half of the decade that redefined how we dis
 [913a90f8d6]: https://music.apple.com/us/song/calling-my-phone/1551409732
 [7877c73d6b]: https://music.apple.com/us/song/peaches-feat-daniel-caesar-givon/1556175857
 [1d75f2da29]: https://music.apple.com/us/song/up/1821526566
-[d6770a50cc]: https://music.apple.com/us/song/montero-call-me-by-your-name/1556766751
 [8ed93b2f12]: https://music.apple.com/us/song/deja-vu/1560735548
 [662bf53ecf]: https://music.apple.com/us/song/kiss-me-more-feat-sza/1571169440
 [eaa78a42cb]: https://music.apple.com/us/song/good-4-u/1560735551
@@ -238,7 +234,6 @@ A curated journey through the first half of the decade that redefined how we dis
 [6ecb685c11]: https://music.apple.com/us/song/cruel-summer/1468058171
 [97c63b8b7b]: https://music.apple.com/us/song/dance-the-night/1689238922
 [4f9c3a9933]: https://music.apple.com/us/song/vampire/1694386830
-[2950d42bc5]: https://music.apple.com/us/song/seven/1694929650
 [333c1d1b85]: https://music.apple.com/us/song/paint-the-town-red/1699831061
 [1d651abc62]: https://music.apple.com/us/song/rush/1694860254
 [6b6ac37233]: https://music.apple.com/us/song/what-was-i-made-for/1689239800
@@ -263,7 +258,6 @@ A curated journey through the first half of the decade that redefined how we dis
 [f6e59bc424]: https://music.apple.com/us/song/espresso-on-vacation-version/1746801012
 [438b05ebb6]: https://music.apple.com/us/song/a-bar-song-tipsy-remix/1752631697
 [dc672d7bc6]: https://music.apple.com/us/song/please-please-please/1795513492
-[b1f23d7b0a]: https://music.apple.com/us/song/nasty/1738935599
 [6ac966323e]: https://music.apple.com/us/song/birds-of-a-feather/1739659142
 [9a6772c27a]: https://music.apple.com/us/song/good-luck-babe/1737497080
 [036e89f985]: https://music.apple.com/us/song/taste/1750307079
