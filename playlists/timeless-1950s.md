@@ -4,7 +4,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **1950** | |
+| | | | **1950** | |
 | [Dear Hearts and Gentle People][cdda6ed5b6] | Bing Crosby | Jan | 1950 | Crosby's warm Americana singalong |
 | [I Can Dream, Can't I?][976674c4ea] | The Andrews Sisters | Jan | 1950 | Trio harmony standard of the era |
 | [My Foolish Heart][fbb51e0bf0] | Billy Eckstine | Feb | 1950 | Jazz ballad standard, million-seller |
@@ -21,7 +21,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [Harbor Lights][2fd704f56c] | Sammy Kaye | Oct | 1950 | Nostalgic harbor farewell ballad |
 | [My Heart Cries for You][a9fad75d68] | Guy Mitchell | Nov | 1950 | Mitchell's breakout romantic ballad |
 | [The Tennessee Waltz][6cf2d30c80] | Patti Page | Dec | 1950 | Best-selling single of the era |
-| | | | | **1951** | |
+| | | | **1951** | |
 | [Be My Love][2ba6b0ec89] | Mario Lanza | Jan | 1951 | Operatic pop crossover sensation |
 | [If][d2b4eeb986] | Perry Como | Feb | 1951 | Como's smooth romantic standard |
 | [Mockin' Bird Hill][f3528ee741] | Les Paul & Mary Ford | Mar | 1951 | Guitar pioneer's cheerful hit |
@@ -40,7 +40,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [Unforgettable][991ad3e6f8] | Nat King Cole | Nov | 1951 | Revived as iconic 1991 duet |
 | [Rocket 88][a6aa706350] | Jackie Brenston | Dec | 1951 | Often called first rock & roll |
 | [Sixty Minute Man][18386ca2bf] | The Dominoes | Dec | 1951 | Pioneering proto-rock R&B hit |
-| | | | | **1952** | |
+| | | | **1952** | |
 | [Wheel of Fortune][395ecf2a0d] | Kay Starr | Feb | 1952 | Starr's powerhouse signature hit |
 | [Anytime][5d848cc6ad] | Eddie Fisher | Mar | 1952 | Fisher's smooth romantic ballad |
 | [A Guy Is a Guy][db1e3af404] | Doris Day | Apr | 1952 | Day's charming novelty hit |
@@ -54,7 +54,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [You Belong to Me][9f8923e3c3] | Jo Stafford | Sep | 1952 | Enduring love song standard |
 | [I Went to Your Wedding][9c3a1bff4a] | Patti Page | Oct | 1952 | Page's heartbreak hit sensation |
 | [Why Don't You Believe Me][4826fe4f6a] | Joni James | Nov | 1952 | James's #1 heartfelt pop ballad |
-| | | | | **1953** | |
+| | | | **1953** | |
 | [Don't Let the Stars Get in Your Eyes][7d23428f48] | Perry Como | Jan | 1953 | Como's easygoing chart-topper |
 | [Till I Waltz Again with You][b1f41bc7ad] | Teresa Brewer | Feb | 1953 | Brewer's biggest romantic hit |
 | [(How Much Is) That Doggie in the Window][e225ae2c02] | Patti Page | Mar | 1953 | Iconic novelty sing-along classic |
@@ -71,7 +71,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [That's Amore][25cba1a8b4] | Dean Martin | Nov | 1953 | Martin's beloved Italian classic |
 | [Changing Partners][f643281305] | Patti Page | Dec | 1953 | Waltz-time romantic favorite |
 | [Oh! My Pa-Pa][c77838186e] | Eddie Fisher | Dec | 1953 | Sentimental family tribute ballad |
-| | | | | **1954** | |
+| | | | **1954** | |
 | [Secret Love][f6b07ca4ae] | Doris Day | Jan | 1954 | Oscar-winning song, Day's signature |
 | [Make Love to Me!][1ff92dc95f] | Jo Stafford | Feb | 1954 | Jazzy pop update of Dixieland tune |
 | [Answer Me, My Love][e8802643c9] | Nat "King" Cole | Feb | 1954 | Cole's velvet baritone, top-10 hit |
@@ -88,7 +88,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [Shake, Rattle and Roll][c0b6d9b16a] | Bill Haley & His Comets | Nov | 1954 | Seminal early rock & roll anthem |
 | [Earth Angel][3c702bef64] | The Penguins | Dec | 1954 | Defining doo-wop ballad standard |
 | [Mr. Sandman][2993495bb0] | The Chordettes | Dec | 1954 | Timeless close-harmony pop classic |
-| | | | | **1955** | |
+| | | | **1955** | |
 | [Let Me Go, Lover!][05a95a7253] | Joan Weber | Jan | 1955 | TV-boosted dramatic breakup hit |
 | [Hearts of Stone][20085fcab4] | The Fontane Sisters | Feb | 1955 | Doo-wop cover pop crossover |
 | [Pledging My Love][7c5d6ef791] | Johnny Ace | Feb | 1955 | Posthumous R&B ballad legend |
@@ -111,7 +111,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [Bo Diddley][b3762a14de] | Bo Diddley | Dec | 1955 | Iconic beat shaped rock & roll |
 | [The Great Pretender][e9771fcf0a] | The Platters | Dec | 1955 | Platters' emotional doo-wop peak |
 | [Tutti Frutti][136c0580e2] | Little Richard | Dec | 1955 | Wild rock & roll battle cry |
-| | | | | **1956** | |
+| | | | **1956** | |
 | [Memories Are Made of This][ecf400f0fd] | Dean Martin | Jan | 1956 | Martin's relaxed #1 singalong |
 | [Rock and Roll Waltz][0e89e61afe] | Kay Starr | Jan | 1956 | Novelty bridging pop and rock |
 | [Lisbon Antigua][d9acfcc7b0] | Nelson Riddle | Feb | 1956 | Exotic orchestral easy-listening hit |
@@ -138,7 +138,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [The Green Door][cac0b50db9] | Jim Lowe | Nov | 1956 | Mystery novelty pop earworm |
 | [Just Walking in the Rain][184b93c744] | Johnnie Ray | Dec | 1956 | Ray's poignant rainy-day ballad |
 | [Singing the Blues][2a38b32b30] | Guy Mitchell | Dec | 1956 | Mitchell's carefree country-pop #1 |
-| | | | | **1957** | |
+| | | | **1957** | |
 | [Too Much][c6fc393869] | Elvis Presley | Jan | 1957 | Presley's rockabilly chart-topper |
 | [Young Love][ec5703eee3] | Tab Hunter | Jan | 1957 | Teen idol heartthrob anthem |
 | [Banana Boat (Day-O)][425d426e7a] | Harry Belafonte | Feb | 1957 | Calypso sensation, cultural crossover |
@@ -166,7 +166,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [You Send Me][8226135f32] | Sam Cooke | Nov | 1957 | Cooke's debut, soul music pioneer |
 | [Peggy Sue][086d9c6617] | Buddy Holly | Dec | 1957 | Holly's hiccup-vocal signature hit |
 | [School Days][339bbd2220] | Chuck Berry | Dec | 1957 | Berry's teen anthem rock standard |
-| | | | | **1958** | |
+| | | | **1958** | |
 | [At the Hop][c25662a7ae] | Danny & The Juniors | Jan | 1958 | Teen dance rock & roll anthem |
 | [Don't][e8c67a8cf6] | Elvis Presley | Jan | 1958 | Presley's tender early '58 ballad |
 | [Get a Job][be71a1ffe5] | The Silhouettes | Feb | 1958 | Doo-wop humor protest classic |
@@ -195,7 +195,7 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [Johnny B. Goode][0a7730c69a] | Chuck Berry | Nov | 1958 | Rock guitar's defining anthem |
 | [Tom Dooley][76f088236d] | The Kingston Trio | Nov | 1958 | Folk revival murder ballad hit |
 | [To Know Him Is to Love Him][328c4dad54] | The Teddy Bears | Dec | 1958 | Phil Spector's debut production |
-| | | | | **1959** | |
+| | | | **1959** | |
 | [Donna][41f3c796ad] | Ritchie Valens | Jan | 1959 | Valens' tender love song tribute |
 | [Smoke Gets in Your Eyes][f4d73a8659] | The Platters | Jan | 1959 | Classic standard, Platters' finest |
 | [La Bamba][1cd9901aa2] | Ritchie Valens | Feb | 1959 | Mexican folk-rock crossover legend |

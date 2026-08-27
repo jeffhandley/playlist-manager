@@ -4,6 +4,7 @@ import { readFileSync } from "fs";
 
 export function parsePlaylistMarkdown(filePath) {
   const content = readFileSync(filePath, "utf-8");
+  const lines = content.split("\n");
 
   const nameMatch = content.match(/^# (.+)$/m);
   const name = nameMatch ? nameMatch[1].trim() : null;
@@ -21,7 +22,7 @@ export function parsePlaylistMarkdown(filePath) {
 
   // Parse footnote-style link references.
   const linkRefs = {};
-  for (const line of content.split("\n")) {
+  for (const line of lines) {
     const refMatch = line.match(/^\[([a-z0-9_-]+)\]:\s*(.+)$/i);
     if (refMatch) {
       linkRefs[refMatch[1]] = refMatch[2].trim();
@@ -29,7 +30,13 @@ export function parsePlaylistMarkdown(filePath) {
   }
 
   const tracks = [];
-  for (const line of content.split("\n")) {
+  const tableStart = lines.findIndex((line) =>
+    /^\|\s*(?:#\s*\|\s*)?Song\s*\|/i.test(line)
+  );
+  if (tableStart < 0) return { name, description, tracks };
+
+  for (const line of lines.slice(tableStart + 2)) {
+    if (!line.startsWith("|")) break;
     const cells = line
       .trim()
       .replace(/^\|/, "")
@@ -37,12 +44,7 @@ export function parsePlaylistMarkdown(filePath) {
       .split("|")
       .map((cell) => cell.trim());
     const offset = /^\d+$/.test(cells[0]) ? 1 : 0;
-    if (
-      cells[0] !== "#" &&
-      cells.length >= offset + 5 &&
-      cells[offset] !== "Song" &&
-      !/^[-:]+$/.test(cells[offset])
-    ) {
+    if (cells.length >= offset + 5 && cells[offset]) {
       let song = cells[offset];
       const artist = cells[offset + 1];
       const album = cells[offset + 2];

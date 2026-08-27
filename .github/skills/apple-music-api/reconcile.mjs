@@ -99,21 +99,42 @@ export function parsePlaylistDocument(filePath) {
   }
 
   const tracks = [];
+  const decorations = [];
+  let pendingDecorations = [];
   for (const line of lines.slice(tableStart + 2, tableEnd)) {
     const cells = splitTableRow(line);
     if (cells.length < offset + 5) throw new Error(`Unsupported playlist row in ${filePath}: ${line}`);
+    if (!cells[offset]) {
+      pendingDecorations.push(line);
+      continue;
+    }
     const linkedSong = parseSongCell(cells[offset], references);
-    tracks.push({
+    const track = {
       song: linkedSong.song,
       artist: cells[offset + 1],
       album: cells[offset + 2],
       year: cells[offset + 3],
       note: cells.slice(offset + 4).join(" | "),
       url: linkedSong.url,
-    });
+    };
+    for (const decoration of pendingDecorations) {
+      decorations.push({ line: decoration, before: track, originalIndex: tracks.length });
+    }
+    pendingDecorations = [];
+    tracks.push(track);
   }
 
-  return { filePath, name, lines, tableStart, tableEnd, headerCells, tracks };
+  return {
+    filePath,
+    name,
+    lines,
+    tableStart,
+    tableEnd,
+    headerCells,
+    tracks,
+    decorations,
+    trailingDecorations: pendingDecorations,
+  };
 }
 
 function escapeCell(value) {
@@ -121,13 +142,32 @@ function escapeCell(value) {
 }
 
 export function renderPlaylistDocument(document, tracks) {
-  const rows = tracks.map((track) => {
+  const decorationsByIndex = new Map();
+  for (const decoration of document.decorations) {
+    let target = tracks.indexOf(decoration.before);
+    if (target < 0) {
+      target = tracks.findIndex((track) => {
+        const originalIndex = document.tracks.indexOf(track);
+        return originalIndex > decoration.originalIndex;
+      });
+    }
+    if (target < 0) target = tracks.length;
+    const lines = decorationsByIndex.get(target) || [];
+    lines.push(decoration.line);
+    decorationsByIndex.set(target, lines);
+  }
+
+  const rows = tracks.flatMap((track, index) => {
     const reference = track.url ? trackReference(track.url) : null;
     const song = reference
       ? `[${escapeCell(track.song)}][${reference}]`
       : escapeCell(track.song);
-    return `| ${song} | ${escapeCell(track.artist)} | ${escapeCell(track.album)} | ${escapeCell(track.year)} | ${escapeCell(track.note)} |`;
+    return [
+      ...(decorationsByIndex.get(index) || []),
+      `| ${song} | ${escapeCell(track.artist)} | ${escapeCell(track.album)} | ${escapeCell(track.year)} | ${escapeCell(track.note)} |`,
+    ];
   });
+  rows.push(...(decorationsByIndex.get(tracks.length) || []), ...document.trailingDecorations);
   const references = tracks
     .map((track) => (track.url ? `[${trackReference(track.url)}]: ${track.url}` : null))
     .filter(Boolean);

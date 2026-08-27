@@ -4,7 +4,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **2000** | |
+| | | | **2000** | |
 | [Smooth][16fb36ff40] | Santana ft. Rob Thomas | Jan | 2000 | Latin rock crossover sensation |
 | [What a Girl Wants][a68348d834] | Christina Aguilera | Jan | 2000 | Aguilera's teen pop peak |
 | [I Knew I Loved You][dbcf3b4cf7] | Savage Garden | Feb | 2000 | Lush pop balladry at its best |
@@ -29,7 +29,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [Stan][d87bf58681] | Eminem ft. Dido | Nov | 2000 | Hip-hop storytelling masterclass |
 | [Independent Women Part I][26edb5a98e] | Destiny's Child | Dec | 2000 | Empowerment anthem of the era |
 | [Case of the Ex][4c250232dd] | Mya | Dec | 2000 | Underrated R&B floor-filler |
-| | | | | **2001** | |
+| | | | **2001** | |
 | [It Wasn't Me][aaa8bc82e1] | Shaggy ft. RikRok | Jan | 2001 | Reggae-pop guilty pleasure |
 | [Ms. Jackson][47fd8f13e7] | OutKast | Jan | 2001 | Southern hip-hop apology anthem |
 | [Stutter][9f4a82691b] | Joe ft. Mystikal | Feb | 2001 | R&B meets rap energy |
@@ -54,7 +54,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [U Got It Bad][917712128b] | Usher | Nov | 2001 | Tender R&B slow jam classic |
 | [How You Remind Me][9449f2feec] | Nickelback | Dec | 2001 | Post-grunge radio juggernaut |
 | [Whenever, Wherever][a2964e6165] | Shakira | Dec | 2001 | Shakira's English crossover debut |
-| | | | | **2002** | |
+| | | | **2002** | |
 | [A Thousand Miles][f9f84b6182] | Vanessa Carlton | Jan | 2002 | Piano-driven pop perfection |
 | [Livin' It Up][d936ec66c6] | Ja Rule ft. Case | Jan | 2002 | Rap-R&B party anthem |
 | [Always on Time][a075029cde] | Ja Rule ft. Ashanti | Feb | 2002 | R&B-rap romance of early 2000s |
@@ -79,7 +79,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [Screaming Infidelities][fc4dfac705] | Dashboard Confessional | Nov | 2002 | Acoustic emo breakthrough |
 | [Grindin'][255d0228e1] | Clipse | Dec | 2002 | Minimalist Neptunes beat revolution |
 | [Underneath It All][826ae6c3a5] | No Doubt ft. Lady Saw | Dec | 2002 | Reggae-pop sweetness |
-| | | | | **2003** | |
+| | | | **2003** | |
 | [Bump, Bump, Bump][717b6e47cb] | B2K ft. P. Diddy | Jan | 2003 | Boy band R&B party starter |
 | [All I Have][f78f5ddad6] | Jennifer Lopez ft. LL Cool J | Jan | 2003 | J.Lo's tender hip-hop ballad |
 | [In Da Club][2c58ab3819] | 50 Cent | Feb | 2003 | Hip-hop's biggest debut single |
@@ -104,7 +104,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [Stacy's Mom][839c193f3f] | Fountains of Wayne | Nov | 2003 | Power pop novelty gem |
 | [Step in the Name of Love][3d26634a06] | R. Kelly | Dec | 2003 | Steppers' anthem classic |
 | [The Seed (2.0)][29965814d4] | The Roots ft. Cody Chesnutt | Dec | 2003 | Neo-soul hip-hop perfection |
-| | | | | **2004** | |
+| | | | **2004** | |
 | [The Way You Move][9eeda765cd] | OutKast ft. Sleepy Brown | Jan | 2004 | Smooth Southern funk groove |
 | [Slow Jamz][09b4f6288f] | Twista ft. Kanye West & Jamie Foxx | Jan | 2004 | Triple-threat hip-hop slow jam |
 | [Yeah!][a0195f23fd] | Usher ft. Lil Jon & Ludacris | Feb | 2004 | Crunk-pop megahit of the decade |
@@ -129,7 +129,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [Float On][2aa8d32bfc] | Modest Mouse | Nov | 2004 | Indie rock's optimistic anthem |
 | [Tipsy][19f0685e46] | J-Kwon | Dec | 2004 | Teen club rap phenomenon |
 | [I Miss You][5bcbb0c86f] | Blink-182 | Dec | 2004 | Pop-punk's haunting ballad |
-| | | | | **2005** | |
+| | | | **2005** | |
 | [Candy Shop][516aaa6e46] | 50 Cent ft. Olivia | Jan | 2005 | Hip-hop seduction anthem |
 | [Since U Been Gone][c4b36672dc] | Kelly Clarkson | Jan | 2005 | Pop-rock breakup empowerment |
 | [Boulevard of Broken Dreams][1959c29965] | Green Day | Feb | 2005 | Punk rock's lonely anthem |
@@ -154,7 +154,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [Girl][e7ac9ea9a9] | Beck | Nov | 2005 | Indie pop genre-hopping charm |
 | [Soul Meets Body][80dfd127d1] | Death Cab for Cutie | Dec | 2005 | Indie rock's melodic breakthrough |
 | [My Humps][56f55fd5eb] | The Black Eyed Peas | Dec | 2005 | Polarizing pop-rap earworm |
-| | | | | **2006** | |
+| | | | **2006** | |
 | [Check on It][0eb89aa669] | Beyonce ft. Slim Thug | Jan | 2006 | Beyonce's Pink Panther groove |
 | [Grillz][2aab574328] | Nelly ft. Paul Wall | Jan | 2006 | Bling-era hip-hop anthem |
 | [So Sick][a23cdb88cb] | Ne-Yo | Feb | 2006 | Neo-R&B heartbreak debut |
@@ -179,7 +179,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [D.A.N.C.E.][03f2168822] | Justice | Nov | 2006 | French electro dancefloor anthem |
 | [Say It Right][c3fcb277cb] | Nelly Furtado | Dec | 2006 | Atmospheric Timbaland pop |
 | [It's Not Over][1245b42790] | Daughtry | Dec | 2006 | Post-Idol rock breakthrough |
-| | | | | **2007** | |
+| | | | **2007** | |
 | [This Is Why I'm Hot][e696124b87] | MIMS | Jan | 2007 | Rap earworm one-hit wonder |
 | [What Goes Around...Comes Around][9fd28c494d] | Justin Timberlake | Jan | 2007 | JT's revenge pop epic |
 | [Glamorous][4ea8e35a64] | Fergie ft. Ludacris | Feb | 2007 | Rags-to-riches pop-rap |
@@ -204,7 +204,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [Low][800b2638ab] | Flo Rida ft. T-Pain | Nov | 2007 | Club anthem juggernaut |
 | [Misery Business][119aa7b2bb] | Paramore | Dec | 2007 | Female-fronted punk ferocity |
 | [Thnks fr th Mmrs][d31b9e6882] | Fall Out Boy | Dec | 2007 | Pop-punk sardonic brilliance |
-| | | | | **2008** | |
+| | | | **2008** | |
 | [Love Song][e37073f2e0] | Sara Bareilles | Jan | 2008 | Piano pop defiance anthem |
 | [With You][876ba16623] | Chris Brown | Jan | 2008 | R&B tender love ballad |
 | [Love in This Club][ea20e557ec] | Usher ft. Young Jeezy | Feb | 2008 | Sultry club R&B |
@@ -229,7 +229,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [Love Lockdown][88ed7b3d14] | Kanye West | Nov | 2008 | 808s heartbreak minimalism |
 | [Decode][6727b4617c] | Paramore | Dec | 2008 | Twilight-era alt-rock anthem |
 | [Heartless][2cbf640fc3] | Kanye West | Dec | 2008 | Auto-Tune heartbreak innovation |
-| | | | | **2009** | |
+| | | | **2009** | |
 | [Just Dance][5c59c86bd2] | Lady Gaga ft. Colby O'Donis | Jan | 2009 | Gaga's electro-pop arrival |
 | [Circus][0b99545a12] | Britney Spears | Jan | 2009 | Britney's big top comeback |
 | [Poker Face][1840c84b97] | Lady Gaga | Feb | 2009 | Synth-pop poker metaphor smash |

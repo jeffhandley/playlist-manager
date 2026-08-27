@@ -4,7 +4,7 @@ A curated journey through the decade that defined modern music — from soul and
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **1970** | |
+| | | | **1970** | |
 | [Raindrops Keep Fallin' on My Head][06209a6e51] | B.J. Thomas | Jan | 1970 | Oscar-winning Butch Cassidy theme |
 | [Thank You (Falettinme Be Mice Elf Agin)][9d34db826d] | Sly & The Family Stone | Jan | 1970 | Pioneering funk anthem |
 | [Whole Lotta Love][0597535a1c] | Led Zeppelin | Jan | 1970 | Heavy blues-rock power |
@@ -30,7 +30,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [The Tears of a Clown][4acdde8cd8] | Smokey Robinson & The Miracles | Nov | 1970 | Motown's bittersweet masterpiece |
 | [My Sweet Lord][527eb78e19] | George Harrison | Dec | 1970 | Harrison's spiritual solo debut |
 | [Black Sabbath][8d17c4cdb2] | Black Sabbath | Dec | 1970 | Birth of heavy metal |
-| | | | | **1971** | |
+| | | | **1971** | |
 | [Knock Three Times][11dbb1bfa4] | Tony Orlando & Dawn | Jan | 1971 | Irresistible bubblegum pop hit |
 | [Immigrant Song][de57347f7b] | Led Zeppelin | Jan | 1971 | Viking-roar hard rock anthem |
 | [Me and Bobby McGee][e39a234bc2] | Janis Joplin | Feb | 1971 | Posthumous country-rock triumph |
@@ -58,7 +58,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [Stairway to Heaven][78771c168d] | Led Zeppelin | Nov | 1971 | Rock's most iconic epic |
 | [Family Affair][e1397ffc16] | Sly & The Family Stone | Nov | 1971 | Minimalist funk revolution |
 | [Theme from Shaft][7e27992468] | Isaac Hayes | Dec | 1971 | Blaxploitation funk landmark |
-| | | | | **1972** | |
+| | | | **1972** | |
 | [American Pie][27e331e840] | Don McLean | Jan | 1972 | Epic rock history ballad |
 | [Brand New Key][bab5bbc13c] | Melanie | Jan | 1972 | Quirky folk-pop charmer |
 | [Roundabout][87dc001115] | Yes | Jan | 1972 | Prog rock's radio breakthrough |
@@ -86,7 +86,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [Papa Was a Rollin' Stone][3b6761e642] | The Temptations | Nov | 1972 | Epic psychedelic soul journey |
 | [Me and Mrs. Jones][938e4fdbc3] | Billy Paul | Dec | 1972 | Philly soul's guilty pleasure |
 | [Tumbling Dice][1eb04bea95] | The Rolling Stones | Dec | 1972 | Exile on Main St. rock perfection |
-| | | | | **1973** | |
+| | | | **1973** | |
 | [You're So Vain][726c4ea3f6] | Carly Simon | Jan | 1973 | Mystery-shrouded pop-rock classic |
 | [Crocodile Rock][1d32bcfbae] | Elton John | Jan | 1973 | Elton's nostalgic rock 'n' roll |
 | [Reelin' in the Years][af53a4c80b] | Steely Dan | Jan | 1973 | Guitar-driven jazz-rock classic |
@@ -114,7 +114,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [Time in a Bottle][03b9960c39] | Jim Croce | Nov | 1973 | Posthumous folk-rock gem |
 | [Goodbye Yellow Brick Road][088c8ddca4] | Elton John | Dec | 1973 | Elton's sweeping piano opus |
 | [Hello, It's Me][852f5ea5b5] | Todd Rundgren | Dec | 1973 | Soft-rock pop balladry |
-| | | | | **1974** | |
+| | | | **1974** | |
 | [The Joker][0210785293] | Steve Miller Band | Jan | 1974 | Laid-back space cowboy rock |
 | [Show and Tell][2324d3929a] | Al Wilson | Jan | 1974 | Smooth soul-pop charm |
 | [Radar Love][30be154825] | Golden Earring | Jan | 1974 | Driving rock road anthem |
@@ -142,7 +142,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [Whatever Gets You thru the Night][89f9e85a5f] | John Lennon | Nov | 1974 | Lennon's funky No. 1 with Elton |
 | [Cat's in the Cradle][ae68aeedeb] | Harry Chapin | Nov | 1974 | Folk-rock fatherhood lament |
 | [Lady Marmalade][52ba404990] | Labelle | Dec | 1974 | Funk-disco provocateur anthem |
-| | | | | **1975** | |
+| | | | **1975** | |
 | [Mandy][786cb18e98] | Barry Manilow | Jan | 1975 | Manilow's breakthrough ballad |
 | [Pick Up the Pieces][9f6f84a687] | Average White Band | Jan | 1975 | Scottish funk instrumental groove |
 | [Have You Never Been Mellow][617f5ed1b3] | Olivia Newton-John | Feb | 1975 | Soft country-pop serenity |
@@ -172,7 +172,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [Crazy on You][0d46de734d] | Heart | Nov | 1975 | Female-led hard rock power |
 | [Fox on the Run][7eb690baed] | Sweet | Dec | 1975 | Glam rock power pop classic |
 | [Let's Do It Again][73872eb2b6] | The Staple Singers | Dec | 1975 | Silky Curtis Mayfield production |
-| | | | | **1976** | |
+| | | | **1976** | |
 | [50 Ways to Leave Your Lover][569d6cd68f] | Paul Simon | Jan | 1976 | Clever wordplay folk-pop hit |
 | [Theme from Mahogany][fcf111c3cf] | Diana Ross | Jan | 1976 | Diana's sweeping ballad |
 | [Love Machine][15349d8e62] | The Miracles | Feb | 1976 | Post-Smokey disco-funk hit |
@@ -203,7 +203,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [Walk This Way][2aba29c1bf] | Aerosmith | Dec | 1976 | Funk-rock hip-hop precursor |
 | [Go Your Own Way][89987a078e] | Fleetwood Mac | Dec | 1976 | Rumours' breakup rock anthem |
 | [Year of the Cat][fcb4ed82bd] | Al Stewart | Dec | 1976 | Sophisticated folk-rock gem |
-| | | | | **1977** | |
+| | | | **1977** | |
 | [Blinded by the Light][94a481c90a] | Manfred Mann's Earth Band | Jan | 1977 | Prog-rock Springsteen reimagining |
 | [New Kid in Town][0d7c8aca26] | Eagles | Jan | 1977 | Eagles' wistful country-rock |
 | [Carry On Wayward Son][43a07b78c1] | Kansas | Jan | 1977 | Prog-rock arena classic |
@@ -234,7 +234,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [You Light Up My Life][387a7af304] | Debby Boone | Nov | 1977 | Year's biggest pop ballad |
 | [How Deep Is Your Love][e131feec60] | Bee Gees | Nov | 1977 | Bee Gees' tender ballad |
 | [Stayin' Alive][c4980ac2c3] | Bee Gees | Dec | 1977 | Disco's definitive anthem |
-| | | | | **1978** | |
+| | | | **1978** | |
 | [Just the Way You Are][38413d71c1] | Billy Joel | Jan | 1978 | Joel's romantic piano ballad |
 | [Dust in the Wind][ce92cea009] | Kansas | Feb | 1978 | Prog-rock acoustic ballad |
 | [Werewolves of London][8f78b53d41] | Warren Zevon | Feb | 1978 | Quirky piano-rock classic |
@@ -264,7 +264,7 @@ A curated journey through the decade that defined modern music — from soul and
 | [You Needed Me][d98c06f128] | Anne Murray | Nov | 1978 | Country-pop crossover ballad |
 | [Le Freak][4bb754b1e9] | Chic | Nov | 1978 | Funk-disco's biggest anthem |
 | [My Life][1ab965ba34] | Billy Joel | Dec | 1978 | Joel's defiant piano pop |
-| | | | | **1979** | |
+| | | | **1979** | |
 | [Too Much Heaven][5649791ca2] | Bee Gees | Jan | 1979 | Bee Gees' charitable ballad |
 | [I Will Survive][6936a7b7de] | Gloria Gaynor | Feb | 1979 | Disco's empowerment anthem |
 | [Do Ya Think I'm Sexy?][69ba049ec4] | Rod Stewart | Feb | 1979 | Stewart's disco-rock pivot |

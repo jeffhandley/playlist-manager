@@ -36,6 +36,23 @@ test("playlist rendering keeps numberless rows and stable references", () => {
   assert.doesNotMatch(rendered, /fb42700ac9/);
 });
 
+test("playlist rendering preserves grouping rows", () => {
+  const directory = mkdtempSync(join(tmpdir(), "reconcile-groups-"));
+  const file = join(directory, "playlist.md");
+  writeFileSync(
+    file,
+    PLAYLIST.replace(
+      "| [Keep Me][fb42700ac9]",
+      "| | | | **2020** | |\n| [Keep Me][fb42700ac9]"
+    )
+  );
+  const document = parsePlaylistDocument(file);
+  const rendered = renderPlaylistDocument(document, document.tracks);
+
+  assert.equal(document.tracks.length, 2);
+  assert.match(rendered, /\| \| \| \| \*\*2020\*\* \| \|\n\| \[Keep Me]/);
+});
+
 test("preference exclusions are idempotent", () => {
   const preferences = `# Playlist Preferences
 

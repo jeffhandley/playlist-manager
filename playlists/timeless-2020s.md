@@ -4,7 +4,7 @@ A curated journey through the first half of the decade that redefined how we dis
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **2020** | |
+| | | | **2020** | |
 | [Circles][97289731c8] | Post Malone | Jan | 2020 | Melancholy pop perfection |
 | [Before You Go][c78e91e4b9] | Lewis Capaldi | Jan | 2020 | Heartbreak anthem went global |
 | [everything i wanted][36c3b43923] | Billie Eilish | Jan | 2020 | Grammy-winning dream-pop whisper |
@@ -33,7 +33,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | [34+35][5e535480f0] | Ariana Grande | Nov | 2020 | Playful R&B chart-topper with cheeky wordplay |
 | [Levitating][7c79170849] | Dua Lipa | Dec | 2020 | Unstoppable disco-pop earworm |
 | [willow][e47657b4e3] | Taylor Swift | Dec | 2020 | evermore's enchanting lead single |
-| | | | | **2021** | |
+| | | | **2021** | |
 | [drivers license][0da87f4a4e] | Olivia Rodrigo | Jan | 2021 | Heartbreak heard around the world |
 | [Astronaut in the Ocean][335ec2be2c] | Masked Wolf | Jan | 2021 | Australian rap viral sensation |
 | [Leave the Door Open][cdc2a35acb] | Silk Sonic | Feb | 2021 | Retro soul revival masterclass |
@@ -60,7 +60,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | [abcdefu][cbf0c7ef8b] | GAYLE | Dec | 2021 | Breakup anthem with punk edge |
 | [Cold Heart][a18a2dbe2b] | Elton John Dua Lipa | Dec | 2021 | Iconic mashup across generations |
 | [Heat Waves][849a64f0ee] | Glass Animals | Dec | 2021 | Slow-burn indie hit phenomenon |
-| | | | | **2022** | |
+| | | | **2022** | |
 | [Sacrifice][56e1574c39] | The Weeknd | Jan | 2022 | Dawn FM post-disco anthem |
 | [Enemy][41c1af5c4b] | Imagine Dragons JID | Jan | 2022 | Arcane theme rock-rap fusion |
 | [Super Gremlin][ac57136d13] | Kodak Black | Feb | 2022 | Street anthem with melodic hook |
@@ -85,7 +85,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | [Calm Down][bb6de88ad5] | Rema Selena Gomez | Nov | 2022 | Afrobeats global crossover smash |
 | [Creepin'][013e678d5a] | Metro Boomin The Weeknd 21 Savage | Dec | 2022 | Dark R&B-rap fusion |
 | [Lift Me Up][923064fca7] | Rihanna | Dec | 2022 | Long-awaited Rihanna comeback |
-| | | | | **2023** | |
+| | | | **2023** | |
 | [Flowers][a2c23237e9] | Miley Cyrus | Jan | 2023 | Self-empowerment disco-pop anthem |
 | [Kill Bill][b41964a94b] | SZA | Jan | 2023 | SOS breakout dark fantasy |
 | [Boy's a liar Pt. 2][42b896fcd5] | PinkPantheress Ice Spice | Feb | 2023 | Gen-Z drum and bass pop |
@@ -110,7 +110,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | [Lovin On Me][c06bf10b79] | Jack Harlow | Nov | 2023 | Catchy rap-pop crowd-pleaser |
 | [Water][54cb6ce906] | Tyla | Dec | 2023 | Amapiano goes global from SA |
 | [Stick Season][20cba55982] | Noah Kahan | Dec | 2023 | Folk-pop slow-burn sensation |
-| | | | | **2024** | |
+| | | | **2024** | |
 | [Yes, And?][05ce0b7b06] | Ariana Grande | Jan | 2024 | Dance-pop liberation statement |
 | [Hiss][282a4decfc] | Megan Thee Stallion | Jan | 2024 | Fierce rap clapback anthem |
 | [Lose Control][2b131c55f7] | Teddy Swims | Feb | 2024 | Soul-pop sleeper became massive |
@@ -137,7 +137,7 @@ A curated journey through the first half of the decade that redefined how we dis
 | [APT.][b9baf37a20] | Rose Bruno Mars | Dec | 2024 | K-pop crossover smash hit |
 | [Timeless][72196a270d] | The Weeknd Playboi Carti | Dec | 2024 | Dark synth-pop collaboration |
 | [Squabble Up][126c7be9bc] | Kendrick Lamar | Dec | 2024 | GNX victory lap anthem |
-| | | | | **2025** | |
+| | | | **2025** | |
 | [Luther][8094db9da1] | Kendrick Lamar SZA | Jan | 2025 | Chart-topping duet powerhouse |
 | [TV Off][cc001a6712] | Kendrick Lamar Lefty Gunplay | Jan | 2025 | GNX fan favorite single |
 | [Abracadabra][4523d1b4dc] | Lady Gaga | Feb | 2025 | Electropop Mayhem era anthem |

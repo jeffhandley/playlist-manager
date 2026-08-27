@@ -4,7 +4,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **1990** | |
+| | | | **1990** | |
 | [How Am I Supposed to Live Without You][001a346f84] | Michael Bolton | Jan | 1990 | Bolton's biggest #1 ballad |
 | [Opposites Attract][ca69a184b7] | Paula Abdul | Feb | 1990 | Duet with animated MC Skat Kat |
 | [Escapade][914bedee17] | Janet Jackson | Mar | 1990 | Rhythm Nation album standout |
@@ -26,7 +26,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [Because I Love You][ec5a2d0411] | Stevie B | Nov | 1990 | Freestyle ballad topped charts |
 | [Enjoy the Silence][d0866d30eb] | Depeche Mode | Dec | 1990 | Synth-pop classic from Violator |
 | [From a Distance][3d29000bc8] | Bette Midler | Dec | 1990 | Inspirational pop standard |
-| | | | | **1991** | |
+| | | | **1991** | |
 | [Justify My Love][c0398ecd83] | Madonna | Jan | 1991 | Controversial #1 hit |
 | [Gonna Make You Sweat][8071896781] | C+C Music Factory | Jan | 1991 | Dance-pop anthem topped charts |
 | [All the Man That I Need][99b3a5806d] | Whitney Houston | Feb | 1991 | Soulful Whitney ballad hit #1 |
@@ -49,7 +49,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [Losing My Religion][1471f46208] | R.E.M. | Nov | 1991 | Mandolin-driven alt-rock anthem |
 | [Black or White][c8a22ba91f] | Michael Jackson | Dec | 1991 | Dangerous lead single hit #1 |
 | [Iesha][fe75dca846] | Another Bad Creation | Dec | 1991 | Kid group New Jack Swing hit |
-| | | | | **1992** | |
+| | | | **1992** | |
 | [Don't Let the Sun Go Down on Me][032b54e149] | George Michael & Elton John | Jan | 1992 | Live duet charity single |
 | [To Be with You][02c1ab055b] | Mr. Big | Feb | 1992 | Power ballad topped charts |
 | [Remember the Time][83e0c224a3] | Michael Jackson | Feb | 1992 | New Jack Swing-influenced MJ |
@@ -71,7 +71,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [I Will Always Love You][0141324a69] | Whitney Houston | Nov | 1992 | Bodyguard mega-hit; 14 weeks #1 |
 | [I'd Die Without You][8c586ed1dc] | P.M. Dawn | Oct | 1992 | Boomerang soundtrack hit |
 | [Nuthin' but a 'G' Thang][f85509eea3] | Dr. Dre | Dec | 1992 | G-funk revolution starter |
-| | | | | **1993** | |
+| | | | **1993** | |
 | [Mr. Jones][b59f63c938] | Counting Crows | Jan | 1993 | Alt-rock breakthrough single |
 | [Ordinary World][47d964afec] | Duran Duran | Jan | 1993 | New wave band's elegant comeback |
 | [Informer][40327b09a7] | Snow | Feb | 1993 | Reggae-pop #1 novelty hit |
@@ -91,7 +91,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [Hero][be115ead29] | Mariah Carey | Dec | 1993 | Inspirational power ballad icon |
 | [C.R.E.A.M.][11ea9f6c6d] | Wu-Tang Clan | Dec | 1993 | Gritty East Coast rap anthem |
 | [Linger][4d265c6e0f] | The Cranberries | Dec | 1993 | Irish dream-pop breakthrough |
-| | | | | **1994** | |
+| | | | **1994** | |
 | [All for Love][a06db082dd] | Bryan Adams Rod Stewart Sting | Jan | 1994 | Three Musketeers theme |
 | [Loser][3a42aa81e0] | Beck | Feb | 1994 | Slacker anthem defined an era |
 | [The Sign][862fbf390a] | Ace of Base | Feb | 1994 | Swedish pop phenomenon |
@@ -116,7 +116,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [All I Wanna Do][38b161ba5d] | Sheryl Crow | Nov | 1994 | Breezy debut won Best Record |
 | [On Bended Knee][38b161ba5d] | Boyz II Men | Dec | 1994 | Replaced themselves at #1 |
 | [Secret][38b161ba5d] | Madonna | Dec | 1994 | Bedtime Stories lead single |
-| | | | | **1995** | |
+| | | | **1995** | |
 | [Brokenhearted][38b161ba5d] | Brandy | Jan | 1995 | Teen R&B debut smash |
 | [Take a Bow][38b161ba5d] | Madonna | Feb | 1995 | Babyface-produced ballad #1 |
 | [Run-Around][38b161ba5d] | Blues Traveler | Mar | 1995 | Harmonica-driven rock crossover |
@@ -135,7 +135,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [One Sweet Day][38b161ba5d] | Mariah Carey & Boyz II Men | Nov | 1995 | Record 16 weeks at #1 |
 | [Bullet with Butterfly Wings][38b161ba5d] | The Smashing Pumpkins | Dec | 1995 | Mellon Collie rage anthem |
 | [Shy Guy][38b161ba5d] | Diana King | Dec | 1995 | Reggae-pop Bad Boys soundtrack |
-| | | | | **1996** | |
+| | | | **1996** | |
 | [Sittin' Up in My Room][38b161ba5d] | Brandy | Jan | 1996 | Waiting to Exhale R&B hit |
 | [Missing][38b161ba5d] | Everything but the Girl | Feb | 1996 | Electronic remix crossover hit |
 | [Because You Loved Me][38b161ba5d] | Celine Dion | Mar | 1996 | Up Close & Personal theme |
@@ -157,7 +157,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [Un-Break My Heart][38b161ba5d] | Toni Braxton | Nov | 1996 | Dramatic R&B power ballad |
 | [Wannabe][38b161ba5d] | Spice Girls | Dec | 1996 | Girl power debut conquered globe |
 | [Pony][38b161ba5d] | Ginuwine | Dec | 1996 | Timbaland-produced R&B classic |
-| | | | | **1997** | |
+| | | | **1997** | |
 | [Can't Nobody Hold Me Down][38b161ba5d] | Puff Daddy | Feb | 1997 | Bad Boy era begins at #1 |
 | [Foolish Games][38b161ba5d] | Jewel | Mar | 1997 | Folk-pop ballad breakthrough |
 | [Hypnotize][38b161ba5d] | The Notorious B.I.G. | Apr | 1997 | Posthumous #1 smash |
@@ -178,7 +178,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [Sunny Came Home][38b161ba5d] | Shawn Colvin | Nov | 1997 | Grammy Song of the Year |
 | [The Impression That I Get][c866224164] | The Mighty Mighty Bosstones | Dec | 1997 | Ska-punk revival anthem |
 | [Dammit][38b161ba5d] | Blink-182 | Dec | 1997 | Pop-punk coming-of-age anthem |
-| | | | | **1998** | |
+| | | | **1998** | |
 | [Together Again][38b161ba5d] | Janet Jackson | Jan | 1998 | Dance-pop #1 with deep meaning |
 | [Truly Madly Deeply][38b161ba5d] | Savage Garden | Jan | 1998 | Romantic pop ballad phenomenon |
 | [Nice & Slow][38b161ba5d] | Usher | Feb | 1998 | Smooth R&B chart-topper |
@@ -205,7 +205,7 @@ A curated journey through the decade that reshaped modern music — from the gru
 | [Believe][38b161ba5d] | Cher | Nov | 1998 | Auto-Tune pioneer dance-pop hit |
 | [Jumper][38b161ba5d] | Third Eye Blind | Dec | 1998 | Alt-rock with emotional depth |
 | [Save Tonight][38b161ba5d] | Eagle-Eye Cherry | Dec | 1998 | Swedish folk-pop crossover |
-| | | | | **1999** | |
+| | | | **1999** | |
 | [Angel of Mine][38b161ba5d] | Monica | Feb | 1999 | R&B ballad topped charts |
 | [Ex-Factor][38b161ba5d] | Lauryn Hill | Feb | 1999 | Neo-soul heartbreak masterpiece |
 | [Kiss Me][38b161ba5d] | Sixpence None the Richer | Mar | 1999 | Indie pop crossover gem |

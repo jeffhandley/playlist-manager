@@ -45,3 +45,18 @@ test("continues to parse legacy numbered playlist rows during migration", () => 
   assert.equal(playlist.tracks.length, 1);
   assert.equal(playlist.tracks[0].song, "Example");
 });
+
+test("ignores grouping rows in numberless playlist tables", () => {
+  const playlist = parse(`# Test
+
+| Song | Artist | Month | Year | Note |
+|---|---|---|---|---|
+| | | | **2024** | |
+| [Example][abcdef1234] | Artist | Jan | 2024 | |
+
+[abcdef1234]: https://music.apple.com/us/song/example/123
+`);
+
+  assert.equal(playlist.tracks.length, 1);
+  assert.equal(playlist.tracks[0].song, "Example");
+});

@@ -83,7 +83,7 @@ The script:
 1. Parses the playlist name from the `# heading` and tracks from the markdown table
 2. **Appends the 🤖 emoji** to the playlist name — all managed playlists contain this marker
 3. Resolves all track IDs from Apple Music URLs in the markdown (or falls back to catalog search)
-4. **Skips work if nothing changed** — if the newest managed copy was built from the same tracks (matched via the `[sync:<id>]` fingerprint stamped in its description), the run is a no-op
+4. **Skips work if nothing changed** — compares the `[sync:<id>]` fingerprint when present, and falls back to an ordered track comparison for playlists created before fingerprints were introduced
 5. Otherwise **creates a new copy** (the API cannot update an existing one). The first copy uses the clean name `<name> 🤖`; later copies are numbered `<name> 🤖 (N)` so the newest is always identifiable
 6. Stamps the new copy's description with `Synced <ISO> • N tracks [sync:<id>]` **at the beginning**, so the sync date, track count, and newest copy are obvious at a glance
 7. Reports any tracks that couldn't be found or added

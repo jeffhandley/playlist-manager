@@ -4,7 +4,7 @@ A curated journey through the decade that reshaped music forever — from the st
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **2010** | |
+| | | | **2010** | |
 | [TiK ToK][5be7b40de5] | Kesha | Jan | 2010 | Decade-opening party anthem |
 | [Bad Romance][d8507877bc] | Lady Gaga | Jan | 2010 | Dark pop perfection |
 | [In My Head][e329a36232] | Jason Derulo | Feb | 2010 | Pop-R&B earworm |
@@ -30,7 +30,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [We R Who We R][14cb062578] | Kesha | Nov | 2010 | Rebellious electropop |
 | [Firework][c78bb94798] | Katy Perry | Dec | 2010 | Empowerment pop anthem |
 | [Raise Your Glass][a3fb6a11d3] | P!nk | Dec | 2010 | Toast to the underdogs |
-| | | | | **2011** | |
+| | | | **2011** | |
 | [Grenade][eec7c98284] | Bruno Mars | Jan | 2011 | Heartbreak pop balladry |
 | [Black and Yellow][a395c15c71] | Wiz Khalifa | Jan | 2011 | Pittsburgh hip-hop pride |
 | [Born This Way][62a179f623] | Lady Gaga | Feb | 2011 | LGBTQ+ liberation anthem |
@@ -56,7 +56,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Domino][1a88440dda] | Jessie J | Dec | 2011 | British pop powerhouse |
 | [Good Feeling][db40d07284] | Flo Rida | Dec | 2011 | Sample-driven club anthem |
 | [Paradise][c73e0bd0a9] | Coldplay | Dec | 2011 | Arena rock escapism |
-| | | | | **2012** | |
+| | | | **2012** | |
 | [Set Fire to the Rain][6f41466600] | Adele | Jan | 2012 | Vocal fire and emotion |
 | [Stronger (What Doesn't Kill You)][5ccf0b82de] | Kelly Clarkson | Jan | 2012 | Resilience pop anthem |
 | [Part of Me][9315363046] | Katy Perry | Feb | 2012 | Empowerment pop banger |
@@ -81,7 +81,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Locked Out of Heaven][eed101a390] | Bruno Mars | Nov | 2012 | Police-inspired pop-rock |
 | [Ho Hey][bd03348461] | The Lumineers | Dec | 2012 | Folk-pop breakthrough |
 | [Don't You Worry Child][d76ff73736] | Swedish House Mafia | Dec | 2012 | EDM farewell anthem |
-| | | | | **2013** | |
+| | | | **2013** | |
 | [Thrift Shop][f0b4056ecb] | Macklemore & Ryan Lewis | Jan | 2013 | Indie hip-hop goes mainstream |
 | [Scream & Shout][ffbd48ac38] | will.i.am ft. Britney Spears | Jan | 2013 | EDM-pop collaboration |
 | [When I Was Your Man][f8a5f8db99] | Bruno Mars | Feb | 2013 | Piano ballad heartbreak |
@@ -107,7 +107,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Story of My Life][7c328bf561] | One Direction | Nov | 2013 | Boyband folk-pop maturity |
 | [Timber][7f2f3098eb] | Pitbull ft. Kesha | Dec | 2013 | Country-EDM party anthem |
 | [Demons][20753fa8ef] | Imagine Dragons | Dec | 2013 | Alt-rock emotional depth |
-| | | | | **2014** | |
+| | | | **2014** | |
 | [Dark Horse][c239f2a655] | Katy Perry ft. Juicy J | Jan | 2014 | Hip-hop-tinged pop sorcery |
 | [Drunk in Love][701021d7c1] | Beyoncé ft. Jay-Z | Jan | 2014 | R&B power couple anthem |
 | [Happy][0c55c69d0a] | Pharrell Williams | Feb | 2014 | Infectious feel-good funk |
@@ -135,7 +135,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Habits (Stay High)][64012ae3ea] | Tove Lo | Nov | 2014 | Dark Swedish electropop |
 | [Lips Are Movin][1e35ca3c29] | Meghan Trainor | Dec | 2014 | Retro doo-wop pop |
 | [I'm Not the Only One][9b5c34d963] | Sam Smith | Dec | 2014 | Soulful pop lament |
-| | | | | **2015** | |
+| | | | **2015** | |
 | [Uptown Funk][3153d0003e] | Mark Ronson ft. Bruno Mars | Jan | 2015 | Funk-pop perfection |
 | [Thinking Out Loud][43ec1c3372] | Ed Sheeran | Jan | 2015 | Modern love ballad classic |
 | [Love Me Like You Do][7c94932a18] | Ellie Goulding | Feb | 2015 | Ethereal pop romance |
@@ -162,7 +162,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Ex's & Oh's][03df2dbf76] | Elle King | Nov | 2015 | Bluesy pop-rock swagger |
 | [Same Old Love][b2b1d33961] | Selena Gomez | Dec | 2015 | Electropop melancholy |
 | [Where Are Ü Now][466091e7cd] | Skrillex & Diplo ft. Justin Bieber | Dec | 2015 | EDM-pop game changer |
-| | | | | **2016** | |
+| | | | **2016** | |
 | [Love Yourself][057b4e186c] | Justin Bieber | Jan | 2016 | Acoustic kiss-off elegance |
 | [Stressed Out][bc2828c38b] | Twenty One Pilots | Jan | 2016 | Alt-pop nostalgia anthem |
 | [Work][a9e135dbe7] | Rihanna ft. Drake | Feb | 2016 | Dancehall-pop domination |
@@ -188,7 +188,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Side to Side][106886b064] | Ariana Grande ft. Nicki Minaj | Nov | 2016 | Pop-reggae fusion |
 | [Rockabye][eb4dc66226] | Clean Bandit ft. Sean Paul & Anne-Marie | Dec | 2016 | Dance-pop lullaby |
 | [Let Me Love You][d157b1f0a3] | DJ Snake ft. Justin Bieber | Dec | 2016 | Tropical house romance |
-| | | | | **2017** | |
+| | | | **2017** | |
 | [Bad and Boujee][3e85c80465] | Migos ft. Lil Uzi Vert | Jan | 2017 | Trap trio dominance |
 | [Paris][480075e373] | The Chainsmokers | Jan | 2017 | EDM-pop wanderlust |
 | [Shape of You][163b214321] | Ed Sheeran | Feb | 2017 | Pop earworm juggernaut |
@@ -214,7 +214,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Too Good at Goodbyes][ae076ad075] | Sam Smith | Nov | 2017 | Soulful pop heartbreak |
 | [New Rules][1a061e8052] | Dua Lipa | Dec | 2017 | Empowerment pop-dance anthem |
 | [Perfect][b789570def] | Ed Sheeran | Dec | 2017 | Modern wedding classic |
-| | | | | **2018** | |
+| | | | **2018** | |
 | [Finesse (Remix)][a379dd09f9] | Bruno Mars ft. Cardi B | Jan | 2018 | 90s-throwback funk-pop |
 | [All the Stars][07da9fe48c] | Kendrick Lamar & SZA | Jan | 2018 | Cinematic hip-hop beauty |
 | [God's Plan][e7e6e44221] | Drake | Feb | 2018 | Hip-hop anthem of generosity |
@@ -240,7 +240,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Happier][295b25ee2e] | Marshmello ft. Bastille | Nov | 2018 | EDM-pop bittersweet farewell |
 | [Sunflower][8d4963dd7c] | Post Malone & Swae Lee | Dec | 2018 | Genre-blending soundtrack gem |
 | [Without Me][55efb2b6d2] | Halsey | Dec | 2018 | Alt-pop emotional depth |
-| | | | | **2019** | |
+| | | | **2019** | |
 | [7 Rings][bfb40250f5] | Ariana Grande | Jan | 2019 | Flex-pop anthem |
 | [Wow.][b28e28555b] | Post Malone | Jan | 2019 | Laid-back pop-rap groove |
 | [Please Me][f3d9a1a526] | Cardi B & Bruno Mars | Feb | 2019 | R&B-pop flirtation |

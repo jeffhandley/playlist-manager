@@ -4,7 +4,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **1980** | |
+| | | | **1980** | |
 | [Rock with You][15c0235919] | Michael Jackson | Jan | 1980 | Jackson's irresistible disco-funk groove |
 | [Brass in Pocket][1224554d6e] | Pretenders | Jan | 1980 | New wave swagger from Chrissie Hynde |
 | [Crazy Little Thing Called Love][026c203e39] | Queen | Feb | 1980 | Freddie's rockabilly throwback hit |
@@ -29,7 +29,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Master Blaster (Jammin')][b24da6d1b5] | Stevie Wonder | Nov | 1980 | Reggae-tinged tribute to Bob Marley |
 | [(Just Like) Starting Over][1b9aee2a0f] | John Lennon | Dec | 1980 | Lennon's poignant comeback single |
 | [Hungry Heart][418356360f] | Bruce Springsteen | Dec | 1980 | Springsteen's first top-ten pop hit |
-| | | | | **1981** | |
+| | | | **1981** | |
 | [Celebration][ac9c87ec44] | Kool & The Gang | Jan | 1981 | Ultimate feel-good party anthem |
 | [The Tide Is High][b98533b19a] | Blondie | Jan | 1981 | Reggae-pop crossover charm |
 | [9 to 5][1213639904] | Dolly Parton | Feb | 1981 | Working-class anthem from the film |
@@ -53,7 +53,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Let's Groove][a3eac25c5b] | Earth, Wind & Fire | Dec | 1981 | Electro-funk dancefloor igniter |
 | [Under Pressure][ad95152a43] | Queen & David Bowie | Dec | 1981 | Legendary collaboration under stress |
 | [Waiting for a Girl Like You][f607b2e0d5] | Foreigner | Dec | 1981 | Synth-ballad stayed at #2 for weeks |
-| | | | | **1982** | |
+| | | | **1982** | |
 | [I Can't Go for That (No Can Do)][5ef47e7da3] | Daryl Hall & John Oates | Jan | 1982 | Groove-driven blue-eyed soul classic |
 | [Harden My Heart][aa9243b303] | Quarterflash | Jan | 1982 | Sax-driven new wave pop standout |
 | [Centerfold][88e04bccb9] | The J. Geils Band | Feb | 1982 | Bouncy rock hit with catchy hook |
@@ -77,7 +77,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Maneater][c0e7fd0afe] | Daryl Hall & John Oates | Dec | 1982 | Dark-grooved pop-rock warning |
 | [Africa][ef1489b302] | Toto | Dec | 1982 | Lush arrangement, enduring cult classic |
 | [Planet Rock][cf03ade42e] | Afrika Bambaataa & Soulsonic Force | Dec | 1982 | Electro-hip-hop genre pioneer |
-| | | | | **1983** | |
+| | | | **1983** | |
 | [Down Under][503d27351f] | Men at Work | Jan | 1983 | Aussie rock with flute-driven charm |
 | [Hungry Like the Wolf][e63e984a0b] | Duran Duran | Jan | 1983 | MTV-era new wave at its finest |
 | [Baby, Come to Me][7180a311f3] | Patti Austin & James Ingram | Feb | 1983 | Silky R&B duet from General Hospital |
@@ -100,7 +100,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Say Say Say][7504adb8bd] | Paul McCartney & Michael Jackson | Nov | 1983 | Pop royalty duet collaboration |
 | [Hold Me Now][d82ab35971] | Thompson Twins | Dec | 1983 | Synthpop tenderness at its best |
 | [1999][0a6fd9a436] | Prince | Dec | 1983 | Purple party anthem for the ages |
-| | | | | **1984** | |
+| | | | **1984** | |
 | [Karma Chameleon][64d104f619] | Culture Club | Jan | 1984 | Colorful pop with reggae undertones |
 | [Owner of a Lonely Heart][244488a69a] | Yes | Jan | 1984 | Prog-rock reinvented for the eighties |
 | [Jump][42f27db95e] | Van Halen | Feb | 1984 | Synth riff launched arena rock higher |
@@ -124,7 +124,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [I Feel for You][6529e8b0a5] | Chaka Khan | Nov | 1984 | Prince-penned funk with rap intro |
 | [Like a Virgin][89f3e0465e] | Madonna | Dec | 1984 | Madonna's provocative pop coronation |
 | [Out of Touch][cde7a13893] | Daryl Hall & John Oates | Dec | 1984 | Synth-rock anthem closes their run |
-| | | | | **1985** | |
+| | | | **1985** | |
 | [I Want to Know What Love Is][e85b2d94f2] | Foreigner | Jan | 1985 | Gospel-tinged rock ballad epic |
 | [Careless Whisper][b5895a60a0] | George Michael | Jan | 1985 | Iconic sax intro, guilty feet |
 | [Neutron Dance][33f7c50a06] | The Pointer Sisters | Feb | 1985 | Beverly Hills Cop funk-pop energy |
@@ -148,7 +148,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [We Built This City][95f9fd13e9] | Starship | Nov | 1985 | Arena pop, love it or hate it |
 | [Broken Wings][3e4ef9110f] | Mr. Mister | Dec | 1985 | Atmospheric rock-pop gem |
 | [Alive and Kicking][68fd9d735f] | Simple Minds | Dec | 1985 | Anthemic post-punk grandeur |
-| | | | | **1986** | |
+| | | | **1986** | |
 | [That's What Friends Are For][001601464f] | Dionne & Friends | Jan | 1986 | AIDS charity all-star ballad |
 | [How Will I Know][079f23c932] | Whitney Houston | Feb | 1986 | Bubbly dance-pop vocal showcase |
 | [Kyrie][3079fbc321] | Mr. Mister | Feb | 1986 | Spiritual rock-pop crossover hit |
@@ -172,7 +172,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [The Way It Is][9cc9c0ea90] | Bruce Hornsby and The Range | Nov | 1986 | Piano-driven social commentary rock |
 | [Walk This Way][a24be45280] | Run-DMC feat. Aerosmith | Dec | 1986 | Rap-rock fusion broke barriers |
 | [Everybody Have Fun Tonight][d7623ad912] | Wang Chung | Dec | 1986 | Synth-pop party anthem |
-| | | | | **1987** | |
+| | | | **1987** | |
 | [Open Your Heart][4c0bd21a5b] | Madonna | Jan | 1987 | Madonna's confident pop-rock strut |
 | [Livin' on a Prayer][4523670b42] | Bon Jovi | Feb | 1987 | Blue-collar arena rock perfection |
 | [Let's Wait Awhile][94558fa600] | Janet Jackson | Feb | 1987 | Tender R&B ballad maturity |
@@ -196,7 +196,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Mony Mony][1488b05091] | Billy Idol | Nov | 1987 | Punk-pop party remake energy |
 | [Heaven Is a Place on Earth][6013b00caf] | Belinda Carlisle | Dec | 1987 | Euphoric pop-rock transcendence |
 | [Faith][721e616bce] | George Michael | Dec | 1987 | Acoustic-funk crossover smash |
-| | | | | **1988** | |
+| | | | **1988** | |
 | [Need You Tonight][d7437c5e5a] | INXS | Jan | 1988 | Sleek Australian rock seduction |
 | [Just Like Heaven][504cc10ab5] | The Cure | Jan | 1988 | Post-punk's most euphoric love song |
 | [Hazy Shade of Winter][c1c71174f1] | The Bangles | Feb | 1988 | Jangly Simon & Garfunkel reinvention |
@@ -220,7 +220,7 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Bad Medicine][d54b1053c8] | Bon Jovi | Nov | 1988 | Hair metal prescription for fun |
 | [Every Rose Has Its Thorn][4ace908db0] | Poison | Dec | 1988 | Glam metal's acoustic heart exposed |
 | [Look Away][4c04a7f2f0] | Chicago | Dec | 1988 | Adult contemporary comeback ballad |
-| | | | | **1989** | |
+| | | | **1989** | |
 | [My Prerogative][fb925b1379] | Bobby Brown | Jan | 1989 | New jack swing declaration anthem |
 | [Two Hearts][edf31a7e87] | Phil Collins | Jan | 1989 | Motown-inspired pop-rock energy |
 | [Straight Up][10e7c37f52] | Paula Abdul | Feb | 1989 | Dance-pop choreography queen arrives |

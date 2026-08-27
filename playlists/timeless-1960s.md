@@ -4,7 +4,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 
 | Song | Artist | Month | Year | Note |
 |------|--------|-------|------|------|
-| | | | | **1960** | |
+| | | | **1960** | |
 | [This Magic Moment][855955f9e3] | The Drifters | Jan | 1960 | Lush R&B doo-wop soul classic |
 | [Running Bear][96afcb0f60] | Johnny Preston | Jan | 1960 | Tragic love story, weeks at #1 |
 | [Wonderful World][04018a0575] | Sam Cooke | Feb | 1960 | Cooke's charming pop-soul love song |
@@ -25,7 +25,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [Stay][fe3303494f] | Maurice Williams & The Zodiacs | Nov | 1960 | Shortest #1 hit at under two mins |
 | [Are You Lonesome Tonight?][690222e583] | Elvis Presley | Dec | 1960 | Elvis's intimate spoken-word ballad |
 | [Last Date][896cac6f23] | Floyd Cramer | Dec | 1960 | Slip-note piano instrumental icon |
-| | | | | **1961** | |
+| | | | **1961** | |
 | [Will You Love Me Tomorrow][f1bf29b2b6] | The Shirelles | Jan | 1961 | First girl group #1 ever |
 | [Wonderland by Night][4e7ec07dc0] | Bert Kaempfert | Jan | 1961 | Easy-listening trumpet instrumental #1 |
 | [Shop Around][9d6e8bd1d8] | The Miracles | Feb | 1961 | Motown's first million-seller hit |
@@ -46,7 +46,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [Stand by Me][073d03bf15] | Ben E. King | Nov | 1961 | One of most iconic soul songs ever |
 | [Please Mr. Postman][dc1d60a905] | The Marvelettes | Dec | 1961 | Motown's first #1 hit single |
 | [The Lion Sleeps Tonight][ebd9c11f4b] | The Tokens | Dec | 1961 | South African folk-pop sensation |
-| | | | | **1962** | |
+| | | | **1962** | |
 | [The Wanderer][dfe8122c72] | Dion | Jan | 1962 | Dion's swaggering rock-and-roll classic |
 | [Crying in the Rain][5f9e33aecb] | The Everly Brothers | Jan | 1962 | Everly Brothers' dramatic pop ballad |
 | [Duke of Earl][77a32e7ece] | Gene Chandler | Feb | 1962 | Majestic doo-wop pop classic |
@@ -67,7 +67,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [He's a Rebel][d1ee5829ba] | The Crystals | Nov | 1962 | Phil Spector girl-group revolution |
 | [Return to Sender][b3bb174acc] | Elvis Presley | Dec | 1962 | Elvis's bouncy film soundtrack hit |
 | [Telstar][80bd8dbd32] | The Tornados | Dec | 1962 | Space-age electronic instrumental |
-| | | | | **1963** | |
+| | | | **1963** | |
 | [Go Away Little Girl][6374c5a576] | Steve Lawrence | Jan | 1963 | Goffin-King pop standard |
 | [Walk Right In][c182e42d85] | The Rooftop Singers | Jan | 1963 | Folk revival jug band hit |
 | [Blowin' in the Wind][59678b1512] | Peter, Paul and Mary | Feb | 1963 | Dylan's folk anthem, cultural landmark |
@@ -90,7 +90,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [It's All Right][909d5923c1] | The Impressions | Nov | 1963 | Curtis Mayfield soul optimism |
 | [Dominique][c44ecd7dcc] | The Singing Nun | Dec | 1963 | French-language novelty phenomenon |
 | [Louie Louie][e71a3357ec] | The Kingsmen | Dec | 1963 | Garage rock anthem, FBI investigated |
-| | | | | **1964** | |
+| | | | **1964** | |
 | [Surfin' Bird][ad3e19e18d] | The Trashmen | Jan | 1964 | Manic surf-garage cult classic |
 | [There! I've Said It Again][112d88be17] | Bobby Vinton | Jan | 1964 | Last pre-Beatles #1 in America |
 | [I Want to Hold Your Hand][8ca90537ef] | The Beatles | Feb | 1964 | Beatlemania hits America, 7 weeks #1 |
@@ -115,7 +115,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [Leader of the Pack][585bffd130] | The Shangri-Las | Nov | 1964 | Teen tragedy girl-group drama |
 | [I Feel Fine][ea15aa0ad0] | The Beatles | Dec | 1964 | Guitar feedback pioneer single |
 | [Mr. Lonely][149edb8439] | Bobby Vinton | Dec | 1964 | Vinton's wistful soldier's lament |
-| | | | | **1965** | |
+| | | | **1965** | |
 | [Downtown][f435808466] | Petula Clark | Jan | 1965 | Clark's upbeat British pop anthem |
 | [You've Lost That Lovin' Feelin'][42ca268c1a] | The Righteous Brothers | Jan | 1965 | Most-played song in radio history |
 | [My Girl][b05d10c08d] | The Temptations | Feb | 1965 | Motown's defining love song |
@@ -139,7 +139,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [Turn! Turn! Turn!][0beba41756] | The Byrds | Nov | 1965 | Biblical folk-rock, Pete Seeger poem |
 | [A Taste of Honey][aa0b15a33c] | Herb Alpert & The Tijuana Brass | Dec | 1965 | Grammy-winning easy-listening gem |
 | [Over and Over][fe26c43522] | The Dave Clark Five | Dec | 1965 | DC5's only US #1 single |
-| | | | | **1966** | |
+| | | | **1966** | |
 | [The Sound of Silence][1e9e4974d3] | Simon & Garfunkel | Jan | 1966 | Folk-rock introspection landmark |
 | [We Can Work It Out][c3dd6faafc] | The Beatles | Jan | 1966 | Optimistic Lennon-McCartney debate |
 | [My Love][deb941ac9f] | Petula Clark | Feb | 1966 | Clark's romantic British pop hit |
@@ -163,7 +163,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [You Keep Me Hangin' On][1196266f6f] | The Supremes | Nov | 1966 | Supremes' hard-edged Motown hit |
 | [Good Vibrations][d3fefdf76a] | The Beach Boys | Dec | 1966 | Brian Wilson's pocket symphony |
 | [I'm a Believer][76800b38e7] | The Monkees | Dec | 1966 | Neil Diamond-penned smash #1 |
-| | | | | **1967** | |
+| | | | **1967** | |
 | [Kind of a Drag][879fd6adb5] | The Buckinghams | Jan | 1967 | Chicago pop-rock group's #1 hit |
 | [Love Is Here and Now You're Gone][a2cf80ee53] | The Supremes | Feb | 1967 | Supremes' innovative production |
 | [Ruby Tuesday][854b90a6ba] | The Rolling Stones | Feb | 1967 | Stones' wistful psychedelic ballad |
@@ -187,7 +187,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [I Can See for Miles][15afc97214] | The Who | Nov | 1967 | Who's explosive power-pop peak |
 | [Chain of Fools][024ff0aff2] | Aretha Franklin | Dec | 1967 | Aretha's scorching soul rocker |
 | [Hello, Goodbye][92e6d0ced7] | The Beatles | Dec | 1967 | Playful McCartney pop confection |
-| | | | | **1968** | |
+| | | | **1968** | |
 | [(Sittin' On) The Dock of the Bay][f49e38502a] | Otis Redding | Jan | 1968 | Posthumous soul classic, iconic |
 | [Judy in Disguise (With Glasses)][1e3673ba44] | John Fred & His Playboy Band | Jan | 1968 | Beatles parody novelty #1 |
 | [Love Is Blue][aea4d7e3ff] | Paul Mauriat | Feb | 1968 | French easy-listening instrumental #1 |
@@ -210,7 +210,7 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [Wichita Lineman][21cb4dd7e1] | Glen Campbell | Nov | 1968 | Jimmy Webb's blue-collar poetry |
 | [For Once in My Life][bc47049ab3] | Stevie Wonder | Dec | 1968 | Wonder's joyful Motown declaration |
 | [I Heard It Through the Grapevine][bfa1eb0621] | Marvin Gaye | Dec | 1968 | Gaye's smoldering soul masterpiece |
-| | | | | **1969** | |
+| | | | **1969** | |
 | [Crimson and Clover][1fe568c07a] | Tommy James & The Shondells | Jan | 1969 | Tremolo psychedelic pop landmark |
 | [Build Me Up Buttercup][12508d285f] | The Foundations | Feb | 1969 | Irresistible pop-soul singalong |
 | [Everyday People][8a3bdd4b7a] | Sly & The Family Stone | Feb | 1969 | Unity anthem, funk-soul pioneer |
