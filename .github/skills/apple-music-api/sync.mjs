@@ -11,7 +11,6 @@
 //   APPLE_MUSIC_USER_TOKEN    — Music User Token
 
 import { existsSync } from "fs";
-import { createHash } from "crypto";
 import { parsePlaylistMarkdown } from "../apple-music-sync/parser.mjs";
 import { searchCatalog } from "./api.mjs";
 import {
@@ -138,9 +137,6 @@ async function syncLibraryOnly(resolvedTracks) {
 }
 
 async function syncPlaylist(resolvedTracks, playlistName, description) {
-  const newIds = resolvedTracks.map((t) => t.songId);
-  const fingerprint = trackFingerprint(newIds);
-
   // The Apple Music API cannot delete or rename library playlists, so we never
   // mutate an existing copy. Instead we look at the whole "managed family" for
   // this base name (e.g. "WEBN 🤖" plus any "WEBN 🤖 (N)" numbered copies) and
@@ -148,16 +144,11 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
   const family = await findManagedPlaylists(playlistName);
   const newest = family[0] || null;
 
-  // Short-circuit when the newest copy already has the intended track list.
-  // Newer copies carry a reliable fingerprint in their description. For legacy
-  // copies without one, compare ordered catalog IDs and semantic metadata
-  // because Apple may expose a different playParams.catalogId after insertion.
-  if (
-    newest &&
-    (await isPlaylistUnchanged(newest, resolvedTracks, fingerprint))
-  ) {
+  // Always compare the actual ordered Apple Music tracks. Descriptions are
+  // informational and must not determine whether sync work is required.
+  if (newest && (await isPlaylistUnchanged(newest, resolvedTracks))) {
     console.log(
-      `Playlist "${newest.name}" is already in sync (${newIds.length} tracks, id:${fingerprint}). Nothing to do.`
+      `Playlist "${newest.name}" is already in sync (${resolvedTracks.length} tracks). Nothing to do.`
     );
     return;
   }
@@ -182,7 +173,7 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
   console.log(`Creating playlist "${targetName}" with ${resolvedTracks.length} tracks...`);
 
   const playlistId = await createPlaylist(targetName, {
-    description: buildDescription(description, newIds),
+    description: buildDescription(description, resolvedTracks.length),
   });
 
   // Add all tracks in order
@@ -214,33 +205,12 @@ async function syncPlaylist(resolvedTracks, playlistName, description) {
 }
 
 /**
- * Compute a stable, short fingerprint of the intended track-id sequence.
- * Order-sensitive: reordering the playlist changes the fingerprint.
- */
-export function trackFingerprint(ids) {
-  return createHash("sha1").update(ids.join(",")).digest("hex").slice(0, 12);
-}
-
-const FINGERPRINT_RE = /\[sync:([0-9a-f]{6,})\]/;
-
-/**
- * Extract a previously-stamped fingerprint from a playlist description.
- * Returns the hex fingerprint or null if none is present.
- */
-export function parseFingerprint(description) {
-  const m = (description || "").match(FINGERPRINT_RE);
-  return m ? m[1] : null;
-}
-
-/**
  * Build the playlist description. The ISO sync timestamp and track count are
  * placed FIRST so the newest copy is obvious in the Apple Music UI (the API
- * cannot delete or rename superseded duplicates). A machine-readable
- * [sync:<id>] fingerprint is appended to the stamp so the next run can detect a
- * no-op and skip recreating the playlist.
+ * cannot delete or rename superseded duplicates).
  */
-export function buildDescription(baseDescription, ids) {
-  const stamp = `Synced ${new Date().toISOString()} • ${ids.length} tracks [sync:${trackFingerprint(ids)}]`;
+export function buildDescription(baseDescription, trackCount) {
+  const stamp = `Synced ${new Date().toISOString()} • ${trackCount} tracks`;
   return baseDescription ? `${stamp}\n\n${baseDescription}` : stamp;
 }
 
@@ -306,11 +276,8 @@ export function playlistTracksMatch(localTracks, remoteTracks) {
 export async function isPlaylistUnchanged(
   playlist,
   resolvedTracks,
-  fingerprint,
   loadTracks = readPlaylistTracksById
 ) {
-  const existingFingerprint = parseFingerprint(playlist.description);
-  if (existingFingerprint) return existingFingerprint === fingerprint;
   const remoteTracks = await loadTracks(playlist.id);
   return playlistTracksMatch(resolvedTracks, remoteTracks);
 }

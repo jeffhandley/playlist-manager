@@ -3,9 +3,7 @@ import test from "node:test";
 import {
   buildDescription,
   isPlaylistUnchanged,
-  parseFingerprint,
   playlistTracksMatch,
-  trackFingerprint,
 } from "./sync.mjs";
 
 const localTracks = [
@@ -28,51 +26,38 @@ test("playlist track comparison accepts catalog or semantic identity in order", 
   assert.equal(playlistTracksMatch(localTracks, remoteTracks.slice(0, 1)), false);
 });
 
-test("fingerprinted playlists no-op without loading remote tracks", async () => {
-  const ids = localTracks.map((track) => track.songId);
-  const fingerprint = trackFingerprint(ids);
+test("playlist no-op decisions always load and compare remote tracks", async () => {
   let loaded = false;
   const unchanged = await isPlaylistUnchanged(
-    { id: "playlist", description: buildDescription("Mix", ids) },
+    {
+      id: "playlist",
+      description: "Synced previously [sync:incorrect-fingerprint]",
+    },
     localTracks,
-    fingerprint,
-    async () => {
+    async (id) => {
+      assert.equal(id, "playlist");
       loaded = true;
-      return [];
+      return remoteTracks;
     }
   );
 
   assert.equal(unchanged, true);
-  assert.equal(loaded, false);
-  assert.equal(parseFingerprint(buildDescription("Mix", ids)), fingerprint);
+  assert.equal(loaded, true);
 });
 
-test("a fingerprint mismatch is treated as a change without semantic fallback", async () => {
-  let loaded = false;
+test("matching descriptions do not hide remote track changes", async () => {
   const unchanged = await isPlaylistUnchanged(
-    { id: "playlist", description: buildDescription("Mix", ["different"]) },
+    { id: "playlist", description: "Synced previously [sync:matching-fingerprint]" },
     localTracks,
-    trackFingerprint(localTracks.map((track) => track.songId)),
-    async () => {
-      loaded = true;
-      return remoteTracks;
-    }
+    async () => remoteTracks.slice(0, 1)
   );
 
   assert.equal(unchanged, false);
-  assert.equal(loaded, false);
 });
 
-test("legacy playlists no-op when their current tracks match", async () => {
-  const unchanged = await isPlaylistUnchanged(
-    { id: "legacy", description: "Created before sync fingerprints" },
-    localTracks,
-    trackFingerprint(localTracks.map((track) => track.songId)),
-    async (id) => {
-      assert.equal(id, "legacy");
-      return remoteTracks;
-    }
-  );
-
-  assert.equal(unchanged, true);
+test("playlist descriptions contain informational sync details only", () => {
+  const description = buildDescription("Mix", localTracks.length);
+  assert.match(description, /2 tracks/);
+  assert.doesNotMatch(description, /\[sync:/);
+  assert.match(description, /\n\nMix$/);
 });
