@@ -518,6 +518,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 | [Child In Time][cb80aa3aca] | Deep Purple | Deep Purple in Rock | 1970 | Hits |
 | [Speed King][3e825dd7b0] | Deep Purple | Deep Purple in Rock | 1970 | Hits |
 | Black Night | Deep Purple | Deep Purple in Rock | 1970 | Hits |
+| [Immigrant Song][cd3d20bd10] | Led Zeppelin | Led Zeppelin III (Remastered) | 1970 |  |
 | [Friends][7e001de033] | Led Zeppelin | Led Zeppelin III | 1970 |  |
 | [Celebration Day][580a57577a] | Led Zeppelin | Led Zeppelin III | 1970 |  |
 | [Since I've Been Loving You][a7415d9ad8] | Led Zeppelin | Led Zeppelin III | 1970 |  |
@@ -2444,6 +2445,7 @@ A massive classic rock playlist spanning 25 artists from the mid-1960s through t
 [18242bde5c]: https://music.apple.com/us/song/rude-awakening-2/1440948161
 [cb80aa3aca]: https://music.apple.com/us/song/child-in-time/1106649305
 [3e825dd7b0]: https://music.apple.com/us/song/speed-king/1106649300
+[cd3d20bd10]: https://music.apple.com/us/song/immigrant-song/580708280
 [7e001de033]: https://music.apple.com/us/song/friends/580708282
 [580a57577a]: https://music.apple.com/us/song/celebration-day/580708283
 [a7415d9ad8]: https://music.apple.com/us/song/since-ive-been-loving-you/580708284

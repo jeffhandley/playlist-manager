@@ -105,6 +105,7 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | [Shock the Monkey][5eabdf806a] | Coal Chamber | Chamber Music | 1999 | Nu-metal chaos with Ozzy guest vocals |
 | [No Ordinary Love][be48d4fe5b] | Sade | Love Deluxe | 1992 | Sultry 90s R&B ballad |
 | [No Ordinary Love][2afe50e0b4] | Deftones | Covers | 2005 | Dark, heavy alt-metal reimagining |
+| [Ride Like the Wind (2019 Remaster)][53000eb763] | Christopher Cross | Christopher Cross (2019 Remaster) | 1979 |  |
 | [Ride Like the Wind][a74742b9d9] | Saxon | Destiny | 1988 | NWOBHM powerhouse |
 | [The Metro][c2e6dc1ed1] | Berlin | Pleasure Victim | 1981 | 80s new wave classic |
 | [The Metro][744baa1f39] | System Of A Down | Not Another Teen Movie (Music from the Motion Picture) | 2001 | Aggressive alt-metal overhaul |
@@ -214,6 +215,7 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [5eabdf806a]: https://music.apple.com/us/song/shock-the-monkey/1349403205
 [be48d4fe5b]: https://music.apple.com/us/song/no-ordinary-love/158796562
 [2afe50e0b4]: https://music.apple.com/us/song/no-ordinary-love/1099841621
+[53000eb763]: https://music.apple.com/us/song/ride-like-the-wind-2019-remaster/1754701784
 [a74742b9d9]: https://music.apple.com/us/song/ride-like-the-wind/1437341375
 [c2e6dc1ed1]: https://music.apple.com/us/song/the-metro/1440915717
 [744baa1f39]: https://music.apple.com/us/song/the-metro/324595750

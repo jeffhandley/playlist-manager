@@ -28,6 +28,7 @@ A curated collection of classic singer-songwriter tracks from the late 60s throu
 | [Operator (That's Not the Way It Feels)][10cefc015e] | Jim Croce | You Don't Mess Around with Jim | 1972 | Storytelling at its finest |
 | [Heart of Gold][982bccd8b6] | Neil Young | Harvest | 1972 | Searching and honest |
 | [Time in a Bottle][03b9960c39] | Jim Croce | You Don't Mess Around with Jim | 1972 | Tender meditation on time |
+| [American Pie][f1789c0b38] | Don Mclean | The Best of Don McLean | 1971 |  |
 
 [3bf35632df]: https://music.apple.com/us/song/into-the-mystic/712727466
 [06e371dbd4]: https://music.apple.com/us/song/brown-eyed-girl/1828716610
@@ -53,3 +54,4 @@ A curated collection of classic singer-songwriter tracks from the late 60s throu
 [10cefc015e]: https://music.apple.com/us/song/operator-thats-not-the-way-it-feels/1509297881
 [982bccd8b6]: https://music.apple.com/us/song/heart-of-gold/135132421
 [03b9960c39]: https://music.apple.com/us/song/time-in-a-bottle/1674575651
+[f1789c0b38]: https://music.apple.com/us/song/american-pie/724147832

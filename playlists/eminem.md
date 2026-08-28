@@ -29,6 +29,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 | [My Name Is][0bcda82cfc] | Eminem | The Slim Shady LP | 1999 |  |
 | [Guilty Conscience (feat. Dr. Dre)][9a2ff837e1] | Eminem | The Slim Shady LP | 1999 |  |
 | [Brain Damage][813d53b75d] | Eminem | The Slim Shady LP | 1999 |  |
+| [Paul (Skit)][a20752cf09] | Eminem & Paul "Bunyan" Rosenberg | The Slim Shady LP | 1999 |  |
 | [If I Had][6f28e5a6af] | Eminem | The Slim Shady LP | 1999 |  |
 | ['97 Bonnie & Clyde][5fbcf37e57] | Eminem | The Slim Shady LP | 1999 |  |
 | [Bitch (Skit)][1212a6d646] | Eminem | The Slim Shady LP | 1999 |  |
@@ -47,6 +48,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 | [Public Service Announcement 2000][00a4836b87] | Eminem | The Marshall Mathers LP | 2000 |  |
 | [Kill You][e7f4e2e4ac] | Eminem | The Marshall Mathers LP | 2000 |  |
 | [Stan (feat. Dido)][e54c034a91] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Paul (Skit)][e6d07b1970] | Paul "Bunyan" Rosenberg | The Marshall Mathers LP | 2000 |  |
 | [Who Knew][a6b54ac8c8] | Eminem | The Marshall Mathers LP | 2000 |  |
 | [Steve Berman (Skit)][0c53832a40] | Eminem | The Marshall Mathers LP | 2000 |  |
 | [The Way I Am][998421c507] | Eminem | The Marshall Mathers LP | 2000 |  |
@@ -89,6 +91,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 | [Mosh][fcc871691a] | Eminem | Encore | 2004 |  |
 | [Puke][3cad55ebcb] | Eminem | Encore | 2004 |  |
 | [My 1st Single][a52bf419ae] | Eminem | Encore | 2004 |  |
+| [Paul (Skit)][cb56090e5d] | Eminem | Encore | 2004 |  |
 | [Rain Man][fcaf76c233] | Eminem | Encore | 2004 |  |
 | [Big Weenie][dd5dcaf3e5] | Eminem | Encore | 2004 |  |
 | [Em Calls Paul (Skit)][c2ad464da6] | Eminem | Encore | 2004 |  |
@@ -110,6 +113,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 | [Same Song & Dance][16a655e598] | Eminem | Relapse | 2009 |  |
 | [We Made You][6af1abe6d7] | Eminem | Relapse | 2009 |  |
 | [Medicine Ball][43108b0eaa] | Eminem | Relapse | 2009 |  |
+| [Paul (Skit)][0e6ebe9774] | Eminem | Relapse | 2009 |  |
 | [Stay Wide Awake][e979aa1cc9] | Eminem | Relapse | 2009 |  |
 | [Old Time's Sake (feat. Dr. Dre)][d4bd4b17cd] | Eminem | Relapse | 2009 |  |
 | [Must Be the Ganja][cfa142ef8c] | Eminem | Relapse | 2009 |  |
@@ -228,6 +232,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 [0bcda82cfc]: https://music.apple.com/us/song/my-name-is/1445727247
 [9a2ff837e1]: https://music.apple.com/us/song/guilty-conscience-feat-dr-dre/1440871785
 [813d53b75d]: https://music.apple.com/us/song/brain-damage/1440871787
+[a20752cf09]: https://music.apple.com/us/song/paul-skit/1440836384
 [6f28e5a6af]: https://music.apple.com/us/song/if-i-had/1440836394
 [5fbcf37e57]: https://music.apple.com/us/song/97-bonnie-clyde/1440836405
 [1212a6d646]: https://music.apple.com/us/song/bitch-skit/1440836507
@@ -246,6 +251,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 [00a4836b87]: https://music.apple.com/us/song/public-service-announcement-2000/1440866785
 [e7f4e2e4ac]: https://music.apple.com/us/song/kill-you/1440866786
 [e54c034a91]: https://music.apple.com/us/song/stan-feat-dido/1440866795
+[e6d07b1970]: https://music.apple.com/us/song/paul-skit/1440866796
 [a6b54ac8c8]: https://music.apple.com/us/song/who-knew/1440866799
 [0c53832a40]: https://music.apple.com/us/song/steve-berman-skit/1440866800
 [998421c507]: https://music.apple.com/us/song/the-way-i-am/1440866925
@@ -288,6 +294,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 [fcc871691a]: https://music.apple.com/us/song/mosh/1440751551
 [3cad55ebcb]: https://music.apple.com/us/song/puke/1440751554
 [a52bf419ae]: https://music.apple.com/us/song/my-1st-single/1440751555
+[cb56090e5d]: https://music.apple.com/us/song/paul-skit/1440751557
 [fcaf76c233]: https://music.apple.com/us/song/rain-man/1440751560
 [dd5dcaf3e5]: https://music.apple.com/us/song/big-weenie/1440751561
 [c2ad464da6]: https://music.apple.com/us/song/em-calls-paul-skit/1440751564
@@ -309,6 +316,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 [16a655e598]: https://music.apple.com/us/song/same-song-dance/1440799186
 [6af1abe6d7]: https://music.apple.com/us/song/we-made-you/1440799189
 [43108b0eaa]: https://music.apple.com/us/song/medicine-ball/1440799196
+[0e6ebe9774]: https://music.apple.com/us/song/paul-skit/1440799198
 [e979aa1cc9]: https://music.apple.com/us/song/stay-wide-awake/1440799200
 [d4bd4b17cd]: https://music.apple.com/us/song/old-times-sake-feat-dr-dre/1440799203
 [cfa142ef8c]: https://music.apple.com/us/song/must-be-the-ganja/1440799206

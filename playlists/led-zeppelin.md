@@ -37,6 +37,7 @@ Albums: Led Zeppelin (1969), Led Zeppelin II (1969), Led Zeppelin III (1970), Le
 | [Ramble On][a1b6c818e6] | Led Zeppelin | Led Zeppelin II | 1969 |  |
 | [Moby Dick][34a8b99093] | Led Zeppelin | Led Zeppelin II | 1969 |  |
 | [Bring It On Home][5ac40daa75] | Led Zeppelin | Led Zeppelin II | 1969 |  |
+| [Immigrant Song][cd3d20bd10] | Led Zeppelin | Led Zeppelin III (Remastered) | 1970 |  |
 | [Friends][7e001de033] | Led Zeppelin | Led Zeppelin III | 1970 |  |
 | [Celebration Day][580a57577a] | Led Zeppelin | Led Zeppelin III | 1970 |  |
 | [Since I've Been Loving You][a7415d9ad8] | Led Zeppelin | Led Zeppelin III | 1970 |  |
@@ -132,6 +133,7 @@ Albums: Led Zeppelin (1969), Led Zeppelin II (1969), Led Zeppelin III (1970), Le
 [a1b6c818e6]: https://music.apple.com/us/song/ramble-on/580708477
 [34a8b99093]: https://music.apple.com/us/song/moby-dick/580708478
 [5ac40daa75]: https://music.apple.com/us/song/bring-it-on-home/580708479
+[cd3d20bd10]: https://music.apple.com/us/song/immigrant-song/580708280
 [7e001de033]: https://music.apple.com/us/song/friends/580708282
 [580a57577a]: https://music.apple.com/us/song/celebration-day/580708283
 [a7415d9ad8]: https://music.apple.com/us/song/since-ive-been-loving-you/580708284

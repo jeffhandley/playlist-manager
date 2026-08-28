@@ -119,6 +119,7 @@ Albums: Foreigner (1977), Double Vision (1978), Head Games (1979), 4 (1981), Age
 | [Unusual Heat][a7bd454367] | Foreigner | Unusual Heat | 1991 |  |
 | [Under the Gun][13336e6d2c] | Foreigner | Mr. Moonlight | 1994 |  |
 | [Rain][c1678c11da] | Foreigner | Mr. Moonlight | 1994 |  |
+| [Until the End of Time][77179e94f3] | Foreigner | Mr. Moonlight | 1994 |  |
 | [White Lie][723ba670b5] | Foreigner | Mr. Moonlight | 1994 |  |
 | [Big Dog][c8e8098651] | Foreigner | Mr. Moonlight | 1994 |  |
 | [Real World][b4238c0e54] | Foreigner | Mr. Moonlight | 1994 |  |
@@ -240,6 +241,7 @@ Albums: Foreigner (1977), Double Vision (1978), Head Games (1979), 4 (1981), Age
 [a7bd454367]: https://music.apple.com/us/song/unusual-heat/281146842
 [13336e6d2c]: https://music.apple.com/us/song/under-the-gun/1614866163
 [c1678c11da]: https://music.apple.com/us/song/rain/1614866439
+[77179e94f3]: https://music.apple.com/us/song/until-the-end-of-time/1614866441
 [723ba670b5]: https://music.apple.com/us/song/white-lie/1614866442
 [c8e8098651]: https://music.apple.com/us/song/big-dog/1614866447
 [b4238c0e54]: https://music.apple.com/us/song/real-world/1614866448

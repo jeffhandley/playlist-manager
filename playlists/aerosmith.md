@@ -36,6 +36,15 @@ Albums: Aerosmith (1973), Get Your Wings (1974), Toys in the Attic (1975), Rocks
 | [Train Kept a Rollin'][d48e8bfc8e] | Aerosmith | Get Your Wings | 1974 |  |
 | [Seasons of Wither][bfbacdb7eb] | Aerosmith | Get Your Wings | 1974 |  |
 | [Pandora's Box][5f3461dd0d] | Aerosmith | Get Your Wings | 1974 |  |
+| [Toys In the Attic][584cd4d191] | Aerosmith | Toys In the Attic | 1975 |  |
+| [Uncle Salty][fdf55b7cb1] | Aerosmith | Toys In the Attic | 1975 |  |
+| [Adam's Apple][ad6e8213a7] | Aerosmith | Toys In the Attic | 1975 |  |
+| [Walk This Way][2aba29c1bf] | Aerosmith | Toys In the Attic | 1975 |  |
+| [Big Ten Inch Record][940780f85c] | Aerosmith | Toys In the Attic | 1975 |  |
+| [Sweet Emotion][9139897122] | Aerosmith | Toys In the Attic | 1975 |  |
+| [No More No More][5f7325c6c4] | Aerosmith | Toys In the Attic | 1975 |  |
+| [Round and Round][213c9b20e6] | Aerosmith | Toys In the Attic | 1975 |  |
+| [You See Me Crying][844b92c0ee] | Aerosmith | Toys In the Attic | 1975 |  |
 | [Back In the Saddle][9209ce4283] | Aerosmith | Rocks | 1976 |  |
 | [Last Child][542def4117] | Aerosmith | Rocks | 1976 |  |
 | [Rats In the Cellar][47f7ecb150] | Aerosmith | Rocks | 1976 |  |
@@ -187,6 +196,15 @@ Albums: Aerosmith (1973), Get Your Wings (1974), Toys in the Attic (1975), Rocks
 [d48e8bfc8e]: https://music.apple.com/us/song/train-kept-a-rollin/1658645037
 [bfbacdb7eb]: https://music.apple.com/us/song/seasons-of-wither/1658645038
 [5f3461dd0d]: https://music.apple.com/us/song/pandoras-box/1658645039
+[584cd4d191]: https://music.apple.com/us/song/toys-in-the-attic/1660109268
+[fdf55b7cb1]: https://music.apple.com/us/song/uncle-salty/1660109276
+[ad6e8213a7]: https://music.apple.com/us/song/adam-s-apple/1660109281
+[2aba29c1bf]: https://music.apple.com/us/song/walk-this-way/1660109283
+[940780f85c]: https://music.apple.com/us/song/big-ten-inch-record/1660109291
+[9139897122]: https://music.apple.com/us/song/sweet-emotion/1660109293
+[5f7325c6c4]: https://music.apple.com/us/song/no-more-no-more/1660109686
+[213c9b20e6]: https://music.apple.com/us/song/round-and-round/1660109690
+[844b92c0ee]: https://music.apple.com/us/song/you-see-me-crying/1660109695
 [9209ce4283]: https://music.apple.com/us/song/back-in-the-saddle/1658654054
 [542def4117]: https://music.apple.com/us/song/last-child/1658654506
 [47f7ecb150]: https://music.apple.com/us/song/rats-in-the-cellar/1658654507
