@@ -29,6 +29,219 @@ The following individual songs should **never** be added to any playlist (unless
 - **"Pretty Fly (For a White Guy)"** by The Offspring
   - Reason: Removed from an Apple Music playlist
 
+- **"How Soon Is Now?"** by Love Spit Love
+  - Reason: Removed from an Apple Music playlist
+
+- **"6 Underground"** by Sneaker Pimps
+  - Reason: Removed from an Apple Music playlist
+
+- **"-"** by Acid Ghost
+  - Reason: Removed from an Apple Music playlist
+
+- **"Are You Experienced (Bonus Footage)"** by Jimi Hendrix
+  - Reason: Removed from an Apple Music playlist
+
+- **"Axis: Bold As Love (Bonus Footage)"** by Jimi Hendrix
+  - Reason: Removed from an Apple Music playlist
+
+- **"Electric Ladyland (Bonus Footage)"** by Jimi Hendrix
+  - Reason: Removed from an Apple Music playlist
+
+- **"Mama Kin (2024 Mix)"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Toys In the Attic"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Uncle Salty"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Adam's Apple"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Walk This Way"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Big Ten Inch Record"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Sweet Emotion"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"No More No More"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Round and Round"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"You See Me Crying"** by Aerosmith
+  - Reason: Removed from an Apple Music playlist
+
+- **"Until the End of Time"** by Foreigner
+  - Reason: Removed from an Apple Music playlist
+
+- **"Holiday"** by Green Day
+  - Reason: Removed from an Apple Music playlist
+
+- **"Paul (Skit)"** by Eminem
+  - Reason: Removed from an Apple Music playlist
+
+- **"January: The One With 'Kid'"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"February: Michelle Again"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"March: BMW Man"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"April: White Belt Boys"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"May: The Summer of Boats"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"June: Taxi-Cabs"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"July: 24 Hour Break-up Session"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"August: Jesus Christ! Did You See the Size of That Sperm Whale"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"September: Simple Pleas"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"October: Machine Shed Wrestling"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"November: Blur"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"December: Hand To Mouth"** by Local H
+  - Reason: Removed from an Apple Music playlist
+
+- **"Anisina"** by Pink Floyd
+  - Reason: Removed from an Apple Music playlist
+
+- **"Untitled"** by Pink Floyd
+  - Reason: Removed from an Apple Music playlist
+
+- **"Evrika (A)"** by Pink Floyd
+  - Reason: Removed from an Apple Music playlist
+
+- **"Allons-y"** by Pink Floyd
+  - Reason: Removed from an Apple Music playlist
+
+- **"Evrika (B)"** by Pink Floyd
+  - Reason: Removed from an Apple Music playlist
+
+- **"Sing, Sing, Sing"** by Benny Goodman
+  - Reason: Removed from an Apple Music playlist
+
+- **"Orange-Coloured Sky"** by Nat King Cole
+  - Reason: Removed from an Apple Music playlist
+
+- **"Making of Snakes & Arrows"** by Rush
+  - Reason: Removed from an Apple Music playlist
+
+- **"A Dream (feat. will.i.am)"** by Common
+  - Reason: Removed from an Apple Music playlist
+
+- **"List of Demands (Reparations)"** by Saul Williams
+  - Reason: Removed from an Apple Music playlist
+
+- **"Blue Suede Shoes"** by Carl Perkins
+  - Reason: Removed from an Apple Music playlist
+
+- **"Great Balls of Fire"** by Jerry Lee Lewis
+  - Reason: Removed from an Apple Music playlist
+
+- **"Raunchy"** by Bill Justis
+  - Reason: Removed from an Apple Music playlist
+
+- **"Heartaches by the Number"** by Guy Mitchell
+  - Reason: Removed from an Apple Music playlist
+
+- **"Way Down Yonder in New Orleans"** by Freddy Cannon
+  - Reason: Removed from an Apple Music playlist
+
+- **"Georgia on My Mind"** by Ray Charles
+  - Reason: Removed from an Apple Music playlist
+
+- **"Hit the Road Jack"** by Ray Charles
+  - Reason: Removed from an Apple Music playlist
+
+- **"I Can't Stop Loving You"** by Ray Charles
+  - Reason: Removed from an Apple Music playlist
+
+- **"You Don't Know Me"** by Ray Charles
+  - Reason: Removed from an Apple Music playlist
+
+- **"Chapel of Love"** by The Dixie Cups
+  - Reason: Removed from an Apple Music playlist
+
+- **"Immigrant Song"** by Led Zeppelin
+  - Reason: Removed from an Apple Music playlist
+
+- **"American Pie"** by Don McLean
+  - Reason: Removed from an Apple Music playlist
+
+- **"Black and White"** by Three Dog Night
+  - Reason: Removed from an Apple Music playlist
+
+- **"Bad Blood"** by Neil Sedaka
+  - Reason: Removed from an Apple Music playlist
+
+- **"The Logical Song"** by Supertramp
+  - Reason: Removed from an Apple Music playlist
+
+- **"Ride Like the Wind"** by Christopher Cross
+  - Reason: Removed from an Apple Music playlist
+
+- **"Sailing"** by Christopher Cross
+  - Reason: Removed from an Apple Music playlist
+
+- **"Morning Train (Nine to Five)"** by Sheena Easton
+  - Reason: Removed from an Apple Music playlist
+
+- **"Physical"** by Olivia Newton-John
+  - Reason: Removed from an Apple Music playlist
+
+- **"I Love Rock 'n' Roll"** by Joan Jett and the Blackhearts
+  - Reason: Removed from an Apple Music playlist
+
+- **"Crimson and Clover"** by Joan Jett and the Blackhearts
+  - Reason: Removed from an Apple Music playlist
+
+- **"St. Elmo's Fire (Man in Motion)"** by John Parr
+  - Reason: Removed from an Apple Music playlist
+
+- **"Love the Way You Lie"** by Eminem ft. Rihanna
+  - Reason: Removed from an Apple Music playlist
+
+- **"Drunk in Love"** by Beyoncé ft. Jay-Z
+  - Reason: Removed from an Apple Music playlist
+
+- **"Formation"** by Beyoncé
+  - Reason: Removed from an Apple Music playlist
+
+- **"Mask Off"** by Future
+  - Reason: Removed from an Apple Music playlist
+
+- **"MONTERO (Call Me by Your Name)"** by Lil Nas X
+  - Reason: Removed from an Apple Music playlist
+
+- **"Seven"** by Jung Kook
+  - Reason: Removed from an Apple Music playlist
+
+- **"Nasty"** by Tinashe
+  - Reason: Removed from an Apple Music playlist
+
+- **"River"** by Leon Bridges
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):

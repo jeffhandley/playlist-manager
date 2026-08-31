@@ -3,7 +3,7 @@
 Songs that weave spoken word into music — sampling lectures, speeches, interviews, newscasts, film dialogues, TED Talks, and philosophical monologues. From Cold War-era newscast overlays and Malcolm X samples in golden-age hip-hop, through McKenna-laced psytrance and Meaningwave motivational beats, to contemporary speech-sampling in electronic and rap. Organized chronologically.
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | [7 O'Clock News / Silent Night][78e80dab6b] | Simon & Garfunkel | Parsley, Sage, Rosemary and Thyme | 1966 | Vietnam-era newscast over a Christmas carol |
 | [Revolution 9][c58a30f775] | The Beatles | The Beatles (The White Album) | 1968 | Avant-garde tape-loop spoken word collage |
 | [New Dress][b0dfabe42a] | Depeche Mode | Black Celebration | 1986 | News broadcast samples over synth-pop |
@@ -41,8 +41,6 @@ Songs that weave spoken word into music — sampling lectures, speeches, intervi
 | [Makeshift Patriot][b316b77be4] | Sage Francis | Sick of Waging War | 2002 | Post-9/11 news broadcast samples |
 | [The 4th Branch][49c1633197] | Immortal Technique | Guests of Honor | 2004 | News media and political speech samples |
 | [Fire Coming Out of the Monkey's Head][5ac7dca731] | Gorillaz | Demon Days | 2005 | Dennis Hopper narrates a parable of exploitation |
-| [A Dream (feat. will.i.am)][88337f6de6] | Common | Freedom Writers (Music from the Motion Picture) | 2006 | MLK "I Have a Dream" speech |
-| [List of Demands (Reparations)][c802c82b5f] | Saul Williams | The Inevitable Rise And Liberation Of Niggy Tardust | 2007 | Spoken word poetry as confrontational anthem |
 | [Survivalism][1b2740b485] | Nine Inch Nails | Year Zero | 2007 | Dystopian news broadcast collage |
 | [Who Will Survive In America][4beb6749c1] | Kanye West | My Beautiful Dark Twisted Fantasy | 2010 | Gil Scott-Heron spoken word |
 | [One Day I Wish To Have This Kind of Time][ebf030f902] | Ott | Mir | 2011 | Alan Watts lecture on the nature of time |
@@ -150,8 +148,6 @@ Songs that weave spoken word into music — sampling lectures, speeches, intervi
 [b316b77be4]: https://music.apple.com/us/song/makeshift-patriot/166647631
 [49c1633197]: https://music.apple.com/us/song/the-4th-branch/53768198
 [5ac7dca731]: https://music.apple.com/us/song/fire-coming-out-of-the-monkeys-head/850571390
-[88337f6de6]: https://music.apple.com/us/song/a-dream-feat-william/1444201229
-[c802c82b5f]: https://music.apple.com/us/song/list-of-demands-reparations/1821416923
 [1b2740b485]: https://music.apple.com/us/song/survivalism/1440827262
 [4beb6749c1]: https://music.apple.com/us/song/who-will-survive-in-america/1445866737
 [ebf030f902]: https://music.apple.com/us/song/one-day-i-wish-to-have-this-kind-of-time/1635569877

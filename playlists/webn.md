@@ -27,7 +27,7 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 - Follow root `PREFERENCES.md` exclusions
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | [Voices in My Head][63fe2d70d6] | Falling In Reverse | Voices in My Head - Single | 2022 | ~42 recent spins |
 | [Awaken][23edc3ebf3] | Breaking Benjamin | Awaken - Single | 2024 | ~37 recent spins |
 | [Afterlife][10c4286044] | Evanescence | Sanctuary | 2025 | ~33 recent spins |
@@ -109,7 +109,7 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Stressed Out][bc2828c38b] | twenty one pilots | Blurryface | 2015 |  |
 | [Highway to Hell][42fc514c5e] | AC/DC | Highway to Hell | 1979 |  |
 | [Dream On][4f2c93579f] | Aerosmith | Aerosmith | 1973 |  |
-| [Sweet Emotion][01e0a0b5b8] | Aerosmith | Toys In The Attic | 1975 |  |
+| [Sweet Emotion][9139897122] | Aerosmith | Toys In the Attic | 1975 |  |
 | [I Stay Away][50a05e79de] | Alice In Chains | Jar of Flies - EP | 1994 |  |
 | [Man in the Box][b3cea82da5] | Alice In Chains | Facelift | 1990 |  |
 | [Smooth Criminal][324d29862c] | Alien Ant Farm | Smooth Criminal - Single | 2001 |  |
@@ -267,7 +267,7 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [We're Not Gonna Take It][a4818506c4] | Twisted Sister | Stay Hungry | 1984 | WEBN play history 2020–2026; 4 sampled plays |
 | [MORE THAN HATE][c5e069e160] | Bilmuri | MORE THAN HATE - Single | 2025 | WEBN play history 2025; 4 sampled plays |
 | [Kashmir][668564a514] | Led Zeppelin | Physical Graffiti (Deluxe Edition) | 1975 | WEBN play history 2020–2023; 4 sampled plays |
-| [Holiday][e60cdabffc] | Green Day | American Idiot | 2004 | WEBN play history 2022–2023; 4 sampled plays |
+| [Holiday][e60cdabffc] | Green Day | American Idiot | 2004 |  |
 | [Dirty Deeds Done Dirt Cheap][9aec9fba0a] | AC/DC | Dirty Deeds Done Dirt Cheap | 1976 | WEBN play history 2020–2022; 4 sampled plays |
 | [Eye of the Storm][47d148cb5b] | Pop Evil | Eye of the Storm - Single | 2022 | archived WEBN top songs 2022; 4 snapshots |
 | [Black Summer][7cda1f673c] | Red Hot Chili Peppers | Unlimited Love | 2022 | archived WEBN top songs 2022; 4 snapshots |
@@ -521,7 +521,7 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Back In Black][3626c7a3e3] | AC/DC | Back In Black | 1980 | popular catalog addition |
 | [Thunderstruck][bf6906d1cb] | AC/DC | Iron Man 2 | 1990 | popular catalog addition |
 | [Crazy][9d48b07526] | Aerosmith | Big Ones | 1980 | popular catalog addition |
-| [Walk This Way][7497442faf] | Aerosmith | Toys In The Attic | 1975 | popular catalog addition |
+| [Walk This Way][2aba29c1bf] | Aerosmith | Toys In the Attic | 1975 |  |
 | [Rooster][9829bc87e1] | Alice In Chains | Dirt (Remastered) | 1992 | popular catalog addition |
 | [Would?][81be661a13] | Alice In Chains | Dirt (Remastered) | 1992 | popular catalog addition |
 | [Movies (2026 Remastered)][07a661234d] | Alien Ant Farm | ANThology (Deluxe Edition) | 2001 | popular catalog addition |
@@ -772,7 +772,7 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [bc2828c38b]: https://music.apple.com/us/song/stressed-out/974485474
 [42fc514c5e]: https://music.apple.com/us/song/highway-to-hell/574044008
 [4f2c93579f]: https://music.apple.com/us/song/dream-on/1658644941
-[01e0a0b5b8]: https://music.apple.com/us/song/sweet-emotion/1883816642
+[9139897122]: https://music.apple.com/us/song/sweet-emotion/1660109293
 [50a05e79de]: https://music.apple.com/us/song/i-stay-away/268435302
 [b3cea82da5]: https://music.apple.com/us/song/man-in-the-box/274953022
 [324d29862c]: https://music.apple.com/us/song/smooth-criminal/406253466
@@ -1184,7 +1184,7 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [3626c7a3e3]: https://music.apple.com/us/song/back-in-black/574050602
 [bf6906d1cb]: https://music.apple.com/us/song/thunderstruck/575998661
 [9d48b07526]: https://music.apple.com/us/song/crazy/1440913824
-[7497442faf]: https://music.apple.com/us/song/walk-this-way/1883816638
+[2aba29c1bf]: https://music.apple.com/us/song/walk-this-way/1660109283
 [9829bc87e1]: https://music.apple.com/us/song/rooster/157317003
 [81be661a13]: https://music.apple.com/us/song/would/157317248
 [07a661234d]: https://music.apple.com/us/song/movies-2026-remastered/6790972970
