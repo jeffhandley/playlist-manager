@@ -607,7 +607,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Rollin' (Air Raid Vehicle)][d7da5fadc7] | Limp Bizkit | Greatest Hitz | 2000 | popular catalog addition |
 | [In the End][0d68dab58d] | LINKIN PARK | Hybrid Theory (Deluxe Edition) | 2000 | popular catalog addition |
 | [Numb][d5a6e047e2] | LINKIN PARK | Meteora (Deluxe Edition) | 2003 | popular catalog addition |
-| [Glamour Boys][ac72fefbe6] | Living Colour | Pride | 1988 | popular catalog addition |
 | [Type][c408e55cda] | Living Colour | Time's Up | 1990 | popular catalog addition |
 | [Sweet Home Alabama][77b4396058] | Lynyrd Skynyrd | All Time Greatest Hits | 1974 | popular catalog addition |
 | [That Smell][366789ab56] | Lynyrd Skynyrd | Street Survivors | 1977 | popular catalog addition |
@@ -1270,7 +1269,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [d7da5fadc7]: https://music.apple.com/us/song/rollin-air-raid-vehicle/1440788202
 [0d68dab58d]: https://music.apple.com/us/song/in-the-end/590431785
 [d5a6e047e2]: https://music.apple.com/us/song/numb/590423552
-[ac72fefbe6]: https://music.apple.com/us/song/glamour-boys/193145121
 [c408e55cda]: https://music.apple.com/us/song/type/158439925
 [77b4396058]: https://music.apple.com/us/song/sweet-home-alabama/1413948381
 [366789ab56]: https://music.apple.com/us/song/that-smell/1469583632

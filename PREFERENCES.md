@@ -242,6 +242,9 @@ The following individual songs should **never** be added to any playlist (unless
 - **"River"** by Leon Bridges
   - Reason: Removed from an Apple Music playlist
 
+- **"Glamour Boys"** by Living Colour
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):
