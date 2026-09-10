@@ -38,6 +38,7 @@ mcp-scripts:
 
       for (let page = 0; page < 200; page++) {
         const url = new URL(baseUrl);
+        url.searchParams.set("limit", "100");
         if (pageKey) url.searchParams.set("pageKey", pageKey);
 
         const response = await fetch(url, { headers: { Accept: "application/json" } });
@@ -47,15 +48,11 @@ mcp-scripts:
 
         const body = await response.json();
         const tracks = Array.isArray(body.data) ? body.data : [];
-        let reachedCutoff = false;
 
         for (const track of tracks) {
           if (!Number.isFinite(track.startTime)) continue;
           if (track.startTime > now + 60) continue;
-          if (track.startTime < cutoff) {
-            reachedCutoff = true;
-            continue;
-          }
+          if (track.startTime < cutoff) continue;
 
           plays.push({
             title: track.title,
@@ -67,7 +64,7 @@ mcp-scripts:
         }
 
         const nextPageKey = body.links?.next;
-        if (reachedCutoff || !nextPageKey || seenPageKeys.has(nextPageKey)) break;
+        if (!nextPageKey || seenPageKeys.has(nextPageKey)) break;
         seenPageKeys.add(nextPageKey);
         pageKey = nextPageKey;
       }
