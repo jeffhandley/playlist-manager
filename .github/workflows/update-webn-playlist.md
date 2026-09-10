@@ -135,6 +135,6 @@ Follow these steps in order:
 6. **Validate and publish exactly one update.**
    - Inspect `git status` and `git diff`. Stop if any file other than `playlists/webn.md` changed or if the diff contains anything except the intended track additions and reference definitions.
    - If step 1 found an existing pull request, call `push_to_pull_request_branch` with that pull request number and a concise commit message. Do not create another pull request.
-   - Otherwise call `create_pull_request` with title `Add WEBN tracks played at least three times daily`, branch `automation/update-webn-playlist`, and a body listing each added song and its 24-hour play count. Include `<!-- webn-playlist-update -->` in the body.
+   - Otherwise call `create_pull_request` with the unprefixed title `Add WEBN tracks played at least three times daily`, branch `automation/update-webn-playlist`, and a body listing each added song and its 24-hour play count. The safe output adds the required `[webn-playlist] ` title prefix. Include `<!-- webn-playlist-update -->` in the body.
 
 Never sync the playlist to Apple Music or Spotify from this workflow.
