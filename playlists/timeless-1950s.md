@@ -3,7 +3,7 @@
 A curated journey through the decade that gave birth to rock & roll. From the smooth crooners and big band holdovers of the early 1950s through the explosive arrival of Elvis, Chuck Berry, and Little Richard, these are the songs that defined an era and still resonate today. Organized chronologically with 2–3 standout hits per month, spanning January 1950 through December 1959.
 
 | Song | Artist | Month | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | | | | **1950** | |
 | [Dear Hearts and Gentle People][cdda6ed5b6] | Bing Crosby | Jan | 1950 | Crosby's warm Americana singalong |
 | [I Can Dream, Can't I?][976674c4ea] | The Andrews Sisters | Jan | 1950 | Trio harmony standard of the era |
@@ -117,7 +117,6 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [Lisbon Antigua][d9acfcc7b0] | Nelson Riddle | Feb | 1956 | Exotic orchestral easy-listening hit |
 | [See You Later, Alligator][135377021b] | Bill Haley & His Comets | Feb | 1956 | Catchphrase novelty rock anthem |
 | [The Poor People of Paris][121006caa9] | Les Baxter | Mar | 1956 | Quirky French instrumental #1 |
-| [Blue Suede Shoes][3be2736ee4] | Carl Perkins | Apr | 1956 | Rockabilly anthem, cultural landmark |
 | [Heartbreak Hotel][d23959b931] | Elvis Presley | Apr | 1956 | Elvis's first #1, changed everything |
 | [Fever][a699ba2dc1] | Little Willie John | May | 1956 | Original sultry R&B classic |
 | [Long Tall Sally][7707568d66] | Little Richard | May | 1956 | Frenetic rock & roll energy |
@@ -161,8 +160,6 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [That'll Be the Day][68a656e6d2] | Buddy Holly | Sep | 1957 | Holly's iconic rock & roll debut |
 | [Jailhouse Rock][87517fc097] | Elvis Presley | Oct | 1957 | Rock anthem, entered charts at #1 |
 | [Wake Up Little Susie][97ffdc0376] | The Everly Brothers | Oct | 1957 | Brothers' cheeky teen narrative |
-| [Great Balls of Fire][f50470d98f] | Jerry Lee Lewis | Nov | 1957 | Lewis's frenzied piano showstopper |
-| [Raunchy][7a15726c94] | Bill Justis | Nov | 1957 | Saxophone-driven instrumental hit |
 | [You Send Me][8226135f32] | Sam Cooke | Nov | 1957 | Cooke's debut, soul music pioneer |
 | [Peggy Sue][086d9c6617] | Buddy Holly | Dec | 1957 | Holly's hiccup-vocal signature hit |
 | [School Days][339bbd2220] | Chuck Berry | Dec | 1957 | Berry's teen anthem rock standard |
@@ -226,8 +223,6 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 | [Teen Angel][d3d77389a0] | Mark Dinning | Oct | 1959 | Tragic teen death ballad classic |
 | [16 Candles][61b4791b68] | The Crests | Nov | 1959 | Doo-wop birthday serenade classic |
 | [Mr. Blue][217c4674cd] | The Fleetwoods | Nov | 1959 | Fleetwoods' wistful harmony hit |
-| [Heartaches by the Number][647f430c7c] | Guy Mitchell | Dec | 1959 | Country-pop crossover evergreen |
-| [Way Down Yonder in New Orleans][871ab3d8f7] | Freddy Cannon | Dec | 1959 | Cannon's energetic rock revival |
 | [Why][a5e99e5ac9] | Frankie Avalon | Dec | 1959 | Avalon's second dreamy ballad #1 |
 
 [cdda6ed5b6]: https://music.apple.com/us/song/dear-hearts-and-gentle-people/1445745276
@@ -336,7 +331,6 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [d9acfcc7b0]: https://music.apple.com/us/song/lisbon-antigua/1443852277
 [135377021b]: https://music.apple.com/us/song/see-you-later-alligator/1440751974
 [121006caa9]: https://music.apple.com/us/song/the-poor-people-of-paris/1798982829
-[3be2736ee4]: https://music.apple.com/us/song/blue-suede-shoes/1579146165
 [d23959b931]: https://music.apple.com/us/song/heartbreak-hotel/388127857
 [a699ba2dc1]: https://music.apple.com/us/song/fever/931019466
 [7707568d66]: https://music.apple.com/us/song/long-tall-sally/1440936752
@@ -379,8 +373,6 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [68a656e6d2]: https://music.apple.com/us/song/that-ll-be-the-day/1478937691
 [87517fc097]: https://music.apple.com/us/song/jailhouse-rock/217634327
 [97ffdc0376]: https://music.apple.com/us/song/wake-up-little-susie/1713978664
-[f50470d98f]: https://music.apple.com/us/song/great-balls-of-fire/1579139758
-[7a15726c94]: https://music.apple.com/us/song/raunchy/1578966638
 [8226135f32]: https://music.apple.com/us/song/you-send-me/1088172910
 [086d9c6617]: https://music.apple.com/us/song/peggy-sue/1434877718
 [339bbd2220]: https://music.apple.com/us/song/school-days/913793980
@@ -442,6 +434,4 @@ A curated journey through the decade that gave birth to rock & roll. From the sm
 [d3d77389a0]: https://music.apple.com/us/song/teen-angel/1786126168
 [61b4791b68]: https://music.apple.com/us/song/16-candles/400561319
 [217c4674cd]: https://music.apple.com/us/song/mr-blue/724333659
-[647f430c7c]: https://music.apple.com/us/song/heartaches-by-the-number/1363247711
-[871ab3d8f7]: https://music.apple.com/us/song/way-down-yonder-in-new-orleans/1515606187
 [a5e99e5ac9]: https://music.apple.com/us/song/why/269686309

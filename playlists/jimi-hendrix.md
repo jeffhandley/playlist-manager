@@ -19,56 +19,54 @@ Albums: Are You Experienced (1967), Axis Bold as Love (1967), Electric Ladyland 
 - Do not shuffle — the chronological album order is intentional
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
-| [Purple Haze][4379601395] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Manic Depression][85987f8de2] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Hey Joe][eb433b1dbb] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Love or Confusion][a1d0f94df0] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [May This Be Love][7c85290b1e] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [I Don't Live Today][5180b54964] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [The Wind Cries Mary][a7bd432a9b] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Fire][60059ddf7d] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Third Stone from the Sun][dd84cf1046] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Foxey Lady][21f606fc7d] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Are You Experienced?][fe08fd12b8] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Stone Free][ae0c8e996d] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [51st Anniversary][9d1ada97e1] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Highway Chile][e7152d2080] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Can You See Me][06a1506ad9] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Remember][6578862764] | Jimi Hendrix | Are You Experienced | 1967 | |
-| [Red House][178a9e2c1f] | Jimi Hendrix | Are You Experienced | 1967 | |
-| Are You Experienced (Bonus Footage) | Jimi Hendrix | Are You Experienced | 1967 | |
-| [EXP][07e4eee2e1] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Up from the Skies][92f618c7a3] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Spanish Castle Magic][f001e4ed8e] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Wait Until Tomorrow][76d0ac771f] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Ain't No Telling][bc6dfeee2e] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Little Wing][72a54d60fb] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [If 6 Was 9][206126606b] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [You Got Me Floatin'][96210ef229] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Castles Made of Sand][2fdb39fd06] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [She's So Fine][f6e83d6ee5] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [One Rainy Wish][167e16a7d0] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Little Miss Lover][50a6b6987b] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [Bold As Love][459f133022] | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| Axis: Bold As Love (Bonus Footage) | Jimi Hendrix | Axis Bold as Love | 1967 | |
-| [...And the Gods Made Love][a821d6b2e5] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Have You Ever Been (To Electric Ladyland)][b31e7ff7b1] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Crosstown Traffic][ad8cdb5a2d] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Voodoo Chile][6268f90ed1] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Little Miss Strange][22bcd85298] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Long Hot Summer Night][45b6d880ba] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Come On (Let the Good Times Roll)][ffa65170b1] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Gypsy Eyes][b0c3c42435] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Burning of the Midnight Lamp][dae4ac6204] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Rainy Day, Dream Away][8cebb890c9] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [1983... (A Merman I Should Turn to Be)][3bff3e1f7f] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Moon, Turn the Tides... Gently Gently Away][1da405d5fa] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Still Raining, Still Dreaming][10f376ac4f] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [House Burning Down][93cb27bc35] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [All Along the Watchtower][bbb6efc86c] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| [Voodoo Child (Slight Return)][a2172fd104] | Jimi Hendrix | Electric Ladyland | 1968 | |
-| Electric Ladyland (Bonus Footage) | Jimi Hendrix | Electric Ladyland | 1968 | |
+|---|---|---|---|---|
+| [Purple Haze][4379601395] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Manic Depression][85987f8de2] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Hey Joe][eb433b1dbb] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Love or Confusion][a1d0f94df0] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [May This Be Love][7c85290b1e] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [I Don't Live Today][5180b54964] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [The Wind Cries Mary][a7bd432a9b] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Fire][60059ddf7d] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Third Stone from the Sun][dd84cf1046] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Foxey Lady][21f606fc7d] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Are You Experienced?][fe08fd12b8] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Stone Free][ae0c8e996d] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [51st Anniversary][9d1ada97e1] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Highway Chile][e7152d2080] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Can You See Me][06a1506ad9] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Remember][6578862764] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [Red House][178a9e2c1f] | Jimi Hendrix | Are You Experienced | 1967 |  |
+| [EXP][07e4eee2e1] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Up from the Skies][92f618c7a3] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Spanish Castle Magic][f001e4ed8e] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Wait Until Tomorrow][76d0ac771f] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Ain't No Telling][bc6dfeee2e] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Little Wing][72a54d60fb] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [If 6 Was 9][206126606b] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [You Got Me Floatin'][96210ef229] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Castles Made of Sand][2fdb39fd06] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [She's So Fine][f6e83d6ee5] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [One Rainy Wish][167e16a7d0] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Little Miss Lover][50a6b6987b] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [Bold As Love][459f133022] | Jimi Hendrix | Axis Bold as Love | 1967 |  |
+| [...And the Gods Made Love][a821d6b2e5] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Have You Ever Been (To Electric Ladyland)][b31e7ff7b1] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Crosstown Traffic][ad8cdb5a2d] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Voodoo Chile][6268f90ed1] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Little Miss Strange][22bcd85298] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Long Hot Summer Night][45b6d880ba] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Come On (Let the Good Times Roll)][ffa65170b1] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Gypsy Eyes][b0c3c42435] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Burning of the Midnight Lamp][dae4ac6204] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Rainy Day, Dream Away][8cebb890c9] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [1983... (A Merman I Should Turn to Be)][3bff3e1f7f] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Moon, Turn the Tides... Gently Gently Away][1da405d5fa] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Still Raining, Still Dreaming][10f376ac4f] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [House Burning Down][93cb27bc35] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [All Along the Watchtower][bbb6efc86c] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Voodoo Child (Slight Return)][a2172fd104] | Jimi Hendrix | Electric Ladyland | 1968 |  |
+| [Voodoo Child (Slight Return)][a2172fd104] | The Jimi Hendrix Experience | Electric Ladyland | 1968 |  |
 
 [4379601395]: https://music.apple.com/us/song/purple-haze/357225355
 [85987f8de2]: https://music.apple.com/us/song/manic-depression/357225364
@@ -115,4 +113,5 @@ Albums: Are You Experienced (1967), Axis Bold as Love (1967), Electric Ladyland 
 [10f376ac4f]: https://music.apple.com/us/song/still-raining-still-dreaming/357653127
 [93cb27bc35]: https://music.apple.com/us/song/house-burning-down/357653186
 [bbb6efc86c]: https://music.apple.com/us/song/all-along-the-watchtower/357653191
+[a2172fd104]: https://music.apple.com/us/song/voodoo-child-slight-return/357653347
 [a2172fd104]: https://music.apple.com/us/song/voodoo-child-slight-return/357653347

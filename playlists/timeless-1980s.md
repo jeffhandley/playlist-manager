@@ -3,14 +3,13 @@
 A curated journey through the decade that rewired pop culture. From the dawn of MTV and the synth-pop revolution to the rise of hip-hop and hair metal, these are the songs that defined the 1980s and still resonate today. Organized chronologically with 2–3 standout hits per month, spanning January 1980 through December 1989.
 
 | Song | Artist | Month | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | | | | **1980** | |
 | [Rock with You][15c0235919] | Michael Jackson | Jan | 1980 | Jackson's irresistible disco-funk groove |
 | [Brass in Pocket][1224554d6e] | Pretenders | Jan | 1980 | New wave swagger from Chrissie Hynde |
 | [Crazy Little Thing Called Love][026c203e39] | Queen | Feb | 1980 | Freddie's rockabilly throwback hit |
 | [Cruisin'][9d4d2cfa4b] | Smokey Robinson | Feb | 1980 | Smooth R&B seduction classic |
 | [Another Brick in the Wall, Part 2][a099592a6a] | Pink Floyd | Mar | 1980 | Protest anthem against rigid education |
-| [Ride Like the Wind][53000eb763] | Christopher Cross | Mar | 1980 | Yacht rock at its adventurous best |
 | [Call Me][1f1dce2d36] | Blondie | Apr | 1980 | Giorgio Moroder's pulsing new wave |
 | [Working My Way Back to You][b6e5d94d10] | The Spinners | Apr | 1980 | Disco-era soul revival hit |
 | [Funkytown][d87f88b165] | Lipps Inc | May | 1980 | Synth-funk dancefloor anthem |
@@ -20,7 +19,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [It's Still Rock and Roll to Me][8fd8c7fc87] | Billy Joel | Jul | 1980 | Joel's defiant pop-rock statement |
 | [Cupid / I've Loved You for a Long Time][e4c4f8fc2e] | The Spinners | Jul | 1980 | Classic medley of soul hits |
 | [Magic][cb5891f812] | Olivia Newton-John | Aug | 1980 | Dreamy pop from the Xanadu era |
-| [Sailing][5f73545254] | Christopher Cross | Aug | 1980 | Breezy yacht rock perfection |
 | [Upside Down][09d18269c2] | Diana Ross | Sep | 1980 | Chic-produced disco-funk groove |
 | [The Breaks][a087d58c5a] | Kurtis Blow | Sep | 1980 | First certified gold rap single |
 | [Another One Bites the Dust][8b8aad1894] | Queen | Oct | 1980 | Queen's funk-rock crossover smash |
@@ -39,7 +37,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Kiss on My List][2ce3cad973] | Daryl Hall & John Oates | Apr | 1981 | Blue-eyed soul at its catchiest |
 | [Just Can't Get Enough][16718603c7] | Depeche Mode | Apr | 1981 | Early synthpop at its most joyful |
 | [Bette Davis Eyes][f4e214f9e9] | Kim Carnes | May | 1981 | Smoky vocals defined 1981's sound |
-| [Morning Train (Nine to Five)][2428583329] | Sheena Easton | May | 1981 | Brit-pop charm conquers America |
 | [Being with You][8b10a5bae1] | Smokey Robinson | Jun | 1981 | Robinson's silky romantic return |
 | [Jessie's Girl][6920da1031] | Rick Springfield | Jul | 1981 | Power-pop jealousy anthem |
 | [The One That You Love][7c6577c912] | Air Supply | Jul | 1981 | Soft rock romanticism perfected |
@@ -49,7 +46,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Arthur's Theme (Best That You Can Do)][41f761a75a] | Christopher Cross | Oct | 1981 | Oscar-winning soft rock gem |
 | [Every Little Thing She Does Is Magic][df2e960115] | The Police | Oct | 1981 | Sting's exuberant reggae-pop joy |
 | [Private Eyes][4b4f691c86] | Daryl Hall & John Oates | Nov | 1981 | Clap-along pop-rock perfection |
-| [Physical][f23798065f] | Olivia Newton-John | Nov | 1981 | Suggestive aerobics-era anthem |
 | [Let's Groove][a3eac25c5b] | Earth, Wind & Fire | Dec | 1981 | Electro-funk dancefloor igniter |
 | [Under Pressure][ad95152a43] | Queen & David Bowie | Dec | 1981 | Legendary collaboration under stress |
 | [Waiting for a Girl Like You][f607b2e0d5] | Foreigner | Dec | 1981 | Synth-ballad stayed at #2 for weeks |
@@ -58,12 +54,10 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [Harden My Heart][aa9243b303] | Quarterflash | Jan | 1982 | Sax-driven new wave pop standout |
 | [Centerfold][88e04bccb9] | The J. Geils Band | Feb | 1982 | Bouncy rock hit with catchy hook |
 | [Open Arms][7fb28963e0] | Journey | Feb | 1982 | Arena rock ballad touchstone |
-| [I Love Rock 'n' Roll][b42ad71d83] | Joan Jett and the Blackhearts | Mar | 1982 | Defiant punk-rock anthem |
 | [Tainted Love][8442d6cb5e] | Soft Cell | Mar | 1982 | Dark synthpop dancefloor staple |
 | [Ebony and Ivory][8ac48ea295] | Paul McCartney & Stevie Wonder | Apr | 1982 | Unity duet between two legends |
 | [867-5309/Jenny][5e0aba3635] | Tommy Tutone | Apr | 1982 | Most dialed phone number in pop |
 | [Don't You Want Me][211195133f] | The Human League | May | 1982 | Synthpop drama defined the era |
-| [Crimson and Clover][93f1851d5c] | Joan Jett and the Blackhearts | May | 1982 | Jett's smoldering psychedelic cover |
 | [Eye of the Tiger][2983656570] | Survivor | Jun | 1982 | Rocky III's motivational anthem |
 | [Hurts So Good][28028efb23] | John Cougar Mellencamp | Jun | 1982 | Heartland rock with a bite |
 | [The Message][b8d2bf1443] | Grandmaster Flash & The Furious Five | Jul | 1982 | Hip-hop's social commentary landmark |
@@ -139,7 +133,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 | [A View to a Kill][b30dcb99a0] | Duran Duran | Jul | 1985 | Best Bond theme of the decade |
 | [Shout][813bf3334f] | Tears for Fears | Jul | 1985 | Primal scream therapy as pop anthem |
 | [The Power of Love][8fda1f6d6d] | Huey Lewis and the News | Aug | 1985 | Back to the Future's power anthem |
-| [St. Elmo's Fire (Man in Motion)][7a3b8ebe02] | John Parr | Aug | 1985 | Brat Pack movie anthem soars |
 | [Money for Nothing][da81ce3938] | Dire Straits | Sep | 1985 | MTV-era guitar riff masterclass |
 | [Take On Me][ae7c17f1e3] | a-ha | Sep | 1985 | Pencil-sketch video, synth-pop hook |
 | [Oh Sheila][9df62bdedc] | Ready for the World | Oct | 1985 | Minneapolis funk-pop standout |
@@ -252,7 +245,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [026c203e39]: https://music.apple.com/us/song/crazy-little-thing-called-love/1440774185
 [9d4d2cfa4b]: https://music.apple.com/us/song/cruisin/1442951752
 [a099592a6a]: https://music.apple.com/us/song/another-brick-in-the-wall-pt-1/1065975636
-[53000eb763]: https://music.apple.com/us/song/ride-like-the-wind-2019-remaster/1754701784
 [1f1dce2d36]: https://music.apple.com/us/song/call-me/716231650
 [b6e5d94d10]: https://music.apple.com/us/song/working-my-way-back-to-you/256716716
 [d87f88b165]: https://music.apple.com/us/song/funkytown/1440894579
@@ -262,7 +254,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [8fd8c7fc87]: https://music.apple.com/us/song/its-still-rock-and-roll-to-me/158816095
 [e4c4f8fc2e]: https://music.apple.com/us/song/cupid-ive-loved-you-for-a-long-time/256716722
 [cb5891f812]: https://music.apple.com/us/song/magic/1440743079
-[5f73545254]: https://music.apple.com/us/song/sailing/1656697235
 [09d18269c2]: https://music.apple.com/us/song/upside-down/1452791458
 [a087d58c5a]: https://music.apple.com/us/song/the-breaks/1442217538
 [8b8aad1894]: https://music.apple.com/us/song/another-one-bites-the-dust/1440650719
@@ -280,7 +271,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [2ce3cad973]: https://music.apple.com/us/song/kiss-on-my-list/217764626
 [16718603c7]: https://music.apple.com/us/song/just-cant-get-enough/665413042
 [f4e214f9e9]: https://music.apple.com/us/song/bette-davis-eyes/714976249
-[2428583329]: https://music.apple.com/us/song/morning-train-nine-to-five/693482449
 [8b10a5bae1]: https://music.apple.com/us/song/being-with-you/1440713795
 [6920da1031]: https://music.apple.com/us/song/jessies-girl/286005748
 [7c6577c912]: https://music.apple.com/us/song/the-one-that-you-love/304795245
@@ -290,7 +280,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [41f761a75a]: https://music.apple.com/us/song/arthurs-theme-best-that-you-can-do/273426183
 [df2e960115]: https://music.apple.com/us/song/every-little-thing-she-does-is-magic-remastered-2003/1440754954
 [4b4f691c86]: https://music.apple.com/us/song/private-eyes/217749712
-[f23798065f]: https://music.apple.com/us/song/physical/1584203337
 [a3eac25c5b]: https://music.apple.com/us/song/lets-groove/1456444994
 [ad95152a43]: https://music.apple.com/us/song/under-pressure/1440806739
 [f607b2e0d5]: https://music.apple.com/us/song/waiting-for-a-girl-like-you/284531777
@@ -298,12 +287,10 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [aa9243b303]: https://music.apple.com/us/song/harden-my-heart/1443834437
 [88e04bccb9]: https://music.apple.com/us/song/centerfold/724071636
 [7fb28963e0]: https://music.apple.com/us/song/open-arms/159174191
-[b42ad71d83]: https://music.apple.com/us/song/i-love-rock-n-roll/1434145184
 [8442d6cb5e]: https://music.apple.com/us/song/tainted-love/1440517679
 [8ac48ea295]: https://music.apple.com/us/song/ebony-and-ivory/1440939263
 [5e0aba3635]: https://music.apple.com/us/song/867-5309-jenny/268543715
 [211195133f]: https://music.apple.com/us/song/dont-you-want-me/724437870
-[93f1851d5c]: https://music.apple.com/us/song/crimson-and-clover/1434145215
 [2983656570]: https://music.apple.com/us/song/eye-of-the-tiger/254685026
 [28028efb23]: https://music.apple.com/us/song/hurts-so-good/1440918942
 [b8d2bf1443]: https://music.apple.com/us/song/the-message/59389711
@@ -376,7 +363,6 @@ A curated journey through the decade that rewired pop culture. From the dawn of 
 [b30dcb99a0]: https://music.apple.com/us/song/a-view-to-a-kill/693602518
 [813bf3334f]: https://music.apple.com/us/song/shout/1440813509
 [8fda1f6d6d]: https://music.apple.com/us/song/the-power-of-love/725785116
-[7a3b8ebe02]: https://music.apple.com/us/song/st-elmos-fire-man-in-motion/1717831070
 [da81ce3938]: https://music.apple.com/us/song/money-for-nothing/89343444
 [ae7c17f1e3]: https://music.apple.com/us/song/take-on-me/380907765
 [9df62bdedc]: https://music.apple.com/us/song/oh-sheila/1444199567

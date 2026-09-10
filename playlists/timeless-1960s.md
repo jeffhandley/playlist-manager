@@ -3,7 +3,7 @@
 A curated journey through the decade that transformed popular music forever. From the twist craze and girl groups of the early '60s, through the British Invasion and Motown's golden age, to the psychedelic revolution, soul explosion, and the counterculture anthems of the Woodstock era. Organized chronologically with 2–3 standout hits per month, spanning January 1960 through December 1969.
 
 | Song | Artist | Month | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | | | | **1960** | |
 | [This Magic Moment][855955f9e3] | The Drifters | Jan | 1960 | Lush R&B doo-wop soul classic |
 | [Running Bear][96afcb0f60] | Johnny Preston | Jan | 1960 | Tragic love story, weeks at #1 |
@@ -21,7 +21,6 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [At Last][75eeb7c3a1] | Etta James | Sep | 1960 | Definitive blues torch song standard |
 | [It's Now or Never][0b063527d3] | Elvis Presley | Oct | 1960 | Elvis's operatic pop masterpiece |
 | [Save the Last Dance for Me][09780da55b] | The Drifters | Oct | 1960 | Drifters' Latin-tinged pop gem |
-| [Georgia on My Mind][95e161f1eb] | Ray Charles | Nov | 1960 | Charles's definitive soul standard |
 | [Stay][fe3303494f] | Maurice Williams & The Zodiacs | Nov | 1960 | Shortest #1 hit at under two mins |
 | [Are You Lonesome Tonight?][690222e583] | Elvis Presley | Dec | 1960 | Elvis's intimate spoken-word ballad |
 | [Last Date][896cac6f23] | Floyd Cramer | Dec | 1960 | Slip-note piano instrumental icon |
@@ -40,7 +39,6 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [Wooden Heart][34227ea795] | Joe Dowell | Aug | 1961 | German folk melody pop adaptation |
 | [Michael][e7498a0de7] | The Highwaymen | Sep | 1961 | Folk spiritual singalong #1 |
 | [Take Good Care of My Baby][37799f3ed6] | Bobby Vee | Sep | 1961 | Goffin-King teen pop gem |
-| [Hit the Road Jack][3441e12d75] | Ray Charles | Oct | 1961 | Ray's call-response soul classic |
 | [Runaround Sue][1cb3770e06] | Dion | Oct | 1961 | Dion's swaggering doo-wop anthem |
 | [Crying][f1f40e1bc2] | Roy Orbison | Nov | 1961 | Orbison's soaring emotional masterpiece |
 | [Stand by Me][073d03bf15] | Ben E. King | Nov | 1961 | One of most iconic soul songs ever |
@@ -54,13 +52,11 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [Bring It On Home to Me][3d1080d1fa] | Sam Cooke | Mar | 1962 | Soul's definitive call-response gem |
 | [Soldier Boy][1d8abac1c1] | The Shirelles | Apr | 1962 | Girl group military devotion ballad |
 | [Stranger on the Shore][67a0b04e3a] | Acker Bilk | May | 1962 | Clarinet instrumental, soothing classic |
-| [I Can't Stop Loving You][4da07dc8f8] | Ray Charles | Jun | 1962 | Charles's massive country-soul crossover |
 | [The Stripper][ac409d2ae4] | David Rose | Jun | 1962 | Iconic burlesque instrumental |
 | [Roses Are Red (My Love)][cd4bb8126e] | Bobby Vinton | Jul | 1962 | Vinton's signature romantic ballad |
 | [Breaking Up Is Hard to Do][12bd0cae95] | Neil Sedaka | Aug | 1962 | Sedaka's upbeat breakup anthem |
 | [Green Onions][30992bcace] | Booker T. & the M.G.'s | Aug | 1962 | Iconic Memphis soul instrumental |
 | [Sherry][6a90116b01] | The Four Seasons | Sep | 1962 | Falsetto-driven Four Seasons debut |
-| [You Don't Know Me][d1fccd557e] | Ray Charles | Sep | 1962 | Charles's tender unrequited love |
 | [Do You Love Me][66cc2decbc] | The Contours | Oct | 1962 | Motown dance-floor explosion |
 | [Up on the Roof][8f8244be6c] | The Drifters | Oct | 1962 | Dreamy urban escape R&B classic |
 | [Big Girls Don't Cry][b657a0ac53] | The Four Seasons | Nov | 1962 | Seasons' second consecutive #1 |
@@ -99,7 +95,6 @@ A curated journey through the decade that transformed popular music forever. Fro
 | [She Loves You][cf1d3bcdf7] | The Beatles | Mar | 1964 | Yeah yeah yeah heard round world |
 | [Can't Buy Me Love][923ba6e9f8] | The Beatles | Apr | 1964 | Beatles hold entire top five |
 | [My Guy][53124769e1] | Mary Wells | Apr | 1964 | Motown's first major female star |
-| [Chapel of Love][9f80f07903] | The Dixie Cups | May | 1964 | Joyful girl-group wedding anthem |
 | [Love Me Do][473f03e4a4] | The Beatles | May | 1964 | Beatles' humble debut reaches US |
 | [A World Without Love][280012d638] | Peter and Gordon | Jun | 1964 | Lennon-McCartney gift to friends |
 | [I Get Around][f2009391a3] | The Beach Boys | Jun | 1964 | Beach Boys' first #1 hit, defining summer 1964 |
@@ -253,7 +248,6 @@ A curated journey through the decade that transformed popular music forever. Fro
 [75eeb7c3a1]: https://music.apple.com/us/song/at-last/1440839443
 [0b063527d3]: https://music.apple.com/us/song/it-s-now-or-never/217634574
 [09780da55b]: https://music.apple.com/us/song/save-the-last-dance-for-me/340891866
-[95e161f1eb]: https://music.apple.com/us/song/georgia-on-my-mind/1633105615
 [fe3303494f]: https://music.apple.com/us/song/stay/254938898
 [690222e583]: https://music.apple.com/us/song/are-you-lonesome-tonight/217635079
 [896cac6f23]: https://music.apple.com/us/song/last-date/215667101
@@ -271,7 +265,6 @@ A curated journey through the decade that transformed popular music forever. Fro
 [34227ea795]: https://music.apple.com/us/song/wooden-heart/1443485458
 [e7498a0de7]: https://music.apple.com/us/song/michael/527991504
 [37799f3ed6]: https://music.apple.com/us/song/take-good-care-of-my-baby/527995812
-[3441e12d75]: https://music.apple.com/us/song/hit-the-road-jack/1569553330
 [1cb3770e06]: https://music.apple.com/us/song/runaround-sue/724908352
 [f1f40e1bc2]: https://music.apple.com/us/song/crying/388154726
 [073d03bf15]: https://music.apple.com/us/song/stand-by-me/738196409
@@ -284,13 +277,11 @@ A curated journey through the decade that transformed popular music forever. Fro
 [3d1080d1fa]: https://music.apple.com/us/song/bring-it-on-home-to-me/299550277
 [1d8abac1c1]: https://music.apple.com/us/song/soldier-boy/220358722
 [67a0b04e3a]: https://music.apple.com/us/song/stranger-on-the-shore/351068896
-[4da07dc8f8]: https://music.apple.com/us/song/i-can-t-stop-loving-you/1744974924
 [ac409d2ae4]: https://music.apple.com/us/song/the-stripper/1443749945
 [cd4bb8126e]: https://music.apple.com/us/song/roses-are-red-my-love/192965807
 [12bd0cae95]: https://music.apple.com/us/song/breaking-up-is-hard-to-do/255267441
 [30992bcace]: https://music.apple.com/us/song/green-onions/159363080
 [6a90116b01]: https://music.apple.com/us/song/sherry/40454255
-[d1fccd557e]: https://music.apple.com/us/song/you-don-t-know-me/1569553407
 [66cc2decbc]: https://music.apple.com/us/song/do-you-love-me/164510523
 [8f8244be6c]: https://music.apple.com/us/song/up-on-the-roof-single-version/1589739919
 [b657a0ac53]: https://music.apple.com/us/song/big-girls-don-t-cry/870405777
@@ -327,7 +318,6 @@ A curated journey through the decade that transformed popular music forever. Fro
 [cf1d3bcdf7]: https://music.apple.com/us/song/she-loves-you/1441133611
 [923ba6e9f8]: https://music.apple.com/us/song/can-t-buy-me-love/1440833543
 [53124769e1]: https://music.apple.com/us/song/my-guy/1442912087
-[9f80f07903]: https://music.apple.com/us/song/chapel-of-love/1608609377
 [473f03e4a4]: https://music.apple.com/us/song/love-me-do/1441165128
 [280012d638]: https://music.apple.com/us/song/a-world-without-love/696439624
 [f2009391a3]: https://music.apple.com/us/song/i-get-around/716001862

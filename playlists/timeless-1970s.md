@@ -3,7 +3,7 @@
 A curated journey through the decade that defined modern music — from soul and funk to disco, punk, and prog rock. Organized chronologically with 2–3 standout hits per month, spanning January 1970 through December 1979.
 
 | Song | Artist | Month | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | | | | **1970** | |
 | [Raindrops Keep Fallin' on My Head][06209a6e51] | B.J. Thomas | Jan | 1970 | Oscar-winning Butch Cassidy theme |
 | [Thank You (Falettinme Be Mice Elf Agin)][9d34db826d] | Sly & The Family Stone | Jan | 1970 | Pioneering funk anthem |
@@ -32,7 +32,6 @@ A curated journey through the decade that defined modern music — from soul and
 | [Black Sabbath][8d17c4cdb2] | Black Sabbath | Dec | 1970 | Birth of heavy metal |
 | | | | **1971** | |
 | [Knock Three Times][11dbb1bfa4] | Tony Orlando & Dawn | Jan | 1971 | Irresistible bubblegum pop hit |
-| [Immigrant Song][de57347f7b] | Led Zeppelin | Jan | 1971 | Viking-roar hard rock anthem |
 | [Me and Bobby McGee][e39a234bc2] | Janis Joplin | Feb | 1971 | Posthumous country-rock triumph |
 | [Ain't No Sunshine][1fe9a2b00f] | Bill Withers | Feb | 1971 | Raw debut from soul legend |
 | [What's Going On][816a6652f9] | Marvin Gaye | Mar | 1971 | Landmark social consciousness anthem |
@@ -59,7 +58,6 @@ A curated journey through the decade that defined modern music — from soul and
 | [Family Affair][e1397ffc16] | Sly & The Family Stone | Nov | 1971 | Minimalist funk revolution |
 | [Theme from Shaft][7e27992468] | Isaac Hayes | Dec | 1971 | Blaxploitation funk landmark |
 | | | | **1972** | |
-| [American Pie][27e331e840] | Don McLean | Jan | 1972 | Epic rock history ballad |
 | [Brand New Key][bab5bbc13c] | Melanie | Jan | 1972 | Quirky folk-pop charmer |
 | [Roundabout][87dc001115] | Yes | Jan | 1972 | Prog rock's radio breakthrough |
 | [Let's Stay Together][2cff48eb9d] | Al Green | Jan | 1972 | Soul's smoothest love song |
@@ -77,7 +75,6 @@ A curated journey through the decade that defined modern music — from soul and
 | [Rocket Man][9e70c229e4] | Elton John | Jul | 1972 | Space-age singer-songwriter classic |
 | [Brandy (You're a Fine Girl)][aa4ce677c1] | Looking Glass | Aug | 1972 | Nautical pop-rock storytelling |
 | [Long Cool Woman in a Black Dress][0e8ba90d31] | The Hollies | Aug | 1972 | Rockabilly-tinged Hollies classic |
-| [Black and White][713c280348] | Three Dog Night | Sep | 1972 | Integration-themed rock anthem |
 | [Use Me][b7e6d57857] | Bill Withers | Sep | 1972 | Funky, clever soul groover |
 | [Ben][2590f51623] | Michael Jackson | Oct | 1972 | Young MJ's tender ballad |
 | [Superstition][f22d6b653e] | Stevie Wonder | Oct | 1972 | Clavinet-driven funk masterpiece |
@@ -166,7 +163,6 @@ A curated journey through the decade that defined modern music — from soul and
 | [Wish You Were Here][998d300fb7] | Pink Floyd | Sep | 1975 | Floyd's haunting tribute |
 | [Bohemian Rhapsody][6e68a1d7d3] | Queen | Oct | 1975 | Rock opera masterpiece |
 | [Lyin' Eyes][f555bfe183] | Eagles | Oct | 1975 | Country-rock storytelling gem |
-| [Bad Blood][ab1d8298b6] | Neil Sedaka | Oct | 1975 | Sedaka's pop-rock comeback |
 | [Fly, Robin, Fly][3156cfde61] | Silver Convention | Nov | 1975 | Euro-disco minimalism |
 | [Island Girl][7cb9ebbf1c] | Elton John | Nov | 1975 | Elton's Caribbean-flavored rocker |
 | [Crazy on You][0d46de734d] | Heart | Nov | 1975 | Female-led hard rock power |
@@ -200,7 +196,6 @@ A curated journey through the decade that defined modern music — from soul and
 | [Beautiful Noise][5448442073] | Neil Diamond | Nov | 1976 | Diamond's ambitious rock album |
 | [Livin' Thing][3af6295b67] | Electric Light Orchestra | Nov | 1976 | Orchestral pop-rock brilliance |
 | [Car Wash][f8fa95e0f9] | Rose Royce | Dec | 1976 | Funky soundtrack anthem |
-| [Walk This Way][2aba29c1bf] | Aerosmith | Dec | 1976 | Funk-rock hip-hop precursor |
 | [Go Your Own Way][89987a078e] | Fleetwood Mac | Dec | 1976 | Rumours' breakup rock anthem |
 | [Year of the Cat][fcb4ed82bd] | Al Stewart | Dec | 1976 | Sophisticated folk-rock gem |
 | | | | **1977** | |
@@ -273,7 +268,6 @@ A curated journey through the decade that defined modern music — from soul and
 | [Sultans of Swing][fe1f147eac] | Dire Straits | Mar | 1979 | Guitar-driven pub rock gem |
 | [Heart of Glass][04ee897281] | Blondie | Apr | 1979 | New wave meets disco |
 | [Knock on Wood][dfd9d1ca3c] | Amii Stewart | Apr | 1979 | Disco remake sensation |
-| [The Logical Song][cf14a40afa] | Supertramp | Apr | 1979 | Art-pop existential questioning |
 | [Reunited][9c5bbd1dfb] | Peaches & Herb | May | 1979 | Sweet soul reunion ballad |
 | [Hot Stuff][9ef203d53a] | Donna Summer | May | 1979 | Rock-disco crossover hit |
 | [Ring My Bell][5cd7cb1ff1] | Anita Ward | Jun | 1979 | Disco's infectious earworm |
@@ -323,7 +317,6 @@ A curated journey through the decade that defined modern music — from soul and
 [527eb78e19]: https://music.apple.com/us/song/my-sweet-lord/1367506295
 [8d17c4cdb2]: https://music.apple.com/us/song/black-sabbath/787645012
 [11dbb1bfa4]: https://music.apple.com/us/song/knock-three-times/304763280
-[de57347f7b]: https://music.apple.com/us/song/immigrant-song/1445359154
 [e39a234bc2]: https://music.apple.com/us/song/me-and-bobby-mcgee/192712854
 [1fe9a2b00f]: https://music.apple.com/us/song/aint-no-sunshine/293521573
 [816a6652f9]: https://music.apple.com/us/song/whats-going-on/1538081594
@@ -349,7 +342,6 @@ A curated journey through the decade that defined modern music — from soul and
 [78771c168d]: https://music.apple.com/us/song/stairway-to-heaven/580708180
 [e1397ffc16]: https://music.apple.com/us/song/family-affair/216547171
 [7e27992468]: https://music.apple.com/us/song/theme-from-shaft/1440937747
-[27e331e840]: https://music.apple.com/us/song/american-pie/1851617601
 [bab5bbc13c]: https://music.apple.com/us/song/brand-new-key/1373889435
 [87dc001115]: https://music.apple.com/us/song/roundabout/1049009209
 [2cff48eb9d]: https://music.apple.com/us/song/lets-stay-together/976362823
@@ -367,7 +359,6 @@ A curated journey through the decade that defined modern music — from soul and
 [9e70c229e4]: https://music.apple.com/us/song/rocket-man-i-think-its-going-to-be-a-long-long-time/1440910931
 [aa4ce677c1]: https://music.apple.com/us/song/brandy-youre-a-fine-girl/388158216
 [0e8ba90d31]: https://music.apple.com/us/song/long-cool-woman-in-a-black-dress/192970184
-[713c280348]: https://music.apple.com/us/song/black-and-white/1444027396
 [b7e6d57857]: https://music.apple.com/us/song/use-me/685716382
 [2590f51623]: https://music.apple.com/us/song/ben/1443228831
 [f22d6b653e]: https://music.apple.com/us/song/superstition/1440808985
@@ -453,7 +444,6 @@ A curated journey through the decade that defined modern music — from soul and
 [998d300fb7]: https://music.apple.com/us/song/wish-you-were-here/1065973980
 [6e68a1d7d3]: https://music.apple.com/us/song/bohemian-rhapsody/1440650711
 [f555bfe183]: https://music.apple.com/us/song/lyin-eyes/635829448
-[ab1d8298b6]: https://music.apple.com/us/song/bad-blood/1796030628
 [3156cfde61]: https://music.apple.com/us/song/fly-robin-fly/394743930
 [7cb9ebbf1c]: https://music.apple.com/us/song/island-girl/1452864253
 [0d46de734d]: https://music.apple.com/us/song/crazy-on-you/1440830911
@@ -486,7 +476,6 @@ A curated journey through the decade that defined modern music — from soul and
 [5448442073]: https://music.apple.com/us/song/beautiful-noise/1445667722
 [3af6295b67]: https://music.apple.com/us/song/livin-thing/1054523242
 [f8fa95e0f9]: https://music.apple.com/us/song/car-wash/1440796745
-[2aba29c1bf]: https://music.apple.com/us/song/walk-this-way/1660109283
 [89987a078e]: https://music.apple.com/us/song/go-your-own-way/594061859
 [fcb4ed82bd]: https://music.apple.com/us/song/year-of-the-cat/160423223
 [94a481c90a]: https://music.apple.com/us/song/blinded-by-the-light/1199683433
@@ -556,7 +545,6 @@ A curated journey through the decade that defined modern music — from soul and
 [fe1f147eac]: https://music.apple.com/us/song/sultans-of-swing/307029144
 [04ee897281]: https://music.apple.com/us/song/heart-of-glass/1440930363
 [dfd9d1ca3c]: https://music.apple.com/us/song/knock-on-wood/428921412
-[cf14a40afa]: https://music.apple.com/us/song/the-logical-song/1440512060
 [9c5bbd1dfb]: https://music.apple.com/us/song/reunited/1444965616
 [9ef203d53a]: https://music.apple.com/us/song/hot-stuff/1425179373
 [5cd7cb1ff1]: https://music.apple.com/us/song/ring-my-bell/147664822

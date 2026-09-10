@@ -34,7 +34,7 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 - Update this markdown file to reflect the new order, then sync to Apple Music
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | [Live and Let Die][1ccb82b062] | Paul McCartney | Pure McCartney (Deluxe Edition) | 1978 | 70s Bond theme |
 | [Live and Let Die][60cbab750a] | Guns N' Roses | Use Your Illusion I | 1991 | Hard rock concert staple |
 | [House of the Rising Sun][477062d960] | The Animals | The Animals (Bonus Track) | 1964 | 60s/70s folk-rock standard |
@@ -105,7 +105,7 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 | [Shock the Monkey][5eabdf806a] | Coal Chamber | Chamber Music | 1999 | Nu-metal chaos with Ozzy guest vocals |
 | [No Ordinary Love][be48d4fe5b] | Sade | Love Deluxe | 1992 | Sultry 90s R&B ballad |
 | [No Ordinary Love][2afe50e0b4] | Deftones | Covers | 2005 | Dark, heavy alt-metal reimagining |
-| [Ride Like the Wind (2019 Remaster)][53000eb763] | Christopher Cross | Christopher Cross (2019 Remaster) | 1979 | 70s/80s yacht-rock hit |
+| [Ride Like the Wind (2019 Remaster)][53000eb763] | Christopher Cross | Christopher Cross (2019 Remaster) | 1979 |  |
 | [Ride Like the Wind][a74742b9d9] | Saxon | Destiny | 1988 | NWOBHM powerhouse |
 | [The Metro][c2e6dc1ed1] | Berlin | Pleasure Victim | 1981 | 80s new wave classic |
 | [The Metro][744baa1f39] | System Of A Down | Not Another Teen Movie (Music from the Motion Picture) | 2001 | Aggressive alt-metal overhaul |
@@ -179,8 +179,6 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [be1872463d]: https://music.apple.com/us/song/cars-remix/214470187
 [274cdcadcd]: https://music.apple.com/us/song/whiskey-in-the-jar/1444118604
 [16005e34f9]: https://music.apple.com/us/song/whiskey-in-the-jar/579370556
-[f0868ee57b]: https://music.apple.com/us/song/its-a-sin/1318903989
-[fded2225f9]: https://music.apple.com/us/song/its-a-sin/1861930282
 [4c3daf5988]: https://music.apple.com/us/song/summer-breeze/303230013
 [3e786e0d02]: https://music.apple.com/us/song/summer-breeze/214401985
 [2b806e2eea]: https://music.apple.com/us/song/get-down-make-love/1440646559
@@ -191,10 +189,10 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [f35758233f]: https://music.apple.com/us/song/lay-lady-lay/366366151
 [30ce6fa57e]: https://music.apple.com/us/song/gone-away/1440901678
 [ae82d2234f]: https://music.apple.com/us/song/gone-away/1848984946
-[dfab84a901]: https://music.apple.com/us/song/turn-the-page-live-in-detroit-1975/1422628864
-[22beade348]: https://music.apple.com/us/song/turn-the-page/579370550
 [b5895a60a0]: https://music.apple.com/us/song/careless-whisper/429945616
 [5643b9850d]: https://music.apple.com/us/song/careless-whisper/1440747693
+[dfab84a901]: https://music.apple.com/us/song/turn-the-page-live-in-detroit-1975/1422628864
+[22beade348]: https://music.apple.com/us/song/turn-the-page/579370550
 [7283d8a795]: https://music.apple.com/us/song/hurt/1440838114
 [27d763b539]: https://music.apple.com/us/song/hurt/1440811252
 [f868385fb2]: https://music.apple.com/us/song/you-spin-me-round-like-a-record/187305118
@@ -245,6 +243,8 @@ This playlist is built around **original/cover pairings**. Follow these rules wh
 [6c78fa1142]: https://music.apple.com/us/song/in-a-gadda-da-vida/1443269252
 [7dd6d476c4]: https://music.apple.com/us/song/personal-jesus/1174246806
 [e9bd201942]: https://music.apple.com/us/song/personal-jesus/1440746931
+[f0868ee57b]: https://music.apple.com/us/song/its-a-sin/1318903989
+[fded2225f9]: https://music.apple.com/us/song/its-a-sin/1861930282
 [2834b9b713]: https://music.apple.com/us/song/zombie/1440735264
 [51ac726b39]: https://music.apple.com/us/song/zombie/1440844617
 [6313b06f67]: https://music.apple.com/us/song/signs/1443005908

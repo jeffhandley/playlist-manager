@@ -3,7 +3,7 @@
 A curated journey through the decade that reshaped music forever — from the streaming revolution and EDM explosion to hip-hop's total dominance, the indie-pop renaissance, trap's mainstream takeover, Latin music's global surge, and K-pop's crossover into Western charts. This playlist chronicles the era of viral hits, genre-blurring collaborations, and cultural moments that defined a generation. Organized chronologically with 2–3 standout tracks per month, spanning January 2010 through December 2019.
 
 | Song | Artist | Month | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | | | | **2010** | |
 | [TiK ToK][5be7b40de5] | Kesha | Jan | 2010 | Decade-opening party anthem |
 | [Bad Romance][d8507877bc] | Lady Gaga | Jan | 2010 | Dark pop perfection |
@@ -18,7 +18,7 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Alejandro][a275a45b8b] | Lady Gaga | May | 2010 | Dark Europop drama |
 | [California Gurls][399d0c3769] | Katy Perry ft. Snoop Dogg | Jun | 2010 | West Coast summer anthem |
 | [Your Love Is My Drug][6fcd50cd04] | Kesha | Jun | 2010 | Electropop earworm |
-| [Love the Way You Lie][3d478b25d6] | Eminem ft. Rihanna | Jul | 2010 | Raw hip-hop emotion |
+| [Love the Way You Lie (feat. Rihanna)][c32c7d2dd0] | Eminem | Recovery (Deluxe Edition) | 2010 |  |
 | [Airplanes][21ebb4971e] | B.o.B ft. Hayley Williams | Jul | 2010 | Hip-hop meets alt-rock |
 | [Dynamite][4844c93d05] | Taio Cruz | Aug | 2010 | Dancefloor dynamite |
 | [Teenage Dream][66d14ae22f] | Katy Perry | Aug | 2010 | Pop perfection realized |
@@ -109,7 +109,6 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Demons][20753fa8ef] | Imagine Dragons | Dec | 2013 | Alt-rock emotional depth |
 | | | | **2014** | |
 | [Dark Horse][c239f2a655] | Katy Perry ft. Juicy J | Jan | 2014 | Hip-hop-tinged pop sorcery |
-| [Drunk in Love][701021d7c1] | Beyoncé ft. Jay-Z | Jan | 2014 | R&B power couple anthem |
 | [Happy][0c55c69d0a] | Pharrell Williams | Feb | 2014 | Infectious feel-good funk |
 | [Talk Dirty][0f8596a235] | Jason Derulo ft. 2 Chainz | Feb | 2014 | Brassy pop-rap banger |
 | [Pompeii][a280124f86] | Bastille | Mar | 2014 | Indie-pop apocalypse anthem |
@@ -167,7 +166,6 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Stressed Out][bc2828c38b] | Twenty One Pilots | Jan | 2016 | Alt-pop nostalgia anthem |
 | [Work][a9e135dbe7] | Rihanna ft. Drake | Feb | 2016 | Dancehall-pop domination |
 | [Pillowtalk][3366f4f49f] | Zayn | Feb | 2016 | Post-boyband R&B debut |
-| [Formation][debfe70fec] | Beyoncé | Feb | 2016 | Cultural pop masterpiece |
 | [My House][a1cc22fd33] | Flo Rida | Mar | 2016 | Feel-good party pop |
 | [Me, Myself & I][cb2bc9497f] | G-Eazy & Bebe Rexha | Mar | 2016 | Hip-hop-pop introspection |
 | [7 Years][d7a9aaa45e] | Lukas Graham | Apr | 2016 | Life story pop ballad |
@@ -203,7 +201,6 @@ A curated journey through the decade that reshaped music forever — from the st
 | [Wild Thoughts][a81b193390] | DJ Khaled ft. Rihanna & Bryson Tiller | Jun | 2017 | Santana-sampling pop heat |
 | [XO Tour Llif3][30f2c8b067] | Lil Uzi Vert | Jun | 2017 | Emo-trap landmark |
 | [Unforgettable][9e176c9ebb] | French Montana ft. Swae Lee | Jul | 2017 | Afrobeat-rap fusion |
-| [Mask Off][ca715298a0] | Future | Jul | 2017 | Flute-driven trap anthem |
 | [Bodak Yellow][fb6df8fa82] | Cardi B | Aug | 2017 | Hip-hop breakout of the year |
 | [Look What You Made Me Do][c1d201a58c] | Taylor Swift | Aug | 2017 | Dark pop reinvention |
 | [Rockstar][ce62752883] | Post Malone ft. 21 Savage | Sep | 2017 | Melodic rap-rock fusion |
@@ -282,7 +279,7 @@ A curated journey through the decade that reshaped music forever — from the st
 [a275a45b8b]: https://music.apple.com/us/song/alejandro/1476727671
 [399d0c3769]: https://music.apple.com/us/song/california-gurls-feat-snoop-dogg/1013032940
 [6fcd50cd04]: https://music.apple.com/us/song/your-love-is-my-drug/381237321
-[3d478b25d6]: https://music.apple.com/us/song/love-the-way-you-lie-feat-rihanna/1517894609
+[c32c7d2dd0]: https://music.apple.com/us/song/love-the-way-you-lie-feat-rihanna/1446626463
 [21ebb4971e]: https://music.apple.com/us/song/airplanes-feat-hayley-williams/368016728
 [4844c93d05]: https://music.apple.com/us/song/dynamite/1443147095
 [66d14ae22f]: https://music.apple.com/us/song/teenage-dream/716192601
@@ -369,7 +366,6 @@ A curated journey through the decade that reshaped music forever — from the st
 [7f2f3098eb]: https://music.apple.com/us/song/timber/737053283
 [20753fa8ef]: https://music.apple.com/us/song/demons/1440873339
 [c239f2a655]: https://music.apple.com/us/song/dark-horse-feat-juicy-j/1440819170
-[701021d7c1]: https://music.apple.com/us/song/drunk-in-love-feat-jay-z/780330308
 [0c55c69d0a]: https://music.apple.com/us/song/happy-from-despicable-me-2/863835363
 [0f8596a235]: https://music.apple.com/us/song/talk-dirty-feat-2-chainz/840381890
 [a280124f86]: https://music.apple.com/us/song/pompeii/1440858321
@@ -425,7 +421,6 @@ A curated journey through the decade that reshaped music forever — from the st
 [bc2828c38b]: https://music.apple.com/us/song/stressed-out/974485474
 [a9e135dbe7]: https://music.apple.com/us/song/work-feat-drake/1440934019
 [3366f4f49f]: https://music.apple.com/us/song/pillowtalk/1078293239
-[debfe70fec]: https://music.apple.com/us/song/formation/1460473543
 [a1cc22fd33]: https://music.apple.com/us/song/my-house/971238507
 [cb2bc9497f]: https://music.apple.com/us/song/me-myself-i/1740828480
 [d7a9aaa45e]: https://music.apple.com/us/song/7-years/1081573445
@@ -460,7 +455,6 @@ A curated journey through the decade that reshaped music forever — from the st
 [a81b193390]: https://music.apple.com/us/song/wild-thoughts-feat-rihanna-bryson-tiller/1244230126
 [30f2c8b067]: https://music.apple.com/us/song/xo-tour-llif3/1274153124
 [9e176c9ebb]: https://music.apple.com/us/song/unforgettable-feat-swae-lee/1254555499
-[ca715298a0]: https://music.apple.com/us/song/mask-off/1205692004
 [fb6df8fa82]: https://music.apple.com/us/song/bodak-yellow-feat-messiah-latin-trap-remix/1272209545
 [c1d201a58c]: https://music.apple.com/us/song/look-what-you-made-me-do/1440934255
 [ce62752883]: https://music.apple.com/us/song/rockstar-feat-21-savage/1373516920

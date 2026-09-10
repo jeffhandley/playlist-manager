@@ -24,209 +24,209 @@ Complete studio discography for Eminem, organized by album in chronological orde
 ## Tracks
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
-| [Public Service Announcement][0fc17ab62f] | Eminem | The Slim Shady LP | 1999 | |
-| [My Name Is][0bcda82cfc] | Eminem | The Slim Shady LP | 1999 | |
-| [Guilty Conscience (feat. Dr. Dre)][9a2ff837e1] | Eminem | The Slim Shady LP | 1999 | |
-| [Brain Damage][813d53b75d] | Eminem | The Slim Shady LP | 1999 | |
-| [Paul (Skit)][a20752cf09] | Eminem | The Slim Shady LP | 1999 | |
-| [If I Had][6f28e5a6af] | Eminem | The Slim Shady LP | 1999 | |
-| ['97 Bonnie & Clyde][5fbcf37e57] | Eminem | The Slim Shady LP | 1999 | |
-| [Bitch (Skit)][1212a6d646] | Eminem | The Slim Shady LP | 1999 | |
-| [Role Model][07b03cf928] | Eminem | The Slim Shady LP | 1999 | |
-| [Lounge (Skit)][0e2233f375] | Eminem | The Slim Shady LP | 1999 | |
-| [My Fault][86e77c95fb] | Eminem | The Slim Shady LP | 1999 | |
-| [Ken Kaniff][f2c1a76e4f] | Eminem | The Slim Shady LP | 1999 | |
-| [Come On Everybody][b580053169] | Eminem | The Slim Shady LP | 1999 | |
-| [Rock Bottom][f8bf9b15a6] | Eminem | The Slim Shady LP | 1999 | |
-| [Just Don't Give a F\*\*][e3b1484da9] | Eminem | The Slim Shady LP | 1999 | |
-| [Soap (Skit)][996fe1cb09] | Eminem | The Slim Shady LP | 1999 | |
-| [As the World Turns][aa304acc1c] | Eminem | The Slim Shady LP | 1999 | |
-| [I'm Shady][9d10f19dbf] | Eminem | The Slim Shady LP | 1999 | |
-| [Bad Meets Evil (feat. Royce da 5'9")][d6d0bdaeee] | Eminem | The Slim Shady LP | 1999 | |
-| [Still Don't Give][ae59b13439] | Eminem | The Slim Shady LP | 1999 | |
-| [Public Service Announcement 2000][00a4836b87] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Kill You][e7f4e2e4ac] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Stan (feat. Dido)][e54c034a91] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Paul (Skit)][e6d07b1970] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Who Knew][a6b54ac8c8] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Steve Berman (Skit)][0c53832a40] | Eminem | The Marshall Mathers LP | 2000 | |
-| [The Way I Am][998421c507] | Eminem | The Marshall Mathers LP | 2000 | |
-| [The Real Slim Shady][02bff02f0f] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Remember Me? (feat. RBX & Sticky Fingaz)][0625403d03] | Eminem | The Marshall Mathers LP | 2000 | |
-| [I'm Back][0ee53758b5] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Marshall Mathers][4e6007733f] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Ken Kaniff (Skit)][007ce5b9df] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Drug Ballad][077c33a535] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Amityville (feat. Bizarre)][4abb65c323] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Bitch Please 2 (feat. Dr. Dre, Snoop Dogg, Alvin Joiner & Nate Dogg)][d40aabd653] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Kim][d7ed98e135] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Under the Influence (feat. D12)][ec889733fb] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Criminal][bd30048186] | Eminem | The Marshall Mathers LP | 2000 | |
-| [Curtains Up (Skit)][69a9be5eff] | Eminem | The Eminem Show | 2002 | |
-| [White America][cf55d6f71c] | Eminem | The Eminem Show | 2002 | |
-| [Business][64eee3c7bf] | Eminem | The Eminem Show | 2002 | |
-| [Cleanin' Out My Closet][d9146aede6] | Eminem | The Eminem Show | 2002 | |
-| [Square Dance][48b4fb560e] | Eminem | The Eminem Show | 2002 | |
-| [The Kiss (Skit)][a3376d0c6a] | Eminem | The Eminem Show | 2002 | |
-| [Soldier][6d17c45a4c] | Eminem | The Eminem Show | 2002 | |
-| [Say Goodbye Hollywood][4705b56f47] | Eminem | The Eminem Show | 2002 | |
-| [Drips (feat. Obie Trice)][c205aa0f7b] | Eminem | The Eminem Show | 2002 | |
-| [Without Me][c552aab86a] | Eminem | The Eminem Show | 2002 | |
-| [Paul Rosenberg (Skit)][395b96633d] | Eminem | The Eminem Show | 2002 | |
-| [Sing for the Moment][114a52863a] | Eminem | The Eminem Show | 2002 | |
-| [Superman (feat. Dina Rae)][756dbdfa1d] | Eminem | The Eminem Show | 2002 | |
-| [Hailie's Song][73d3706aa4] | Eminem | The Eminem Show | 2002 | |
-| [Steve Berman (Skit)][ff465d9b7c] | Eminem | The Eminem Show | 2002 | |
-| [When the Music Stops (feat. D12)][4d3f084538] | Eminem | The Eminem Show | 2002 | |
-| [Say What U Say (feat. Dr. Dre)][80109e8277] | Eminem | The Eminem Show | 2002 | |
-| ['Till I Collapse (feat. Nate Dogg)][f397410893] | Eminem | The Eminem Show | 2002 | |
-| [My Dad's Gone Crazy (feat. Hailie Jade)][f6266784a3] | Eminem | The Eminem Show | 2002 | |
-| [Curtains Close (Skit)][5480630bb2] | Eminem | The Eminem Show | 2002 | |
-| [Encore / Curtains Up][12b4c8e43d] | Eminem | Encore | 2004 | |
-| [Evil Deeds][c77b5bdd36] | Eminem | Encore | 2004 | |
-| [Never Enough (feat. 50 Cent & Nate Dogg)][d0dbf4f921] | Eminem | Encore | 2004 | |
-| [Yellow Brick Road][4ae6789bc2] | Eminem | Encore | 2004 | |
-| [Like Toy Soldiers][edcd61b64c] | Eminem | Encore | 2004 | |
-| [Mosh][fcc871691a] | Eminem | Encore | 2004 | |
-| [Puke][3cad55ebcb] | Eminem | Encore | 2004 | |
-| [My 1st Single][a52bf419ae] | Eminem | Encore | 2004 | |
-| [Paul (Skit)][cb56090e5d] | Eminem | Encore | 2004 | |
-| [Rain Man][fcaf76c233] | Eminem | Encore | 2004 | |
-| [Big Weenie][dd5dcaf3e5] | Eminem | Encore | 2004 | |
-| [Em Calls Paul (Skit)][c2ad464da6] | Eminem | Encore | 2004 | |
-| [Just Lose It][66735ee28e] | Eminem | Encore | 2004 | |
-| [Ass Like That][bc1d42e862] | Eminem | Encore | 2004 | |
-| [Spend Some Time (feat. Obie Trice, Stat Quo & 50 Cent)][8854d9189f] | Eminem | Encore | 2004 | |
-| [Mockingbird][fa104c0cad] | Eminem | Encore | 2004 | |
-| [Crazy In Love][63f9412d1d] | Eminem | Encore | 2004 | |
-| [One Shot 2 Shot (feat. D12)][3a6412773e] | Eminem | Encore | 2004 | |
-| [Final Thought (Skit)][44393aecc3] | Eminem | Encore | 2004 | |
-| [Encore / Curtains Down (feat. Dr. Dre & 50 Cent)][7e01f2222d] | Eminem | Encore | 2004 | |
-| [Dr. West (Skit)][403b2b0519] | Eminem | Relapse | 2009 | |
-| [3 a.m.][5e1fcb6715] | Eminem | Relapse | 2009 | |
-| [My Mom][351ff070ab] | Eminem | Relapse | 2009 | |
-| [Insane][ffd47e49bf] | Eminem | Relapse | 2009 | |
-| [Bagpipes from Baghdad][bcbf9ad972] | Eminem | Relapse | 2009 | |
-| [Hello][f90c2de2f8] | Eminem | Relapse | 2009 | |
-| [Tonya (Skit)][6df1a6f3c0] | Eminem | Relapse | 2009 | |
-| [Same Song & Dance][16a655e598] | Eminem | Relapse | 2009 | |
-| [We Made You][6af1abe6d7] | Eminem | Relapse | 2009 | |
-| [Medicine Ball][43108b0eaa] | Eminem | Relapse | 2009 | |
-| [Paul (Skit)][0e6ebe9774] | Eminem | Relapse | 2009 | |
-| [Stay Wide Awake][e979aa1cc9] | Eminem | Relapse | 2009 | |
-| [Old Time's Sake (feat. Dr. Dre)][d4bd4b17cd] | Eminem | Relapse | 2009 | |
-| [Must Be the Ganja][cfa142ef8c] | Eminem | Relapse | 2009 | |
-| [Mr. Mathers (Skit)][bb662b7c53] | Eminem | Relapse | 2009 | |
-| [Déjà vu][bfafb3ad6e] | Eminem | Relapse | 2009 | |
-| [Beautiful][9b665cec50] | Eminem | Relapse | 2009 | |
-| [Crack a Bottle][80d4f345f8] | Eminem | Relapse | 2009 | |
-| [Steve Berman (Skit)][ee277b4fd7] | Eminem | Relapse | 2009 | |
-| [Underground/Ken Kaniff][e0a6f32973] | Eminem | Relapse | 2009 | |
-| [Cold Wind Blows][c00125ff42] | Eminem | Recovery | 2010 | |
-| [Talkin' 2 Myself (feat. Kobe)][6b42cebd71] | Eminem | Recovery | 2010 | |
-| [On Fire][bc2139d9f9] | Eminem | Recovery | 2010 | |
-| [Won't Back Down (feat. Pink)][e74a15df2a] | Eminem | Recovery | 2010 | |
-| [W.T.P.][9720b2cdb1] | Eminem | Recovery | 2010 | |
-| [Going Through Changes][4540c84cd7] | Eminem | Recovery | 2010 | |
-| [Not Afraid][2f4981f5d3] | Eminem | Recovery | 2010 | |
-| [Seduction][bc2d3cb4cf] | Eminem | Recovery | 2010 | |
-| [No Love (feat. Lil Wayne)][d822d593e4] | Eminem | Recovery | 2010 | |
-| [Space Bound][4f2eecc122] | Eminem | Recovery | 2010 | |
-| [Cinderella Man][6516db2fe4] | Eminem | Recovery | 2010 | |
-| [25 to Life][9cde178e4d] | Eminem | Recovery | 2010 | |
-| [So Bad][78edea673a] | Eminem | Recovery | 2010 | |
-| [Almost Famous][03265d42cb] | Eminem | Recovery | 2010 | |
-| [Love the Way You Lie (feat. Rihanna)][4aaf406ae7] | Eminem | Recovery | 2010 | |
-| [You're Never Over][6c7b11508d] | Eminem | Recovery | 2010 | |
-| [Untitled][7f6f8f2ba2] | Eminem | Recovery | 2010 | |
-| [Bad Guy][b9a99d35d7] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Parking Lot (skit)][f34784abf3] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Rhyme Or Reason][96412c83ac] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [So Much Better][3dccb5069b] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Survival][3c152e2ce4] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Legacy][80787efd75] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [A\*\*\*\*\*e (feat. Skylar Grey)][74ea1e591d] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Berzerk][a0e728efdb] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Rap God][3f93f1989e] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Brainless][918aa1ee07] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Stronger Than I Was][433c9a6987] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [The Monster (feat. Rihanna)][0aa2355fc6] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [So Far...][580640b90e] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Love Game (feat. Kendrick Lamar)][1a7a107410] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Headlights (feat. Nate Ruess)][2b0a5f699f] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Evil Twin][30dbd7c7a4] | Eminem | The Marshall Mathers LP 2 | 2013 | |
-| [Walk On Water (feat. Beyoncé)][3eba03e8ed] | Eminem | Revival | 2017 | |
-| [Believe][7117801a25] | Eminem | Revival | 2017 | |
-| [Chloraseptic (feat. PHRESHER)][a0ee9cf6d3] | Eminem | Revival | 2017 | |
-| [Untouchable][d604c254f0] | Eminem | Revival | 2017 | |
-| [River (feat. Ed Sheeran)][af418b491c] | Eminem | Revival | 2017 | |
-| [Remind Me (Intro)][82987a9496] | Eminem | Revival | 2017 | |
-| [Remind Me][56a22fdf62] | Eminem | Revival | 2017 | |
-| [Revival (Interlude)][1c093567f0] | Eminem | Revival | 2017 | |
-| [Like Home (feat. Alicia Keys)][b6f34954ee] | Eminem | Revival | 2017 | |
-| [Bad Husband (feat. X Ambassadors)][7d7d9e9919] | Eminem | Revival | 2017 | |
-| [Tragic Endings (feat. Skylar Grey)][3766d3f9f7] | Eminem | Revival | 2017 | |
-| [Framed][291f6fa1de] | Eminem | Revival | 2017 | |
-| [Nowhere Fast (feat. Kehlani)][6d2915275a] | Eminem | Revival | 2017 | |
-| [Heat][5ed943f10f] | Eminem | Revival | 2017 | |
-| [Offended][0fa9c3a359] | Eminem | Revival | 2017 | |
-| [Need Me (feat. P!nk)][c0443162b5] | Eminem | Revival | 2017 | |
-| [In Your Head][c7b0d5ec31] | Eminem | Revival | 2017 | |
-| [Castle][c88cd99344] | Eminem | Revival | 2017 | |
-| [Arose][58d66bab1c] | Eminem | Revival | 2017 | |
-| [The Ringer][a0c53484d4] | Eminem | Kamikaze | 2018 | |
-| [Greatest][d4a52a6c7f] | Eminem | Kamikaze | 2018 | |
-| [Lucky You (feat. Joyner Lucas)][2d85b13de5] | Eminem | Kamikaze | 2018 | |
-| [Paul (Skit)][0fb7c4c775] | Eminem | Kamikaze | 2018 | |
-| [Normal][b19d1d8596] | Eminem | Kamikaze | 2018 | |
-| [Em Calls Paul (Skit)][52c136c3ca] | Eminem | Kamikaze | 2018 | |
-| [Stepping Stone][91bc5b4472] | Eminem | Kamikaze | 2018 | |
-| [Not Alike (feat. Royce da 5'9")][9c97871375] | Eminem | Kamikaze | 2018 | |
-| [Kamikaze][79e35f8843] | Eminem | Kamikaze | 2018 | |
-| [Fall][bf099cbb5a] | Eminem | Kamikaze | 2018 | |
-| [Nice Guy][255eb6af23] | Eminem | Kamikaze | 2018 | |
-| [Good Guy (feat. Jessie Reyez)][6b0b8fa7a6] | Eminem | Kamikaze | 2018 | |
-| [Venom (Music From The Motion Picture)][62abb2f254] | Eminem | Kamikaze | 2018 | |
-| [Premonition (Intro)][926d660c23] | Eminem | Music to Be Murdered By | 2020 | |
-| [Unaccommodating (feat. Young M.A)][3ff24a616f] | Eminem | Music to Be Murdered By | 2020 | |
-| [You Gon' Learn (feat. Royce da 5'9" & White Gold)][f303cf4e38] | Eminem | Music to Be Murdered By | 2020 | |
-| [Alfred (Interlude)][a5e2a8f449] | Eminem | Music to Be Murdered By | 2020 | |
-| [Those Kinda Nights (feat. Ed Sheeran)][1aa1a263d2] | Eminem | Music to Be Murdered By | 2020 | |
-| [In Too Deep][541c5dc56e] | Eminem | Music to Be Murdered By | 2020 | |
-| [Godzilla (feat. Juice WRLD)][a1242bd4bb] | Eminem | Music to Be Murdered By | 2020 | |
-| [Darkness][f1b489536e] | Eminem | Music to Be Murdered By | 2020 | |
-| [Leaving Heaven (feat. Skylar Grey)][d49577d87c] | Eminem | Music to Be Murdered By | 2020 | |
-| [Yah Yah (feat. Royce da 5'9", Black Thought, Q-Tip & Denaun)][24b9ae2cf6] | Eminem | Music to Be Murdered By | 2020 | |
-| [Stepdad (Intro)][5974e46397] | Eminem | Music to Be Murdered By | 2020 | |
-| [Stepdad][d4cd3e13b1] | Eminem | Music to Be Murdered By | 2020 | |
-| [Marsh][02e75e5476] | Eminem | Music to Be Murdered By | 2020 | |
-| [Never Love Again][528ebf6836] | Eminem | Music to Be Murdered By | 2020 | |
-| [Little Engine][0a5ac35518] | Eminem | Music to Be Murdered By | 2020 | |
-| [Lock It Up (feat. Anderson .Paak)][fd2336b837] | Eminem | Music to Be Murdered By | 2020 | |
-| [Farewell][7dca747081] | Eminem | Music to Be Murdered By | 2020 | |
-| [No Regrets (feat. Don Toliver)][82933172c4] | Eminem | Music to Be Murdered By | 2020 | |
-| [I Will (feat. KXNG Crooked, Royce da 5'9" & Joell Ortiz)][21f1b8ba7b] | Eminem | Music to Be Murdered By | 2020 | |
-| [Alfred (Outro)][7779073c75] | Eminem | Music to Be Murdered By | 2020 | |
-| [Renaissance][c4c50670a3] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Habits][7dd2e97fcb] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Trouble][62f564154f] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Brand New Dance][c3362c29a2] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Evil][f65ef0a98e] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [All You Got (skit)][4f4b6a357d] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Lucifer][5d214a9f5f] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Antichrist][b14ba203d3] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Fuel][5fa5db0e06] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Road Rage][89787beaa3] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Houdini][e8944a6b81] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Breaking News (skit)][113cf617c8] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Guilty Conscience 2][209c42bd49] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Head Honcho][3e83df8d7a] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Temporary][0331324560] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Bad One][132f53ac99] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Tobey][92e2e960b2] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Guess Who's Back (skit)][5cda224870] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
-| [Somebody Save Me][07b6cf878c] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 | |
+|---|---|---|---|---|
+| [Public Service Announcement][0fc17ab62f] | Eminem | The Slim Shady LP | 1999 |  |
+| [My Name Is][0bcda82cfc] | Eminem | The Slim Shady LP | 1999 |  |
+| [Guilty Conscience (feat. Dr. Dre)][9a2ff837e1] | Eminem | The Slim Shady LP | 1999 |  |
+| [Brain Damage][813d53b75d] | Eminem | The Slim Shady LP | 1999 |  |
+| [Paul (Skit)][a20752cf09] | Eminem & Paul "Bunyan" Rosenberg | The Slim Shady LP | 1999 |  |
+| [If I Had][6f28e5a6af] | Eminem | The Slim Shady LP | 1999 |  |
+| ['97 Bonnie & Clyde][5fbcf37e57] | Eminem | The Slim Shady LP | 1999 |  |
+| [Bitch (Skit)][1212a6d646] | Eminem | The Slim Shady LP | 1999 |  |
+| [Role Model][07b03cf928] | Eminem | The Slim Shady LP | 1999 |  |
+| [Lounge (Skit)][0e2233f375] | Eminem | The Slim Shady LP | 1999 |  |
+| [My Fault][86e77c95fb] | Eminem | The Slim Shady LP | 1999 |  |
+| [Ken Kaniff][f2c1a76e4f] | Eminem | The Slim Shady LP | 1999 |  |
+| [Come On Everybody][b580053169] | Eminem | The Slim Shady LP | 1999 |  |
+| [Rock Bottom][f8bf9b15a6] | Eminem | The Slim Shady LP | 1999 |  |
+| [Just Don't Give a F\*\*][e3b1484da9] | Eminem | The Slim Shady LP | 1999 |  |
+| [Soap (Skit)][996fe1cb09] | Eminem | The Slim Shady LP | 1999 |  |
+| [As the World Turns][aa304acc1c] | Eminem | The Slim Shady LP | 1999 |  |
+| [I'm Shady][9d10f19dbf] | Eminem | The Slim Shady LP | 1999 |  |
+| [Bad Meets Evil (feat. Royce da 5'9")][d6d0bdaeee] | Eminem | The Slim Shady LP | 1999 |  |
+| [Still Don't Give][ae59b13439] | Eminem | The Slim Shady LP | 1999 |  |
+| [Public Service Announcement 2000][00a4836b87] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Kill You][e7f4e2e4ac] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Stan (feat. Dido)][e54c034a91] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Paul (Skit)][e6d07b1970] | Paul "Bunyan" Rosenberg | The Marshall Mathers LP | 2000 |  |
+| [Who Knew][a6b54ac8c8] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Steve Berman (Skit)][0c53832a40] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [The Way I Am][998421c507] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [The Real Slim Shady][02bff02f0f] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Remember Me? (feat. RBX & Sticky Fingaz)][0625403d03] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [I'm Back][0ee53758b5] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Marshall Mathers][4e6007733f] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Ken Kaniff (Skit)][007ce5b9df] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Drug Ballad][077c33a535] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Amityville (feat. Bizarre)][4abb65c323] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Bitch Please 2 (feat. Dr. Dre, Snoop Dogg, Alvin Joiner & Nate Dogg)][d40aabd653] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Kim][d7ed98e135] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Under the Influence (feat. D12)][ec889733fb] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Criminal][bd30048186] | Eminem | The Marshall Mathers LP | 2000 |  |
+| [Curtains Up (Skit)][69a9be5eff] | Eminem | The Eminem Show | 2002 |  |
+| [White America][cf55d6f71c] | Eminem | The Eminem Show | 2002 |  |
+| [Business][64eee3c7bf] | Eminem | The Eminem Show | 2002 |  |
+| [Cleanin' Out My Closet][d9146aede6] | Eminem | The Eminem Show | 2002 |  |
+| [Square Dance][48b4fb560e] | Eminem | The Eminem Show | 2002 |  |
+| [The Kiss (Skit)][a3376d0c6a] | Eminem | The Eminem Show | 2002 |  |
+| [Soldier][6d17c45a4c] | Eminem | The Eminem Show | 2002 |  |
+| [Say Goodbye Hollywood][4705b56f47] | Eminem | The Eminem Show | 2002 |  |
+| [Drips (feat. Obie Trice)][c205aa0f7b] | Eminem | The Eminem Show | 2002 |  |
+| [Without Me][c552aab86a] | Eminem | The Eminem Show | 2002 |  |
+| [Paul Rosenberg (Skit)][395b96633d] | Eminem | The Eminem Show | 2002 |  |
+| [Sing for the Moment][114a52863a] | Eminem | The Eminem Show | 2002 |  |
+| [Superman (feat. Dina Rae)][756dbdfa1d] | Eminem | The Eminem Show | 2002 |  |
+| [Hailie's Song][73d3706aa4] | Eminem | The Eminem Show | 2002 |  |
+| [Steve Berman (Skit)][ff465d9b7c] | Eminem | The Eminem Show | 2002 |  |
+| [When the Music Stops (feat. D12)][4d3f084538] | Eminem | The Eminem Show | 2002 |  |
+| [Say What U Say (feat. Dr. Dre)][80109e8277] | Eminem | The Eminem Show | 2002 |  |
+| ['Till I Collapse (feat. Nate Dogg)][f397410893] | Eminem | The Eminem Show | 2002 |  |
+| [My Dad's Gone Crazy (feat. Hailie Jade)][f6266784a3] | Eminem | The Eminem Show | 2002 |  |
+| [Curtains Close (Skit)][5480630bb2] | Eminem | The Eminem Show | 2002 |  |
+| [Encore / Curtains Up][12b4c8e43d] | Eminem | Encore | 2004 |  |
+| [Evil Deeds][c77b5bdd36] | Eminem | Encore | 2004 |  |
+| [Never Enough (feat. 50 Cent & Nate Dogg)][d0dbf4f921] | Eminem | Encore | 2004 |  |
+| [Yellow Brick Road][4ae6789bc2] | Eminem | Encore | 2004 |  |
+| [Like Toy Soldiers][edcd61b64c] | Eminem | Encore | 2004 |  |
+| [Mosh][fcc871691a] | Eminem | Encore | 2004 |  |
+| [Puke][3cad55ebcb] | Eminem | Encore | 2004 |  |
+| [My 1st Single][a52bf419ae] | Eminem | Encore | 2004 |  |
+| [Paul (Skit)][cb56090e5d] | Eminem | Encore | 2004 |  |
+| [Rain Man][fcaf76c233] | Eminem | Encore | 2004 |  |
+| [Big Weenie][dd5dcaf3e5] | Eminem | Encore | 2004 |  |
+| [Em Calls Paul (Skit)][c2ad464da6] | Eminem | Encore | 2004 |  |
+| [Just Lose It][66735ee28e] | Eminem | Encore | 2004 |  |
+| [Ass Like That][bc1d42e862] | Eminem | Encore | 2004 |  |
+| [Spend Some Time (feat. Obie Trice, Stat Quo & 50 Cent)][8854d9189f] | Eminem | Encore | 2004 |  |
+| [Mockingbird][fa104c0cad] | Eminem | Encore | 2004 |  |
+| [Crazy In Love][63f9412d1d] | Eminem | Encore | 2004 |  |
+| [One Shot 2 Shot (feat. D12)][3a6412773e] | Eminem | Encore | 2004 |  |
+| [Final Thought (Skit)][44393aecc3] | Eminem | Encore | 2004 |  |
+| [Encore / Curtains Down (feat. Dr. Dre & 50 Cent)][7e01f2222d] | Eminem | Encore | 2004 |  |
+| [Dr. West (Skit)][403b2b0519] | Eminem | Relapse | 2009 |  |
+| [3 a.m.][5e1fcb6715] | Eminem | Relapse | 2009 |  |
+| [My Mom][351ff070ab] | Eminem | Relapse | 2009 |  |
+| [Insane][ffd47e49bf] | Eminem | Relapse | 2009 |  |
+| [Bagpipes from Baghdad][bcbf9ad972] | Eminem | Relapse | 2009 |  |
+| [Hello][f90c2de2f8] | Eminem | Relapse | 2009 |  |
+| [Tonya (Skit)][6df1a6f3c0] | Eminem | Relapse | 2009 |  |
+| [Same Song & Dance][16a655e598] | Eminem | Relapse | 2009 |  |
+| [We Made You][6af1abe6d7] | Eminem | Relapse | 2009 |  |
+| [Medicine Ball][43108b0eaa] | Eminem | Relapse | 2009 |  |
+| [Paul (Skit)][0e6ebe9774] | Eminem | Relapse | 2009 |  |
+| [Stay Wide Awake][e979aa1cc9] | Eminem | Relapse | 2009 |  |
+| [Old Time's Sake (feat. Dr. Dre)][d4bd4b17cd] | Eminem | Relapse | 2009 |  |
+| [Must Be the Ganja][cfa142ef8c] | Eminem | Relapse | 2009 |  |
+| [Mr. Mathers (Skit)][bb662b7c53] | Eminem | Relapse | 2009 |  |
+| [Déjà vu][bfafb3ad6e] | Eminem | Relapse | 2009 |  |
+| [Beautiful][9b665cec50] | Eminem | Relapse | 2009 |  |
+| [Crack a Bottle][80d4f345f8] | Eminem | Relapse | 2009 |  |
+| [Steve Berman (Skit)][ee277b4fd7] | Eminem | Relapse | 2009 |  |
+| [Underground/Ken Kaniff][e0a6f32973] | Eminem | Relapse | 2009 |  |
+| [Cold Wind Blows][c00125ff42] | Eminem | Recovery | 2010 |  |
+| [Talkin' 2 Myself (feat. Kobe)][6b42cebd71] | Eminem | Recovery | 2010 |  |
+| [On Fire][bc2139d9f9] | Eminem | Recovery | 2010 |  |
+| [Won't Back Down (feat. Pink)][e74a15df2a] | Eminem | Recovery | 2010 |  |
+| [W.T.P.][9720b2cdb1] | Eminem | Recovery | 2010 |  |
+| [Going Through Changes][4540c84cd7] | Eminem | Recovery | 2010 |  |
+| [Not Afraid][2f4981f5d3] | Eminem | Recovery | 2010 |  |
+| [Seduction][bc2d3cb4cf] | Eminem | Recovery | 2010 |  |
+| [No Love (feat. Lil Wayne)][d822d593e4] | Eminem | Recovery | 2010 |  |
+| [Space Bound][4f2eecc122] | Eminem | Recovery | 2010 |  |
+| [Cinderella Man][6516db2fe4] | Eminem | Recovery | 2010 |  |
+| [25 to Life][9cde178e4d] | Eminem | Recovery | 2010 |  |
+| [So Bad][78edea673a] | Eminem | Recovery | 2010 |  |
+| [Almost Famous][03265d42cb] | Eminem | Recovery | 2010 |  |
+| [Love the Way You Lie (feat. Rihanna)][4aaf406ae7] | Eminem | Recovery | 2010 |  |
+| [You're Never Over][6c7b11508d] | Eminem | Recovery | 2010 |  |
+| [Untitled][7f6f8f2ba2] | Eminem | Recovery | 2010 |  |
+| [Bad Guy][b9a99d35d7] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Parking Lot (skit)][f34784abf3] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Rhyme Or Reason][96412c83ac] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [So Much Better][3dccb5069b] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Survival][3c152e2ce4] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Legacy][80787efd75] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [A\*\*\*\*\*e (feat. Skylar Grey)][74ea1e591d] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Berzerk][a0e728efdb] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Rap God][3f93f1989e] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Brainless][918aa1ee07] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Stronger Than I Was][433c9a6987] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [The Monster (feat. Rihanna)][0aa2355fc6] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [So Far...][580640b90e] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Love Game (feat. Kendrick Lamar)][1a7a107410] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Headlights (feat. Nate Ruess)][2b0a5f699f] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Evil Twin][30dbd7c7a4] | Eminem | The Marshall Mathers LP 2 | 2013 |  |
+| [Walk On Water (feat. Beyoncé)][3eba03e8ed] | Eminem | Revival | 2017 |  |
+| [Believe][7117801a25] | Eminem | Revival | 2017 |  |
+| [Chloraseptic (feat. PHRESHER)][a0ee9cf6d3] | Eminem | Revival | 2017 |  |
+| [Untouchable][d604c254f0] | Eminem | Revival | 2017 |  |
+| [River (feat. Ed Sheeran)][af418b491c] | Eminem | Revival | 2017 |  |
+| [Remind Me (Intro)][82987a9496] | Eminem | Revival | 2017 |  |
+| [Remind Me][56a22fdf62] | Eminem | Revival | 2017 |  |
+| [Revival (Interlude)][1c093567f0] | Eminem | Revival | 2017 |  |
+| [Like Home (feat. Alicia Keys)][b6f34954ee] | Eminem | Revival | 2017 |  |
+| [Bad Husband (feat. X Ambassadors)][7d7d9e9919] | Eminem | Revival | 2017 |  |
+| [Tragic Endings (feat. Skylar Grey)][3766d3f9f7] | Eminem | Revival | 2017 |  |
+| [Framed][291f6fa1de] | Eminem | Revival | 2017 |  |
+| [Nowhere Fast (feat. Kehlani)][6d2915275a] | Eminem | Revival | 2017 |  |
+| [Heat][5ed943f10f] | Eminem | Revival | 2017 |  |
+| [Offended][0fa9c3a359] | Eminem | Revival | 2017 |  |
+| [Need Me (feat. P!nk)][c0443162b5] | Eminem | Revival | 2017 |  |
+| [In Your Head][c7b0d5ec31] | Eminem | Revival | 2017 |  |
+| [Castle][c88cd99344] | Eminem | Revival | 2017 |  |
+| [Arose][58d66bab1c] | Eminem | Revival | 2017 |  |
+| [The Ringer][a0c53484d4] | Eminem | Kamikaze | 2018 |  |
+| [Greatest][d4a52a6c7f] | Eminem | Kamikaze | 2018 |  |
+| [Lucky You (feat. Joyner Lucas)][2d85b13de5] | Eminem | Kamikaze | 2018 |  |
+| [Paul (Skit)][0bd142caed] | Paul Rosenberg | Kamikaze | 2018 |  |
+| [Normal][b19d1d8596] | Eminem | Kamikaze | 2018 |  |
+| [Em Calls Paul (Skit)][52c136c3ca] | Eminem | Kamikaze | 2018 |  |
+| [Stepping Stone][91bc5b4472] | Eminem | Kamikaze | 2018 |  |
+| [Not Alike (feat. Royce da 5'9")][9c97871375] | Eminem | Kamikaze | 2018 |  |
+| [Kamikaze][79e35f8843] | Eminem | Kamikaze | 2018 |  |
+| [Fall][bf099cbb5a] | Eminem | Kamikaze | 2018 |  |
+| [Nice Guy][255eb6af23] | Eminem | Kamikaze | 2018 |  |
+| [Good Guy (feat. Jessie Reyez)][6b0b8fa7a6] | Eminem | Kamikaze | 2018 |  |
+| [Venom (Music From The Motion Picture)][62abb2f254] | Eminem | Kamikaze | 2018 |  |
+| [Premonition (Intro)][926d660c23] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Unaccommodating (feat. Young M.A)][3ff24a616f] | Eminem | Music to Be Murdered By | 2020 |  |
+| [You Gon' Learn (feat. Royce da 5'9" & White Gold)][f303cf4e38] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Alfred (Interlude)][a5e2a8f449] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Those Kinda Nights (feat. Ed Sheeran)][1aa1a263d2] | Eminem | Music to Be Murdered By | 2020 |  |
+| [In Too Deep][541c5dc56e] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Godzilla (feat. Juice WRLD)][a1242bd4bb] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Darkness][f1b489536e] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Leaving Heaven (feat. Skylar Grey)][d49577d87c] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Yah Yah (feat. Royce da 5'9", Black Thought, Q-Tip & Denaun)][24b9ae2cf6] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Stepdad (Intro)][5974e46397] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Stepdad][d4cd3e13b1] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Marsh][02e75e5476] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Never Love Again][528ebf6836] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Little Engine][0a5ac35518] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Lock It Up (feat. Anderson .Paak)][fd2336b837] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Farewell][7dca747081] | Eminem | Music to Be Murdered By | 2020 |  |
+| [No Regrets (feat. Don Toliver)][82933172c4] | Eminem | Music to Be Murdered By | 2020 |  |
+| [I Will (feat. KXNG Crooked, Royce da 5'9" & Joell Ortiz)][21f1b8ba7b] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Alfred (Outro)][7779073c75] | Eminem | Music to Be Murdered By | 2020 |  |
+| [Renaissance][c4c50670a3] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Habits][7dd2e97fcb] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Trouble][62f564154f] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Brand New Dance][c3362c29a2] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Evil][f65ef0a98e] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [All You Got (skit)][4f4b6a357d] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Lucifer][5d214a9f5f] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Antichrist][b14ba203d3] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Fuel][5fa5db0e06] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Road Rage][89787beaa3] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Houdini][e8944a6b81] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Breaking News (skit)][113cf617c8] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Guilty Conscience 2][209c42bd49] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Head Honcho][3e83df8d7a] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Temporary][0331324560] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Bad One][132f53ac99] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Tobey][92e2e960b2] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Guess Who's Back (skit)][5cda224870] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
+| [Somebody Save Me][07b6cf878c] | Eminem | The Death of Slim Shady (Coup de Grâce) | 2024 |  |
 
 [0fc17ab62f]: https://music.apple.com/us/song/public-service-announcement/1440871449
 [0bcda82cfc]: https://music.apple.com/us/song/my-name-is/1445727247
@@ -381,7 +381,7 @@ Complete studio discography for Eminem, organized by album in chronological orde
 [a0c53484d4]: https://music.apple.com/us/song/the-ringer/1434770473
 [d4a52a6c7f]: https://music.apple.com/us/song/greatest/1434770506
 [2d85b13de5]: https://music.apple.com/us/song/lucky-you-feat-joyner-lucas/1434770508
-[0fb7c4c775]: https://music.apple.com/us/song/paul-skit/1434766849
+[0bd142caed]: https://music.apple.com/us/song/paul-skit/1434770509
 [b19d1d8596]: https://music.apple.com/us/song/normal/1434770510
 [52c136c3ca]: https://music.apple.com/us/song/em-calls-paul-skit/1434770511
 [91bc5b4472]: https://music.apple.com/us/song/stepping-stone/1434770512

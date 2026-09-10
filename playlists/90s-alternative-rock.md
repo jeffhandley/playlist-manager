@@ -27,7 +27,7 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 - No duplicate songs — if a song appears on a later re-recording, only the original is included
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | [Man in the Box][05e6399891] | Alice in Chains | Facelift | 1990 |  |
 | [Smells Like Teen Spirit][99b172d954] | Nirvana | Nevermind | 1991 |  |
 | [In Bloom][2ec909ff2c] | Nirvana | Nevermind | 1991 |  |
@@ -101,7 +101,6 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 | [Loser][3a42aa81e0] | Beck | Mellow Gold | 1994 |  |
 | [Plowed][d5edac2b7c] | Sponge | Rotting Piñata | 1994 |  |
 | [Molly (16 Candles Down the Drain)][6cb0df4974] | Sponge | Rotting Piñata | 1994 |  |
-| [How Soon Is Now?][10116107c2] | Love Spit Love | How Soon Is Now? - Single | 1994 |  |
 | [Hey Man Nice Shot][8bc337fa3e] | Filter | Short Bus | 1995 |  |
 | [This Is a Call][9f945e5845] | Foo Fighters | Foo Fighters | 1995 |  |
 | [I'll Stick Around][f3663c5f39] | Foo Fighters | Foo Fighters | 1995 |  |
@@ -187,7 +186,6 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 | [Counting Blue Cars][fd65afd42c] | Dishwalla | Pet Your Friends | 1996 |  |
 | [The Freshmen][ed68d2b242] | The Verve Pipe | Villains | 1996 |  |
 | [The Distance][66d987a02e] | Cake | Fashion Nugget | 1996 |  |
-| [6 Underground][9531dd53b5] | Sneaker Pimps | Becoming X | 1996 |  |
 | [Criminal][8409e776b6] | Fiona Apple | Tidal | 1996 |  |
 | [Santa Monica][4f074caf54] | Everclear | Sparkle and Fade | 1996 |  |
 | [Heartspark Dollarsign][6b331a7b4d] | Everclear | Sparkle and Fade | 1996 |  |
@@ -307,7 +305,6 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 [3a42aa81e0]: https://music.apple.com/us/song/loser/1440636710
 [d5edac2b7c]: https://music.apple.com/us/song/plowed/1443998773
 [6cb0df4974]: https://music.apple.com/us/song/molly-16-candles-down-the-drain-single-mix/1675381334
-[10116107c2]: https://music.apple.com/us/song/how-soon-is-now/203941925
 [8bc337fa3e]: https://music.apple.com/us/song/hey-man-nice-shot/1576793811
 [9f945e5845]: https://music.apple.com/us/song/this-is-a-call/1440897013
 [f3663c5f39]: https://music.apple.com/us/song/ill-stick-around/1440897015
@@ -393,7 +390,6 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 [fd65afd42c]: https://music.apple.com/us/song/counting-blue-cars/1443076977
 [ed68d2b242]: https://music.apple.com/us/song/the-freshmen/1440885791
 [66d987a02e]: https://music.apple.com/us/song/the-distance/254347756
-[9531dd53b5]: https://music.apple.com/us/song/6-underground/1479614890
 [8409e776b6]: https://music.apple.com/us/song/criminal/1440784064
 [4f074caf54]: https://music.apple.com/us/song/santa-monica/1440803615
 [6b331a7b4d]: https://music.apple.com/us/song/heartspark-dollarsign/1440803617

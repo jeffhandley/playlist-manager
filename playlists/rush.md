@@ -19,224 +19,224 @@ Albums: Rush (1974), Fly by Night (1975), Caress of Steel (1975), 2112 (1976), A
 - Do not shuffle — the chronological album order is intentional
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
-| [The Promise of a New Day][c371cfb8a0] | Rush | Rush | 1974 | |
-| [Rock House][2266bc2c40] | Rush | Rush | 1974 | |
-| [Rush Rush][ebdf140708] | Rush | Rush | 1974 | |
-| [Spellbound][97923f218e] | Rush | Rush | 1974 | |
-| [Vibeology][5819bbc515] | Rush | Rush | 1974 | |
-| [U][609c4113fa] | Rush | Rush | 1974 | |
-| [My Foolish Heart][e2543caf2f] | Rush | Rush | 1974 | |
-| [Blowing Kisses in the Wind][1eb9cbb748] | Rush | Rush | 1974 | |
-| [To You][4b27678154] | Rush | Rush | 1974 | |
-| [Alright Tonight][ce72325bda] | Rush | Rush | 1974 | |
-| [Will You Marry Me][0be9397fa5] | Rush | Rush | 1974 | |
-| [Anthem][90a5f56eed] | Rush | Fly by Night | 1975 | |
-| [Best I Can][b94b047250] | Rush | Fly by Night | 1975 | |
-| [Beneath, Between & Behind][7f7204c83b] | Rush | Fly by Night | 1975 | |
-| [By-Tor & The Snow Dog][e0cd4835d9] | Rush | Fly by Night | 1975 | |
-| [Fly By Night][9820b27bbe] | Rush | Fly by Night | 1975 | |
-| [Making Memories][1d52311ec2] | Rush | Fly by Night | 1975 | |
-| [Rivendell][45fb6bc3e5] | Rush | Fly by Night | 1975 | |
-| [In the End][97742ef79f] | Rush | Fly by Night | 1975 | |
-| [Bastille Day][8f447bedb9] | Rush | Caress of Steel | 1975 | |
-| [I Think I'm Going Bald][8e72655f57] | Rush | Caress of Steel | 1975 | |
-| [Lakeside Park][c0472e31b5] | Rush | Caress of Steel | 1975 | |
-| [The Necromancer][e2a21bd810] | Rush | Caress of Steel | 1975 | |
-| [The Fountain of Lamneth][aa8ea54627] | Rush | Caress of Steel | 1975 | |
-| [2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale (Remastered 2012)][61d45b1ea0] | Rush | 2112 | 1976 | |
-| [A Passage To Bangkok (Remastered 2012)][a1a3fb9ebe] | Rush | 2112 | 1976 | |
-| [The Twilight Zone (Remastered 2012)][df799f1578] | Rush | 2112 | 1976 | |
-| [Lessons (Remastered 2012)][2f241cd596] | Rush | 2112 | 1976 | |
-| [Tears (Remastered 2012)][0340c414b7] | Rush | 2112 | 1976 | |
-| [Something For Nothing (Remastered 2012)][bda2fad48f] | Rush | 2112 | 1976 | |
-| [A Farewell To Kings (Remastered 2013)][91387535c4] | Rush | A Farewell to Kings | 1977 | |
-| [Xanadu (Remastered 2013)][221851fb0b] | Rush | A Farewell to Kings | 1977 | |
-| [Closer To The Heart (Remastered 2013)][880ba43569] | Rush | A Farewell to Kings | 1977 | |
-| [Cinderella Man (Remastered 2013)][b06d603fd9] | Rush | A Farewell to Kings | 1977 | |
-| [Madrigal (Remastered 2013)][88c4a40023] | Rush | A Farewell to Kings | 1977 | |
-| [Cygnus X-1 Book I: The Voyage (Remastered 2013)][ec53a7d632] | Rush | A Farewell to Kings | 1977 | |
-| [Cygnus X-1 Book II: Hemispheres (Remastered 2013)][028f4699a2] | Rush | Hemispheres | 1978 | |
-| [Circumstances (Remastered 2013)][5ccd3c858b] | Rush | Hemispheres | 1978 | |
-| [The Trees (Remastered 2013)][105120686d] | Rush | Hemispheres | 1978 | |
-| [La Villa Strangiato (Remastered 2013)][d1a2220abd] | Rush | Hemispheres | 1978 | |
-| [The Spirit of Radio][942c2aaee4] | Rush | Permanent Waves | 1980 | |
-| [Freewill][63be7f98a2] | Rush | Permanent Waves | 1980 | |
-| [Jacob's Ladder][d1f1b37558] | Rush | Permanent Waves | 1980 | |
-| [Entre Nous][2b45ee4315] | Rush | Permanent Waves | 1980 | |
-| [Different Strings][f6588c336f] | Rush | Permanent Waves | 1980 | |
-| [Natural Science][f987734d79] | Rush | Permanent Waves | 1980 | |
-| [Tom Sawyer][cf2ef3521e] | Rush | Moving Pictures | 1981 | |
-| [Red Barchetta][e99920bd5f] | Rush | Moving Pictures | 1981 | |
-| [YYZ][896653aa26] | Rush | Moving Pictures | 1981 | |
-| [Limelight][09750bd7cb] | Rush | Moving Pictures | 1981 | |
-| [The Camera Eye][4c1499f7b2] | Rush | Moving Pictures | 1981 | |
-| [Witch Hunt][83b9a8a919] | Rush | Moving Pictures | 1981 | |
-| [Vital Signs][90b343ec9b] | Rush | Moving Pictures | 1981 | |
-| [2112 - Overture (Live In YYZ 1981)][9dfb5505bc] | Rush | Moving Pictures | 1981 | |
-| [2112 - The Temples of Syrinx (Live In YYZ 1981)][572b7f6ccf] | Rush | Moving Pictures | 1981 | |
-| [Freewill (Live In YYZ 1981)][d3d75535d9] | Rush | Moving Pictures | 1981 | |
-| [Limelight (Live In YYZ 1981)][f2c39cbb7b] | Rush | Moving Pictures | 1981 | |
-| [Cygnus X-1 Book II: Hemispheres - Prelude (Live In YYZ 1981)][4ac3437ae6] | Rush | Moving Pictures | 1981 | |
-| [Beneath, Between & Behind (Live In YYZ 1981)][0c6555aec8] | Rush | Moving Pictures | 1981 | |
-| [The Camera Eye (Live In YYZ 1981)][dacf248f11] | Rush | Moving Pictures | 1981 | |
-| [YYZ (Live In YYZ 1981)][0e62328e66] | Rush | Moving Pictures | 1981 | |
-| [Broon's Bane (Live In YYZ 1981)][5605d3f341] | Rush | Moving Pictures | 1981 | |
-| [The Trees (Live In YYZ 1981)][4fe2820db1] | Rush | Moving Pictures | 1981 | |
-| [Xanadu (Live In YYZ 1981)][da282cbc73] | Rush | Moving Pictures | 1981 | |
-| [The Spirit Of Radio (Live In YYZ 1981)][b4e56994dd] | Rush | Moving Pictures | 1981 | |
-| [Red Barchetta (Live In YYZ 1981)][f51d17cff6] | Rush | Moving Pictures | 1981 | |
-| [Closer To The Heart (Live In YYZ 1981)][a56ffca91d] | Rush | Moving Pictures | 1981 | |
-| [Tom Sawyer (Live In YYZ 1981)][9fe76d9b93] | Rush | Moving Pictures | 1981 | |
-| [Vital Signs (Live In YYZ 1981)][1111b39dbf] | Rush | Moving Pictures | 1981 | |
-| [Natural Science (Live In YYZ 1981)][a04ca8f0d5] | Rush | Moving Pictures | 1981 | |
-| [Working Man / Cygnus X-1 Book II: Hemispheres - Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 - Grand Finale (Live In YYZ 1981)][7d83a9c6f7] | Rush | Moving Pictures | 1981 | |
-| [La Villa Strangiato (Live In YYZ 1981)][5a5bae60ad] | Rush | Moving Pictures | 1981 | |
-| [Subdivisions][5c1984fc7c] | Rush | Signals | 1982 | |
-| [The Analog Kid][83802d3ff7] | Rush | Signals | 1982 | |
-| [Chemistry][5c02e00f1f] | Rush | Signals | 1982 | |
-| [Digital Man][d2524d71b7] | Rush | Signals | 1982 | |
-| [The Weapon (Part II of Fear)][fe8d0e3be3] | Rush | Signals | 1982 | |
-| [New World Man][8b0d4abc0f] | Rush | Signals | 1982 | |
-| [Losing It][995751615c] | Rush | Signals | 1982 | |
-| [Countdown][c42d682ec5] | Rush | Signals | 1982 | |
-| Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 | |
-| Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 | |
-| Intro (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| The Spirit Of Radio (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Subdivisions (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| The Body Electric (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| The Enemy Within (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| The Weapon (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Witch Hunt (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| New World Man (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Between The Wheels (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Red Barchetta (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Distant Early Warning (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Red Sector A (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Closer To The Heart (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| [Kid Gloves (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984)][400a759716] | Rush | Grace Under Pressure | 1984 | |
-| YYZ (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| 2112: The Temples Of Syrinx (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Tom Sawyer (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Red Lenses / Drum Solo (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Vital Signs (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| Finding My Way (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| In The Mood (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 | |
-| [The Big Money][f9ac880bb0] | Rush | Power Windows | 1985 | |
-| [Grand Designs][383102a524] | Rush | Power Windows | 1985 | |
-| [Manhattan Project][dc0652b40d] | Rush | Power Windows | 1985 | |
-| [Marathon][4981925c01] | Rush | Power Windows | 1985 | |
-| [Territories][7068319335] | Rush | Power Windows | 1985 | |
-| [Middletown Dreams][a9607f4f28] | Rush | Power Windows | 1985 | |
-| [Emotion Detector][70fc0cd3ce] | Rush | Power Windows | 1985 | |
-| [Mystic Rhythms][36f5fb451f] | Rush | Power Windows | 1985 | |
-| [Force Ten][474ec54206] | Rush | Hold Your Fire | 1987 | |
-| [Time Stand Still][3c93f7b921] | Rush | Hold Your Fire | 1987 | |
-| [Open Secrets][bbc9d3d9de] | Rush | Hold Your Fire | 1987 | |
-| [Second Nature][29b4cd0901] | Rush | Hold Your Fire | 1987 | |
-| [Prime Mover][b6cb208bb8] | Rush | Hold Your Fire | 1987 | |
-| [Lock and Key][5e702e030f] | Rush | Hold Your Fire | 1987 | |
-| [Mission][5ad8b67976] | Rush | Hold Your Fire | 1987 | |
-| [Turn the Page][d4273b2d59] | Rush | Hold Your Fire | 1987 | |
-| [Tai Shan][31e1278c8e] | Rush | Hold Your Fire | 1987 | |
-| [High Water][933ae7b6de] | Rush | Hold Your Fire | 1987 | |
-| [Show Don't Tell][9e65b95631] | Rush | Presto | 1989 | |
-| [Chain Lightning][9324bcbb39] | Rush | Presto | 1989 | |
-| [The Pass][23cd23044c] | Rush | Presto | 1989 | |
-| [War Paint][41df2c0ecf] | Rush | Presto | 1989 | |
-| [Scars][88d31ccfff] | Rush | Presto | 1989 | |
-| [Presto][995157b823] | Rush | Presto | 1989 | |
-| [Superconductor][b3b8222e09] | Rush | Presto | 1989 | |
-| [Anagram (For Mongo)][b698e447b4] | Rush | Presto | 1989 | |
-| [Red Tide][f80379bf77] | Rush | Presto | 1989 | |
-| [Hand Over Fist][0029296c12] | Rush | Presto | 1989 | |
-| [Available Light][d47d0d57ed] | Rush | Presto | 1989 | |
-| [Dreamline][fb966e0a8a] | Rush | Roll the Bones | 1991 | |
-| [Bravado][7c93273470] | Rush | Roll the Bones | 1991 | |
-| [Roll the Bones][9a3f3c224e] | Rush | Roll the Bones | 1991 | |
-| [Face Up][5373ccb078] | Rush | Roll the Bones | 1991 | |
-| [Where's My Thing? (Part IV "Gangster of Boats" Trilogy)][34360fc6a4] | Rush | Roll the Bones | 1991 | |
-| [The Big Wheel][e7fa54c6d5] | Rush | Roll the Bones | 1991 | |
-| [Heresy][d67a7d892c] | Rush | Roll the Bones | 1991 | |
-| [Ghost of a Chance][c0d7ad0d54] | Rush | Roll the Bones | 1991 | |
-| [Neurotica][f92586fafb] | Rush | Roll the Bones | 1991 | |
-| [You Bet Your Life][cc8cf0bcee] | Rush | Roll the Bones | 1991 | |
-| [Animate][07a5cb9520] | Rush | Counterparts | 1993 | |
-| [Stick It Out][41a3e061c9] | Rush | Counterparts | 1993 | |
-| [Cut to the Chase][108c2576b9] | Rush | Counterparts | 1993 | |
-| [Nobody's Hero][bc6d23f724] | Rush | Counterparts | 1993 | |
-| [Between Sun & Moon][f153af0519] | Rush | Counterparts | 1993 | |
-| [Alien Shore][bae6834d32] | Rush | Counterparts | 1993 | |
-| [The Speed of Love][01201d39f9] | Rush | Counterparts | 1993 | |
-| [Double Agent][0a9afb424c] | Rush | Counterparts | 1993 | |
-| [Leave That Thing Alone][8c84e17b9d] | Rush | Counterparts | 1993 | |
-| [Cold Fire][998c555cf0] | Rush | Counterparts | 1993 | |
-| [Everyday Glory][774676001f] | Rush | Counterparts | 1993 | |
-| [Test for Echo][6cf7d69b05] | Rush | Test for Echo | 1996 | |
-| [Driven][69cf315c18] | Rush | Test for Echo | 1996 | |
-| [Half the World][26d9c31b9d] | Rush | Test for Echo | 1996 | |
-| [The Color of Right][17e3b1ce2b] | Rush | Test for Echo | 1996 | |
-| [Time and Motion][0a4276843a] | Rush | Test for Echo | 1996 | |
-| [Totem][527af5a5ff] | Rush | Test for Echo | 1996 | |
-| [Dog Years][24a9eb70e3] | Rush | Test for Echo | 1996 | |
-| [Virtuality][f9a93dc975] | Rush | Test for Echo | 1996 | |
-| [Resist][fb047ca7ef] | Rush | Test for Echo | 1996 | |
-| [Limbo][20726998cc] | Rush | Test for Echo | 1996 | |
-| [Carve Away the Stone][de20ea39a5] | Rush | Test for Echo | 1996 | |
-| [One Little Victory][5f7781529c] | Rush | Vapor Trails | 2002 | |
-| [Ceiling Unlimited][bd7b43d2a7] | Rush | Vapor Trails | 2002 | |
-| [Ghost Rider][b0a5245966] | Rush | Vapor Trails | 2002 | |
-| [Peaceable Kingdom][71f8e219ed] | Rush | Vapor Trails | 2002 | |
-| [The Stars Look Down][ca94f8cb0c] | Rush | Vapor Trails | 2002 | |
-| [How It Is][702a516451] | Rush | Vapor Trails | 2002 | |
-| [Vapor Trail][e44f1789b3] | Rush | Vapor Trails | 2002 | |
-| [Secret Touch][a514cf56d1] | Rush | Vapor Trails | 2002 | |
-| [Earthshine][e593e48d8a] | Rush | Vapor Trails | 2002 | |
-| [Sweet Miracle][26fc8ec500] | Rush | Vapor Trails | 2002 | |
-| [Nocturne][be049b96ad] | Rush | Vapor Trails | 2002 | |
-| [Freeze (Part IV of Fear)][eccdabd52b] | Rush | Vapor Trails | 2002 | |
-| [Out of the Cradle][42dd7740f1] | Rush | Vapor Trails | 2002 | |
-| [Far Cry][143e0c99b1] | Rush | Snakes and Arrows | 2007 | |
-| [Armor and Sword][1f7e8c3025] | Rush | Snakes and Arrows | 2007 | |
-| [Workin' Them Angels][b68053366d] | Rush | Snakes and Arrows | 2007 | |
-| [The Larger Bowl][fedf1cdb46] | Rush | Snakes and Arrows | 2007 | |
-| [Spindrift][bab7c09444] | Rush | Snakes and Arrows | 2007 | |
-| [The Main Monkey Business][2945be30f4] | Rush | Snakes and Arrows | 2007 | |
-| [The Way the Wind Blows][80afa66857] | Rush | Snakes and Arrows | 2007 | |
-| [Hope][9216248f6c] | Rush | Snakes and Arrows | 2007 | |
-| [Faithless][f733c5ed38] | Rush | Snakes and Arrows | 2007 | |
-| [Bravest Face][607cd73c5a] | Rush | Snakes and Arrows | 2007 | |
-| [Good News First][87dcf52fcb] | Rush | Snakes and Arrows | 2007 | |
-| [Malignant Narcissism][8e0741520c] | Rush | Snakes and Arrows | 2007 | |
-| [We Hold On][ff2b67b061] | Rush | Snakes and Arrows | 2007 | |
-| Making of Snakes & Arrows | Rush | Snakes and Arrows | 2007 | |
-| [Caravan][b5cd321de7] | Rush | Clockwork Angels | 2012 | |
-| [BU2B][d089afd6ec] | Rush | Clockwork Angels | 2012 | |
-| [Clockwork Angels][3933886f1e] | Rush | Clockwork Angels | 2012 | |
-| [The Anarchist][b3ac0eec73] | Rush | Clockwork Angels | 2012 | |
-| [Carnies][8f5931f569] | Rush | Clockwork Angels | 2012 | |
-| [Halo Effect][f83b744190] | Rush | Clockwork Angels | 2012 | |
-| [Seven Cities of Gold][2fcc908994] | Rush | Clockwork Angels | 2012 | |
-| [The Wreckers][5c71833849] | Rush | Clockwork Angels | 2012 | |
-| [Headlong Flight][1a05c8e7d5] | Rush | Clockwork Angels | 2012 | |
-| [BU2B2][c8f8d5c5fd] | Rush | Clockwork Angels | 2012 | |
-| [Wish Them Well][47a3088af8] | Rush | Clockwork Angels | 2012 | |
-| [The Garden][59bc845270] | Rush | Clockwork Angels | 2012 | |
+|---|---|---|---|---|
+| [The Promise of a New Day][c371cfb8a0] | Rush | Rush | 1974 |  |
+| [Rock House][2266bc2c40] | Rush | Rush | 1974 |  |
+| [Rush Rush][ebdf140708] | Rush | Rush | 1974 |  |
+| [Spellbound][97923f218e] | Rush | Rush | 1974 |  |
+| [Vibeology][5819bbc515] | Rush | Rush | 1974 |  |
+| [U][609c4113fa] | Rush | Rush | 1974 |  |
+| [My Foolish Heart][e2543caf2f] | Rush | Rush | 1974 |  |
+| [Blowing Kisses in the Wind][1eb9cbb748] | Rush | Rush | 1974 |  |
+| [To You][4b27678154] | Rush | Rush | 1974 |  |
+| [Alright Tonight][ce72325bda] | Rush | Rush | 1974 |  |
+| [Will You Marry Me][0be9397fa5] | Rush | Rush | 1974 |  |
+| [Anthem][90a5f56eed] | Rush | Fly by Night | 1975 |  |
+| [Best I Can][b94b047250] | Rush | Fly by Night | 1975 |  |
+| [Beneath, Between & Behind][7f7204c83b] | Rush | Fly by Night | 1975 |  |
+| [By-Tor & The Snow Dog][e0cd4835d9] | Rush | Fly by Night | 1975 |  |
+| [Fly By Night][9820b27bbe] | Rush | Fly by Night | 1975 |  |
+| [Making Memories][1d52311ec2] | Rush | Fly by Night | 1975 |  |
+| [Rivendell][45fb6bc3e5] | Rush | Fly by Night | 1975 |  |
+| [In the End][97742ef79f] | Rush | Fly by Night | 1975 |  |
+| [Bastille Day][8f447bedb9] | Rush | Caress of Steel | 1975 |  |
+| [I Think I'm Going Bald][8e72655f57] | Rush | Caress of Steel | 1975 |  |
+| [Lakeside Park][c0472e31b5] | Rush | Caress of Steel | 1975 |  |
+| [The Necromancer][e2a21bd810] | Rush | Caress of Steel | 1975 |  |
+| [The Fountain of Lamneth][aa8ea54627] | Rush | Caress of Steel | 1975 |  |
+| [2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale (Remastered 2012)][61d45b1ea0] | Rush | 2112 | 1976 |  |
+| [A Passage To Bangkok (Remastered 2012)][a1a3fb9ebe] | Rush | 2112 | 1976 |  |
+| [The Twilight Zone (Remastered 2012)][df799f1578] | Rush | 2112 | 1976 |  |
+| [Lessons (Remastered 2012)][2f241cd596] | Rush | 2112 | 1976 |  |
+| [Tears (Remastered 2012)][0340c414b7] | Rush | 2112 | 1976 |  |
+| [Something For Nothing (Remastered 2012)][bda2fad48f] | Rush | 2112 | 1976 |  |
+| [A Farewell To Kings (Remastered 2013)][91387535c4] | Rush | A Farewell to Kings | 1977 |  |
+| [Xanadu (Remastered 2013)][221851fb0b] | Rush | A Farewell to Kings | 1977 |  |
+| [Closer To The Heart (Remastered 2013)][880ba43569] | Rush | A Farewell to Kings | 1977 |  |
+| [Cinderella Man (Remastered 2013)][b06d603fd9] | Rush | A Farewell to Kings | 1977 |  |
+| [Madrigal (Remastered 2013)][88c4a40023] | Rush | A Farewell to Kings | 1977 |  |
+| [Cygnus X-1 Book I: The Voyage (Remastered 2013)][ec53a7d632] | Rush | A Farewell to Kings | 1977 |  |
+| [Cygnus X-1 Book II: Hemispheres (Remastered 2013)][028f4699a2] | Rush | Hemispheres | 1978 |  |
+| [Circumstances (Remastered 2013)][5ccd3c858b] | Rush | Hemispheres | 1978 |  |
+| [The Trees (Remastered 2013)][105120686d] | Rush | Hemispheres | 1978 |  |
+| [La Villa Strangiato (Remastered 2013)][d1a2220abd] | Rush | Hemispheres | 1978 |  |
+| [The Spirit of Radio][942c2aaee4] | Rush | Permanent Waves | 1980 |  |
+| [Freewill][63be7f98a2] | Rush | Permanent Waves | 1980 |  |
+| [Jacob's Ladder][d1f1b37558] | Rush | Permanent Waves | 1980 |  |
+| [Entre Nous][2b45ee4315] | Rush | Permanent Waves | 1980 |  |
+| [Different Strings][f6588c336f] | Rush | Permanent Waves | 1980 |  |
+| [Natural Science][f987734d79] | Rush | Permanent Waves | 1980 |  |
+| [Tom Sawyer][cf2ef3521e] | Rush | Moving Pictures | 1981 |  |
+| [Red Barchetta][e99920bd5f] | Rush | Moving Pictures | 1981 |  |
+| [YYZ][896653aa26] | Rush | Moving Pictures | 1981 |  |
+| [Limelight][09750bd7cb] | Rush | Moving Pictures | 1981 |  |
+| [The Camera Eye][4c1499f7b2] | Rush | Moving Pictures | 1981 |  |
+| [Witch Hunt][83b9a8a919] | Rush | Moving Pictures | 1981 |  |
+| [Vital Signs][90b343ec9b] | Rush | Moving Pictures | 1981 |  |
+| [2112 - Overture (Live In YYZ 1981)][9dfb5505bc] | Rush | Moving Pictures | 1981 |  |
+| [2112 - The Temples of Syrinx (Live In YYZ 1981)][572b7f6ccf] | Rush | Moving Pictures | 1981 |  |
+| [Freewill (Live In YYZ 1981)][d3d75535d9] | Rush | Moving Pictures | 1981 |  |
+| [Limelight (Live In YYZ 1981)][f2c39cbb7b] | Rush | Moving Pictures | 1981 |  |
+| [Cygnus X-1 Book II: Hemispheres - Prelude (Live In YYZ 1981)][4ac3437ae6] | Rush | Moving Pictures | 1981 |  |
+| [Beneath, Between & Behind (Live In YYZ 1981)][0c6555aec8] | Rush | Moving Pictures | 1981 |  |
+| [The Camera Eye (Live In YYZ 1981)][dacf248f11] | Rush | Moving Pictures | 1981 |  |
+| [YYZ (Live In YYZ 1981)][0e62328e66] | Rush | Moving Pictures | 1981 |  |
+| [Broon's Bane (Live In YYZ 1981)][5605d3f341] | Rush | Moving Pictures | 1981 |  |
+| [The Trees (Live In YYZ 1981)][4fe2820db1] | Rush | Moving Pictures | 1981 |  |
+| [Xanadu (Live In YYZ 1981)][da282cbc73] | Rush | Moving Pictures | 1981 |  |
+| [The Spirit Of Radio (Live In YYZ 1981)][b4e56994dd] | Rush | Moving Pictures | 1981 |  |
+| [Red Barchetta (Live In YYZ 1981)][f51d17cff6] | Rush | Moving Pictures | 1981 |  |
+| [Closer To The Heart (Live In YYZ 1981)][a56ffca91d] | Rush | Moving Pictures | 1981 |  |
+| [Tom Sawyer (Live In YYZ 1981)][9fe76d9b93] | Rush | Moving Pictures | 1981 |  |
+| [Vital Signs (Live In YYZ 1981)][1111b39dbf] | Rush | Moving Pictures | 1981 |  |
+| [Natural Science (Live In YYZ 1981)][a04ca8f0d5] | Rush | Moving Pictures | 1981 |  |
+| [Working Man / Cygnus X-1 Book II: Hemispheres - Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 - Grand Finale (Live In YYZ 1981)][7d83a9c6f7] | Rush | Moving Pictures | 1981 |  |
+| [La Villa Strangiato (Live In YYZ 1981)][5a5bae60ad] | Rush | Moving Pictures | 1981 |  |
+| [Subdivisions][5c1984fc7c] | Rush | Signals | 1982 |  |
+| [The Analog Kid][83802d3ff7] | Rush | Signals | 1982 |  |
+| [Chemistry][5c02e00f1f] | Rush | Signals | 1982 |  |
+| [Digital Man][d2524d71b7] | Rush | Signals | 1982 |  |
+| [The Weapon (Part II of Fear)][fe8d0e3be3] | Rush | Signals | 1982 |  |
+| [New World Man][8b0d4abc0f] | Rush | Signals | 1982 |  |
+| [Losing It][995751615c] | Rush | Signals | 1982 |  |
+| [Countdown][c42d682ec5] | Rush | Signals | 1982 |  |
+| Distant Early Warning (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| Afterimage (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| Red Sector A (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| The Enemy Within (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| The Body Electric (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| Kid Gloves (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| Red Lenses (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| Between The Wheels (2026 Remaster) | Rush | Grace Under Pressure | 1984 |  |
+| Distant Early Warning (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| Afterimage (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| Red Sector A (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| The Enemy Within (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| The Body Electric (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| Kid Gloves (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| Red Lenses (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| Between The Wheels (2026 Terry Brown Mix) | Rush | Grace Under Pressure | 1984 |  |
+| Intro (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| The Spirit Of Radio (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Subdivisions (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| The Body Electric (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| The Enemy Within (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| The Weapon (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Witch Hunt (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| New World Man (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Between The Wheels (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Red Barchetta (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Distant Early Warning (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Red Sector A (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Closer To The Heart (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| [Kid Gloves (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984)][400a759716] | Rush | Grace Under Pressure | 1984 |  |
+| YYZ (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| 2112: The Temples Of Syrinx (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Tom Sawyer (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Red Lenses / Drum Solo (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Vital Signs (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| Finding My Way (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| In The Mood (Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984) | Rush | Grace Under Pressure | 1984 |  |
+| [The Big Money][f9ac880bb0] | Rush | Power Windows | 1985 |  |
+| [Grand Designs][383102a524] | Rush | Power Windows | 1985 |  |
+| [Manhattan Project][dc0652b40d] | Rush | Power Windows | 1985 |  |
+| [Marathon][4981925c01] | Rush | Power Windows | 1985 |  |
+| [Territories][7068319335] | Rush | Power Windows | 1985 |  |
+| [Middletown Dreams][a9607f4f28] | Rush | Power Windows | 1985 |  |
+| [Emotion Detector][70fc0cd3ce] | Rush | Power Windows | 1985 |  |
+| [Mystic Rhythms][36f5fb451f] | Rush | Power Windows | 1985 |  |
+| [Force Ten][474ec54206] | Rush | Hold Your Fire | 1987 |  |
+| [Time Stand Still][3c93f7b921] | Rush | Hold Your Fire | 1987 |  |
+| [Open Secrets][bbc9d3d9de] | Rush | Hold Your Fire | 1987 |  |
+| [Second Nature][29b4cd0901] | Rush | Hold Your Fire | 1987 |  |
+| [Prime Mover][b6cb208bb8] | Rush | Hold Your Fire | 1987 |  |
+| [Lock and Key][5e702e030f] | Rush | Hold Your Fire | 1987 |  |
+| [Mission][5ad8b67976] | Rush | Hold Your Fire | 1987 |  |
+| [Turn the Page][d4273b2d59] | Rush | Hold Your Fire | 1987 |  |
+| [Tai Shan][31e1278c8e] | Rush | Hold Your Fire | 1987 |  |
+| [High Water][933ae7b6de] | Rush | Hold Your Fire | 1987 |  |
+| [Show Don't Tell][9e65b95631] | Rush | Presto | 1989 |  |
+| [Chain Lightning][9324bcbb39] | Rush | Presto | 1989 |  |
+| [The Pass][23cd23044c] | Rush | Presto | 1989 |  |
+| [War Paint][41df2c0ecf] | Rush | Presto | 1989 |  |
+| [Scars][88d31ccfff] | Rush | Presto | 1989 |  |
+| [Presto][995157b823] | Rush | Presto | 1989 |  |
+| [Superconductor][b3b8222e09] | Rush | Presto | 1989 |  |
+| [Anagram (For Mongo)][b698e447b4] | Rush | Presto | 1989 |  |
+| [Red Tide][f80379bf77] | Rush | Presto | 1989 |  |
+| [Hand Over Fist][0029296c12] | Rush | Presto | 1989 |  |
+| [Available Light][d47d0d57ed] | Rush | Presto | 1989 |  |
+| [Dreamline][fb966e0a8a] | Rush | Roll the Bones | 1991 |  |
+| [Bravado][7c93273470] | Rush | Roll the Bones | 1991 |  |
+| [Roll the Bones][9a3f3c224e] | Rush | Roll the Bones | 1991 |  |
+| [Face Up][5373ccb078] | Rush | Roll the Bones | 1991 |  |
+| [Where's My Thing? (Part IV "Gangster of Boats" Trilogy)][34360fc6a4] | Rush | Roll the Bones | 1991 |  |
+| [The Big Wheel][e7fa54c6d5] | Rush | Roll the Bones | 1991 |  |
+| [Heresy][d67a7d892c] | Rush | Roll the Bones | 1991 |  |
+| [Ghost of a Chance][c0d7ad0d54] | Rush | Roll the Bones | 1991 |  |
+| [Neurotica][f92586fafb] | Rush | Roll the Bones | 1991 |  |
+| [You Bet Your Life][cc8cf0bcee] | Rush | Roll the Bones | 1991 |  |
+| [Animate][07a5cb9520] | Rush | Counterparts | 1993 |  |
+| [Stick It Out][41a3e061c9] | Rush | Counterparts | 1993 |  |
+| [Cut to the Chase][108c2576b9] | Rush | Counterparts | 1993 |  |
+| [Nobody's Hero][bc6d23f724] | Rush | Counterparts | 1993 |  |
+| [Between Sun & Moon][f153af0519] | Rush | Counterparts | 1993 |  |
+| [Alien Shore][bae6834d32] | Rush | Counterparts | 1993 |  |
+| [The Speed of Love][01201d39f9] | Rush | Counterparts | 1993 |  |
+| [Double Agent][0a9afb424c] | Rush | Counterparts | 1993 |  |
+| [Leave That Thing Alone][8c84e17b9d] | Rush | Counterparts | 1993 |  |
+| [Cold Fire][998c555cf0] | Rush | Counterparts | 1993 |  |
+| [Everyday Glory][774676001f] | Rush | Counterparts | 1993 |  |
+| [Test for Echo][6cf7d69b05] | Rush | Test for Echo | 1996 |  |
+| [Driven][69cf315c18] | Rush | Test for Echo | 1996 |  |
+| [Half the World][26d9c31b9d] | Rush | Test for Echo | 1996 |  |
+| [The Color of Right][17e3b1ce2b] | Rush | Test for Echo | 1996 |  |
+| [Time and Motion][0a4276843a] | Rush | Test for Echo | 1996 |  |
+| [Totem][527af5a5ff] | Rush | Test for Echo | 1996 |  |
+| [Dog Years][24a9eb70e3] | Rush | Test for Echo | 1996 |  |
+| [Virtuality][f9a93dc975] | Rush | Test for Echo | 1996 |  |
+| [Resist][fb047ca7ef] | Rush | Test for Echo | 1996 |  |
+| [Limbo][20726998cc] | Rush | Test for Echo | 1996 |  |
+| [Carve Away the Stone][de20ea39a5] | Rush | Test for Echo | 1996 |  |
+| [One Little Victory][5f7781529c] | Rush | Vapor Trails | 2002 |  |
+| [Ceiling Unlimited][bd7b43d2a7] | Rush | Vapor Trails | 2002 |  |
+| [Ghost Rider][b0a5245966] | Rush | Vapor Trails | 2002 |  |
+| [Peaceable Kingdom][71f8e219ed] | Rush | Vapor Trails | 2002 |  |
+| [The Stars Look Down][ca94f8cb0c] | Rush | Vapor Trails | 2002 |  |
+| [How It Is][702a516451] | Rush | Vapor Trails | 2002 |  |
+| [Vapor Trail][e44f1789b3] | Rush | Vapor Trails | 2002 |  |
+| [Secret Touch][a514cf56d1] | Rush | Vapor Trails | 2002 |  |
+| [Earthshine][e593e48d8a] | Rush | Vapor Trails | 2002 |  |
+| [Sweet Miracle][26fc8ec500] | Rush | Vapor Trails | 2002 |  |
+| [Nocturne][be049b96ad] | Rush | Vapor Trails | 2002 |  |
+| [Freeze (Part IV of Fear)][eccdabd52b] | Rush | Vapor Trails | 2002 |  |
+| [Out of the Cradle][42dd7740f1] | Rush | Vapor Trails | 2002 |  |
+| [Far Cry][143e0c99b1] | Rush | Snakes and Arrows | 2007 |  |
+| [Armor and Sword][1f7e8c3025] | Rush | Snakes and Arrows | 2007 |  |
+| [Workin' Them Angels][b68053366d] | Rush | Snakes and Arrows | 2007 |  |
+| [The Larger Bowl][fedf1cdb46] | Rush | Snakes and Arrows | 2007 |  |
+| [Spindrift][bab7c09444] | Rush | Snakes and Arrows | 2007 |  |
+| [The Main Monkey Business][2945be30f4] | Rush | Snakes and Arrows | 2007 |  |
+| [The Way the Wind Blows][80afa66857] | Rush | Snakes and Arrows | 2007 |  |
+| [Hope][9216248f6c] | Rush | Snakes and Arrows | 2007 |  |
+| [Faithless][f733c5ed38] | Rush | Snakes and Arrows | 2007 |  |
+| [Bravest Face][607cd73c5a] | Rush | Snakes and Arrows | 2007 |  |
+| [Good News First][87dcf52fcb] | Rush | Snakes and Arrows | 2007 |  |
+| [Malignant Narcissism][8e0741520c] | Rush | Snakes and Arrows | 2007 |  |
+| [We Hold On][ff2b67b061] | Rush | Snakes and Arrows | 2007 |  |
+| [Far Cry][143e0c99b1] | Rush | Snakes & Arrows | 2007 |  |
+| [Caravan][b5cd321de7] | Rush | Clockwork Angels | 2012 |  |
+| [BU2B][d089afd6ec] | Rush | Clockwork Angels | 2012 |  |
+| [Clockwork Angels][3933886f1e] | Rush | Clockwork Angels | 2012 |  |
+| [The Anarchist][b3ac0eec73] | Rush | Clockwork Angels | 2012 |  |
+| [Carnies][8f5931f569] | Rush | Clockwork Angels | 2012 |  |
+| [Halo Effect][f83b744190] | Rush | Clockwork Angels | 2012 |  |
+| [Seven Cities of Gold][2fcc908994] | Rush | Clockwork Angels | 2012 |  |
+| [The Wreckers][5c71833849] | Rush | Clockwork Angels | 2012 |  |
+| [Headlong Flight][1a05c8e7d5] | Rush | Clockwork Angels | 2012 |  |
+| [BU2B2][c8f8d5c5fd] | Rush | Clockwork Angels | 2012 |  |
+| [Wish Them Well][47a3088af8] | Rush | Clockwork Angels | 2012 |  |
+| [The Garden][59bc845270] | Rush | Clockwork Angels | 2012 |  |
 
 [c371cfb8a0]: https://music.apple.com/us/song/the-promise-of-a-new-day/723758776
 [2266bc2c40]: https://music.apple.com/us/song/rock-house/723758793
@@ -406,6 +406,7 @@ Albums: Rush (1974), Fly by Night (1975), Caress of Steel (1975), 2112 (1976), A
 [87dcf52fcb]: https://music.apple.com/us/song/good-news-first/646612958
 [8e0741520c]: https://music.apple.com/us/song/malignant-narcissism/646612959
 [ff2b67b061]: https://music.apple.com/us/song/we-hold-on/646612960
+[143e0c99b1]: https://music.apple.com/us/song/far-cry/646612907
 [b5cd321de7]: https://music.apple.com/us/song/caravan/522094036
 [d089afd6ec]: https://music.apple.com/us/song/bu2b/522094038
 [3933886f1e]: https://music.apple.com/us/song/clockwork-angels/522094039

@@ -19,7 +19,7 @@ The biggest hits of classic soul, Motown, and R&B — built around the laid-back
 - After reordering, keep all track rows numberless
 
 | Song | Artist | Album | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | [(Sittin' On) The Dock of the Bay][4862d32451] | Otis Redding | The Dock of the Bay | 1968 | The anchor — contemplative soul perfection |
 | [Try a Little Tenderness][1687ade5f1] | Otis Redding | Complete & Unbelievable: The Otis Redding Dictionary of Soul | 1966 |  |
 | [These Arms of Mine][e2e0725a50] | Otis Redding | Pain in My Heart | 1964 |  |
@@ -68,7 +68,6 @@ The biggest hits of classic soul, Motown, and R&B — built around the laid-back
 | [You Can't Hurry Love][352b80da4f] | The Supremes | The Supremes A' Go-Go | 1966 |  |
 | [Into the Mystic][3bf35632df] | Van Morrison | Moondance | 1970 |  |
 | [Smooth Operator][e5efcf1aa2] | Sade | Diamond Life | 1984 |  |
-| [River][9a117906f5] | Leon Bridges | Coming Home | 2015 |  |
 | [Always and Forever][248115116f] | Heatwave | Too Hot to Handle | 1977 |  |
 
 [4862d32451]: https://music.apple.com/us/song/sittin-on-the-dock-of-the-bay/1744297677
@@ -119,5 +118,4 @@ The biggest hits of classic soul, Motown, and R&B — built around the laid-back
 [352b80da4f]: https://music.apple.com/us/song/you-cant-hurry-love/1475818258
 [3bf35632df]: https://music.apple.com/us/song/into-the-mystic/712727466
 [e5efcf1aa2]: https://music.apple.com/us/song/smooth-operator/1524651263
-[9a117906f5]: https://music.apple.com/us/song/river/986903483
 [248115116f]: https://music.apple.com/us/song/always-and-forever/192659432
