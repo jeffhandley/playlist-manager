@@ -368,7 +368,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Beacon][4bf3d6e219] | Blessed Black | Seasons:, Vol. 3 - Single | 2026 | WEBN play history 2026; 1 sampled play |
 | [Manufactured Extinct][614ee134f2] | Cattle Decapitation | The Anthropocene Extinction | 2015 | WEBN play history 2026; 1 sampled play |
 | [Perfect Strangers][3c9ca3ed62] | Deep Purple | Perfect Strangers | 1984 | WEBN play history 2026; 1 sampled play |
-| [Just Got Lucky][2333655738] | Dokken | Tooth and Nail | 1984 | WEBN play history 2026; 1 sampled play |
 | [New Messiah][1b4f2a175f] | Fear Factory | The Industrialist | 2012 | WEBN play history 2026; 1 sampled play |
 | [Hunter’s Moon][7736a8c8c8] | Ghost | IMPERA | 2021 | WEBN play history 2026; 1 sampled play |
 | [It's So Easy][70d7a53b26] | Guns N' Roses | Appetite For Destruction | 1987 | WEBN play history 2026; 1 sampled play |
@@ -1030,7 +1029,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [4bf3d6e219]: https://music.apple.com/us/song/beacon/6764034396
 [614ee134f2]: https://music.apple.com/us/song/manufactured-extinct/995383352
 [3c9ca3ed62]: https://music.apple.com/us/song/perfect-strangers/1470534347
-[2333655738]: https://music.apple.com/us/song/just-got-lucky/1727790314
 [1b4f2a175f]: https://music.apple.com/us/song/new-messiah/950232299
 [7736a8c8c8]: https://music.apple.com/us/song/hunters-moon/1603122626
 [70d7a53b26]: https://music.apple.com/us/song/it-s-so-easy/1377813289
