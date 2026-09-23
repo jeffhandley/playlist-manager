@@ -245,6 +245,9 @@ The following individual songs should **never** be added to any playlist (unless
 - **"Glamour Boys"** by Living Colour
   - Reason: Removed from an Apple Music playlist
 
+- **"Just Got Lucky"** by Dokken
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):
