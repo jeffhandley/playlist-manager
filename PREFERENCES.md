@@ -248,6 +248,12 @@ The following individual songs should **never** be added to any playlist (unless
 - **"Just Got Lucky"** by Dokken
   - Reason: Removed from an Apple Music playlist
 
+- **"Dam That River"** by Alice in Chains
+  - Reason: Removed from an Apple Music playlist
+
+- **"Closer To the Edge"** by Thirty Seconds to Mars
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):

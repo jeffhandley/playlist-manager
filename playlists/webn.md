@@ -676,7 +676,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [MONEY][d64976a613] | The Warning | MONEY - Single | 2022 | popular catalog addition |
 | [Fell In Love With a Girl][83c2b8a566] | The White Stripes | White Blood Cells | 2001 | popular catalog addition |
 | [Icky Thump][2642eab970] | The White Stripes | Icky Thump | 2007 | popular catalog addition |
-| [Closer To the Edge][22cf656b4a] | Thirty Seconds to Mars | This Is War | 2009 | popular catalog addition |
 | [From Yesterday][40ba0e732e] | Thirty Seconds to Mars | A Beautiful Lie | 2005 | popular catalog addition |
 | [I Hate Everything About You][9c15299a70] | Three Days Grace | Three Days Grace (Expanded Edition) | 2003 | popular catalog addition |
 | [Riot][614adea5f4] | Three Days Grace | One-X (Deluxe Edition) | 2006 | popular catalog addition |
@@ -1337,7 +1336,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [d64976a613]: https://music.apple.com/us/song/money/1614722179
 [83c2b8a566]: https://music.apple.com/us/song/fell-in-love-with-a-girl/1533513365
 [2642eab970]: https://music.apple.com/us/song/icky-thump/1533513465
-[22cf656b4a]: https://music.apple.com/us/song/closer-to-the-edge/1440839706
 [40ba0e732e]: https://music.apple.com/us/song/from-yesterday/1440839345
 [9c15299a70]: https://music.apple.com/us/song/i-hate-everything-about-you/269975544
 [614adea5f4]: https://music.apple.com/us/song/riot/266222076
