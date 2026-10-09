@@ -70,7 +70,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Touch, Peel and Stand][5be82be993] | Days of the New | Days of the New | 1997 |  |
 | [Epic][77828ac1e7] | Faith No More | The Real Thing | 1989 |  |
 | [Drive][8c71adac9a] | Incubus | Make Yourself | 1999 |  |
-| [I Found Love (When I Found You)][ab6f911c1c] | Kenny Wayne Shepherd | Trouble Is... 25 | 1997 |  |
 | [Behind Blue Eyes][e99626d8cd] | Limp Bizkit | Results May Vary | 2003 |  |
 | [Free Bird][2db3d1dd7b] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
 | [For Whom the Bell Tolls][ed23041eb5] | Metallica | Ride the Lightning (Remastered) (2016 Remastered Version) | 1984 |  |
@@ -730,7 +729,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [5be82be993]: https://music.apple.com/us/song/touch-peel-and-stand/1423333503
 [77828ac1e7]: https://music.apple.com/us/song/epic/83385347
 [8c71adac9a]: https://music.apple.com/us/song/drive/187454421
-[ab6f911c1c]: https://music.apple.com/us/song/i-found-love-when-i-found-you/1639863181
 [e99626d8cd]: https://music.apple.com/us/song/behind-blue-eyes/1440874577
 [2db3d1dd7b]: https://music.apple.com/us/song/free-bird/1440838661
 [ed23041eb5]: https://music.apple.com/us/song/for-whom-the-bell-tolls/579149036
