@@ -257,6 +257,9 @@ The following individual songs should **never** be added to any playlist (unless
 - **"I Found Love (When I Found You)"** by Kenny Wayne Shepherd
   - Reason: Removed from an Apple Music playlist
 
+- **"I Write Sins Not Tragedies"** by Panic! At the Disco
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):

@@ -336,7 +336,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [I Am Machine][b41836f8b5] | Three Days Grace | Human | 2014 | WEBN play history 2022–2024; 2 sampled plays |
 | [November Rain][d70bad9018] | Guns N' Roses | Use Your Illusion I | 1991 | WEBN play history 2023–2024; 2 sampled plays |
 | [Too Far Gone?][8066c1b191] | Metallica | 72 Seasons | 2023 | archived WEBN top songs 2023; 2 snapshots |
-| [I Write Sins Not Tragedies][de3ec0ff23] | Panic! At the Disco | A Fever You Can't Sweat Out | 2005 | WEBN play history 2021–2023; 2 sampled plays |
 | [Beyond][3552874fdb] | Corey Taylor | CMF2 | 2023 | archived WEBN top songs 2023; 2 snapshots |
 | [Unstoppable][721241095b] | Disturbed | Divisive | 2022 | archived WEBN top songs 2023; 2 snapshots |
 | [Are You Gonna Be My Girl][47fdc03632] | Jet | Get Born (Deluxe Edition) | 2003 | WEBN play history 2020–2023; 2 sampled plays |
@@ -995,7 +994,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [b41836f8b5]: https://music.apple.com/us/song/i-am-machine/967339624
 [d70bad9018]: https://music.apple.com/us/song/november-rain/1440896193
 [8066c1b191]: https://music.apple.com/us/song/too-far-gone/1655432397
-[de3ec0ff23]: https://music.apple.com/us/song/i-write-sins-not-tragedies/80456409
 [3552874fdb]: https://music.apple.com/us/song/beyond/1689546756
 [721241095b]: https://music.apple.com/us/song/unstoppable/1646032789
 [47fdc03632]: https://music.apple.com/us/song/are-you-gonna-be-my-girl/1778048261
