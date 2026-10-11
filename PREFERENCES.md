@@ -260,6 +260,9 @@ The following individual songs should **never** be added to any playlist (unless
 - **"I Write Sins Not Tragedies"** by Panic! At the Disco
   - Reason: Removed from an Apple Music playlist
 
+- **"Dear Maria, Count Me In"** by All Time Low
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):

@@ -525,7 +525,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [These Days][9b1edb7865] | Alien Ant Farm | truANT | 2003 | popular catalog addition |
 | [Fight][ca5d27d1b6] | All Good Things | Battle Rock 2 | 2014 | popular catalog addition |
 | [The Comeback (feat. Craig Mabbitt of Escape the Fate)][b6d00f2d76] | All Good Things | The Comeback (feat. Craig Mabbitt of Escape the Fate) - EP | 2021 | popular catalog addition |
-| [Dear Maria, Count Me In][14886d6a07] | All Time Low | So Wrong, It's Right (Deluxe Version) | 2007 | popular catalog addition |
 | [Weightless (Rerecorded)][4362960b20] | All Time Low | The Forever Sessions, Vol. 1 (Rerecorded) | 2024 | popular catalog addition |
 | [Animals][914de1b579] | Architects | For Those That Wish to Exist | 2020 | popular catalog addition |
 | [Doomsday][e24a23a909] | Architects | Holy Hell | 2018 | popular catalog addition |
@@ -1183,7 +1182,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [9b1edb7865]: https://music.apple.com/us/song/these-days/1427759195
 [ca5d27d1b6]: https://music.apple.com/us/song/fight/1757916760
 [b6d00f2d76]: https://music.apple.com/us/song/the-comeback-feat-craig-mabbitt-of-escape-the-fate/1577939784
-[14886d6a07]: https://music.apple.com/us/song/dear-maria-count-me-in/502522511
 [4362960b20]: https://music.apple.com/us/song/weightless-rerecorded/1811919736
 [914de1b579]: https://music.apple.com/us/song/animals/1533388859
 [e24a23a909]: https://music.apple.com/us/song/doomsday/1485076238

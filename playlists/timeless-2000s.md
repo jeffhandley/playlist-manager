@@ -160,6 +160,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [So Sick][a23cdb88cb] | Ne-Yo | Feb | 2006 | Neo-R&B heartbreak debut |
 | [Crazy][97088c18fa] | Gnarls Barkley | Feb | 2006 | Soul-funk genre-bending earworm |
 | [Temperature][85b464102f] | Sean Paul | Mar | 2006 | Dancehall heat wave hit |
+| [I Write Sins Not Tragedies][defb7a2c5a] | Panic! At the Disco | Time Capsule the 00's | 2005 |  |
 | [Dani California][087944cb79] | Red Hot Chili Peppers | Apr | 2006 | Chili Peppers' rock radio staple |
 | [What You Know][27d1002253] | T.I. | Apr | 2006 | Atlanta trap anthem |
 | [Hips Don't Lie][e99241df29] | Shakira ft. Wyclef Jean | May | 2006 | World Cup dance anthem |
@@ -403,6 +404,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 [a23cdb88cb]: https://music.apple.com/us/song/so-sick/1440783502
 [97088c18fa]: https://music.apple.com/us/song/crazy/1741403966
 [85b464102f]: https://music.apple.com/us/song/temperature/261648942
+[defb7a2c5a]: https://music.apple.com/us/song/i-write-sins-not-tragedies/1672249098
 [087944cb79]: https://music.apple.com/us/song/dani-california/208036515
 [27d1002253]: https://music.apple.com/us/song/what-you-know/1258980494
 [e99241df29]: https://music.apple.com/us/song/hips-dont-lie-feat-wyclef-jean/1817217063
