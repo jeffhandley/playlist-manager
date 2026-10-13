@@ -263,6 +263,9 @@ The following individual songs should **never** be added to any playlist (unless
 - **"Dear Maria, Count Me In"** by All Time Low
   - Reason: Removed from an Apple Music playlist
 
+- **"Don't Tell Me You Love Me"** by Night Ranger
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):

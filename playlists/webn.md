@@ -382,7 +382,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Halo On Fire][b76edd020d] | Metallica | Hardwired…To Self-Destruct (Deluxe Edition) | 2016 | WEBN play history 2026; 1 sampled play |
 | [Helpless][6885cdb69d] | Metallica | Garage Inc. | 1987 | WEBN play history 2026; 1 sampled play |
 | [The Thing That Should Not Be][d182b784b7] | Metallica | Master of Puppets (Remastered) | 1986 | WEBN play history 2026; 1 sampled play |
-| [Don't Tell Me You Love Me][0a3b317ad4] | Night Ranger | Dawn Patrol | 1982 | WEBN play history 2026; 1 sampled play |
 | [The Great Southern Trendkill][fda014ae42] | Pantera | The Great Southern Trendkill (20th Anniversary Edition) | 1996 | WEBN play history 2026; 1 sampled play |
 | [Under Pressure (feat. David Bowie)][f40673d674] | Queen | Bohemian Rhapsody (The Original Soundtrack) | 1981 | WEBN play history 2026; 1 sampled play |
 | [Start Me Up][d9671c6e69] | The Rolling Stones | Tattoo You (Deluxe Edition) | 1981 | WEBN play history 2026; 1 sampled play |
@@ -1039,7 +1038,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [b76edd020d]: https://music.apple.com/us/song/halo-on-fire/1145498742
 [6885cdb69d]: https://music.apple.com/us/song/helpless/579370559
 [d182b784b7]: https://music.apple.com/us/song/the-thing-that-should-not-be/1275600555
-[0a3b317ad4]: https://music.apple.com/us/song/don-t-tell-me-you-love-me/1440767565
 [fda014ae42]: https://music.apple.com/us/song/the-great-southern-trendkill/1144142641
 [f40673d674]: https://music.apple.com/us/song/under-pressure-feat-david-bowie/1434899944
 [d9671c6e69]: https://music.apple.com/us/song/start-me-up/1584840350
