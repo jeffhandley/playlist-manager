@@ -3,7 +3,7 @@
 A curated journey through the decade that reshaped music as we know it. From the boy-band pop explosion and hip-hop's commercial dominance to the garage rock revival, emo's emotional uprising, and the birth of the blog-era indie scene, the 2000s were a crucible of creativity. R&B innovators pushed boundaries with futuristic production, Kanye West redefined what a rapper could be, and acts like The Strokes and The White Stripes proved rock wasn't dead. Meanwhile, Latin rhythms, dancehall beats, and early electronic anthems kept dance floors pulsing worldwide. Organized chronologically with 2–3 standout hits per month, spanning January 2000 through December 2009.
 
 | Song | Artist | Month | Year | Note |
-|------|--------|-------|------|------|
+|---|---|---|---|---|
 | | | | **2000** | |
 | [Smooth][16fb36ff40] | Santana ft. Rob Thomas | Jan | 2000 | Latin rock crossover sensation |
 | [What a Girl Wants][a68348d834] | Christina Aguilera | Jan | 2000 | Aguilera's teen pop peak |
@@ -160,7 +160,7 @@ A curated journey through the decade that reshaped music as we know it. From the
 | [So Sick][a23cdb88cb] | Ne-Yo | Feb | 2006 | Neo-R&B heartbreak debut |
 | [Crazy][97088c18fa] | Gnarls Barkley | Feb | 2006 | Soul-funk genre-bending earworm |
 | [Temperature][85b464102f] | Sean Paul | Mar | 2006 | Dancehall heat wave hit |
-| [I Write Sins Not Tragedies][defb7a2c5a] | Panic! At The Disco | Mar | 2006 | Theatrical emo-pop debut |
+| [I Write Sins Not Tragedies][defb7a2c5a] | Panic! At the Disco | Time Capsule the 00's | 2005 |  |
 | [Dani California][087944cb79] | Red Hot Chili Peppers | Apr | 2006 | Chili Peppers' rock radio staple |
 | [What You Know][27d1002253] | T.I. | Apr | 2006 | Atlanta trap anthem |
 | [Hips Don't Lie][e99241df29] | Shakira ft. Wyclef Jean | May | 2006 | World Cup dance anthem |

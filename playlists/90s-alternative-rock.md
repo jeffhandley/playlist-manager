@@ -54,7 +54,7 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 | [Release][f3646e97a3] | Pearl Jam | Ten | 1991 |  |
 | [Enter Sandman][7c924f0372] | Metallica | Metallica | 1991 |  |
 | [Them Bones][ca10889f61] | Alice in Chains | Dirt | 1992 |  |
-| [Dam That River][547d56c0e7] | Alice in Chains | Dirt | 1992 |  |
+| Addicted | Joe Black | King of the Underground | 2018 |  |
 | [Rooster][9829bc87e1] | Alice in Chains | Dirt | 1992 |  |
 | [Would?][81be661a13] | Alice in Chains | Dirt | 1992 |  |
 | [Killing in the Name][77a5d10883] | Rage Against the Machine | Rage Against the Machine | 1992 |  |
@@ -258,7 +258,6 @@ A comprehensive 90s alternative rock playlist spanning ~50 artists from the grun
 [f3646e97a3]: https://music.apple.com/us/song/release/425465392
 [7c924f0372]: https://music.apple.com/us/song/enter-sandman/574040075
 [ca10889f61]: https://music.apple.com/us/song/them-bones/157316531
-[547d56c0e7]: https://music.apple.com/us/song/dam-that-river/1440861546
 [9829bc87e1]: https://music.apple.com/us/song/rooster/157317003
 [81be661a13]: https://music.apple.com/us/song/would/157317248
 [77a5d10883]: https://music.apple.com/us/song/killing-in-the-name/578028952

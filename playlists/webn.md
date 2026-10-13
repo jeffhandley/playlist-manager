@@ -70,7 +70,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Touch, Peel and Stand][5be82be993] | Days of the New | Days of the New | 1997 |  |
 | [Epic][77828ac1e7] | Faith No More | The Real Thing | 1989 |  |
 | [Drive][8c71adac9a] | Incubus | Make Yourself | 1999 |  |
-| [I Found Love (When I Found You)][ab6f911c1c] | Kenny Wayne Shepherd | Trouble Is... 25 | 1997 |  |
 | [Behind Blue Eyes][e99626d8cd] | Limp Bizkit | Results May Vary | 2003 |  |
 | [Free Bird][2db3d1dd7b] | Lynyrd Skynyrd | Pronounced Leh-Nerd Skin-Nerd | 1973 |  |
 | [For Whom the Bell Tolls][ed23041eb5] | Metallica | Ride the Lightning (Remastered) (2016 Remastered Version) | 1984 |  |
@@ -337,7 +336,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [I Am Machine][b41836f8b5] | Three Days Grace | Human | 2014 | WEBN play history 2022–2024; 2 sampled plays |
 | [November Rain][d70bad9018] | Guns N' Roses | Use Your Illusion I | 1991 | WEBN play history 2023–2024; 2 sampled plays |
 | [Too Far Gone?][8066c1b191] | Metallica | 72 Seasons | 2023 | archived WEBN top songs 2023; 2 snapshots |
-| [I Write Sins Not Tragedies][de3ec0ff23] | Panic! At the Disco | A Fever You Can't Sweat Out | 2005 | WEBN play history 2021–2023; 2 sampled plays |
 | [Beyond][3552874fdb] | Corey Taylor | CMF2 | 2023 | archived WEBN top songs 2023; 2 snapshots |
 | [Unstoppable][721241095b] | Disturbed | Divisive | 2022 | archived WEBN top songs 2023; 2 snapshots |
 | [Are You Gonna Be My Girl][47fdc03632] | Jet | Get Born (Deluxe Edition) | 2003 | WEBN play history 2020–2023; 2 sampled plays |
@@ -384,7 +382,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [Halo On Fire][b76edd020d] | Metallica | Hardwired…To Self-Destruct (Deluxe Edition) | 2016 | WEBN play history 2026; 1 sampled play |
 | [Helpless][6885cdb69d] | Metallica | Garage Inc. | 1987 | WEBN play history 2026; 1 sampled play |
 | [The Thing That Should Not Be][d182b784b7] | Metallica | Master of Puppets (Remastered) | 1986 | WEBN play history 2026; 1 sampled play |
-| [Don't Tell Me You Love Me][0a3b317ad4] | Night Ranger | Dawn Patrol | 1982 | WEBN play history 2026; 1 sampled play |
 | [The Great Southern Trendkill][fda014ae42] | Pantera | The Great Southern Trendkill (20th Anniversary Edition) | 1996 | WEBN play history 2026; 1 sampled play |
 | [Under Pressure (feat. David Bowie)][f40673d674] | Queen | Bohemian Rhapsody (The Original Soundtrack) | 1981 | WEBN play history 2026; 1 sampled play |
 | [Start Me Up][d9671c6e69] | The Rolling Stones | Tattoo You (Deluxe Edition) | 1981 | WEBN play history 2026; 1 sampled play |
@@ -527,7 +524,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [These Days][9b1edb7865] | Alien Ant Farm | truANT | 2003 | popular catalog addition |
 | [Fight][ca5d27d1b6] | All Good Things | Battle Rock 2 | 2014 | popular catalog addition |
 | [The Comeback (feat. Craig Mabbitt of Escape the Fate)][b6d00f2d76] | All Good Things | The Comeback (feat. Craig Mabbitt of Escape the Fate) - EP | 2021 | popular catalog addition |
-| [Dear Maria, Count Me In][14886d6a07] | All Time Low | So Wrong, It's Right (Deluxe Version) | 2007 | popular catalog addition |
 | [Weightless (Rerecorded)][4362960b20] | All Time Low | The Forever Sessions, Vol. 1 (Rerecorded) | 2024 | popular catalog addition |
 | [Animals][914de1b579] | Architects | For Those That Wish to Exist | 2020 | popular catalog addition |
 | [Doomsday][e24a23a909] | Architects | Holy Hell | 2018 | popular catalog addition |
@@ -676,7 +672,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 | [MONEY][d64976a613] | The Warning | MONEY - Single | 2022 | popular catalog addition |
 | [Fell In Love With a Girl][83c2b8a566] | The White Stripes | White Blood Cells | 2001 | popular catalog addition |
 | [Icky Thump][2642eab970] | The White Stripes | Icky Thump | 2007 | popular catalog addition |
-| [Closer To the Edge][22cf656b4a] | Thirty Seconds to Mars | This Is War | 2009 | popular catalog addition |
 | [From Yesterday][40ba0e732e] | Thirty Seconds to Mars | A Beautiful Lie | 2005 | popular catalog addition |
 | [I Hate Everything About You][9c15299a70] | Three Days Grace | Three Days Grace (Expanded Edition) | 2003 | popular catalog addition |
 | [Riot][614adea5f4] | Three Days Grace | One-X (Deluxe Edition) | 2006 | popular catalog addition |
@@ -731,7 +726,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [5be82be993]: https://music.apple.com/us/song/touch-peel-and-stand/1423333503
 [77828ac1e7]: https://music.apple.com/us/song/epic/83385347
 [8c71adac9a]: https://music.apple.com/us/song/drive/187454421
-[ab6f911c1c]: https://music.apple.com/us/song/i-found-love-when-i-found-you/1639863181
 [e99626d8cd]: https://music.apple.com/us/song/behind-blue-eyes/1440874577
 [2db3d1dd7b]: https://music.apple.com/us/song/free-bird/1440838661
 [ed23041eb5]: https://music.apple.com/us/song/for-whom-the-bell-tolls/579149036
@@ -998,7 +992,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [b41836f8b5]: https://music.apple.com/us/song/i-am-machine/967339624
 [d70bad9018]: https://music.apple.com/us/song/november-rain/1440896193
 [8066c1b191]: https://music.apple.com/us/song/too-far-gone/1655432397
-[de3ec0ff23]: https://music.apple.com/us/song/i-write-sins-not-tragedies/80456409
 [3552874fdb]: https://music.apple.com/us/song/beyond/1689546756
 [721241095b]: https://music.apple.com/us/song/unstoppable/1646032789
 [47fdc03632]: https://music.apple.com/us/song/are-you-gonna-be-my-girl/1778048261
@@ -1045,7 +1038,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [b76edd020d]: https://music.apple.com/us/song/halo-on-fire/1145498742
 [6885cdb69d]: https://music.apple.com/us/song/helpless/579370559
 [d182b784b7]: https://music.apple.com/us/song/the-thing-that-should-not-be/1275600555
-[0a3b317ad4]: https://music.apple.com/us/song/don-t-tell-me-you-love-me/1440767565
 [fda014ae42]: https://music.apple.com/us/song/the-great-southern-trendkill/1144142641
 [f40673d674]: https://music.apple.com/us/song/under-pressure-feat-david-bowie/1434899944
 [d9671c6e69]: https://music.apple.com/us/song/start-me-up/1584840350
@@ -1188,7 +1180,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [9b1edb7865]: https://music.apple.com/us/song/these-days/1427759195
 [ca5d27d1b6]: https://music.apple.com/us/song/fight/1757916760
 [b6d00f2d76]: https://music.apple.com/us/song/the-comeback-feat-craig-mabbitt-of-escape-the-fate/1577939784
-[14886d6a07]: https://music.apple.com/us/song/dear-maria-count-me-in/502522511
 [4362960b20]: https://music.apple.com/us/song/weightless-rerecorded/1811919736
 [914de1b579]: https://music.apple.com/us/song/animals/1533388859
 [e24a23a909]: https://music.apple.com/us/song/doomsday/1485076238
@@ -1337,7 +1328,6 @@ Songs played on Cincinnati's 102.7 WEBN (https://webn.iheart.com/) — active/cl
 [d64976a613]: https://music.apple.com/us/song/money/1614722179
 [83c2b8a566]: https://music.apple.com/us/song/fell-in-love-with-a-girl/1533513365
 [2642eab970]: https://music.apple.com/us/song/icky-thump/1533513465
-[22cf656b4a]: https://music.apple.com/us/song/closer-to-the-edge/1440839706
 [40ba0e732e]: https://music.apple.com/us/song/from-yesterday/1440839345
 [9c15299a70]: https://music.apple.com/us/song/i-hate-everything-about-you/269975544
 [614adea5f4]: https://music.apple.com/us/song/riot/266222076

@@ -248,6 +248,24 @@ The following individual songs should **never** be added to any playlist (unless
 - **"Just Got Lucky"** by Dokken
   - Reason: Removed from an Apple Music playlist
 
+- **"Dam That River"** by Alice in Chains
+  - Reason: Removed from an Apple Music playlist
+
+- **"Closer To the Edge"** by Thirty Seconds to Mars
+  - Reason: Removed from an Apple Music playlist
+
+- **"I Found Love (When I Found You)"** by Kenny Wayne Shepherd
+  - Reason: Removed from an Apple Music playlist
+
+- **"I Write Sins Not Tragedies"** by Panic! At the Disco
+  - Reason: Removed from an Apple Music playlist
+
+- **"Dear Maria, Count Me In"** by All Time Low
+  - Reason: Removed from an Apple Music playlist
+
+- **"Don't Tell Me You Love Me"** by Night Ranger
+  - Reason: Removed from an Apple Music playlist
+
 ## Blocked Artists
 
 The following artists should **never** be added to any playlist (unless explicitly overridden):
