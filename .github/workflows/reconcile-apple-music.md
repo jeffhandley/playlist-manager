@@ -15,6 +15,7 @@ permissions:
 concurrency:
   group: reconcile-apple-music
   cancel-in-progress: false
+  job-discriminator: ${{ github.run_id }}
 engine: copilot
 strict: true
 timeout-minutes: 45
@@ -56,7 +57,7 @@ mcp-scripts:
     timeout: 120
 steps:
   - name: Set up Node.js
-    uses: actions/setup-node@v7
+    uses: actions/setup-node@v7.1.0
     with:
       node-version: "22"
       cache: npm

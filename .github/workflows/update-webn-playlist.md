@@ -23,7 +23,6 @@ tools:
   bash:
     - "git status"
     - "git diff:*"
-  web-fetch:
 mcp-scripts:
   fetch-webn-history:
     description: Fetch WEBN track plays from the previous 24 hours
@@ -73,7 +72,7 @@ mcp-scripts:
     timeout: 180
 steps:
   - name: Set up Node.js
-    uses: actions/setup-node@v7
+    uses: actions/setup-node@v7.1.0
     with:
       node-version: "22"
       cache: npm
