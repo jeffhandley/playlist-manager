@@ -70,6 +70,29 @@ mcp-scripts:
 
       return plays;
     timeout: 180
+  lookup-apple-music-song:
+    description: Search the US Apple Music catalog for a song and return verified song metadata
+    inputs:
+      title:
+        description: Song title to search for
+        required: true
+      artist:
+        description: Artist name to search for
+        required: true
+    run: |
+      set -euo pipefail
+      cd "$GITHUB_WORKSPACE"
+      helper_dir="$(mktemp -d "$RUNNER_TEMP/lookup-song.XXXXXX")"
+      helper_file="$helper_dir/lookup-song.mjs"
+      trap 'rm -f "$helper_file"; rmdir "$helper_dir"' EXIT
+      git show "${TRUSTED_WORKFLOW_SHA}:.github/skills/apple-music-api/lookup-song.mjs" > "$helper_file"
+      node "$helper_file" "$INPUT_TITLE" "$INPUT_ARTIST"
+    env:
+      TRUSTED_WORKFLOW_SHA: ${{ github.workflow_sha }}
+      APPLE_MUSIC_TEAM_ID: ${{ secrets.APPLE_MUSIC_TEAM_ID }}
+      APPLE_MUSIC_KEY_ID: ${{ secrets.APPLE_MUSIC_KEY_ID }}
+      APPLE_MUSIC_PRIVATE_KEY: ${{ secrets.APPLE_MUSIC_PRIVATE_KEY }}
+    timeout: 60
 steps:
   - name: Set up Node.js
     uses: actions/setup-node@v7.1.0
@@ -118,10 +141,10 @@ Follow these steps in order:
    - If no new songs remain, emit a noop summary and stop without creating or updating a pull request.
 
 4. **Find verified Apple Music metadata and permalinks.**
-   - For each remaining song, use web fetch to search Apple Music using its title and artist.
-   - Select the matching studio recording, preferring explicit over clean when both exist.
-   - Use only a verified canonical US song permalink in the form `https://music.apple.com/us/song/{slug}/{songId}`. Never guess or generate a URL.
-   - If no matching `/song/` permalink can be verified, skip the song and mention it in the summary.
+   - For each remaining song, call `lookup-apple-music-song` once with its title and artist.
+   - Select a result whose title and artist match the WEBN track, using the studio recording and preferring explicit over clean when both exist.
+   - Use only a URL and metadata returned by the tool. Its URLs come from Apple Music's catalog API and are restricted to canonical US `/song/` permalinks.
+   - If no matching result is returned, skip the song and mention it in the summary.
 
 5. **Update only the WEBN playlist.**
    - Read `playlists/webn.md` and its Playlist Instructions again before editing.
